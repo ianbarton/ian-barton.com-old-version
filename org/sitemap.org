@@ -1,0 +1,6 @@
+#+TITLE: Index for project org-ianbarton
+
+   + [[file:about.org][About Ian.]]
+   + mountaineering
+     + [[file:mountaineering/benighted_on_the_ben.org][Various Mountaineering Scribblings.]]
+     + [[file:mountaineering/index.org][Index for Mountaineering Pages.]]

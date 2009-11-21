@@ -1,0 +1,12 @@
+#+SETUPFILE: ~/.emacs-lisp/org-templates/level-1.org
+#+TITLE: Index for Mountaineering Pages.
+#+STARTUP: showall
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:overview ltoc:nil toc:t
+#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
+#+LINK_UP: index.html
+#+LINK_HOME: ../index.html
+
+[[file:climbing_diary.org][Old Climbing Diary Entries.]]
+
+[[file:mountaineering.org][Various Mountaineering Scribblings.]]
