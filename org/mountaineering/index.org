@@ -7,6 +7,5 @@
 #+LINK_UP: index.html
 #+LINK_HOME: ../index.html
 
-[[file:climbing_diary.org][Old Climbing Diary Entries.]]
+[[benighted_on_the_ben.html][Benighted on the Ben.]]
 
-[[file:mountaineering.org][Various Mountaineering Scribblings.]]

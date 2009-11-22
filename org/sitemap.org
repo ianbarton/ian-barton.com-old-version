@@ -3,4 +3,8 @@
    + [[file:about.org][About Ian.]]
    + mountaineering
      + [[file:mountaineering/benighted_on_the_ben.org][Various Mountaineering Scribblings.]]
+     + [[file:mountaineering/crowberry_left_fork.org][Various Mountaineering Scribblings.]]
+     + [[file:mountaineering/first_pinnacle_rib_tryfan.org][Various Mountaineering Scribblings.]]
      + [[file:mountaineering/index.org][Index for Mountaineering Pages.]]
+     + [[file:mountaineering/route_major.org][Various Mountaineering Scribblings.]]
+     + [[file:mountaineering/western_gully_black_ladders.org][Various Mountaineering Scribblings.]]

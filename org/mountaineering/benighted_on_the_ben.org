@@ -2,14 +2,13 @@
 #+STARTUP: hidestars
 #+INFOJS_OPT: view:info toc:t ltoc:nil
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Various Mountaineering Scribblings.
+#+TITLE: Benighted on the Ben.
 #+BEGIN_HTML
 ---
 layout: default
 title: Benighted on the Ben.
 ---
 #+END_HTML
-
 It was early January when six of us travelled up to
 Scotland in Mark’s Sherpa van. Arriving in Glencoe in the early
 hours we crept into the bunkhouse at the Kingshouse and collapsed
