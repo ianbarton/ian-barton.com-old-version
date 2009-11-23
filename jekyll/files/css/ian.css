@@ -10,7 +10,7 @@ html {
 #wrap {
   width:750px;
   margin:0 auto;
-  background:#99c;
+  background:#FFFFFF;
 }
 
 
@@ -31,7 +31,7 @@ html {
 #main {
    float:left;
    width:500px;
-   background:#9c9;
+   background:#FFFFFF;
    width:480px;
    padding:10px;
 
@@ -42,7 +42,7 @@ html {
    float:right;
    width:230px;
    padding:10px;
-   background:#99c;
+   background:#FFFFFF;
 
 }
 
@@ -82,4 +82,3 @@ h2 {
 * html #footer {
    height:1px;
 }
-
