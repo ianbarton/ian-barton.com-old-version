@@ -13,7 +13,11 @@ html, body {
 
 body {
   font-family: "georgia", serif;
+<<<<<<< HEAD:jekyll/files/css/screen.css
   font-size: 12pt;
+=======
+  font-size: 9pt;
+>>>>>>> 519a29e7b579f62d7958898a00306137d34f7c2f:jekyll/files/css/screen.css
   color: #333333;
 }
 
@@ -69,7 +73,11 @@ div#footer a {
 }
 
 div#content {
+<<<<<<< HEAD:jekyll/files/css/screen.css
   float: left;
+=======
+  float: right;
+>>>>>>> 519a29e7b579f62d7958898a00306137d34f7c2f:jekyll/files/css/screen.css
   width: 65%;
   margin: 20px;
   padding: 5px 5px 10px 10px;
