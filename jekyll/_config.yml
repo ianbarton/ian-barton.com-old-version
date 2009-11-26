@@ -1,5 +1,6 @@
 auto:        false
-permalink:   date
+destination: /var/www
+permalink:   pretty
 pygments:    true
 markdown:    maruku
 permalink:   date
