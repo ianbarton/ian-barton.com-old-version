@@ -16,8 +16,7 @@ Myth on various flavours of Linux elsewhere on the Internet. These
 pages are not a HowTo on installing MythTV, but contain hints and tips
 that have helped me fine tune my system.
 
-If you want to build Myth from svn see [[MythTV/CompilingFromSVN |
-'''Compiling MythTV from svn''']] .
+If you want to build Myth from svn see [[http://www.ian-barton.com/wiki/MythTV/CompilingFromSVN][compiling MythTV from svn]] .
 
 * Hauppauge Nova-T 500.
 This card contains twin DVB tuners. It's supported out of the box by
@@ -25,27 +24,24 @@ Feisty, but you may experience problems with usb disconnects causing
 kernel panics. If your box locks up periodically for no apparent
 reason this may be the cause. One solution is to disable the EIT
 program guide in Myth and use mythfilldatabase instead. It's also
-possible to install the latest
-[[http://www.mythtv.org/wiki/index.php/Hauppauge_WinTV_Nova-T_500_PCI |
-dvb]] drivers, which seem to have made a big difference for me.
+possible to install the latest [[http://www.mythtv.org/wiki/index.php/Hauppauge_WinTV_Nova-T_500_PCI dvb][drivers]] , which seem to have made a big
+difference for me.
 
-There is a good page about the card in the MythTV
-[[http://www.mythtv.org/wiki/index.php/Hauppauge_WinTV_Nova-T_500_PCI |
-wiki]] . One useful tip is to make sure that you turn on the on board
-amplifier:
+There is a good page about the card in the MythTV [[http://www.mythtv.org/wiki/index.php/Hauppauge_WinTV_Nova-T_500_PCI][wiki]] . One useful
+tip is to make sure that you turn on the on board amplifier:
 
-%code background-color=#f7f7f7 border='1px solid #cccccc'% [@
+{% highlight bash %}
 sudo vim /etc/modprobe.d/options
 Add the following to the end of the file: 
 options dvb-usb-dib0700 force_lna_activation=1 
-@]
+{% endhighlight %}
 
 * Using mythrename.pl.
 In the contribute scripts directory MyThTV contains a script called mythrename.pl, which will rename your recordings to a more human readable format. By default Myth creates file names of the format:
 
-%code background-color=#f7f7f7 border='1px solid #cccccc'% [@
+{% highlight bash %}
 [ChannelID]_[Year][Month][Hour][Min][Sec].mpg
-@]
+{% endhighlight %}
 
 If you want to copy your recordings somewhere else, it can be
 difficult to identify the correct file. Running mythrename.pl with no
@@ -57,9 +53,9 @@ example is mythtranscode. So what happens if you have run
 mythrename.pl and want to restore your file names to the default
 format? You can use mythrename.pl to restore the original format:
 
-%code background-color=#f7f7f7 border='1px solid #cccccc'% [@
+{% highlight perl %}
 mythrename.pl --format '%c_%Y%m%d%H%i%s' --live
-@]
+{% endhighlight %}
 
 Now you can use mythrename with the --link option to create symlinks
 with pretty file names to the original files.
@@ -80,15 +76,14 @@ and video rapidly get noticeably out of sync.
 One solution is to demux the mpg file using ProjectX and then
 re-multiplex the streams. However, this is quite labour intensive and
 time consuming. Luckily mythtranscode has an option that will fix
-errors in recorded mpg files. As a starting point I use the
-[[http://www.mythtv.org/wiki/index.php/Removing_Commercials | script]]
+errors in recorded mpg files. As a starting point I use the [[http://www.mythtv.org/wiki/index.php/Removing_Commercials][script]]
 from the MythTV wiki. I modified it as I don't want automatic
 commercial flagging.
 
 I have set this script up as a user job, so I can run it when
 required.
 
-%code background-color=#f7f7f7 border='1px solid #cccccc'% [@
+{% highlight bash %}
 #!/bin/sh
 VIDEODIR=$1
 FILENAME=$2
@@ -158,7 +153,7 @@ else
         rm /usr/video/$FILENAME.tmp
         exit $ERROR
 fi
-@]
+{% endhighlight %}
 
 * Encoding Video for an Archos 404.
 I recently bought an Archos multimedia player and I wanted an easy way
@@ -179,7 +174,7 @@ your hard drive will eventually fill up! If your hard disk crashes,
 having multiple backups won't help you, so you probably need another
 cron job to rsync your backups to another computer.
 
-%code background-color=#f7f7f7 border='1px solid #cccccc'% [@
+{% highlight bash %}
 #!/bin/bash
 # creates a backup of the mysql database running at /var/lib/mysql
 
@@ -194,7 +189,7 @@ mysqldump -u root -pyourpassword mythconverg > /home/mythtv/mysql_backup/mythcon
 # Create tgz file from the backup.
 # Filename is in mysql-ddmmyyy format.
 tar -zvcf /home/mythtv/backup/mysql-${DATESTAMP}.tgz /home/mythtv/mysql_backup/
-@]
+{% endhighlight %}
 
 * Problems Tuning Some Freeview Channels.
 Myth has been having problems tuning certain Freeview channels,
@@ -207,10 +202,11 @@ trouble this is how I fixed it.
 
 - Create a channels.conf file using scan (tzap). Make sure that you stop mythbackend first.
 
-%code background-color=#f7f7f7 border='1px solid #cccccc'% [@
+{% highlight bash %}
 scan -c /usr/share/doc/dvb-utils/examples/scan/dvb-t/uk-WinterHill > channels.conf
-@]
+{% endhighlight %}
 
 - Run mythtv-setup and delete all existing channels. Run the channel scanner with the option to use channels.conf '''and''' delete existing channels.
 
 Myth can now tune all the Freeview channels correctly.
+
