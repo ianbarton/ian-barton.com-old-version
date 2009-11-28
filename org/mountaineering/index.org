@@ -8,7 +8,7 @@
 #+LINK_HOME: ../index.html
 #+BEGIN_HTML
 ---
-layout: default
+layout: mountaineering
 title: Mountaineering.
 ---
 #+END_HTML
@@ -19,9 +19,9 @@ took me on holiday to Snowdonia. In the 1970′s and 80′s I was a very
 active climber and was fortunate to live in the Peak District with
 climbs on my doorstep. A move back to Cheshire and the arrival of
 three children have meant that I have been much less active in recent
-years. However, the children have started to take an interest in
-mountaineering and this summer (2006) we all went rock climbing on
-Tryfan.
+years. However, the children are growing up and have started to take
+an interest in mountaineering and we have done some good routes
+together.
 
 There are links to articles about our recent climbs and also some
 older writings from the 1980′s. Please note that I tend to write about
