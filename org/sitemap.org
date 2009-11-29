@@ -1,10 +1,24 @@
 #+TITLE: Index for project org-ianbarton
 
+   + _posts
+     + [[file:_posts/2009-11-26-adsl-disconnection-problems.org][!ADSL Disconnection Problems.]]
+     + [[file:_posts/2009-11-26-proporta-gadget-bag.org][Index for Mountaineering Pages.]]
    + [[file:about.org][About Ian.]]
+   + books
+     + [[file:books/bb.org][Various Mountaineering Scribblings.]]
+     + [[file:books/gamekeepers_notebook.org][A Gamekeeper’s Notebook.]]
+     + [[file:books/index.org][Various Mountaineering Scribblings.]]
+     + [[file:books/natural_history_books.org][I thought I would mention a some of the bird and plant identification books that I use all the time. There are many books on the market and each has its own pluses and minuses. In my opinion the books I describe should be useful to beginners and experts alike.]]
    + [[file:contact.org][Contact.]]
+   + cycling
+     + [[file:cycling/index.org][Index for Cycling Pages.]]
    + [[file:index.org][Various Mountaineering Scribblings.]]
    + linux
+     + [[file:linux/asus_pundit_bios.org][MythTV.]]
+     + [[file:linux/duplicity.org][Linux.]]
      + [[file:linux/index.org][Linux.]]
+     + [[file:linux/listen_again.org][BBC Listen Again.]]
+     + [[file:linux/sheevaplug.org][Sheevaplug.]]
    + mountaineering
      + [[file:mountaineering/a_walk_in_the_berwyns.org][Linux.]]
      + [[file:mountaineering/benighted_on_the_ben.org][Benighted on the Ben.]]
