@@ -1,0 +1,19 @@
+#+TITLE: Cycling Around Lake Vyrnwy.
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
+#+BEGIN_HTML
+---
+layout: mountaineering
+title: Skiddaw.
+---
+#+END_HTML
+
+
+#+BEGIN_HTML
+<img src ="/images/skiddaw.jpg"
+"alt"="John and Ella on Skiddaw" align ="left" width="300"
+height="250" title="John and Ella on Skiddaw" class="img"</img>
+A paragraph with an image. The align attribute of the image is set to "left". The image will float to the left of this text.
+</p>
+#+END_HTML
