@@ -162,4 +162,31 @@ h2 {
 }
 
 
+div.photofloatr {
+    float: right;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+div.photofloatr p {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
+
+div.photofloatl {
+    float: left;
+    border: thin silver solid;
+    margin: 0.5em;
+    padding: 0.5em;
+}
+
+div.photofloatl p {
+  text-align: center;
+  font-style: italic;
+  font-size: smaller;
+  text-indent: 0;
+}
 
