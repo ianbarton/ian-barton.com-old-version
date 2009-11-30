@@ -5,7 +5,7 @@
 #+TITLE: Benighted on the Ben.
 #+BEGIN_HTML
 ---
-layout: default
+layout: mountaineering
 title: Benighted on the Ben.
 ---
 #+END_HTML

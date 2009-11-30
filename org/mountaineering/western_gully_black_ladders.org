@@ -5,7 +5,7 @@
 #+TITLE: Western Gully Black Ladders.
 #+BEGIN_HTML
 ---
-layout: default
+layout: mountaineering
 title: Western Gully, Black Ladders.
 ---
 #+END_HTML

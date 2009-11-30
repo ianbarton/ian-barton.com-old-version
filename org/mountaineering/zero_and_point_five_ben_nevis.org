@@ -4,7 +4,7 @@
 #+TITLE: Linux.
 #+BEGIN_HTML
 --- 
-layout: default 
+layout: mountaineering
 title: Zero and Point Five Gullies Ben Nevis.
 --- 
 #+END_HTML

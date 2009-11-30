@@ -4,7 +4,7 @@
 #+TITLE: Snells Field Chamonix.
 #+BEGIN_HTML
 --- 
-layout: default 
+layout: mountaineering
 title: Snells Field Chamonix.
 --- 
 #+END_HTML

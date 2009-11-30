@@ -4,7 +4,7 @@
 #+TITLE: Memorable Cafes and Pubs.
 #+BEGIN_HTML
 --- 
-layout: default 
+layout: mountaineering
 title: Memorable Cafes and Pubs.
 --- 
 #+END_HTML

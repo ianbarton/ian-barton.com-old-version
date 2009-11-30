@@ -5,7 +5,7 @@
 #+TITLE: Various Mountaineering Scribblings.
 #+BEGIN_HTML
 ---
-layout: default
+layout: mountaineering
 title: Route Major, Mont Blanc.
 ---
 #+END_HTML

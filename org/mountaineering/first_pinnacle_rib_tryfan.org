@@ -5,7 +5,7 @@
 #+TITLE: First Pinnacle Rib.
 #+BEGIN_HTML
 ---
-layout: default
+layout: mountaineering
 title: First Pinnacle Rib Tryfan.
 ---
 #+END_HTML

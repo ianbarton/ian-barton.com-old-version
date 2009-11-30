@@ -5,7 +5,7 @@
 #+TITLE: Crowberry Left Fork.
 #+BEGIN_HTML
 ---
-layout: default
+layout: mountaineering
 title: Left Fork of Crowberry Gully.
 ---
 #+END_HTML
