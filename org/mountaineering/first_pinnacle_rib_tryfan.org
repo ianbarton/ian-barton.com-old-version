@@ -9,6 +9,16 @@ layout: mountaineering
 title: First Pinnacle Rib Tryfan.
 ---
 #+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><img src="/images/img_5602.jpg" width="300"
+     alt="Base Camp"></p>
+  <p>Base Camp at Gwern y gof Uchaf</p>
+</div>
+#+END_HTML
+
+
 After the wettest June and July that anyone can remember the sun finally
 came out in the last few days of July. I had promised John and Ella that we
 could camp go climbing in North Wales. We didn't set off from home until
@@ -77,6 +87,14 @@ work on. Fortunately, there is a nice finger jamming crack in the back of the
 groove and a few stiff pulls with slithering feet brought better holds in
 reach.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><img src="/images/IMG_5631.JPG" width="300"
+     alt="Final pitch"></p>
+  <p>Ella on the final pitch</p>
+</div>
+#+END_HTML
+
 The final pitch is superb. A long airy rib with big holds just where you need
 them. If you haven't had enough, you can finish up Thompson's Chimney to the
 summit. This isn't anything like as horrible as it looks. However, we
@@ -87,6 +105,14 @@ the summit.
 We descended to Bwylch Tryfan and then straight down a horrible scree slope
 to the Cwm. By now my feet were really painful and I hobbled back down to
 the camp site, while John and Ella strode off in front.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><img src="/images/IMG_5639.JPG" width="300"
+     alt="Summmit of Tryfan"></p>
+  <p>Summit next to Adam and Eve</p>
+</div>
+#+END_HTML
 
 We chucked everything in the back of the truck and went back to the
 Bryn Tyrch before driving home. Just to prove that my trainers were
