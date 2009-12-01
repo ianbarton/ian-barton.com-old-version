@@ -1,11 +1,6 @@
-#+SETUPFILE: ~/.emacs-lisp/org-templates/level-1.org
-#+TITLE: Index for Mountaineering Pages.
 #+STARTUP: showall indent
 #+STARTUP: hidestars
-#+INFOJS_OPT: view:overview ltoc:nil toc:t
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
-#+LINK_UP: index.html
-#+LINK_HOME: ../index.html
 #+BEGIN_HTML
 ---
 layout: post
@@ -14,7 +9,7 @@ title: Proporta Gadget Bag.
 #+END_HTML
 
 
-!Proporta Gadget Bag.
+* Proporta Gadget Bag.
 The bag that comes with the Asus eee is fine for carrying the
 computer, but doesn't have any space for the charger or other bits and
 pieces that you might want to carry about.
@@ -25,14 +20,14 @@ large if I just wanted to carry the Asus eee and a few other bits and
 pieces. What I was looking for was a bag that would fit the following
 criteria:
 
-* Hold my Asus eee.
-* Padded to help prevent accidental damage.
-* Had space for an iPod, usb memory stick and things like notebook and pens.
-* Hard wearing.
-* Mustn't be too big, or too expensive!
+- Hold my Asus eee.
+- Padded to help prevent accidental damage.
+- Had space for an iPod, usb memory stick and things like notebook and pens.
+- Hard wearing.
+- Mustn't be too big, or too expensive!
 
-Eventually I found the
-[[Proporta Gadget Bag -> http://www.proporta.com/F02/PPF02P05.php?t_id=2505&t_mode=des]] which seemed to fit my requirements exactly. The case is
+Eventually I found the [[http://www.proporta.com/F02/PPF02P05.php%3Ft_id%3D2505&t_mode%3Ddes%5D%5D][Proporta Gadget Bag]]
+ which seemed to fit my requirements exactly. The case is
 made out of some sort of ballistic nylon material and has three
 compartments. The main compartment is just the right size for the Asus
 eee and has a separate removable pocket which will hold extras like memory
