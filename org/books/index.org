@@ -5,7 +5,7 @@
 #+TITLE: Various Mountaineering Scribblings.
 #+BEGIN_HTML
 ---
-layout: default
+layout: books
 title: Books.
 ---
 #+END_HTML

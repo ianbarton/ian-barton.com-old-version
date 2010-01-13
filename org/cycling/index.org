@@ -10,6 +10,7 @@
 ---
 layout: cycling
 title: Cycling.
+excerpt: Page about cycling.
 ---
 #+END_HTML
 Like most people I learnt to cycle when I was a child. I can still

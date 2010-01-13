@@ -4,7 +4,7 @@
 #+TITLE: Linux.
 #+BEGIN_HTML
 --- 
-layout: default 
+layout: linux 
 title: Linux.
 --- 
 #+END_HTML

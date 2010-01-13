@@ -25,21 +25,20 @@ my wiki, even though all edits required authorization. In fact the
 bots were using up almost all the RAM on my Xen virtual web server and
 I got tired of adding the bot ip addresses to my hosts.deny.
 
-#+BEGIN_HTML
+It's going to take a while to get this site working properly. If you
+find any broken links, or missing pages, please let me know.
 
+#+BEGIN_HTML
+<ul class="posts">
 {% for post in site.posts limit: 5 %}
   <div class="post_info">
-    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
-    <p>Created on {{ post.date | date:"%Y-%m-%d" }}; Tags: {{ post.tags | array_to_sentence_string }}.</p>
-  </div>
+    <li><a href="{{ post.url }}">{{ post.title }}</a> <span>({{ post.date | date:"%Y-%m-%d" }})</span></li>
+    </br> <em>{{ post.excerpt }} </em>
+    </div>
+  {% endfor %}
+</ul>
 
-  <div class="post">
-    <hr />
-    {{ post.content }}
-  </div>
 
-  <br />
-{% endfor %}
 
 {% if site.posts.size > 5 %}
   <h4>Older Posts</h4>
@@ -49,4 +48,5 @@ I got tired of adding the bot ip addresses to my hosts.deny.
   {% endfor %}
   </ul>
 {% endif %}
+
 #+END_HTML

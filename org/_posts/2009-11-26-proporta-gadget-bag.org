@@ -3,8 +3,11 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+BEGIN_HTML
 ---
+---
 layout: post
 title: Proporta Gadget Bag.
+tags: [gadgets, linux, test]
+excerpt: A review of the Proporta Gadget Bag.
 ---
 #+END_HTML
 

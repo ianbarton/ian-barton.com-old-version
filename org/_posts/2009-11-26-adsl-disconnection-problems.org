@@ -2,9 +2,12 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+BEGIN_HTML
+'---
 ---
 layout: post
-title: Proporta Gadget Bag.
+title: ADSL Connection Problems.
+tags: [gadgets, linux, test]
+excerpt: Problems with the Texas Instruments AR7 chip.
 ---
 #+END_HTML
 
@@ -31,7 +34,20 @@ problems. BT's engineers use ADSL modems with a different chipset,
 which doesn't seem to have this problem, so when they test your line
 they can't find any thing wrong.
 
-So I have decided to get another router. Unfortunately, most router spec. sheets don't tell you what chipset they are using. However, I have found out that  Thompson Speedtouch ADSL modems (as used by BT) use a different chipset. My problem is I need a fairly specialized type of router. I have a block of fixed IP addresses from [[http://www.wizards.co.uk | Wizards]], which I can map to specific computers on my network. This means that I can then access these computers from anywhere that there is an Internet connection. In order for this to be secure these connections need to pass through the router's firewall. This require a feature called multi NAT, which isn't standard on most routers. After some research I found the Thomson SpeedTouch 780WL Wireless ADSL 2/2+ VoIP Router from [[http://www.broadbandbuyer.co.uk/Shop/MFR/ShopDetail.asp?ProductID=3784 | BroadbandBuyer]] , which supports multi NAT. It also has several VOIP features, which means I'll be able to replace my Sipura VOIP box.
+So I have decided to get another router. Unfortunately, most router
+spec. sheets don't tell you what chipset they are using. However, I
+have found out that Thompson Speedtouch ADSL modems (as used by BT)
+use a different chipset. My problem is I need a fairly specialized
+type of router. I have a block of fixed IP addresses from
+[[http://www.wizards.co.uk | Wizards]], which I can map to specific
+computers on my network. This means that I can then access these
+computers from anywhere that there is an Internet connection. In order
+for this to be secure these connections need to pass through the
+router's firewall. This require a feature called multi NAT, which
+isn't standard on most routers. After some research I found the
+Thomson SpeedTouch 780WL Wireless ADSL 2/2+ VoIP Router from [[http://www.broadbandbuyer.co.uk/Shop/MFR/ShopDetail.asp%3FProductID%3D3784][Broadband
+Buyer]] , which supports multi NAT. It also has several VOIP features,
+which means I'll be able to replace my Sipura VOIP box.
 
 You might wonder why I would want to access my computers from the Internet, so here are a few reasons:
 

@@ -4,7 +4,7 @@
 #+TITLE: A Gamekeeper’s Notebook.
 #+BEGIN_HTML
 ---
-layout: default
+layout: books
 title: A Gamekeeper’s Notebook
 ---
 #+END_HTML

@@ -29,6 +29,7 @@ climbs where things go wrong, we don’t always have epics!
 
 * Articles.
 
+- [[file:first_pinnacle_rib_tryfan.org][First Pinaccle Rib Tryfan]] How not to go climbing with young children.
 - [[./route_major.html][Route Major.]] We get lost on the famous route on Mont Blanc's southern side.
 - [[file:a_walk_in_the_berwyns.org][A Walk in the Berwyns]]  Just to show I don't always get lost.
 - [[file:benighted_on_the_ben.][Benighted on the Ben]] A Winter ascent of Glover's Chimney almost leads to bed & breakfast
@@ -36,10 +37,9 @@ climbs where things go wrong, we don’t always have epics!
 - [[file:castell_helen_gogarth.org][Castell Helen Gogarth]]  Classic cliff with a cafe at the top!
 - [[file:crowberry_left_fork.org][Crowberry Gully, Left Fork]] Buchaille Etive Mor. Much more fun than
   the ordinary straightforward route.
-- [[file:first_pinnacle_rib_tryfan.org][First Pinaccle Rib Tryfan]] How not to go climbing with young children.
 - [[file:memorable_cafes_and_pubs.org][Memorable Cafes and Pubs]] Places to go when it's too wet, or you are too lazy to climb.
 - [[file:snells_field_chanonix.org][Snell's Field Chamonix]]  Wild camping in Chamonix. Tents arrested by the gendarmerie.
-- [[file:wes][Western Gully Black Ladders]] A classic Welsh Grade IV, which turns out be much harder than most
+- [[file:western_gully_black_ladders.org][Western Gully Black Ladders]] A classic Welsh Grade IV, which turns out be much harder than most
   Scottish V's.
 - [[file:zero_and_point_five_ben_nevis.org][Zero and Point Five Ben Nevis]] Bumbling up the iconic gullies on Ben Nevis.
 

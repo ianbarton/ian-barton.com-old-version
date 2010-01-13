@@ -4,7 +4,7 @@
 #+TITLE: B.B. (Denys Watkins-Pitchford)
 #+BEGIN_HTML
 ---
-layout: default
+layout: books
 title: Denys Watkins-Pitchford.
 ---
 #+END_HTML
