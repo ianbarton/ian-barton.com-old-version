@@ -1,0 +1,35 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Mynnedd Mawr.
+#+BEGIN_HTML
+---
+layout: post
+title: Mynnedd Mawr.
+---
+#+END_HTML
+Mynnedd Mawr is an outlier of the Moel Hebog group and is situated
+between Snowdon and the Nantlle Ridge. It's not very high - 698m or
+2269ft, but because of it's position the views from the top are
+spectacular.
+
+Most people start from Rhyd Ddu, the route going past the Craig y
+Bera, which has the excellent climb Angel Pavement. However, we were
+staying in the adjacent valley at [[http://www.tycochsnowdonia.co.uk/][Hen Ysgubor]], which is at the foot of
+the mountain, so that's where I started my climb.
+
+Please note that you can't follow the exact route I describe unless
+you are staying in the house, as it crosses farmland belonging to the
+house. However, it's possible to start on the road between Waunfawr
+and Rhosgadfan (SH  514583).
+
+From Hen Ysgubor I walked up the fields behind the house to reach the
+edge
+
+From the top of the first steep rise trending generally left brings
+you out to a stone wall at !!!!! It's possible to cross the wall in
+the corner of the field via the stone sheep pen by going through the
+holes under the wall. There are also several big flat stones on top of
+the wall at various points. If you are very careful not to damage the
+wall, you can climb over the wall.
