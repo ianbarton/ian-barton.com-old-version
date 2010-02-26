@@ -2,14 +2,14 @@
 #+STARTUP: hidestars
 #+INFOJS_OPT: view:info toc:t ltoc:nil
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Mynnedd Mawr.
+#+TITLE: Mynydd Mawr.
 #+BEGIN_HTML
 ---
 layout: post
-title: Mynnedd Mawr.
+title: Mynydd Mawr.
 ---
 #+END_HTML
-Mynnedd Mawr is an outlier of the Moel Hebog group and is situated
+Mynydd Mawr is an outlier of the Moel Hebog group and is situated
 between Snowdon and the Nantlle Ridge. It's not very high - 698m or
 2269ft, but because of it's position the views from the top are
 spectacular.
