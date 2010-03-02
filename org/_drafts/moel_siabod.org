@@ -1,0 +1,10 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Moel Siabod.
+#+BEGIN_HTML
+--- 
+layout:  mountaineering
+title: Moel Siabod.
+--- 
+#+END_HTML
