@@ -1,0 +1,16 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+
+---
+layout: post
+title: Paramo Tops
+tags: [gadgets, linux, test]
+excerpt: Problems with the Texas Instruments AR7 chip.
+---
+#+END_HTML
+
+
+* Paramo Explorer Pull On.
+* Paramo Mountain Vent.
+* Paramo Torres Gilet.
