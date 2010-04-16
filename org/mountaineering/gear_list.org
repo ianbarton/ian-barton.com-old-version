@@ -1,0 +1,12 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Gear List.
+#+BEGIN_HTML
+--- 
+layout:  mountaineering
+title: Gear List.
+--- 
+#+END_HTML
+This page is about some of my mountaineering gear. I'll attempt to
+explain why I chose it.
