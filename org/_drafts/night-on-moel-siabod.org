@@ -13,6 +13,14 @@ Siabod. The views over Snowdonia and the other Welsh mountains to the
 south are unrivalled. In the recent spell of settled fine weather I
 decided it was time to actually go and do it.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><img src="/images/helicopter.jpg" width="200"
+     alt="Helicopter"></p>
+  <p>Twin Rotor Helicopter</p>
+</div>
+#+END_HTML
+
 I arrived in Capel Curig about 4:30pm and parked in the small car park
 at Bryn Glo. I packed my sack and started walking along the A5
 crossing the bridge at Pont Cyfyng. I walked up the farm track,
@@ -54,7 +62,12 @@ retreated inside the tent and got into my sleeping bag to warm myself
 up. Surprisingly, there was good T-Mobile coverage on the summit, so I
 sent a couple of photos from the phone back home.
 
-Bright lights of ??? in the distance.
+When I had warmed up I went back outside the tent. By now it was
+completely dark. The sky was clear and I could see the bright lights
+of what I presumed was Bangor in the distance. The clear sky and north
+easterly breeze mean that it had now got very cold. My fingers were
+numb within a few seconds of removing my gloves, so I scuttled back
+inside the tent and got back into my sleeping bag.
 
 This was the first outing from my Thermarest Neoair. I was surprised
 at just how comfortable it was, definitely a good purchase. I drifted
@@ -67,7 +80,7 @@ the tent was covered in a layer of ice.
 Stupidly I had left the stove outside the tent. Even though I was
 using Coleman Propane/Butane mix there wasn't enough pressure to work
 the stove properly. I stuck the canister in my sleeping bag for 10
-mins and tried again. This time it worked fine. My Primus XXXX stove
+mins and tried again. This time it worked fine. My Primus Spider stove
 has a pre-heating coil, so once the stove was lit it was soon roaring
 away. I made a cup of hot chocolate and had some more almond slices. I
 wandered around taking more photos. The sky was completely clear and
@@ -81,3 +94,7 @@ track. I got back to the car about 8:45am and drove round to Llanberis
 for a well deserved breakfast in Pete's Eats.
 
 
+#+BEGIN_HTML
+
+
+#+END_HTML
