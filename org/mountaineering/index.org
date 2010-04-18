@@ -29,9 +29,12 @@ climbs where things go wrong, we don’t always have epics!
 
 * Articles.
 
-- [[file:first_pinnacle_rib_tryfan.org][First Pinaccle Rib Tryfan]] How not to go climbing with young children.
+- [[file:night-on-moel-siabod.org][A Night on Moel Siabod]] - camping on the summit (April 2010).
+- [[file:mynydd_mawr.org][Mynydd Mawr]] - a walk up this great Snowdonia viewpoint (February 2010).
+- [[file:a_walk_in_the_berwyns.org][A Walk in the Berwyns]]  Just to show I don't always get lost (March 2009).
+- [[file:first_pinnacle_rib_tryfan.org][First Pinaccle Rib Tryfan]] How not to go climbing with young children
+  (July 2007).
 - [[./route_major.html][Route Major.]] We get lost on the famous route on Mont Blanc's southern side.
-- [[file:a_walk_in_the_berwyns.org][A Walk in the Berwyns]]  Just to show I don't always get lost.
 - [[file:benighted_on_the_ben.][Benighted on the Ben]] A Winter ascent of Glover's Chimney almost leads to bed & breakfast
   on the summit of Ben Nevis.
 - [[file:castell_helen_gogarth.org][Castell Helen Gogarth]]  Classic cliff with a cafe at the top!
