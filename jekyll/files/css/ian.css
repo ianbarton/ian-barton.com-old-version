@@ -86,17 +86,27 @@ html {
 }
 
 #header h1 {
-    color: #FFFFFF
+    color: #FFFFFF;
+
 }
 
 h1 {
    margin:0;
+
 }
 
 
 
 h2 {
-  margin:0 0 1em;
+   margin:0 0 1em;
+
+
+}
+
+#main h2 {
+   margin:0 0 1em;
+   border-bottom: 3px solid black;
+
 }
 
 
@@ -222,3 +232,12 @@ ul.posts {
 
 #lightbox img{ border: none; } 
 #overlay img{ border: none; }
+
+
+.thumbnail{
+	padding: 5px;
+	border: 1px solid #ddd;
+	float: left;
+	margin-right: 5px;
+	margin-bottom: 5px;
+	}	
