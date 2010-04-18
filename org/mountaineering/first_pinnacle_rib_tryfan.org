@@ -12,8 +12,8 @@ title: First Pinnacle Rib Tryfan.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><img src="/images/img_5602.jpg" width="300"
-     alt="Base Camp"></p>
+  <p><a href="/images/img_5602.jpg" rel="lightbox" title="Base camp."> <img src="/images/img_5602.jpg" width="300"
+     alt="Base Camp"></a></p>
   <p>Base Camp at Gwern y gof Uchaf</p>
 </div>
 #+END_HTML
@@ -89,8 +89,9 @@ reach.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><img src="/images/IMG_5631.JPG" width="300"
-     alt="Final pitch"></p>
+  <p><a href="/images/IMG_5631.JPG" rel="lightbox" title="Ella on the
+     final pitch" <img src="/images/IMG_5631.JPG" width="300"
+     alt="Final pitch"></a></p>
   <p>Ella on the final pitch</p>
 </div>
 #+END_HTML
@@ -108,8 +109,8 @@ the camp site, while John and Ella strode off in front.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><img src="/images/IMG_5639.JPG" width="300"
-     alt="Summmit of Tryfan"></p>
+  <p><a href="/images/IMG_5639.JPG" rel="lightbox" title="Summit of Tryfan" <img src="/images/IMG_5639.JPG" width="300"
+     alt="Summmit of Tryfan"></a></p>
   <p>Summit next to Adam and Eve</p>
 </div>
 #+END_HTML
