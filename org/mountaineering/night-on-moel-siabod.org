@@ -5,9 +5,12 @@
 #+BEGIN_HTML
 --- 
 layout:  mountaineering
-title: A Night on Moel Siabod.
+title: A Night on Moel Siabod (April 2010).
 --- 
 #+END_HTML
+
+** A Night on Moel Siabod - April 2010.
+
 I have always liked the idea of spending a night on the summit of Moel
 Siabod. The views over Snowdonia and the other Welsh mountains to the
 south are unrivalled. In the recent spell of settled fine weather I

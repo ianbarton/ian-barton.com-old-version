@@ -11,8 +11,8 @@ title: Kentallen to Glencoe.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><img src="/images/DSCF0972.JPG" width="300"
-     alt="View form the forestry track"></p>
+  <p><a href="/images/DSCF0972.JPG" rel="lightbox" title="View from the forestry track"  <img src="/images/DSCF0972.JPG" width="300"
+     alt="View from the forestry track"></a></p>
   <p>Top of the forestry track</p>
 </div>
 #+END_HTML
@@ -39,8 +39,8 @@ more than compensate for the climb!
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><img src="/images/DSCF0978.JPG" width="300"
-     alt="Pap of Glencoe"></p>
+  <p><a href="/images/DSCF0978.JPG" rel="lightbox" title="Pap of Glencoe" <img src="/images/DSCF0978.JPG" width="300"
+     alt="Pap of Glencoe"></a></p>
   <p>Pap of Glencoe from the forestry track</p>
 </div>
 #+END_HTML
