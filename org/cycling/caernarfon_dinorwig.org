@@ -5,7 +5,7 @@
 #+TITLE: Coastal Cycle Ride from Caernarfon.
 #+BEGIN_HTML
 ---
-layout: post
+layout: cycling
 title: Coastal Cycle Ride from Caernarfon.
 ---
 #+END_HTML
