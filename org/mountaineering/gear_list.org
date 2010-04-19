@@ -1,12 +1,448 @@
-#+STARTUP: showall indent
+#+STARTUP: overview indent
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Gear List.
+#+TITLE: Gear.
 #+BEGIN_HTML
 --- 
 layout:  mountaineering
-title: Gear List.
+title: Equipment.
 --- 
 #+END_HTML
-This page is about some of my mountaineering gear. I'll attempt to
-explain why I chose it.
+This page is about some of my mountaineering equipment. I'll attempt to
+explain why I chose it and hope that the information will help you
+choose your own gear.
+* Rucksacks.
+Sometime in the late 1970's or early 1980's I bought a Karrimor
+Alpiniste. I didn't get the very original version, with the zip all
+the way up the middle, but the version after that. In those days it
+came with a lifetime guarantee. If you managed to break it, Karrimor
+would fix it. I managed to wear a hole in the base and some other
+minor problem, which Karrimor fixed without a quibble. Until last year
+(2009), I have continued to use this sack. However, it was very
+battered and I felt that after 30 years it was time for a new sack!
+
+I have some very simple, but specific requirements for a rucsack:
+
+- It must be single compartment - I really don't like dual compartment sacs.
+
+- No outside pockets, or if they exist they must be easily removable.
+
+- Slim profile, so it doesn't get jammed in chimneys, etc.
+
+- Size around 50 litres.
+
+- Able to withstand being bashed about on climbs.
+
+** POD Black Ice Rucsack.
+
+This seems a fairly simple list of requirements. However, it seems
+almost impossible to buy a single compartment sac of around 50 litres
+without lots of permanently attached bits and pieces.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/pod_black_ice.jpg" title="POD
+  Black Ice."> <img src="/images/pod_black_ice.jpg" width="162"
+     alt="POD Black Ice."></a></p>
+  <p>POD Black Ice.</p>
+</div>
+#+END_HTML
+
+
+Finally I stumbled across an article about POD sacks. POD (Pete
+O'Donovan) started out making chalk bags in his house in Sheffield. He
+went on to make one of the first tear drop rucksacks, which had a
+zipped top. He has now sold the company, but the current owners still
+use him as a consultant. More importantly they produce a range of
+rucksacks, primarily aimed at alpinists, but which had all the
+features I wanted. They are not cheap, so I definitely wanted to see
+one and try it out before buying it. Luckily a short holiday in
+Keswick gave me the chance to try one out. It turned out that
+[[http://www.needlesports.com/][Needlesports]] in Keswick stock the POD range of sacs. I was fairly
+certain that I wanted the [[http://www.needlesports.com/acatalog/Mail_Order_POD_56.html][Black Ice]] . You can remove the waist belt if
+required and the hood is extensible to enable you to increase its
+capacity. 
+
+The sac's capacity is 50 litres with an extra 10 litres if
+you extend the hood. For most of the time 50 litres is quite enough,
+but with three children's gear to carry, the ability to increase the
+capacity was welcome.
+
+I spent about half an hour in the shop trying the sac out, filled with
+varying numbers of ropes to check how it performed when carrying
+different weights. I was convinced that the Black Ice was even better
+than my old Karrimor Alpiniste and I ended up buying it.
+* Stoves and Cooking.
+Over the years I have owned many different stoves. I started out with
+an army hexamine burner, which I used in the 1976 on a trip to
+Scandanavia. In the 1980's I bought one of the original MSR multi-fuel
+stoves on a trip to Canada. This stove lasted until a few years
+ago. While it would burn almost any fuel, priming it was a chore and
+from time to time I had to unblock the jet. I have now
+settled on two stoves that I use regularly:
+
+** Primus Gravity Stove.
+I bought this stove from [[http://www.rvops.co.uk/primus-gravity-gas-stove-ii-ef-1331.html][RvOps]] . It uses resealable gas canisters,
+which are attached to the stove by a length of flexible pipe. Together
+with a pre-heater this allows the stove to be used in very cold
+conditions by inverting the gas canister. I managed to use it on a
+recent trip when it was about -4C.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/primus_gravity.jpg" title="Primus
+  Gravity."> <img src="/images/primus_gravity.jpg" width="200"
+     alt="Primus Gravity."></a></p>
+  <p>Primus Gravity.</p>
+</div>
+#+END_HTML
+
+
+The legs fold in, making the stove compact to carry. Since the
+canister is separate to the stove, it has a low centre of gravity,
+which makes it harder to spill things! Included with the stove are a
+heat reflector and windshield. There is also a Piezo igniter, although
+I always carry a TurboFlame lighter too.
+
+When packed down the whole stove will fir inside my cook set. There
+are smaller and lighter stoves, but I like the flexibility of having
+the gas canister not attached directly to the stove.
+
+** Trangia Meths Stove.
+I have used Trangia's for many years. The stove comes with its own
+integrated cook set. Unlike most stoves, it actually works better if
+there is a breeze. I prefer it to a gas stove if I am actually cooking
+something, rather than just heating something up.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/trangia.jpg" title="Trangia Stove."> <img src="/images/trangia.jpg" width="215"
+     alt="Trangia Stove."></a></p>
+  <p>Trangia Stove.</p>
+</div>
+#+END_HTML
+
+Its only disadvantages are slow time to boil water and in some places
+meths can be hard to obtain.
+
+** Cooking Sets.
+If I am using the Trangia, I don't need to take a separate set, as
+it's already part of the stove. For many years I have had an aluminium
+set, which I used with gas stoves. However, last year I saw an [[http://www.outdoorsmagic.com/reviews/cooking-eating-and-drinking/pans/msr-alpine-cookset/213.html][MSR
+Alpine Cookset]] in a sale at Field and Trek. This is quite a bit
+lighter than my aluminium set, but you have to be careful not to burn
+things as the pans are very thin. Note that unlike older sets the
+newer MSR sets do not have a raised section in the centre of the pan,
+which caused uneven heating.
+
+If you have to pay full price (around £35) probably not worth it. Look
+out for them in a sale.
+
+* Sleeping.
+** Thermarest Neoair Sleeping Mat.
+I still have my original Karrimor yellow mat, which I bought in the
+1970's. Since then I have bought one of the Thermarest self inflatable
+mats, which I use when we go car camping. However, this is too bulky
+to carry on a rucksack. Now I am getting older the old yellow Karrimat
+seems to be getting more uncomfortable, so I wanted something lighter
+than my current Thermarest, but more comfortable than my Karrimat!
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/neoair.jpg" title="
+  Neoair."> <img src="/images/neoair.jpg" height="100"
+     alt="Neoair."></a></p>
+  <p>Neoair.</p>
+</div>
+#+END_HTML
+
+
+A year or so ago Thermarest announced a new type of mat called the
+[[http://www.facewest.co.uk/Thermarest-Neoair.html][Neoair]] . This is a sort of super sophisticated lilo - you have to
+inflate it. However, it's much more technical than the classic
+lilo. An internal reflective layer provides heat insulation from the
+ground and an internal baffle arrangement provides stability and
+comfort.
+
+I was initially dubious, partly because of reports of problems with
+some early mats not remaining inflated. Apparently this was caused by a
+packing problem in early batches and has now been resolved. I recently
+decided to buy one to use when I am backpacking.
+
+The mat packs down to the size of a one litre bottle and weighs about
+260g. I bought the regular size (72"), rather than the small (42"), as
+I didn't want my legs dangling off the end.
+
+I used it on my recent overnight trip on Moel Siabod. It was very
+comfortable, much more so than the standard Thermarest. Even though
+the outside temperature fell to -4C I didn't feel cold. In fact it was
+so comfortable that I am giving my original Thermarest to one of the
+children and I'll use the Neoair when we go car camping. The Neoair
+does feel somewhat fragile and it remains to be seen how well it
+performs long term.
+
+
+** Sleeping Bags.
+My first sleeping bag was a Blacks Good Companion. This had a feather
+(not down) filling, weighed a ton and wasn't all that warm. I have
+memories of one New Year at Wasdale Head. It was sometime in the late
+1970's and there was record snowfall and low temperatures. I was
+extremely cold, even when wearing all my clothes inside the bag. I
+remember we used to go to the toilets at frequent intervals, to warm
+our hands under the dryer.
+
+After that trip I bought a Mountain Equipment Redline. This was filled
+with down and even at that time was expensive. However, it was a good
+investment, as I still have it. During that time it has been back to
+Rab a couple of times to be cleaned and to have a bit more down blown
+into it. Its disadvantages are that it is far too hot in Summer and as
+the outer isn't waterproof the down tends to get damp in UK conditions.
+
+I have also had a couple of Mountain Equipment synthetic fill bags,
+which I used in summer. My current bag is a XXXXX. However, it's now
+at least 10 years old and isn't really warm enough except on warm
+summer nights.
+
+I am planning to buy a [[http://www.webtogs.co.uk/Rab_Alpine_400_Sleeping_Bag_102056.html][Rab Alpine 400]] . This is filled with down and
+has a Pertex Quantum outer, which is almost completely waterproof and
+I hope will overcome the problem of the down getting damp. It may turn
+out to be too warm in summer, but if that's the case I can carry on
+using my old synthetic fill bag.
+
+* Tents.
+My first tent was a Robert Saunders Base Camp, which I took with a
+friend on a three week trip to Scandanavia in 1976. This was a great
+tent, but heavy to carry.
+
+I subsequently bought a Vango Force 10, with a nylon flysheet. This
+was great for car camping, but too heavy to carry. I lent it to
+someone who never returned it. It's probably still going strong.
+
+In the mid 1980's I bought a Wild Country Quasar. This was probably
+the best tent I have ever owned. It's was amongst the first  Geodesic
+dome designs. It was incredibly stable and had plenty of room for
+two. It was a bit too heavy for backpacking, but that wasn't what I
+used it for. I worked out that I had spent more than a year sleeping
+in it. It had been on a couple of trips where it had been exposed to
+high levels of UV, so eventually the fabric go so weak it simply tore.
+
+A few years ago I bought a [[http://www.outdoorsmagic.com/reviews/tents/two-person/vango-tbs-micro-200-tent/3622.html][Vango]] TBS Micro 200. Now that I have three
+children, spending nearly £400 to replace the Quasar on a tent just
+for me was out of the question. The TBS Micro pitches all in one,
+which stops the inner getting wet in bad weather. Overall it has been
+a good tent. My only gripe is that it is a bit too small for me. At
+6ft 2" I can't stretch out fully without touching the ends and I can't sit
+upright in the middle of the tent. It has performed well in some fairly wet
+and windy weather and I am keeping it if the children want to sleep in
+their own tent (we also have a big Outwell family tent).
+
+At the end of last year I bought a Vango [[http://www.amazon.co.uk/Vango-Spectre-Tent-Updated-2010/dp/B002ZDOIOY][Spectre 200]] . This is also a
+2 person tent, but larger than the TBS Micro, although it weighs
+slightly less.It uses the same internal Tension Band System (TBS),
+which means that it stable in bad weather. There isn't a porch, so you
+have to cook under the open side door in bad weather. There are zips
+at either end of the inner, which give access to the small space under
+the flysheet. I tend to use my rucksack as a pillow on short trips, so
+don't need to keep it outside. It weighs about 2.75kg and pitches as
+one with the flysheet. The couple of times that I have used it so far,
+I have been very pleased with it. Apparently it's D of E (Duke of
+Edinburgh Scheme) approved, so if any of the children decide to enter
+the D of E scheme, they can use it for that.
+
+* Clothing.
+** Trousers.
+When I first started walking I bought a pair of Blacks Tweed breeches
+after several episodes of walking in wet jeans. I still have the breeches  and
+they still fit me nearly 30 years later, although I no longer wear them!
+
+At some point I bought a pair of Rohan Super Striders, which served me
+well for many years. As I became more interested in Winter climbing, I
+bought a pair of Rohan Super Salopettes. There is a photo of me on the
+kitchen wall wearing them in the Albert Premier hut in 1985. I
+actually wore these about 2 years ago (2008) on a North Wales Winter
+climb. Apart from the elastic shoulder straps perishing they were
+still fine. You can read about the history of Rohan [[http://rohantime.com/][here]] . There is a
+contribution from Sarah Howcroft the wife of Rohan's founder
+Paul. Although Rohan have been taken over and gone on to be a high
+street brand, in the beginning they were ahead of their time. I can
+remember visiting their shop in Long Preston on the way back to
+Sheffield from the Lakes. You can see a time line of their products
+[[http://homepage.mac.com/inov8/Compass/rohanhistory.html][here]] , which shows how many modern ideas were first seen in Rohan
+gear.
+
+In the early 1990's I was lucky enough to be given a set of Buffalo
+gear by the proprietor Hamish Hamilton. For cold conditions,
+especially Scottish Winters, where conditons vary between rain and
+being blasted with powder snow in the same day, Buffalo is undoubtedly
+the best thing I have ever owned. On a Scottish winter route I would
+normally wear just the Mountain Shirt and salopettes. I have never felt
+cold in Buffalo gear and even though the gear itself gets wet, your
+skin is always kept dry by the wicking action. However, once the
+temperature gets above freezing I soon start to overheat in Buffalo
+clothing, even with all the venting zips open.
+
+For every day use and walking in most seasons apart from winter, I
+tend to use Craghopper Kiwis. If you shop around you can buy them for
+about £25. They are quite windproof and dry very quickly when
+wet. However, they also get wet very easily. Brush against a bit of
+wet bracken and you will be soaked.
+
+A few months ago I started researching the "perfect" mountain
+trousers. After researching for quite a while I decided on the Mammut
+Base Jump pants. Unfortunately, Mammut decided to refresh their range
+at this time and no one had any in stock in my size. When the new Base
+Jump range arrived, it was quite a bit more expensive than the already
+very expensive old range. However, this meant the Mammut Champ pants,
+which are the more expensive version of the Base Jump were now cheaper
+than the new Base Jumps.
+
+I was very dubious about paying £116 for a pair of trousers, but
+eventually talked myself into it. As my wife will confirm, I almost
+never buy clothes, so I didn't feel too bad about spending the money.
+
+I have now had them a couple of months and am very happy with
+them. They are very windproof and while the Schoeller fabric isn't
+completely water proof, in anything short of a torrential downpour
+water just beads up and runs off. Even though I have some waterproof
+over-trousers, I never wear them, so at least I should stay drier in
+the long run. The knees are articulated, which is good for scrambling
+and climbing. There is also a vent at bottom of the legs which allows
+the pants to be worn over climbing or skiing boots.
+
+Unlike some trousers there are no vents. However, even though I tend
+to run hot when walking, my legs have never sweated while wearing
+them. I think that they are probably too warm for summer (if we have
+one). However, I still have my Craghopper Kiwis for warm weather.
+
+** Mid Layer.
+
+*** Paramo.
+As part of a clothing "refresh", having bought almost no new walking
+gear for about 10 years I decided to investigate the Paramo system
+after hearing good things about them.
+
+Initially I wanted something to replace several threadbare fleece
+smocks. I ended up buying two Paramo smocks:
+
+**** Paramo Explorer Pull on.
+
+Made from Parameta and quite loose fitting, so will fit over other
+garments, such as a shirt. The pull on is reversible with the smooth
+side designed to be warn on the outside in warm weather and on the
+inside in cooler weather. It has a large zipped pocket, which is
+accessible whichever way round you wear the top and press studded
+elasticated cuffs, so you can roll the sleeves up.
+
+**** Paramo Mountain Vent.
+This is very similar to the Explorer Pull on, but with a much tighter
+fit and designed to be worn next to the skin. There are also underarm
+vents. I have found this to be a good choice for cycling. I can
+regulate my heat using the vents and the wicking characteristics mean
+I don't sweat nearly as much as with a conventional micro-fleece.
+
+**** Paramo Torres Gilet.
+You either get gilets, or you don't. I find they are great for cold
+windy conditions when I am active, but would be too hot in a
+jacket. This covers a surprising amount of the time I am outdoors. I
+have a couple of gilets, which I warm around the farm almost all the
+time, except in summer.
+
+I now wear my Torres Gilet most of the time. The material is pretty
+waterproof, although since it doesn't have arms it won't stop you
+getting wet if the rain is heavy. It can pack down in its own chest
+pocket. There are a couple of hand warmer pockets which zip down to
+prevent the material from unsightly bulges. However, if you use the
+hand warmer pockets to store things make sure you zip them up, or
+things are likely to fall out.
+
+I have worn my Mountain Vent and Torres Gilet on a walk in Wales when
+the temperature was below freezing and there was a breeze without
+needing to put on another layer.
+
+My only reservation about the Mountain Vent and Explorer Pull On is
+whether they are worth the price difference compared to a micro-fleece.
+
+** Outer Layer.
+**** Rab Generator Jacket.
+I bought this on impulse in a sale in Joe Brown's and I am really glad
+I did. 
+
+The Generator has a Pertex Quantum inner and outer filled with
+Primaloft 1 fill. Primaloft is a man made fibre, similar to
+down. However, unlike down it doesn't transform itself into a soggy
+lump when it gets damp. The smock weighs around 330 grammes and packs
+up into its own chest pocket, so I am happy to carry it with me all
+the time.
+
+In use it's very warm and windproof. While it's not totally
+waterproof, it does keep out the misty damp stuff that's so common in
+Britain. A nice additional feature is it feels lovely warm and
+soft. There is a central zipped chest pocket, big enough to take a map
+and a pair of hand warming pockets on either side.
+
+
+**** Berghaus Goretex Jacket.
+I have only ever owned two Gortex jackets. The first was a cagoule. I
+can't remember the maker, but it might have been Berghaus. The Goretex
+membrane was sandwiched between a heavy Cordura fabric. It was a bit
+on the bulky side, but fantastically windproof and very waterproof. It
+lasted about 10 years before de-laminating. I was sorry to see it go.
+
+Just at the point when this happened I was lucky enough to be given a
+Berghaus Goretex jacket by High Magazine. It doesn't say what model it
+is on the jacket, but it has lots of pockets and a nice big adjustable
+hood. To be quite honest I don't use it that often. In winter I stick
+to my Buffalo gear and don't need a Goretex jacket. I have got past
+the stage of wanting to go out whatever the conditions, like I did
+when I was younger. So apart from unexpected rain it doesn't get much
+use. In future I shall probably stick to my Rab Generator, which is
+probably just about as waterproof, much warmer and a lot lighter.
+
+** Hats and Neck Warmers.
+I have still got my original wool Blacks balaclava, which I bought in
+the 1970's. It's still as itchy now as it was then, so I don't wear it
+anymore. My next bit of headgear was a Mountain Equipment fleecy
+balaclava. They used to make these out of offcuts from their other
+garments and if you lived near Glossop you could pop in and pick one
+up very cheaply. I still wear this - I probably bought it in the early 1980's.
+
+I have very recently bought a Paramo [[http://www.whalleyoutdoor.co.uk/shop/product.php?xProd%3D48&xSec%3D9][baseball cap]] . Apart from making me look
+even more of a Wally than usual, the peak keeps the sun and rain out
+of my eyes. It is very waterproof and I can arrange the neck flap so
+the water runs down my outer layer, rather than down my neck. The neck
+flap can be folded inside for summer use, or left extended to prevent
+your neck getting sunburned.
+
+
+**** Buff.
+The [[http://www.buffwear.co.uk/][Buff]] is something that I would never have bought for myself,
+luckily someone gave it to me. Having got it I wonder how  managed
+without one. Great for keeping your neck warm, converting into a sun
+hat to stop your head getting burnt, turn it into a balaclava, uses
+only limited by your [[http://www.buffwear.co.uk/pages/product-info/ways-to-wear.php][imagination]] .
+
+The only downside is that they are quite expensive for what is simply
+a fabric tube. However, mine has lasted around 10 years so far. I
+presume that you can buy cheaper clone products.
+
+** Gloves.
+Most of the time I wear some cheap XXX gloves. I may need to buy a new
+pair, as the mice have chewed the fingers out. I still have and use a
+couple of pairs of Dachstein mitts. These are fantastic as they stay
+warm even when you get them full of snow.
+
+In the 1980's I succumbed to the Gortex glove fashion. Unfortunately,
+I dropped one of them on an ascent of Western Gully on Black Ladders
+in North Wales. Luckily a few weeks later I found another Goretex
+glove somewhere else. Even more luckily it was the same hand as the
+one I had lost. The only problem is that it was a different colour to
+my original glove, so now I have a pair of gloves of different
+colours. Although they are quite good, they don't keep your hands as
+warm as Dachsteins once the pile inside gets wet from spindrift.
+
+A couple of years a go my wife bought me a new pair of "modern" winter
+climbing gloves. These are supposed to be large size. They fit, albeit
+tightly, when my hands are warm. Now I have very slim fingers, but
+when my hands get cold and swell slightly I can hardly get the new
+gloves on. So I stick with the oddbin Goretex and my original
+Dachsteins!
