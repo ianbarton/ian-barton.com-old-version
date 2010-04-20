@@ -1,0 +1,44 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Circuit of Llyn Brenig.
+#+BEGIN_HTML
+---
+layout: cycling
+title: Circuit of Llyn Brenig.
+---
+#+END_HTML
+
+* Circuit of Llyn Brenig.                                           
+Llyn Brenig is a man made reservoir situated in a large area of
+moorland between Denbigh and the A5. There a many possible rides in
+this area. The one described is a circuit of the lake and is
+approximately 10 miles long. here is a short section along a B road,
+but this isn't normally busy. The ride is described going round the
+lake in an anticlockwise direction, as route finding is easier this
+way.
+
+From the Visitor Centre find the track that runs in a southerly
+direction along the side the reservoir. It starts opposite the cycle
+hire place. Cycle over the dam and follow the stone track along the
+reservoir. This leads through a short section of forest and finally
+onto a small lane. Follow the lane to the junction with the B4510 ad
+turn left onto the road.
+
+This is where the uphill section starts! It isn't too steep but is
+fairly continuous. Eventually you reach the summit, where the map
+shows a parking place with picnic table. In April 2010 the table
+wasn't there, but the parking place is a good place to admire the view
+and recover from the climb.
+
+There is now a nice downhill section, which leads to a T
+junction. Turn left and take the second forestry track on the left
+(the first one leads to a dead end). This descends down to the
+reservoir, where you can follow the shore back to the Visitor
+Centre. Be careful not to take any turns leading off to the right as
+these will lead you back to the B4501.
+
+You can download a PDF showing the route taken by this ride from [[http://www.hiraethog.org.uk/download.php?id%3D288.2&lID%3D1][here]]
+. There are details of other cycle rides on the [[http://www.ridehiraethog.com/ridehiraethog/the_routes2.asp][ridehiraethog]] web
+site.
