@@ -2,12 +2,15 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+BEGIN_HTML
-'---
 ---
 layout: post
 title: Moel Famau
 tags: [mountaineering]
-excerpt: Traversing the Clwydian Ridge.
+excerpt: "I had passed the Clwydian range hundreds of times on the way to
+Snowdonia, but I had never climbed any of its hills. Amongst other
+things the hills are famous for the range of iron Age hill forts, with
+six forts along the crest of the ridge. The crest of the ridge is
+heather moorland and Offa's Dyke path follows almost the entire ridge."
 ---
 #+END_HTML
 
