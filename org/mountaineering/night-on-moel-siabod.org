@@ -21,6 +21,7 @@ decided it was time to actually go and do it.
   <p><a href="/images/Siabod_from_farm_track.jpg" rel="lightbox" title="Moel Siabod from the end of the farm track."> <img src="/images/Siabod_from_farm_track.jpg" width="200"
      alt="Moel Siabod from the end of the farm track."></a></p>
   <p>Moel Siabod from the end of the farm track.</p>
+
 </div>
 #+END_HTML
 
