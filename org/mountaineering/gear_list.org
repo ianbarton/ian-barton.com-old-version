@@ -8,6 +8,8 @@ layout:  mountaineering
 title: Equipment.
 --- 
 #+END_HTML
+[TABLE-OF-CONTENTS]
+
 This page is about some of my mountaineering equipment. I'll attempt to
 explain why I chose it and hope that the information will help you
 choose your own gear.
@@ -41,11 +43,14 @@ without lots of permanently attached bits and pieces.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/pod_black_ice.jpg" title="POD
-  Black Ice."> <img src="/images/pod_black_ice.jpg" width="162"
-     alt="POD Black Ice."></a></p>
+
+  <p> <img src="/images/pod_black_ice.jpg" width="200"
+     </p>
   <p>POD Black Ice.</p>
+
 </div>
+
+
 #+END_HTML
 
 
@@ -90,9 +95,8 @@ recent trip when it was about -4C.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/primus_gravity.jpg" title="Primus
-  Gravity."> <img src="/images/primus_gravity.jpg" width="200"
-     alt="Primus Gravity."></a></p>
+  <p> <img src="/images/primus_gravity.jpg" width="200"
+     </p>
   <p>Primus Gravity.</p>
 </div>
 #+END_HTML
@@ -116,8 +120,8 @@ something, rather than just heating something up.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/trangia.jpg" title="Trangia Stove."> <img src="/images/trangia.jpg" width="215"
-     alt="Trangia Stove."></a></p>
+  <p> <img src="/images/trangia.jpg" width="215"
+     </p>
   <p>Trangia Stove.</p>
 </div>
 #+END_HTML
@@ -149,9 +153,8 @@ than my current Thermarest, but more comfortable than my Karrimat!
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/neoair.jpg" title="
-  Neoair."> <img src="/images/neoair.jpg" height="100"
-     alt="Neoair."></a></p>
+  <p>< <img src="/images/neoair.jpg" height="100"
+     </p>
   <p>Neoair.</p>
 </div>
 #+END_HTML
