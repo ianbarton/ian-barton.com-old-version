@@ -40,6 +40,7 @@ climbs where things go wrong, we don’t always have epics!
 - [[file:castell_helen_gogarth.org][Castell Helen Gogarth]]  Classic cliff with a cafe at the top!
 - [[file:crowberry_left_fork.org][Crowberry Gully, Left Fork]] Buchaille Etive Mor. Much more fun than
   the ordinary straightforward route.
+- [[file:devils_kitchen_cwm_idwal.org][Devils Kitchen]] Cwm Idwal.
 - [[file:memorable_cafes_and_pubs.org][Memorable Cafes and Pubs]] Places to go when it's too wet, or you are too lazy to climb.
 - [[file:snells_field_chanonix.org][Snell's Field Chamonix]]  Wild camping in Chamonix. Tents arrested by the gendarmerie.
 - [[file:western_gully_black_ladders.org][Western Gully Black Ladders]] A classic Welsh Grade IV, which turns out be much harder than most
