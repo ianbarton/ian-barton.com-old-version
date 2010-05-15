@@ -242,7 +242,20 @@ ul.posts {
 	margin-bottom: 5px;
 	}	
 
+/*
+##toc a { display:block; color:#0094FF;}
+        
+#toc a[title=H1] { font-size:18px;}
+#toc a[title=H2] { font-size:14px;}
+#toc a[title=H3] { font-size:10px;}
+*/
+
 #toc {
-
-
+	float: right;
+	font-size: 10pt;
+	width: 200px;
+	padding: 10px 10px 10px 20px;
+	background: #efffb1;
+	border: solid 1px #ccd136;
+	margin: 0 0 10px 15px;
 }

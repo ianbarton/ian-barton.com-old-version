@@ -8,7 +8,6 @@ layout:  mountaineering
 title: Equipment.
 --- 
 #+END_HTML
-[TABLE-OF-CONTENTS]
 
 This page is about some of my mountaineering equipment. I'll attempt to
 explain why I chose it and hope that the information will help you
