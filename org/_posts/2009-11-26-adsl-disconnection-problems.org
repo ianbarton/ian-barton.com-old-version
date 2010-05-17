@@ -7,7 +7,18 @@
 layout: post
 title: ADSL Connection Problems.
 tags: [gadgets, linux, test]
-excerpt: Problems with the Texas Instruments AR7 chip.
+excerpt: "Some time ago I upgraded my ADSL to ADSL Max. This worked very well
+indeed for quite a long time. However, several months ago I noticed
+that my Zyxel 660H D1 router kept disconnecting, sometimes for several
+minutes. I have tried all the usual things like disconnecting
+everything else on the phone line. My router is already plugged into
+BT's master socket, so it isn't dodgy internal wiring and I have tried
+a Netgear router which showed the same symptoms. [[%5B%5Bhttp://www.wizards.co.uk][Wizards]] my ISP were
+very helpful, but we couldn't really pin down the problem. The next
+step would be to get BT to test the line. However, if they can't find
+a fault they charge you £169 for the privilege of testing your
+line. Given that the fault was intermittent, it's quite likely that
+they wouldn't find anything wrong."
 ---
 #+END_HTML
 
