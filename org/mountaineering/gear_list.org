@@ -7,6 +7,10 @@
 layout:  mountaineering
 title: Equipment.
 --- 
+
+<ul id="toc"></ul>
+
+
 #+END_HTML
 
 This page is about some of my mountaineering equipment. I'll attempt to
