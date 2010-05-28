@@ -1,0 +1,14 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Disqus Commenting System.
+layout: post
+---
+#END_HTML
+
+Comments are a useful part of blogging. However, they are a real
+honeypot for spammers. On systems I have used in the past, I got tired
+of fighting the spammers and simply turned comments off. However,
+have decided to try out a new system powered by [[http://disqus.com][Disqus]] . It isn't
+available on all pages, but I'll see how we go.
