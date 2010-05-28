@@ -8,6 +8,9 @@
    <meta name="author" content="Ian Barton" />
    <link rel="start" href="/" />
 
+   <script type="text/javascript">
+	var disqus_developer = 1; 
+   </script>
 	{% if page.keywords %}
 	<meta name="keywords" content="{{ page.keywords }}">
 	{% endif %}
@@ -23,7 +26,7 @@
    <link rel="stylesheet" href="/files/css/ian.css" type="text/css" />
 
 
-
+   <script type="text/javascript" src="/files/js/lightbox.js"></script>
 
 </head>
 <body id="{{ page.section }}">
@@ -49,6 +52,29 @@
   <div id="sidebar">
     {% include sidebar.html %}
   </div>
+
+
+
+
+
+  {% if page.comments %}
+  
+<div id="disqus_thread"></div>
+<script type="text/javascript">
+  /**
+    * var disqus_identifier; [Optional but recommended: Define a unique identifier (e.g. post id or slug) for this thread] 
+    */
+  (function() {
+   var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
+   dsq.src = 'http://ianbarton.disqus.com/embed.js';
+   (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
+  })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript=ianbarton">comments powered by Disqus.</a></noscript>
+<a href="http://disqus.com" class="dsq-brlink">blog comments powered by <span class="logo-disqus">Disqus</span></a>
+
+ {% endif %}
+
 
   <div id="footer">
     {% include footer.html %}
@@ -77,5 +103,22 @@ pageTracker._trackPageview();
 </script>
 <script type="text/javascript" src="http://static.ie6update.com/hosted/ie6update/ie6update.js"></script>
 <![endif]-->
+
+<script type="text/javascript">
+//<![CDATA[
+(function() {
+	var links = document.getElementsByTagName('a');
+	var query = '?';
+	for(var i = 0; i < links.length; i++) {
+	if(links[i].href.indexOf('#disqus_thread') >= 0) {
+		query += 'url' + i + '=' + encodeURIComponent(links[i].href) + '&';
+	}
+	}
+	document.write('<script charset="utf-8" type="text/javascript" src="http://disqus.com/forums/ianbarton/get_num_replies.js' + query + '"></' + 'script>');
+})();
+//]]>
+</script>
+
+
 </body>
 </html>
