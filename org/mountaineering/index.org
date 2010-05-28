@@ -10,6 +10,7 @@
 ---
 layout: mountaineering
 title: Mountaineering.
+comments: false
 ---
 #+END_HTML
 * Introduction.
