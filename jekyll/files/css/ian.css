@@ -259,3 +259,9 @@ ul.posts {
 	border: solid 1px #ccd136;
 	margin: 0 0 10px 15px;
 }
+
+#comments { 
+    margin-top: 1em; 
+    float: left; 
+    width: 100%;
+}
