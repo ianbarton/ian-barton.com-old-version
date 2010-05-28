@@ -7,6 +7,8 @@
 ---
 layout: mountaineering
 title: Mynydd Mawr.
+comments: true
+
 ---
 #+END_HTML
 Mynydd Mawr is an outlier of the Moel Hebog group and is situated

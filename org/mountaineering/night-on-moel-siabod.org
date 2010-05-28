@@ -6,6 +6,7 @@
 --- 
 layout:  mountaineering
 title: A Night on Moel Siabod (April 2010).
+comments: true
 --- 
 #+END_HTML
 

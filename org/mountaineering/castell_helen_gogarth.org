@@ -6,6 +6,8 @@
 --- 
 layout: mountaineering 
 title: Castell Helen Gogarth.
+comments: true
+
 --- 
 #+END_HTML
 * Castell Helen.

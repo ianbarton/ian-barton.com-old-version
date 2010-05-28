@@ -6,6 +6,8 @@
 --- 
 layout:  mountaineering
 title: Equipment.
+comments: true
+
 --- 
 
 <ul id="toc"></ul>
@@ -254,6 +256,31 @@ one with the flysheet. The couple of times that I have used it so far,
 I have been very pleased with it. Apparently it's D of E (Duke of
 Edinburgh Scheme) approved, so if any of the children decide to enter
 the D of E scheme, they can use it for that.
+
+** Bivvy and Bothy Bags.
+My first bivvy bag was one of those orange plastic sacks that you can
+buy from any outdoor shop. Apart from using it to sit on, I don't
+remember ever using it to sleep in. That was probably a good thing, as
+I would ended up getting soaking wet from condensation even if it
+didn't rain.
+
+Sometime in the 1980's I bought a Wild Country Goretex bivvy bag. I
+don't know the exact model, but it has almost a full length zip and a
+large cowl. The full length zip means it is easy to get into,
+particularly if you are sitting on a ledge half way up a mountain. The
+cowl is large enough to store some gear and clothing if you are lying
+flat. If you are sat on a ledge in a snowstorm, it stops the snow
+drifting inside the bag.
+
+I have used this bag extensively in the past for everything from
+sleeping in South Stack car park at Gogarth, to alpine bivvies. Even
+after more than 25 years it is still in good condition.
+
+Now that I have three children, I wanted some sort of emergency
+shelter that would fit up to five of us. Looking around various
+outdoor websites, I learnt about Bothy Bags. I ended up buying a Terra
+Nova bag and you can't read my post about it
+[[http://www.ian-barton.com/2010/01/21/bothy-bag.html][here]] .
 
 * Clothing.
 ** Trousers.

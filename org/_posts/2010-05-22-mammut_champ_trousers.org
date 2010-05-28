@@ -1,6 +1,19 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Bothy Bags.
+#+BEGIN_HTML
+
 ---
+layout: post
 title: Mammut Champ Trousers.
+excerpt: "For a few years I have worn Craghopper Kiwi trousers almost all the
+time. I am in the lucky position of being able to wear whatever I want
+most of the time, so I tend to choose clothes that are both practical
+and I feel comfortable in."
 ---
+#+END_HTML
 
 For a few years I have worn Craghopper Kiwi trousers almost all the
 time. I am in the lucky position of being able to wear whatever I want

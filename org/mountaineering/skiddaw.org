@@ -6,6 +6,8 @@
 ---
 layout: mountaineering
 title: Skiddaw.
+comments: true
+
 ---
 #+END_HTML
 

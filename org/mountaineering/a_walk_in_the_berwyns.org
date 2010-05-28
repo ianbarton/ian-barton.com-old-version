@@ -6,6 +6,7 @@
 --- 
 layout:  mountaineering
 title: A Walk in the Berwyns.
+comments: true
 --- 
 #+END_HTML
 
