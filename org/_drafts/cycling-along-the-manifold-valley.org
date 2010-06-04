@@ -1,0 +1,9 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Cycling Along the Manifold Valley
+layout: post
+---
+#END_HTML
+
