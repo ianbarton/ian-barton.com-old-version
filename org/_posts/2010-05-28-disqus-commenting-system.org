@@ -1,11 +1,14 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
 ---
-title: Disqus Commenting System.
 layout: post
+title: Disqus Commenting System.
+excerpt: "Trying out a new commenting system."
+comments: true
 ---
-#END_HTML
+#+END_HTML
 
 Comments are a useful part of blogging. However, they are a real
 honeypot for spammers. On systems I have used in the past, I got tired
