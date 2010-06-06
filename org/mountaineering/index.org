@@ -30,6 +30,7 @@ climbs where things go wrong, we don’t always have epics!
 
 * Articles.
 
+- [[file:traverse-of-the-glyders-from-capel-curig-to-nant-peris.org][A Traverse of the Glyders]] - from Capel Curig to Nant Peris (June 2010).
 - [[file:night-on-moel-siabod.org][A Night on Moel Siabod]] - camping on the summit (April 2010).
 - [[file:mynydd_mawr.org][Mynydd Mawr]] - a walk up this great Snowdonia viewpoint (February 2010).
 - [[file:a_walk_in_the_berwyns.org][A Walk in the Berwyns]]  Just to show I don't always get lost (March 2009).
