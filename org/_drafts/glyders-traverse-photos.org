@@ -1,0 +1,13 @@
+#+STARTUP: showall indent
+#+STARTUP:
+hidestars
+#+BEGIN_HTML
+---
+title: Glyders Traverse Photos.
+layout: post
+excerpt:
+
+comments: true
+---
+#+END_HTML
+
