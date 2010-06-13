@@ -1,0 +1,20 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: A Traverse of the Glyders from Capel Curig to Nant Peris.
+layout: post
+excerpt: "A traverse of the Glyders from Capel Curig to Nant Peris."
+comments: true
+---
+#+END_HTML
+
+I have traversed the Glyders a few times starting at Ogwen
+and descending to into Capel Curig. Back in 1980 I started in Nant
+Peris and did the traverse to Capel Curig. However, this year we were
+staying at the Bryn Tyrch in Capel Curig and I decided to do the walk
+the opposite way round, from Capel Curig to Nant Peris.
+
+To see the full account of the traverse and see the photographs, click
+[[http://www.ian-barton.com/mountaineering/traverse-of-the-glyders-from-capel-curig-to-nant-peris.html][here]] .
+
