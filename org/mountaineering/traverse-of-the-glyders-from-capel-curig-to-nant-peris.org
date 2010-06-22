@@ -1,21 +1,31 @@
 #+STARTUP: showall indent
-#+STARTUP:
-hidestars
+#+STARTUP: hidestars
 #+BEGIN_HTML
 ---
 title: Traverse of the Glyders from Capel Curig to Nant Peris.
-layout: post
+layout: mountaineering
 excerpt: "A traverse of the Glyders from Capel Curig to Nant Peris."
 
 comments: true
 ---
 #+END_HTML
-
+* A Traverse of the Glyders from Capel Curig to Nant Peris.
 I have traversed the Glyders a few times starting at Ogwen
 and descending to into Capel Curig. Back in 1980 I started in Nant
 Peris and did the traverse to Capel Curig. However, this year we were
 staying at the Bryn Tyrch in Capel Curig and I decided to do the walk
 the opposite way round, from Capel Curig to Nant Peris.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/2010-06-glyders/DSCF2134.JPG" rel="lightbox" title="Summit of Glyder Fach from Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2134.JPG" width="200"
+     alt="Summit of Glyder Fach from Castle of the Winds."></a></p>
+  <p>Summit of Glyder Fach from Castle of the Winds.</p>
+
+</div>
+#+END_HTML
+
+Note to see more photographs from the walk click [[file:glyders_photos.org][here]] .
 
 It was going to be hot and sunny, so I stopped at the shop in Capel to
 buy some flavoured water and a couple of slabs of flapjack. Walking
@@ -40,6 +50,16 @@ in the middle of the Snowdonia range, with views towards the
 Carneddeau, Snowdon plus views of the mountains to the south and
 west. Almost all of the significant Snowdonia peaks are visible from
 here. 
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a href="/images/2010-06-glyders/DSCF2132.JPG" rel="lightbox" title="Snowdon and the Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2132.JPG" width="200"
+     alt="Snowdon and the Castle of the Winds."></a></p>
+  <p>Snowdon and the Castle of the Winds.</p>
+
+</div>
+#+END_HTML
+
 
 From Gallt yr Ogof there is a slight descent to a damp col, which
 contains a lovely small llyn, then a short climb to the flat summit of
@@ -89,6 +109,16 @@ to get dehydrated. I had only bought about 500ml of water and really I
 needed far more. I didn't fancy drinking the water directly from the
 lake and there were no sources of running water close by.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/2010-06-glyders/DSCF2120.JPG" rel="lightbox" title="Glyder fach from Y Foel Goch."> <img src="/images/2010-06-glyders/DSCF2120.JPG" width="200"
+     alt="Glyder fach from Y Foel Goch."></a></p>
+  <p>Glyder fach from Y Foel Goch.</p>
+
+</div>
+#+END_HTML
+
+
 Time was pressing, as I had arranged to meet the family outside the
 Vaynol Arms at 3:15pm.  Also given the lack of water, I decided not to
 climb Y Garn, but to descend to the Llanberis Pass via the path that
@@ -105,15 +135,3 @@ back at the car about 3:45pm, half an hour later than anticipated. By
 this time I was really dehydrated with a headache and feeling
 dizzy. However, a quick trip to Pete's Eats and a pint of tea made me
 feel much better.
-
-#+BEGIN_HTML
-<div class="thumbnail">
-<a href="/images/2010-06-glyders/DSCF2166.JPG" rel="lightbox"
-title="Track behind Joe Brown's shop."> <img src="/images/2010-06-glyders/DSCF2166.JPG" width="200"
-     alt="Track behind Joe Brown's shop."></a>
-<a href="/images/2010-06-glyders/DSCF2167.JPG" rel="lightbox"
-title="The Cefn y Capel ridge."> <img src="/images/2010-06-glyders/DSCF2167.JPG" width="200"
-     alt="The Cefn y Capel ridge."></a>
-
-</div>
-#+END_HTML
