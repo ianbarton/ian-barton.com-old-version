@@ -1,13 +1,11 @@
 #+STARTUP: showall indent
-#+STARTUP:
-hidestars
+#+STARTUP: hidestars
 #+BEGIN_HTML
 ---
-title: Bryn Tyrch Hotel
+title: Bryn Tyrch Hotel, Capel Curig.
 layout: post
 excerpt: "The Bryn Tyrch in Capel Curig, a family friendly hotel with
-a high standard of accommodation and good food"
-
+a high standard of accommodation and good food."
 comments: true
 ---
 #+END_HTML
@@ -28,6 +26,15 @@ bar meals at the Bryn Tyrch. Recently the hotel has been refurbished and
 the standard and choice of food has been greatly improved. There are
 still the old photographs, taken by the guidebook author [[http://en.wikipedia.org/wiki/W._A._Poucher][WA Poucher]],
 who use to stay here.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <a href="/images/2010-06-glyders/DSCF2162.JPG" rel="lightbox"
+    title="Bryn Tyrch."> <img src="/images/2010-06-glyders/DSCF2162.JPG" width="200"
+         alt="Bryn Tyrch."></a>
+</div>
+#+END_HTML
+
 
 We have three children and now that they are getting older, we tend
 not to stay in hotels and guest houses, as we can no longer all fit in
