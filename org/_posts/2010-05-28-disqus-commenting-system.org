@@ -4,6 +4,7 @@
 #+BEGIN_HTML
 ---
 layout: post
+categories: [blog]
 title: Disqus Commenting System.
 excerpt: "Trying out a new commenting system."
 comments: true

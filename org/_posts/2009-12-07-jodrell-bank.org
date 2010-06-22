@@ -6,6 +6,7 @@
 #+BEGIN_HTML
 ---
 layout: post
+categories: [blog]
 title: Jodrell Bank.
 excerpt: "We don't live very far from the radio telescope at [[http://www.jb.man.ac.uk/][Jodrell Bank]]. The
 last time I visited was more than 10 years ago. However, yesterday our

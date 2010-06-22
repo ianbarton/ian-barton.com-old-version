@@ -5,6 +5,7 @@
 title: A Traverse of the Glyders from Capel Curig to Nant Peris.
 layout: post
 excerpt: "A traverse of the Glyders from Capel Curig to Nant Peris."
+categories: [blog, mountaineering]
 comments: true
 ---
 #+END_HTML
