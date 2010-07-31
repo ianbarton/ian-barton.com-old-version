@@ -1,0 +1,18 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Linux.
+#+BEGIN_HTML
+--- 
+layout:  mountaineering
+title: Aran Fawddwy.
+excerpt: "Via Ferrata Cir V from Val Gardena (July 2010)."
+comments: true
+--- 
+#+END_HTML
+On our first visit to the Dolomites I wanted to try climbing a Via
+Ferrata. Since at least one of the children wanted to come with me, I
+wanted to select a route that was hard enough to be interesting,
+easily accessible and not too long.
+
+
