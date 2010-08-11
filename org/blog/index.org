@@ -1,0 +1,13 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Blog
+#+BEGIN_HTML
+---
+layout: blog
+title: Welcome to Ian Barton's Website.
+---
+#+END_HTML
+* Blog.
+This is the part of the site for short posts and mini reviews.
