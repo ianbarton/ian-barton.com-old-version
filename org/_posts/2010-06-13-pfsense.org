@@ -65,3 +65,15 @@ Squid options, specifically different acl's and restricting access to
 different groups of users at different times of day. However, you can
 add custom options and simply pasting the relevant bits of my existing
 squid.conf seemed to work.
+
+** Update.
+After spending several days searching the pfSense forums I wasn't able
+to get transparent proxying, with Squid on a different box to Squid,
+working. I was simply unable to make the firewall rule that redirected
+all traffic to port 80, that didn't originate on the pfSense box, back
+to my Squid box work. I followed several guides on the pfSense forum
+to try and achieve this, but none of them worked.
+
+This was a shame, as everything about pfSense worked really well for
+me. I have since started using [[http:/www.ebox-platform.com][eBox]] , which I'll write about in a
+separate post. I'll just say that so far it is working well.
