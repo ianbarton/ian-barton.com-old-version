@@ -1,0 +1,33 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Erdigg Cycle Rides.
+layout: post
+excerpt: "A couple of short cycle rides around Erdigg, near Wrexham."
+
+comments: true
+---
+#+END_HTML
+
+[[http://www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-erddig][Erddig]] is owned by the National Trust, to whom it was bequeathed by
+the last Squire, Philip Yorke. The Yorke family maintained a
+fascinating collection of portraits and photographs of people who
+worked on the estate. Outside there is a formal garden and landscaped
+park.
+
+It is possible to do a short ride completely within the
+grounds. However, the ride can easily be extended along the quiet
+country lanes surrounding Erddig. You can hire cycles, including
+tandems, for very reasonable rates. The last time we went we hired a
+tandem for two of our children, which they really enjoyed riding. The
+cycle hire shop is within the property itself, so if you are not a
+National Trust member, you will have to pay to access the
+shop. However, you could also take the opportunity to look round the
+house and formal gardens. The park land surrounding the formal gardens
+is freely accessible, so if you bring your own bikes you can do the
+rides without paying to enter the house.
+
+The hire shop has a leaflet which shows a couple of rides of about 3
+miles through the grounds and along the local lanes. We did both these
+one after the other on a sunny day.
