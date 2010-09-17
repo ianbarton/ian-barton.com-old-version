@@ -1,0 +1,86 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Linux.
+#+BEGIN_HTML
+--- 
+layout:  mountaineering
+title: Via Ferrata Cir V.
+excerpt: "Via Ferrata Cir V from Val Gardena (July 2010)."
+comments: true
+--- 
+#+END_HTML
+* The Cir V Via Ferrata.
+These photos were taken in July 2010. Click [[file:cir-v-via-ferrata.org][here]] to read more about
+this route.
+
+Hover your mouse over the photo to see the caption. Click the photo to
+see a larger version.
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/dolomites/DSCF0153.JPG" rel="lightbox"
+    title="Looking down the gully at the start of the ferrata."> <img src="/images/dolomites/DSCF0153.JPG" width="200"
+         alt="Looking down the gully at the start of the ferrata."></a>
+<a href="/images/dolomites/DSCF0154.JPG" rel="lightbox"
+    title="The ladder at the start of the climbing."> <img src="/images/dolomites/DSCF0154.JPG" width="200"
+         alt="The ladder at the start of the climbing."></a>
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/dolomites/DSCF0161.JPG" rel="lightbox"
+    title="Looking down to the ledge above the ladder."> <img src="/images/dolomites/DSCF0161.JPG" width="200"
+         alt="Looking down to the ledge above the ladder."></a>
+<a href="/images/dolomites/DSCF0159.JPG" rel="lightbox"
+    title="Statue of the Madonna above the ladder pitch."> <img src="/images/dolomites/DSCF0159.JPG" width="200"
+         alt="Statue of the Madonna above the ladder pitch."></a>
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/dolomites/DSCF0173.JPG" rel="lightbox"
+    title="Ella at the start of the traverse."> <img src="/images/dolomites/DSCF0173.JPG" width="200"
+         alt="Ella at the start of the traverse."></a>
+<a href="/images/dolomites/DSCF0216.JPG" rel="lightbox"
+    title="John on the traverse."> <img src="/images/dolomites/DSCF0216.JPG" width="200"
+         alt="John on the traverse."></a>
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/dolomites/DSCF0192.JPG" rel="lightbox"
+    title="John just above the ladder."> <img src="/images/dolomites/DSCF0192.JPG" width="200"
+         alt="John just above the ladder."></a>
+<a href="/images/dolomites/DSCF0211.JPG" rel="lightbox"
+    title="Ella on the wall above the first ledge."> <img src="/images/dolomites/DSCF0211.JPG" width="200"
+         alt="Ella on the wall above the first ledge."></a>
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/dolomites/DSCF0220.JPG" rel="lightbox"
+    title="Ella on the final steep wall below the shoulder."> <img src="/images/dolomites/DSCF0220.JPG" width="200"
+         alt="Ella on the final steep wall below the shoulder."></a>
+<a href="/images/dolomites/DSCF0182.JPG" rel="lightbox"
+    title="Ella on the summit."> <img src="/images/dolomites/DSCF0182.JPG" width="200"
+         alt="Ella on the summit."></a>
+
+</div>
+#+END_HTML
+
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/dolomites/DSCF0228.JPG" rel="lightbox"
+    title="View of the route from the descent gully."> <img src="/images/dolomites/DSCF0228.JPG" width="200"
+         alt="View of the route from the descent gully."></a>
+<a href="/images/dolomites/DSCF0229.JPG" rel="lightbox"
+    title="View of the route from the descent gully."> <img src="/images/dolomites/DSCF0229.JPG" width="200"
+         alt="View of the route from the descent gully."></a>
+</div>
+#+END_HTML

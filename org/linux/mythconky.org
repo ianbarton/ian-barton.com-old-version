@@ -1,0 +1,52 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: MythTV Conky Status.
+#+BEGIN_HTML
+--- 
+layout: linux 
+title: Display MythTV Backend Status in Conky.
+--- 
+#+END_HTML
+
+* Displaying the Status of Your MythTV Backend in Conky.
+[[http://conky.sourceforge.net/][Conky]] is an application that can display all sorts of information in a
+window on your desktop. It is typically used to display information
+about the status of your computer, such as the free disk space and
+memory usage. It's very expendable and can be used to display the
+output from bash and other scripts.
+
+Our household uses [[http://mythtv.org][MythTV]] to record and watch television. The Myth
+Conky Status python script can display status information from the
+MythTV backend including the status of each tuner, the amount of free
+disk space, information about upcoming recording and recently recorded
+programs.
+
+** Installation and Usage.
+Myth Conky Status is a Python script and requires the MythTV python
+bindings to be installed. In Ubuntu you can do this by:
+
+#+BEGIN_SRC emacs-shell
+  sudo apt-get install libmyth-python
+#+END_SRC
+
+To install copy the  myth_conky_status.py script into a convenient
+directory. You can display the various options available by running:
+
+#+BEGIN_SRC emacs-shell
+  ./myth_conky_status --help
+#+END_SRC
+
+The scheduled, recording and expiring options require that you also
+specify the number of programs to be displayed.
+
+In my .conkyrc I have:
+
+#+BEGIN_SRC emacs-shell
+  ${color white}${execpi 60 ~/devel/myth_conky_status/myth_conky_status.py --disk-space --tuners --scheduled 5 --recorded 5}
+#+END_SRC
+
+You can download the program from my [[http://github.com/geekinthesticks/mythtv_conky_status][Github]] repository.
+
+
+

@@ -1,0 +1,28 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Move the Window Buttons in Ubuntu Lucid.
+#+BEGIN_HTML
+--- 
+layout: linux 
+title: Move the Window Buttons in Ubuntu Lucid.
+--- 
+#+END_HTML
+
+* Move the Window Buttons in Ubuntu.
+Ubuntu Lucid has chosen to put the Close, Maximize and Minimize
+buttons on the left hand side of the window. I prefer the original
+layout, with the buttons on the right. You can alter the button
+positions using gconf to edit the settings. However, we have quite a
+lot of computers in our house and I wanted a simpler method.
+
+I wrote a Python [[http://github.com/geekinthesticks/Move-Ubuntu-Lucid-Buttons][script]] to make the whole process simpler. You can use
+the script to move the buttons to the right, or to restore the Lucid
+default.
+
+#+BEGIN_SRC emacs-shell
+./move_buttons.py --option
+  -h, --help     show this help message and exit
+  -d, --default  Restore Lucid defaults.
+  -r, --right    Position window controls to the right.
+#+END_SRC
