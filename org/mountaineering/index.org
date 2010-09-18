@@ -29,7 +29,7 @@ older writings from the 1980′s. Please note that I tend to write about
 climbs where things go wrong, we don’t always have epics!
 
 * Articles.
-
+- [[file:cir-v-via-ferrata.org][Cir V]] - Via Ferrata in the Italian Dolomites.
 - [[file:aran_fawddwy.org][Aran Fawddwy]] - a circular walk (June 2010).
 - [[file:traverse-of-the-glyders-from-capel-curig-to-nant-peris.org][A Traverse of the Glyders]] - from Capel Curig to Nant Peris (June 2010).
 - [[file:night-on-moel-siabod.org][A Night on Moel Siabod]] - camping on the summit (April 2010).
