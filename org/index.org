@@ -1,8 +1,7 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Various Mountaineering Scribblings.
+#+TITLE: Website Index.
 #+BEGIN_HTML
 ---
 layout: default
@@ -28,4 +27,4 @@ to my hosts.deny.
 It's going to take a while to get this site working properly. If you
 find any broken links, or missing pages, please let me know.
 
-#+END_HTML
+
