@@ -4,7 +4,7 @@
 *.JPG
 *.png
 *.gif
-jekyll/_site/
+/jekyll/_site/
 /_site/
 /jekyll/cycling
 /jekyll/books
@@ -13,7 +13,6 @@ jekyll/_site/
 /jekyll/mythtv
 /jekyll/_posts
 /jekyll/_drafts
-/jekyll/
 /jekyll/index.html
 /jekyll/sitemap.html
 /jekyll/contact.html
