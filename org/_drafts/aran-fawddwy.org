@@ -1,0 +1,12 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Aran Fawddwy
+layout: post
+excerpt:
+
+comments: true
+---
+#+END_HTML
+

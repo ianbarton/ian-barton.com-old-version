@@ -1,0 +1,30 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Filtering Category Lists in Jekyll
+layout: post
+excerpt:
+
+comments: true
+---
+#+END_HTML
+
+I have been wondering for a while how to produce filtered category lists of
+posts in Jekyll. For example I wanted to produce a list of blog posts
+that also have the "mountaineering" category. Here is one way of doing
+it:
+
+
+{% for post in site.categories.blog %}
+  {% if post.categories contains 'mountaineering' %}
+    <li><span>{{ post.date | date_to_string }}</span> - {{ post.title }}</li>
+
+  {% endif %}
+
+{% endfor %}
+
+
+In a nutshell the main for loop iterates through all posts with
+category "blog" and inside the loop I examine each post to see if it
+has the category "mountaineering".

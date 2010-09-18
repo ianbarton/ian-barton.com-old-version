@@ -1,0 +1,15 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: eBox
+layout: post
+excerpt:
+
+comments: true
+---
+#+END_HTML
+
+* eBox Platform.
+After failing to get pfSense to use Squid on a different box to where
+pfSense was installed, I had another look at firewall appliances.

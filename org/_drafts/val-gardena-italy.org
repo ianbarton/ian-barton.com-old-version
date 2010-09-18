@@ -1,0 +1,46 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Val Gardena Italy
+layout: post
+excerpt:
+categories: [blog, mountaineering]
+comments: true
+---
+#+END_HTML
+* Selva Val Gardena Italy.
+** Getting to Selva from Great Britain.
+It's possible to drive all the way from Calais. Apparently the journey
+takes around 12 hours. We decided to fly. Initially we wanted to fly
+to Insbruck, but it seems that the low cost operators only fly there
+in the winter. In the end we chose to fly from Liverpool to Treviso,
+near to Venice using Ryanair.
+
+The flight was delayed by about 30 minutes, which meant that we didn't
+arrive until ???pm. Ryanair run coaches from the airport to
+Venice. However we had booked into the Crystal Hotel at P???, which
+was about ??? miles from the airport. We emerged from the airport
+expecting to get a taxi to the hotel. However, most of the taxi drivers
+had knocked off for the night and the few taxis that appeared while we
+were waiting could only take four passengers (there were five of
+us). Eventually, I resorted to ringing the hotel. The proprietor spoke
+very little English and my Italian is non existent. However, he did
+manage to order a taxi for us.
+
+Hotel Crystal was very comfortable, with air conditioned rooms and I
+can thoroughly recommend it. You can catch a bus from the hotel back
+to Treviso, or walk about 1km to the station and get a train into Venice.
+
+** Car Hire.
+
+** Places to Stay.
+There are a vast number of places to stay in Selva.
+
+Since we have three children we wanted a place that had three bedrooms.
+
+** Cable Car and Lift Passes.
+You can get passes for either three or six days. The six day passes
+are better value and not much more expensive than the three day
+ones. However, before you can buy a pass you will need to get a
+voucher from your hotel or apartment.

@@ -1,0 +1,19 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Stiperstones
+layout: post
+excerpt: "A short walk along the Stiperstones ridge."
+categories: [blog, mountaineering]
+comments: true
+---
+#+END_HTML
+The Stiperstones in Shropshire is a distinctive hill which has
+quartzite outcrops or tors along its summit ridge. The summit is very
+accessible, with a car park only about 15 minutes walk away. Natural
+England and the Shropshire Wildlife Trust has recently begun a "Back
+to Purple" project, which aims to remove the conifers and other
+woodland and restore the land to heather based heath.
+
+
