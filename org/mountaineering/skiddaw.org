@@ -7,25 +7,27 @@
 layout: mountaineering
 title: Skiddaw.
 comments: true
-
+categories: [mountaineering]
 ---
 #+END_HTML
 
 
-#+BEGIN_HTML
-<img src ="/images/skiddaw.jpg"
-"alt"="John and Ella on Skiddaw" align ="left" width="300"
-height="250" title="John and Ella on Skiddaw" class="img"</img>
-A paragraph with an image. The align attribute of the image is set to "left". The image will float to the left of this text.
-</p>
-#+END_HTML
 We often go to the Lake District in the October half term for a short
 break. At that time of year the hours of daylight are short and the
 weather can be dreadful. However, the autumn colours are always worth
 seeing and sometimes you get those cold clear days when you can see
 for miles.
 
-This year we were staying at the Lairbeck Hotel in Keswick. This is a
+#+BEGIN_HTML
+<div class="photofloatr"> <p><a href="/images/skiddaw/DSCF1056.JPG"
+  rel="lightbox" title="John and Ella on Skiddaw" <img
+  src="/images/skiddaw/DSCF1056.JPG" width="200" alt="John and Ella on
+  Skiddaw"></a></p> <p>Cadair Idris from the summit of Aran
+  Fawddwy</p> </div>
+#+END_HTML
+
+
+This year we were staying at the [[http://www.lairbeckhotel-keswick.co.uk/][Lairbeck Hotel]] in Keswick. This is a
 very friendly small hotel in a Victorian house. The great advantage
 for us is that they have a room large enough for all five of us to
 share.
@@ -41,17 +43,18 @@ Keswick and not too strenuous. I had climbed it once before in the
 views back over Keswick.
 
 Rather than walking from the hotel, we cheated by driving up to the
-car park at ???. The tops were clear and it didn't look as though it
-was going to rain in the next few hours.
+car park at Latrigg. The tops were clear and it didn't look as though
+it was going to rain in the next few hours.
 
 As we plodded along the path towards the summit ridge the wind was
 gradually increasing in force. Rather than continue plodding all the
 way to the main summit, we turned off at the fence at the top of
-Jenkin Hill and headed up to Little Man. The last fee feet to the
+Jenkin Hill and headed up to Little Man. The last few feet to the
 summit were exposed to the full force of the gale. I had trouble
 staying on my feet, even though I was carrying a fairly heavy
 sack. Ella was blown off her feet a couple of times. We sat down next
-to the rusty remains of the ??? and I took a couple of photos. It
-would have been dangerous to continue along the summit ridge, as there
-was a distinct possibility of Ella being blown off. We dropped back
-down to the path at Jenkin Hill and were soon out of the worst of the wind.
+to the rusty remains of the old fence posts and I took a couple of
+photos. It would have been dangerous to continue along the summit
+ridge, as there was a distinct possibility of Ella being blown off. We
+dropped back down to the path at Jenkin Hill and were soon out of the
+worst of the wind.
