@@ -2,7 +2,7 @@
 #+STARTUP: hidestars
 #+BEGIN_HTML
 ---
-title: Cyfrwy Arete Cadair Idris
+title: Not the Cyfrwy Arete Cadair Idris
 layout: post
 excerpt:
 
