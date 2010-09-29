@@ -1,22 +1,15 @@
-:SETUP:
-#+SETUPFILE: ~/.emacs-lisp/org-templates/level-1.org
 #+TITLE: Mountain Data for the UK.
 #+STARTUP: overview
 #+STARTUP: hidestars
 #+OPTIONS: H:3 num:nil tags:nil toc:1 timestamps:nil
-#+INFOJS_OPT: view:overview ltoc:nil toc:t
-#+TAGS: n_wales(n) lakes(l) scotland(s) peak_district(p)
-#+LINK_UP: index.html
-#+LINK_HOME: ../index.html
-:END:
 #+BEGIN_HTML
 ---
-layout: default
+layout: mountaineering
 title: Mountain Data.
 ---
 #+END_HTML
 This page is purely for my own reference and convenience. I don't
-claim that it is in any accurate or up to date. I think that I
+claim that it is in any way accurate or up to date. I think that I
 originally copied the data from [[http://v-g.me.uk/index.htm][v-g]] Backpacking in Britain website.
 
 * Wales.
@@ -201,7 +194,7 @@ originally copied the data from [[http://v-g.me.uk/index.htm][v-g]] Backpacking 
 |----------------+-------------------------------------------------+------+--------+----------|
 | Western        |                                                 |      |        |          |
 | Mountains      |                                                 |      |        |          |
-| [Mynydd Du]    | Garreg Lwyd [Moel Gornach]                      | 2021 |    616 | SN740179 |
+| (Mynydd Du)    | Garreg Lwyd (Moel Gornach)                      | 2021 |    616 | SN740179 |
 |                | Garreg Las                                      | 2083 |    635 | SN777203 |
 |                | Waun Lefrith                                    | 2221 |    677 | SN797215 |
 |                | Picws Du - Bannau Sir Gaer                      | 2457 |    749 | SN811218 |
@@ -212,7 +205,7 @@ originally copied the data from [[http://v-g.me.uk/index.htm][v-g]] Backpacking 
 |                |                                                 |      |        |          |
 | Central        |                                                 |      |        |          |
 | Mountains      |                                                 |      |        |          |
-| [Fforest Fawr] | Fan Gyhirych                                    | 2379 |    725 | SN880190 |
+| (Fforest Fawr) | Fan Gyhirych                                    | 2379 |    725 | SN880190 |
 |                | Fan Fraith                                      | 2192 |    668 | SN887183 |
 |                | Fan Nedd                                        | 2175 |    663 | SN913184 |
 |                | Fan Llia                                        | 2073 |    632 | SN938186 |
@@ -428,7 +421,7 @@ originally copied the data from [[http://v-g.me.uk/index.htm][v-g]] Backpacking 
 | 175 | Gallt y Wenallt                                 | 2031 |  619 | SH642532 | Snowdon       |
 | 176 | Gallt y Daren                                   | 2031 |  619 | SH778344 | Arenigs       |
 | 177 | Cefn yr Ystrad                                  | 2024 |  617 | SO086137 | Beacons       |
-| 178 | Garreg Lwyd [Moel Gornach]                      | 2021 |  616 | SN740179 | Beacons       |
+| 178 | Garreg Lwyd (Moel Gornach)                      | 2021 |  616 | SN740179 | Beacons       |
 | 179 | Foel Boeth                                      | 2021 |  616 | SH779341 | Arenigs       |
 | 180 | Cefn Gwyntog                                    | 2018 |  615 | SH976265 | Hirnants      |
 | 181 | Llechwedd Du                                    | 2014 |  614 | SH894224 | Arans         |
@@ -671,12 +664,12 @@ originally copied the data from [[http://v-g.me.uk/index.htm][v-g]] Backpacking 
 |                 | Great Stony Hill                | 2323 | 708 | NY823359 |
 |                 | Chapelfell Top                  | 2306 | 703 | NY875346 |
 |                 | Fendrith Hill                   | 2283 | 696 | NY877333 |
-|                 | Westernhope Moor [James's Hill] | 2215 | 675 | NY923325 |
+|                 | Westernhope Moor (James's Hill) | 2215 | 675 | NY923325 |
 |                 | Killhope Law                    | 2208 | 673 | NY819448 |
 |                 | Three Pikes                     | 2136 | 651 | NY833343 |
 |                 | The Dodd                        | 2014 | 614 | NY791457 |
 |                 | Flinty Fell                     | 2014 | 614 | NY770419 |
-|                 | Middlehope Moor [Burtree Fell]  | 2008 | 612 | NY862432 |
+|                 | Middlehope Moor (Burtree Fell)  | 2008 | 612 | NY862432 |
 | Roxburgh        |                                 |      |     |          |
 | &               |                                 |      |     |          |
 | Cheviots        | The Cheviot                     | 2674 | 815 | NT909205 |
