@@ -16,6 +16,14 @@ the Cwmrhwyddfor Farm camp site near Tal y Llyn, off the A487
 Dolgellau to Machynlleth road. I hadn't stayed there since the 1980's,
 but remember it being a decent site.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/2010-08-cadair/DSCF0299.JPG" rel="lightbox" title="Cyfrwy Arete" <img src="/images/2010-08-cadair/DSCF0299.JPG" width="200"
+     alt="Cyfrwy Arete"></a></p>
+  <p>Cyfrwy Arete</p>
+</div>
+#+END_HTML
+
 We arrived late in the afternoon to be met at the entrance by the old
 man who owns the farm. He now has very bad arthritis and spends his
 day sitting in the car collecting camp site fees, while the rest of
