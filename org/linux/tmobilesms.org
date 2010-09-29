@@ -1,0 +1,76 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Send SMS Messages on T-Mobile from a Terminal.
+#+BEGIN_HTML
+--- 
+layout: linux 
+title: Send SMS Messages on T-Mobile from a Terminal.
+--- 
+#+END_HTML
+* A Python Script to Send SMS Messages Via T-Mobile.
+I wrote this script for a couple of reasons:
+
+ - I wanted an easy way to send SMS to people when I was at the
+   computer. I really don't like trying to compose messages on the
+   phone.
+ - I wanted to have a way that my various computers could send me
+   alerts via SMS.
+
+In order to use this script you need to have a T-Mobile account and to
+have registered with their web services. The script is basically a way
+of automating their Web text page. Please note that this library is
+not in any way supported or endorsed by T-Mobile. The protocols it
+uses are undocumented and may stop working at any time.
+
+You can download the script from [[http://github.com/geekinthesticks/TMobileSMS][GitHub]].
+
+** Using the Script.
+You need to create a file called .tmobile.sms in your home directory.
+
+#+BEGIN_SRC emacs-shell
+  [tmobile]
+  user=TMobileWebUserName
+  password=YourPassword
+
+
+  [recipients]
+  anne=4412345678
+  ian=4412394821
+
+#+END_SRC
+
+The file contains two sections. The [tmobile] section specifies your
+T-Mobile web account user name and password. The [recipients] section
+specifies a list of recipients and their phone numbers. Note that
+numbers should be preceded with the two digit country code with no
+leading "+" or "0".
+
+The various command line options are:
+
+#+BEGIN_SRC emacs-shell
+  Options:
+  -h, --help            show this help message and exit
+  -r RECIPIENT, --recipient=RECIPIENT
+                        Recipent name
+  -m MESSAGE, --message=MESSAGE
+                        Message (max. 160 chars)
+  -d DEBUG, --debug=DEBUG
+                        Print debug information.
+  -t, --delivery-report
+                        Send a delivery report.
+  -p, --print-recipients
+                        Print the list of stored recipients
+  -c CONFIG_FILE, --config-file=CONFIG_FILE
+                        Configuration file.
+
+#+END_SRC
+
+Typical usage is:
+
+#+BEGIN_SRC emacs-shell
+  ./sms.py --recipient=anne --message="Don't forget the cat food"
+#+END_SRC
+
+If your message is longer than 160 chars, it will be truncated.
+

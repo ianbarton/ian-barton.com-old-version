@@ -1,0 +1,30 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: A Python Class for Google Weather.
+#+BEGIN_HTML
+--- 
+layout: linux 
+title: A Python Class for Google Weather.
+--- 
+#+END_HTML
+* A Python Wrapper for Google Weather.
+The Google Weather API is completely undocumented. I developed this
+class using information that I found on the web. Since the API
+undocumented and unsupported by Google, it may not work for you!
+
+* Installation and Usage.
+You can download the source from [[http://github.com/geekinthesticks/Python-Google-Weather][Github]] and there is a small example
+program. I am using the program with [[http://conky.sourceforge.net/][conky]] to display the weather for
+my region. I also have a web page that displays weather conditions for
+various regions in Britain.
+
+The class contains a dictionary that maps the various weather
+conditions returned by Google to Gnome status icons, which make it
+easier for Gnome users to display weather icons. The program can
+optionally download weather icons from Google's server, which are
+cached locally.
+
+In order to avoid repeated requests to Google, weather pages are
+cached locally and you can set an expiry option to determine how long
+they are cached before a fresh page is downloaded.
