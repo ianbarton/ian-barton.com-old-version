@@ -3,7 +3,7 @@
 #+BEGIN_HTML
 ---
 title: Not the Cyfrwy Arete Cadair Idris
-layout: post
+layout: mountaineering
 excerpt:
 
 comments: true
