@@ -35,6 +35,15 @@ small children and a number of dogs. We did wonder if they children or
 the dogs would be noisy, but as it turned out they weren't the
 problem.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a href="/images/2010-08-cadair/DSCF0308.JPG" rel="lightbox"
+  title="Ella plodding up the scree slope." <img src="/images/2010-08-cadair/DSCF0308.JPG" width="200"
+     alt="Ella plodding up the scree slope."></a></p>
+  <p>Ella plodding up the scree slope.</p>
+</div>
+#+END_HTML
+
 We went for tea at the pub at the end of Tal y Lyn, where the food was
 basic "pub grub". We got back to the camp site as it was getting dark
 and after half an hour or so chatting went to bed. The Scousers were
@@ -59,6 +68,15 @@ Monday and guess which is the only day of the week the hotel is
 closed? Rather than a nice bar meal, we sat on the benches outside and
 munched our sandwiches.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/2010-08-cadair/DSCF0303.JPG" rel="lightbox"
+  title="Looking NE from the screes." <img src="/images/2010-08-cadair/DSCF0303.JPG" width="200"
+     alt="Looking NE from the screes."></a></p>
+  <p>Looking NE from the screes.</p>
+</div>
+#+END_HTML
+
 The walk up to the Cwm containing Llyn y Gadair was really
 enjoyable. The views of Cadair gradually unfold as you gain
 height. Even the fact that I was carrying a heavy sack with four sets
@@ -75,6 +93,16 @@ she wanted to come with me, but the others decided to descend. I gave
 them the map and showed them that they just needed to contour along
 the slope until they joined the Foxes path, which would lead them back
 to the car.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a href="/images/2010-08-cadair/DSCF0311.JPG" rel="lightbox"
+  title="Ella on the summit of Pen y Gadair." <img src="/images/2010-08-cadair/DSCF0311.JPG" width="200"
+     alt="Ella on the summit of Pen y Gadair."></a></p>
+  <p>Ella on the summit of Pen y Gadair.</p>
+</div>
+#+END_HTML
+
 
 Ella and I walked over towards the start of the 1,000 foot screen
 slope that leads to the summit of Penygadair. I checked the altitude
@@ -94,6 +122,16 @@ who had cycled up from Dolgellau and were carrying their bikes. I
 started to get cramp in my legs, but drinking some water soon relieved
 the symptoms.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/2010-08-cadair/DSCF0317.JPG" rel="lightbox"
+  title="Almost back at the road." <img src="/images/2010-08-cadair/DSCF0317.JPG" width="200"
+     alt="Almost back at the road."></a></p>
+  <p>Almost back at the road.</p>
+</div>
+#+END_HTML
+
+
 The forecast had been for the weather to deteriorate in the evening
 and I could see clouds arriving from the direction of Barmouth and
 beginning to envelop the higher ground. Luckily, we managed to get
@@ -102,6 +140,6 @@ road I didn't know whether to turn left or right, as I had given the
 map to the others. I decided to turn right and in less than five
 minutes we were back at the car.
 
-We drove back to Dolgellau and had tea at Y Sospan in Queens Square. The food was
-excellent.
+We drove back to Dolgellau and had tea at Y Sospan in Queens
+Square.
 
