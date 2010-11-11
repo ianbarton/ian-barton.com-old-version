@@ -1,0 +1,42 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Open Source Database of British Hills.
+#+BEGIN_HTML
+--- 
+layout:  mountaineering
+title: Open Source Database of British Hills.
+comments: true
+--- 
+#+END_HTML
+
+Although I am not a fanatical Munro Bagger, or Hewitt ticker I am
+interested in statistical information about British Hills. There are a
+number of sites on the web that provide such information. Mostly their
+data is based on Chris Crocker's and Graham Jackson's excellent [[http://www.biber.fsnet.co.uk/index.html][Statistical
+topics in hillwalking]] site.
+
+Chris and Graham's data is available for download in a variety of
+formats. However, the database itself is maintained in Microsoft
+Access. I wanted a desktop application that allowed me to browse the
+information and possibly extend it to do other things like keeping a
+log of my ascents. Since I use Linux, I wanted to get the data in a
+format that was accessible not only to me, but to as many other people
+as possible.
+
+I chose [[http://www.sqlite.org/][SQLite]] since it's available for Windows, Mac and Linux and is
+included with my favourite programming language Python. Unlike most
+other database engines SQLite has almost zero configuration and
+maintenance, you can treat it just like any other file on your
+system. I also wanted the front end to be installable on as many
+platforms as possible, so I chose Qt. This cross platform development
+framework was originally developed by Trolltech, but was recently
+bought by Nokia. I have never used Qt before, so it's going to be a
+learning curve for me.
+
+Since it's an Open Source program I am hosting the code on [[https://github.com/geekinthesticks/The-Mountains-of-England--Wales-and-Scotland./wiki][Github]] . At
+the moment the project is in its very early stages. I have created
+Sqlite databases from Chris and Graham's data and written a very
+simple grid to browse that data. So far the project runs on both Linux
+and Windows (I don't have a Mac to test it on).
+
