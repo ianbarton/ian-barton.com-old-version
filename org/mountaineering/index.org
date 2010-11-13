@@ -40,7 +40,7 @@ climbs where things go wrong, we don’t always have epics!
 - [[file:first_pinnacle_rib_tryfan.org][First Pinaccle Rib Tryfan]] How not to go climbing with young children
   (July 2007).
 - [[./route_major.html][Route Major.]] We get lost on the famous route on Mont Blanc's southern side.
-- [[file:benighted_on_the_ben.][Benighted on the Ben]] A Winter ascent of Glover's Chimney almost leads to bed & breakfast
+- [[file:benighted_on_the_ben.org][Benighted on the Ben]] A Winter ascent of Glover's Chimney almost leads to bed & breakfast
   on the summit of Ben Nevis.
 - [[file:castell_helen_gogarth.org][Castell Helen Gogarth]]  Classic cliff with a cafe at the top!
 - [[file:crowberry_left_fork.org][Crowberry Gully, Left Fork]] Buchaille Etive Mor. Much more fun than
