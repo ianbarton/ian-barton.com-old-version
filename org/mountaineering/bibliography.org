@@ -8,3 +8,14 @@ layout:  mountaineering
 title: Bibliography of Mountaineering Books.
 --- 
 #+END_HTML
+
+** Ronald Turnbull 2007, /The Book of the Bivvy/ 2nd Edition, Cicerone
+
+** Steve Ashton, /The Ridges of Snowdonia/ Cicerone
+
+** Steve Ashton 2007, /Scrambles in Snowdonia/ Cicerone.
+As far as I know this was the first book about scrambling published in
+the UK.
+
+** Terry Marsh 2010, /Great Mountain Days in Snowdonia/ Cicerone
+
