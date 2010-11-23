@@ -40,3 +40,4 @@ Sqlite databases from Chris and Graham's data and written a very
 simple grid to browse that data. So far the project runs on both Linux
 and Windows (I don't have a Mac to test it on).
 
+If you want to try it out, please head over to my [[https://github.com/geekinthesticks/The-Mountains-of-England--Wales-and-Scotland./wiki][Github]] pages.
