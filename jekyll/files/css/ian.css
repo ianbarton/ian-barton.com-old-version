@@ -265,3 +265,17 @@ ul.posts {
     float: left; 
     width: 100%;
 }
+
+
+.post_info {
+    
+    margin: 10px;
+    border-top: blue 1px solid;
+    //border-bottom: blue 1px solid;
+    //border-width: 1px; 
+    //border-style: solid;
+    //border-color: blue;
+    //padding-left: 10px;
+    //padding-right: 10px;
+    padding-bottom: 10px;
+}
