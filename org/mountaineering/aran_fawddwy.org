@@ -22,9 +22,9 @@ To see more photos click [[file:aran_photos.org][here]] .
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a href="/images/2010-06-arans/DSCF2208.JPG" rel="lightbox" title="Cadair Idris
-  from the summit of Aran Fawddwy" <img src="/images/2010-06-arans/DSCF2208.JPG" width="200"
+  from the summit of Aran Fawddwy" ><img src="/images/2010-06-arans/DSCF2208.JPG" width="200"
      alt="Cadair Idris
-  from the summit of Aran Fawddwy"></a></p>
+  from the summit of Aran Fawddwy"/></a></p>
   <p>Cadair Idris
   from the summit of Aran Fawddwy</p>
 </div>
@@ -63,8 +63,8 @@ before you reach this one.
 #+BEGIN_HTML
 <div class="photofloatl">
   <p><a href="/images/2010-06-arans/DSCF2193.JPG" rel="lightbox"
-  title="View of the Rhinogs" <img src="/images/2010-06-arans/DSCF2193.JPG" width="200"
-     alt="View of the Rhinogs"></a></p>
+  title="View of the Rhinogs" ><img src="/images/2010-06-arans/DSCF2193.JPG" width="200"
+     alt="View of the Rhinogs"/></a></p>
   <p>View of the Rhinogs</p>
 </div>
 #+END_HTML
@@ -91,8 +91,8 @@ summit of Aran Fawddwy was intermittently disappearing.
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a href="/images/2010-06-arans/DSCF2215.JPG" rel="lightbox"
-  title="Looking towards the memorial cairn" <img src="/images/2010-06-arans/DSCF2215.JPG" width="200"
-     alt="Looking towards the memorial cairn"></a></p>
+  title="Looking towards the memorial cairn" ><img src="/images/2010-06-arans/DSCF2215.JPG" width="200"
+     alt="Looking towards the memorial cairn"/></a></p>
   <p>Looking towards the memorial cairn</p>
 </div>
 #+END_HTML
