@@ -1,0 +1,55 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Alpkit Gamma Headtorch
+layout: post
+excerpt:
+categories: [blog, mountaineering]
+comments: true
+---
+#+END_HTML
+
+I am a bit of a head torch addict. Over the years I have had a number
+of different ones - mostly from Petzl. These include the original
+Petzl Zoom, which used the old flat batteries and an updated version
+which used AA batteries. These accompanied me on many Alpine and
+Scottish winter trips. However, the battery life was limited, which
+meant carrying heavy spares. In the case of the original Zoom the
+connections could often be a bit dodgy, which meant disassembling the
+torch in the dark in freezing cold to get it working again.
+
+Fast forward 20 years or so and most head torches have LED
+lights. They may not be quite as bright as the original torches, but
+they run off AAA batteries, which means carrying spare batteries
+doesn't have a significant weight penalty. Battery life is much
+greater than the original Petzl Zoom and reliability seems
+significantly better.
+
+I already have a Petzl eLite, which lives in the car. Last year I
+bought a Petzl ???. One reason for choosing this particular torch is
+the red LED. This is useful outside when I don't want to
+destroy my night vision. I also use the red LED at home, or on
+holiday. I tend to get up much earlier than the rest of the family and
+I can switch on the torch to see what I am doing without disturbing
+anyone else.
+
+However, it's usually in the wrong place. I use it at night when
+I go outside to find the cats, or check on the buildings, but I also
+keep it in the bedroom when I am asleep. Thus it's usually downstairs
+when I want it upstairs or vice-versa. The obvious solution was to buy
+yet another head torch, keeping one upstairs and one
+downstairs. However, Petzl head torches are not cheap. Luckily I
+discovered the Alpkit [[http://www.alpkit.com/shop/cart.php?target%3Dproduct&product_id%3D16345&category_id%3D253][Gamma]] . I have bought a few things from Alpkit
+and been very happy with their products and service. The Gamma has
+white, green and red LED's with a strobe mode for emergencies. There
+is another red LED at the back of the battery box, which can also be
+set to strobe. All this is an amazing £12.50 delivered, including
+three Duracell AAA batteries.
+
+I bought one just before Christmas and am delighted with it. I have
+used the main beam when cycling, with the rear LED in flashing mode a
+couple of times and at the speed I go there is plenty of illumination
+on dark country lanes. It doesn't have the sliding filter over the
+lens to switch between spot and flood modes that the Petzl has, but i
+don't miss this. In fact I generally prefer it to my Petzl.
