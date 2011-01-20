@@ -24,3 +24,14 @@
 	</div>
      </div>
 
+     <div class="sidebox">
+	<div class="boxhead"><h2>Posts by Category.</h2></div>
+	<div class="boxbody">
+
+          <ul>
+            {% for category in site.categories %}
+            <li><a href="./categories/{{ category | first }}" >{{ category | first }}</a></li>
+            {% endfor %}
+          </ul>
+         </div>
+     </div>
