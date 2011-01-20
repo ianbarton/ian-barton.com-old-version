@@ -2,9 +2,9 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+BEGIN_HTML
-'---
-categories: [blog, linux]
 ---
+categories: [blog, linux]
+
 layout: post
 title: ADSL Connection Problems.
 tags: [gadgets, linux, test]

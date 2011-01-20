@@ -5,7 +5,7 @@
 title: Approx
 layout: post
 excerpt:
-
+categories: [blog, linux]
 comments: true
 ---
 #+END_HTML

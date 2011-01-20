@@ -5,9 +5,9 @@
 '---
 ---
 layout: post
-categories: [blog]
+categories: [blog, gadget]
 title: Model Helicopter
-tags: [gadgets, linux]
+tags: [gadgets]
 
 excerpt: "Having three young children is always a useful excuse for buying new
 toys. Last week I was looking around our local model shop and the
