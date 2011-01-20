@@ -19,6 +19,16 @@ where he published several articles. He also contributed to Ken
 Wilson's "Classic Rock" writing about three climbs on the East Face of
 Tryfan.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/backpacking_in_wales.jpg" rel="lightbox" title="Backpacking in Wales."> <img src="/images/backpacking_in_wales.jpg" 
+     alt="Backpacking in Wales."></a></p>
+  <p>Backpacking in Wales.</p>
+
+</div>
+#+END_HTML
+
+
 My father was an avid reader of seafaring books and one day I noticed
 him reading a book by Showell Styles and that's how I found about his
 fiction. Although I have my father's copies of many of his seafaring
