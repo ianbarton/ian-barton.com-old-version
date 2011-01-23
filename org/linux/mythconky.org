@@ -18,13 +18,12 @@ output from bash and other scripts.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/myth_conky_status.png" rel="lightbox"
-  title="Myth Conky Status" <img src="/images/myth_conky_status.png" width="200"
-     alt="Myth Conky Status"></a></p>
-  <p>Myth Conky Status
-  </p>
+  <p><a href="/images/myth_conky_status.png" rel="lightbox" title="Myth Conky Status" ><img src="/images/myth_conky_status.png" width="200"
+     alt="Myth Conky Status"/></a></p>
+  <p>Myth Conky Status</p>
 </div>
 #+END_HTML
+
 
 Our household uses [[http://mythtv.org][MythTV]] to record and watch television. The Myth
 Conky Status python script can display status information from the
