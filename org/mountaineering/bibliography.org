@@ -3,6 +3,8 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Bibliography of Mountaineering Books.
 #+BEGIN_HTML
+</head>
+
 --- 
 layout:  mountaineering
 title: Bibliography of Mountaineering Books.

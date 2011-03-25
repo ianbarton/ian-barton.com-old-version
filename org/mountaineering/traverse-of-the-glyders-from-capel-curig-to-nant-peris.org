@@ -1,6 +1,8 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
+</head>
+
 ---
 title: Traverse of the Glyders from Capel Curig to Nant Peris.
 layout: mountaineering

@@ -3,6 +3,8 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Open Source Database of British Hills.
 #+BEGIN_HTML
+</head>
+
 --- 
 layout:  mountaineering
 title: Open Source Database of British Hills.

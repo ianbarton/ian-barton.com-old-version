@@ -1,6 +1,8 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
+</head>
+
 ---
 title: Not the Cyfrwy Arete Cadair Idris
 layout: mountaineering
