@@ -6,15 +6,16 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+LINK_UP: index.html
 #+LINK_HOME: ../index.html
-#+BEGIN_HTML
-</head>
 
+#+BEGIN_HTML
 ---
 layout: mountaineering
 title: Mountaineering.
 comments: false
 ---
+
 #+END_HTML
+
 * Introduction.
 
 I have always been interested in mountaineering ever since my parents

@@ -3,8 +3,6 @@
 #+TITLE: A Night on Moel Siabod.
 #+BEGIN_HTML
 --- 
-</head>
-
 layout:  mountaineering
 title: A Night on Moel Siabod (April 2010).
 comments: true

@@ -4,8 +4,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Benighted on the Ben.
 #+BEGIN_HTML
-</head>
-
 ---
 layout: mountaineering
 title: Benighted on the Ben.

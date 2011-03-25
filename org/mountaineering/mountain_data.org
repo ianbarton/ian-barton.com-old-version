@@ -3,8 +3,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:3 num:nil tags:nil toc:1 timestamps:nil
 #+BEGIN_HTML
-</head>
-
 ---
 layout: mountaineering
 title: Mountain Data.

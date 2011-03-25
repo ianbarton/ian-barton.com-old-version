@@ -3,8 +3,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+BEGIN_HTML
-</head>
-
 ---
 layout: mountaineering
 title: Skiddaw.

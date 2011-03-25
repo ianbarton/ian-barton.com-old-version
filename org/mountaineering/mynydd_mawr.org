@@ -4,14 +4,15 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Mynydd Mawr.
 #+BEGIN_HTML
-</head>
-
 ---
 layout: mountaineering
 title: Mynydd Mawr.
 comments: true
 
 ---
+
+<em>AJAX</em> -- <a href="#" class="ex2trigger">view</a>
+
 #+END_HTML
 Mynydd Mawr is an outlier of the Moel Hebog group and is situated
 between Snowdon and the Nantlle Ridge. It's not very high - 698m or
