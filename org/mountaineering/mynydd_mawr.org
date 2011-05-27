@@ -11,7 +11,12 @@ comments: true
 
 ---
 
-<em>AJAX</em> -- <a href="#" class="ex2trigger">view</a>
+
+<img src="/images/osm_logo.png" id="Button-Map" width="20"
+height="20" alt="Map" title="OS Map - opens in new window"
+onClick="igbOpenWindow('/maps/m_mawr.html','G0086Map','width=700,height=600')"
+onMouseOver="igbswapImage('Button-Map','/images/osm_logo.png')"
+onMouseOut="igbswapImage('Button-Map','/images/osm_logo.png')">
 
 #+END_HTML
 Mynydd Mawr is an outlier of the Moel Hebog group and is situated
