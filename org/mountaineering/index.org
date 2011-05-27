@@ -53,5 +53,8 @@ climbs where things go wrong, we don’t always have epics!
 - [[file:snells_field_chanonix.org][Snell's Field Chamonix]]  Wild camping in Chamonix. Tents arrested by the gendarmerie.
 - [[file:western_gully_black_ladders.org][Western Gully Black Ladders]] A classic Welsh Grade IV, which turns out be much harder than most
   Scottish V's.
-- [[file:zero_and_point_five_ben_nevis.org][Zero and Point Five Ben Nevis]] Bumbling up the iconic gullies on Ben Nevis.
+- [[file:zero_and_point_five_ben_nevis.org][Zero and Point Five Ben Nevis]] Bumbling up the iconic gullies on Ben
+  Nevis.
 
+* Gear.
+- [[file:whats-in-my-rucksack.org][What's in my rucksack]] - an attempt to make it lighter.
