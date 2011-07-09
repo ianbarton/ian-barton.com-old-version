@@ -19,7 +19,7 @@ but remember it being a decent site.
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a href="/images/2010-08-cadair/DSCF0299.JPG" rel="lightbox"
-  title="Cyfrwy Arete" 
+  title="Cyfrwy Arete"
   ><img src="/images/2010-08-cadair/DSCF0299.JPG" width="200"
 alt="Cyfrwy Arete"/></a></p>
   <p>Cyfrwy Arete</p>
@@ -88,7 +88,8 @@ lakes. There was an outbreak of moaning when we arrived at Llyn Gafr
 and I said that we had to continue up the steep slope in front to Llyn
 y Gadair. It was about 2:00pm by the time we arrived and I estimated
 it would take about 2hrs to climb the arete itself, plus however long
-it took us to get to the bottom of it.
+it took us to get to the bottom of it. So reluctantly we decided that
+there wasn't time to do the climb.
 
 Having got this far, I wanted to traverse the summit. Ella said that
 she wanted to come with me, but the others decided to descend. I gave
@@ -106,15 +107,15 @@ to the car.
 #+END_HTML
 
 
-Ella and I walked over towards the start of the 1,000 foot screen
+Ella and I walked over towards the start of the 1,000 foot scree
 slope that leads to the summit of Penygadair. I checked the altitude
 on my Casio Protrek watch and was pleased to see that it agreed with
-the map. he screen slope is very badly eroded and the only thin worse
+the map. The scree slope is very badly eroded and the only thin worse
 than ascending it would be descending it. With my big load I was going
 slowly. Ella was tired and kept stopping for rests. However, she never
 once complained, even though she had a blister. As we gained height
 we were exposed to the wind. We stopped to put on our Rab Generator
-smocks, which have been a great success.
+smocks, which have been a great gear success.
 
 On the summit ridge the wind was buffeting Ella and by the cairn she
 could lean into the wind with her whole body weight. It seemed a long
