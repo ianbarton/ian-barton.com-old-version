@@ -7,7 +7,7 @@
 ---
 layout: post
 comments: true
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, gear]
 title: Review - Rab Generator Smock.
 excerpt: "In the last couple of months I have been buying some new
 walking/climbing gear. Quite a bit of my outdoor clothing is getting
@@ -19,7 +19,7 @@ a tee shirt/fleece/Goretex jacket layering system. "
 In the last couple of months I have been buying some new
 walking/climbing gear. Quite a bit of my outdoor clothing is getting
 rather battered and worn out (a bit like me). In the past I have used
-a tee shirt/fleece/Goretex jacket layering system. 
+a tee shirt/fleece/Goretex jacket layering system.
 
 For cold weather I have a complete Buffalo system, which was very
 kindly given to me by Hamish Hamilton about 20 years ago. For cold
@@ -42,4 +42,4 @@ lump when it gets damp. The smock weighs around 330 grammes and packs
 up into its own chest pocket, so I am happy to carry it with me all
 the time.
 
-I gave in to temptation and bought one. I am very glad that I did. 
+I gave in to temptation and bought one. I am very glad that I did.
