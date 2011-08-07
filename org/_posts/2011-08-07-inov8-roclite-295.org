@@ -1,0 +1,53 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Inov8 Roclite 295 Trail Shoes.
+layout: post
+excerpt: "A new pair of shoes for general wear and mountain walking."
+categories: [blog, mountaineering, gear]
+comments: true
+---
+#+END_HTML
+
+I spend most of my time wearing trainers. Over the last couple of
+years I have bought various Karrimor trainers/trail shoes from
+Sportsdirect. These have been OK for just knocking about in, but not
+particularly good for mountain walking. The main problem was the soles
+of my feet got sore and I could feel almost every sharp stone digging
+into my feet. So for mountain walking, I bought some moderately priced
+Hi-Tec walking boots, which were very comfortable, but the soles
+weren't great on wet rock, or for scrambling.
+
+Recently I noticed that the soles of my feet were hurting almost all
+of the time in my Karrimors. A quick look at the soles revealed that
+they were paper thin and I was almost walking barefoot. I had read
+various blog posts about Inov8's range of trail/running
+shoes. Unfortunately, there aren't any local stockists who keep a
+decent range actually in stock. Since I didn't want to keep wandering
+around in my karrimors with paper thin soles, I visited my local
+GoOutdoors, who did have a small number of different Inov8's in stock.
+
+When I got there it turned out that the only pair I had in my size
+were the Roclite 295. I had no idea what their intended use was
+(running, walking), but as soon as I tried them on I felt at home in
+them. A brief walk around the shop confirmed that they fitted me and
+were indeed very comfortable. I bought them and chucked out my old
+pair of trainers immediately.
+
+Fast forward a couple of weeks and we were going on holiday to
+Chamonix. Since I was taking a load of climbing gear and we were up
+against our weight limit for checked baggage, I decided to leave my
+Meindl boots at home and use the Roclite 295's for walking.
+
+On the first trip up to Lac Blanc in damp weather with a thin layer
+of snow, they were perfect. Although they aren't fully waterproof, the
+toe section is. Despite the snow my feet didn't get wet. Even better,
+although I was carrying a reasonably loaded sack with everyone's gear
+in it, my feet were comfortable. I was able to clamber over wet rocks
+without slipping. A couple more walks, involving some scrambling over
+rough terrain only increased my appreciation of these boots. The
+cushioning worked really well on rocky trails.
+
+You can see INOV8's specification for these boots [[http://www.inov-8.com/Products-Detail.asp?PG%3DPG1&P%3D5050973003&L%3D27][here]] .
+
