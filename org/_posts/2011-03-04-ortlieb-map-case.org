@@ -4,7 +4,7 @@
 ---
 title: Ortlieb Map Case.
 layout: post
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, gear]
 excerpt: "A review of the Ortlieb map case. Made from flexible and very
 strong material"
 

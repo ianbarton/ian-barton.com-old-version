@@ -5,7 +5,7 @@
 title: New Thermos Flasks
 layout: post
 excerpt: "The Thermos Ultimate really does keep your drink hot all day."
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, gear]
 comments: true
 ---
 #+END_HTML

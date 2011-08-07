@@ -5,7 +5,7 @@
 title: Alpkit Gamma Headtorch
 layout: post
 excerpt: "Review of the Alpkit Gamma."
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, gear]
 comments: true
 ---
 #+END_HTML
