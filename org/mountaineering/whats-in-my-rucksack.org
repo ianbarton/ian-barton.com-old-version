@@ -3,16 +3,16 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: What's in My Rucksack.
 #+BEGIN_HTML
---- 
+---
 layout:  mountaineering
 title: What's in My Rucksack.
 comments: true
---- 
+---
 #+END_HTML
 
 * What's In My Rucksack.
 
-On my recent two trip over the Carneddau, I was really struggling
+On my recent two trip over the [[file:carneddau-backpack.org][Carneddau]] , I was really struggling
 carrying my rucksack up the initial steep East ridge of Pen yr Ole
 Wen. I thought that I had packed carefully and not brought anything I
 didn't need. When I got back home, I decided to weigh everything and
