@@ -1,0 +1,110 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: What's in My Rucksack.
+#+BEGIN_HTML
+--- 
+layout:  mountaineering
+title: What's in My Rucksack.
+comments: true
+--- 
+#+END_HTML
+
+* What's In My Rucksack.
+
+On my recent two trip over the Carneddau, I was really struggling
+carrying my rucksack up the initial steep East ridge of Pen yr Ole
+Wen. I thought that I had packed carefully and not brought anything I
+didn't need. When I got back home, I decided to weigh everything and
+review what I had taken to see what I could cut down on.
+
+There are three lists:
+
+- Tent and rucksack.
+- Non food contents of my rucksack.
+- Food and water.
+
+
+** Non Food Items.
+|----------------------------------------------+------------|
+| Item                                         | Weight (g) |
+|----------------------------------------------+------------|
+| Alpkit head torch                            |        120 |
+| Compass                                      |         40 |
+| Phone                                        |        134 |
+| NeoAir                                       |        396 |
+| Rab Storm bivvy bag                          |        542 |
+| Paramo Fuera jacket                          |        340 |
+| Rab Generator smock                          |        318 |
+| Rab Alpine 400 sleeping bag (inc. stuff sac) |        938 |
+| Ortlieb map case                             |         70 |
+| Primus Gravity stove                         |        300 |
+| MSR kettle                                   |        280 |
+| Mug                                          |        138 |
+| Spork                                        |            |
+| Paramo hat                                   |         82 |
+| Proporta battery                             |        114 |
+| Rab Vapour Rise jacket                       |        530 |
+| iPod                                         |         70 |
+| Swiss army knife                             |        100 |
+| Fire steel                                   |         28 |
+| 4 x AA battery                               |        100 |
+| iPod                                         |         70 |
+| Lighter                                      |         40 |
+| C500 gas canister                            |        626 |
+| Buff                                         |         44 |
+| Exped Small dry bag                          |         48 |
+| Pillow                                       |         56 |
+| Towel                                        |        122 |
+| Sea to Summit dry bag                        |         70 |
+| Platypus(1 litre) x 2                        |         78 |
+| Gloves                                       |        102 |
+| Garmin eTrex                                 |        150 |
+| Map                                          |         84 |
+|----------------------------------------------+------------|
+| Total                                        |       5842 |
+|----------------------------------------------+------------|
+
+** Food.
+|-----------------------+--------|
+| Item                  | Weight |
+|-----------------------+--------|
+| 4 x Cadbury Highlight |     56 |
+| Kellogs Bar x 10      |    260 |
+| Pack n Go food (x4)   |    560 |
+| Water (2.5l)          |   2500 |
+|-----------------------+--------|
+| Total                 |   2876 |
+|-----------------------+--------|
+
+** Rucksack and Tent.
+|-------------------+------------|
+| Item              | Weight (g) |
+|-------------------+------------|
+| POD rucksack      |       1.78 |
+| Vango Spectre 200 |       2.70 |
+|-------------------+------------|
+| Total             |       4.48 |
+|-------------------+------------|
+
+** Trying to Make It Lighter!
+- Tent: the Vango is a good tent for the price, but quite heavy. I
+  could have easily saved more than 1kg by taking my Terra Nova Laser.
+- Mug: it's an insulated one and quite heavy. However, it's good for
+  keeping drinks hot and I hate trying to drink out of metal mugs.
+- Towel: for a single night I could easily have left this out.
+- Dehydrated food: I only needed two meals, so I shouldn't have taken four.
+- Water: I was camping near the summit where there was no water
+  nearby. I tend to drink quite a lot during the day and needed to
+  rehydrate two meals and make a couple of hot drinks. As it turned
+  out 2.5l was exactly the right amount.
+- Gas: I took a big one, whereas I should have bought a small
+  100g canister.
+- Bivvy bag: didn't really need this, but thought I might use it as a
+  tent footprint. In the event I didn't use it at all.
+- Lighter and fire steel: didn't need to take both.
+- Clothing: I could have left the Vapour Rise jacket behind. The Fuera
+  and Generator smock would be enough in summer weather.
+- Rucksack: I could buy a lighter one. However, I use the POD for
+  climbing and don't really want/need another sack.
+
