@@ -2,11 +2,11 @@
 #+STARTUP: hidestars
 #+TITLE: A Night on Moel Siabod.
 #+BEGIN_HTML
---- 
+---
 layout:  mountaineering
 title: A Night on Moel Siabod (April 2010).
 comments: true
---- 
+---
 #+END_HTML
 
 ** A Night on Moel Siabod - April 2010.
@@ -18,7 +18,7 @@ decided it was time to actually go and do it.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/Siabod_from_farm_track.jpg" rel="lightbox" title="Moel Siabod from the end of the farm track."> <img src="/images/Siabod_from_farm_track.jpg" width="200"
+  <p><a href="/images/2010-04_moel_siabod/Siabod_from_farm_track.jpg" rel="lightbox" title="Moel Siabod from the end of the farm track."> <img src="/images/2010-04_moel_siabod/Siabod_from_farm_track.jpg" width="200"
      alt="Moel Siabod from the end of the farm track."></a></p>
   <p>Moel Siabod from the end of the farm track.</p>
 
@@ -34,7 +34,7 @@ clear, but there was a slight haze.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/Ddear_Ddu_ridge.jpg" rel="lightbox" title="Ddear Ddu Ridge."> <img src="/images/Ddear_Ddu_ridge.jpg" width="200"
+  <p><a href="/images/2010-04_moel_siabod/Ddear_Ddu_ridge.jpg" rel="lightbox" title="Ddear Ddu Ridge."> <img src="/images/2010-04_moel_siabod/Ddear_Ddu_ridge.jpg" width="200"
      alt="Ddear Ddu Ridge."></a></p>
   <p>Ddear Ddu Ridge.</p>
 </div>
@@ -68,7 +68,7 @@ and cheese meal. It was now cold enough that I needed to wear all my
 layers, plus gloves to stop my hands freezing.
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/Tent_and_sunset_over_snowdon.jpg" rel="lightbox" title="The Tent and Sunset over Snowdon."> <img src="/images/Tent_and_sunset_over_snowdon.jpg" width="200"
+  <p><a href="/images/2010-04_moel_siabod/Tent_and_sunset_over_snowdon.jpg" rel="lightbox" title="The Tent and Sunset over Snowdon."> <img src="/images/2010-04_moel_siabod/Tent_and_sunset_over_snowdon.jpg" width="200"
      alt="The Tent and Sunset over Snowdon."></a></p>
   <p>The Tent and Sunset over Snowdon.</p>
 </div>
@@ -98,7 +98,7 @@ the tent was covered in a layer of ice.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/Sunrise_from_summit_of_Moel_Siabod.jpg" rel="lightbox" title="Sunrise."> <img src="/images/Sunrise_from_summit_of_Moel_Siabod.jpg" width="200"
+  <p><a href="/images/2010-04_moel_siabod/Sunrise_from_summit_of_Moel_Siabod.jpg" rel="lightbox" title="Sunrise."> <img src="/images/2010-04_moel_siabod/Sunrise_from_summit_of_Moel_Siabod.jpg" width="200"
      alt="Sunrise."></a></p>
   <p>Sunrise.</p>
 </div>
@@ -127,48 +127,48 @@ to see a larger version. Javascript must be enabled in your browser.
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a href="/images/Pont_Cyfyng.jpg" rel="lightbox" title="Pont Cyfyng."> <img src="/images/Pont_Cyfyng.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/Pont_Cyfyng.jpg" rel="lightbox" title="Pont Cyfyng."> <img src="/images/2010-04_moel_siabod/Pont_Cyfyng.jpg" width="200"
      alt="Pont_Cyfyng."></a>
             <a href="/images/Dawn_from_summit_of_moel_siabod.jpg"
-            rel="lightbox" title="Dawn from summit of Moel Siabod."> <img src="/images/Dawn_from_summit_of_moel_siabod.jpg" width="200"
+            rel="lightbox" title="Dawn from summit of Moel Siabod."> <img src="/images/2010-04_moel_siabod/Dawn_from_summit_of_moel_siabod.jpg" width="200"
      alt="Dawn from summit of Moel Siabod."></a>
 
 </div>
 
 <div class="thumbnail">
-<a href="/images/Glyders-and_Tryfan_at_sunset.jpg" rel="lightbox"
-title="Glyders and Tryfan at sunset."> <img src="/images/Glyders-and_Tryfan_at_sunset.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/Glyders-and_Tryfan_at_sunset.jpg" rel="lightbox"
+title="Glyders and Tryfan at sunset."> <img src="/images/2010-04_moel_siabod/Glyders-and_Tryfan_at_sunset.jpg" width="200"
      alt="Glyders and Tryfan at sunset."></a>
-<a href="/images/Summit_shelter.jpg" rel="lightbox" title="Summit shelter."> <img src="/images/Summit_shelter.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/Summit_shelter.jpg" rel="lightbox" title="Summit shelter."> <img src="/images/2010-04_moel_siabod/Summit_shelter.jpg" width="200"
      alt="Summit shelter."></a>
 
 </div>
 
 <div class="thumbnail">
-<a href="/images/Llyn_y_Foel_from_summit.jpg" rel="lightbox"
-title="Llyn y Foel from summit."> <img src="/images/Llyn_y_Foel_from_summit.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/Llyn_y_Foel_from_summit.jpg" rel="lightbox"
+title="Llyn y Foel from summit."> <img src="/images/2010-04_moel_siabod/Llyn_y_Foel_from_summit.jpg" width="200"
      alt="Llyn y Foel from summit."></a>
-<a href="/images/Looking_down_A5_towards_Betwys.jpg" rel="lightbox" title="Looking down A5 towards Betwys."> <img src="/images/Looking_down_A5_towards_Betwys.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/Looking_down_A5_towards_Betwys.jpg" rel="lightbox" title="Looking down A5 towards Betwys."> <img src="/images/2010-04_moel_siabod/Looking_down_A5_towards_Betwys.jpg" width="200"
      alt="Looking down A5 towards Betwys."></a>
 
 </div>
 
 <div class="thumbnail">
-<a href="/images/South_East_Ridge_from_Summit.jpg" rel="lightbox"
-title="South East Ridge from Summit."> <img src="/images/South_East_Ridge_from_Summit.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/South_East_Ridge_from_Summit.jpg" rel="lightbox"
+title="South East Ridge from Summit."> <img src="/images/2010-04_moel_siabod/South_East_Ridge_from_Summit.jpg" width="200"
      alt="South East Ridge from Summit."></a>
-<a href="/images/View_SW_from_summit.jpg" rel="lightbox" title="View SW from summit."> <img src="/images/View_SW_from_summit.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/View_SW_from_summit.jpg" rel="lightbox" title="View SW from summit."> <img src="/images/2010-04_moel_siabod/View_SW_from_summit.jpg" width="200"
      alt="View SW from summit."></a>
 
 </div>
 
 
 <div class="thumbnail">
-<a href="/images/Moel_Siabod_summit_trig_point.jpg" rel="lightbox"
-title="Summit trig point."> <img src="/images/Moel_Siabod_summit_trig_point.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/Moel_Siabod_summit_trig_point.jpg" rel="lightbox"
+title="Summit trig point."> <img src="/images/2010-04_moel_siabod/Moel_Siabod_summit_trig_point.jpg" width="200"
      alt="Summit trig point."></a>
-<a href="/images/Snowdon_at_dawn.jpg" rel="lightbox" title="Snowdon at
-dawn."> <img src="/images/Snowdon_at_dawn.jpg" width="200"
+<a href="/images/2010-04_moel_siabod/Snowdon_at_dawn.jpg" rel="lightbox" title="Snowdon at
+dawn."> <img src="/images/2010-04_moel_siabod/Snowdon_at_dawn.jpg" width="200"
      alt="Snowdon at
 dawn."></a>
 
