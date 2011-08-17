@@ -5,7 +5,7 @@
 title: Cycling Along the Manifold Valley
 layout: post
 ---
-#END_HTML
+#+END_HTML
 
 * The Manifold Valley Trail.
 The Manifold Valley in Derbyshire has an 8.5 mile cycle trail that
