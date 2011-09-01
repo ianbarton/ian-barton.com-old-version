@@ -5,7 +5,7 @@
 title: Casio Protrek Triple Sensor Watch
 layout: post
 excerpt: "Review of the Casio Protrek triple sensor watch."
-categories: [blog, mountaineering, gear]
+categories: [blog, gear]
 comments: true
 ---
 #+END_HTML

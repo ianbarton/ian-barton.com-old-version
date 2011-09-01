@@ -4,7 +4,7 @@
 ---
 title: Montane Terra Pants.
 layout: post
-categories: [blog, mountaineering, gear]
+categories: [blog, gear]
 excerpt: "Montane Terras are lightweight walking-climbing trousers, with several neat features."
 
 comments: true

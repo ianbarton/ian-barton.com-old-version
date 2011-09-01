@@ -7,7 +7,7 @@
 ---
 layout: post
 comments: true
-categories: [blog, mountaineering, gear]
+categories: [blog, gear]
 title: Review - Rab Generator Smock.
 excerpt: "In the last couple of months I have been buying some new
 walking/climbing gear. Quite a bit of my outdoor clothing is getting

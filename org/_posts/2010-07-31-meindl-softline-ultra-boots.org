@@ -5,7 +5,7 @@
 title: Meindl Softline Ultra Boots
 layout: post
 excerpt: "A new pair of walking boots."
-categories: [blog, mountaineering]
+categories: [blog, gear]
 comments: true
 ---
 #+END_HTML

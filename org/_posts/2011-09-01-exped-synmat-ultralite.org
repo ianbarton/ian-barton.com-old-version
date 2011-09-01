@@ -4,7 +4,7 @@
 ---
 title: Exped Synmat Ultralite
 layout: post
-categories: [blog, mountaineering, gear]
+categories: [blog, gear]
 excerpt: "Comparison of the Exped Synmat Ultralite and the Thermarest Neoair"
 
 comments: true
