@@ -1,0 +1,35 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Photos from My Aran Fawddwy Walk.
+#+BEGIN_HTML
+---
+layout:  mountaineering
+title: Photos from My Carneddau Traverse (April 2011).
+comments: true
+---
+#+END_HTML
+
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="" rel="lightbox"
+title=""> <img src=" " width="200"
+alt=""></a>
+<a href="" rel="lightbox"
+title=""> <img src="" width="200"
+alt=""></a>
+</div>
+#+END_HTML
+
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="" rel="lightbox"
+title=""> <img src=" " width="200"
+alt=""></a>
+<a href="" rel="lightbox"
+title=""> <img src="" width="200"
+alt=""></a>
+</div>
+#+END_HTML
