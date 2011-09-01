@@ -1,0 +1,69 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Exped Synmat Ultralite
+layout: post
+categories: [blog, mountaineering, gear]
+excerpt: "Comparison of the Exped Synmat Ultralite and the Thermarest Neoair"
+
+comments: true
+---
+#+END_HTML
+
+* Exped Synmat Ultralite and Thermarest Neoair Comparison.
+I am a big fan of my Thermarest Neoair, which is very comfortable,
+light and packs down small. However, I find that I tend to roll off it
+when I am asleep. Recently I needed to buy another light weight mat
+for one of the family. Rather than just buy another Neoair, I did some
+research and discovered the [[http://www.facewest.co.uk/Exped-SynMat-Ultralite.html][Exped Synmat Ultralite]] .
+
+Like the Neoair the Synmat is an inflatable, but there are significant
+differences. The Neoair relies on internal baffles, which prevent
+convection, to achieve its insulation. The Synmat is filled with
+Primaloft, which is laminated to the walls. This prevents the filling
+from migrating and allows for greater loft.
+
+The Neoair uses a single valve for both inflation and deflation, but
+the Synmat has two separate one way valves. Most people inflate the
+Neoair by mouth. You can inflate the Synmat the same way, but moisture
+from your breath will eventually compromise the effectiveness of the
+Primaloft. Exped sell a [[http://www.youtube.com/watch?v%3DGGIi7Of2ZFU][pillow pump]] , which functions both as a pillow
+filled with expanding foam and an air pump. I decided to buy a pillow
+pump, which works well both as a pump and a very comfortable pillow.
+
+There is one other important difference in construction between the
+Synmat and the Neoair. The inflatable tubes in the Neoair run
+horizontally, whilst those in the Synmat run vertically along the
+length of the mat. The outer tubes of the Synmat are slightly larger
+than the inner tubes, which makes it harder to roll off the mat.
+
+So how do the two mats compare for sleeping on? I haven't tested
+either mat in really cold conditions, but both kept me warm. Note the
+Synmat has a slightly higher R value, so in theory should provide
+better insulation. Both mats require about the same effort to inflate
+and pack down to a very similar size. However, I did find the Synmat
+slightly more comfortable than the Neoair and more importantly I
+didn't roll off the Synmat during the night.
+
+The Neoair feels quite flimsy compared to the Synmat, but I haven't
+had a problem with punctures. A nice detail is that the Synmat comes
+with a repair kit, whereas you have to buy one for the Neoair.
+
+So which do I prefer? It's a very close call, I like both mats and
+compared to other types of sleeping mat like my old Karrimat, or self
+inflating mats, they are streets ahead in terms of comfort, lightness
+and pack size. I marginally prefer the Synmat as I find it slightly
+more comfortable and so far I haven't rolled off it.
+
+** Comparison of Weights, Size and Insulation.
+
+|------------------+----------------+--------+---------|
+| Mat              | Size           | Weight | R Value |
+|------------------+----------------+--------+---------|
+| Synmat (medium)  | 183 x 52 x 7   | 474g   |     3.5 |
+| Neoair (regular) | 183 x 51 x 6.3 | 396g   |     2.5 |
+|------------------+----------------+--------+---------|
+
+Dimensions are the manufacturer's stated ones. Weights were measured
+on my scales and include the stuff sack.
