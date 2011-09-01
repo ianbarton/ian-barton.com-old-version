@@ -3,10 +3,11 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Snells Field Chamonix.
 #+BEGIN_HTML
---- 
+---
 layout: mountaineering
 title: Snells Field Chamonix.
---- 
+categories: [mountaineering]
+---
 #+END_HTML
 For many years impecunious British Alpinists camped on this field just
 outside Chamonix. It wasn't an official site. The field was owned by

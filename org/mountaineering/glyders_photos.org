@@ -3,11 +3,12 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: A Night on Moel Siabod.
 #+BEGIN_HTML
---- 
+---
 layout:  mountaineering
 title: Photos from Traverse of the Glyders (June 2010).
 comments: false
---- 
+categories: [mountaineering]
+---
 #+END_HTML
 * Photos from My Traverse of the Glyders.
 To read about the walk click [[file:traverse-of-the-glyders-from-capel-curig-to-nant-peris.org][here]] . Hover your mouse over the photo to see

@@ -7,6 +7,7 @@ layout: mountaineering
 excerpt: "A traverse of the Glyders from Capel Curig to Nant Peris."
 
 comments: true
+categories: [mountaineering]
 ---
 #+END_HTML
 * A Traverse of the Glyders from Capel Curig to Nant Peris.
@@ -49,7 +50,7 @@ cairn. The views from here are spectacular. You are more or less right
 in the middle of the Snowdonia range, with views towards the
 Carneddeau, Snowdon plus views of the mountains to the south and
 west. Almost all of the significant Snowdonia peaks are visible from
-here. 
+here.
 
 #+BEGIN_HTML
 <div class="photofloatl">

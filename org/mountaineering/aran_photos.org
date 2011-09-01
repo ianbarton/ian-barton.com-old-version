@@ -3,11 +3,12 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Photos from My Aran Fawddwy Walk.
 #+BEGIN_HTML
---- 
+---
 layout:  mountaineering
 title: Photos from My Aran Fawddwy Walk. (June 2010).
 comments: false
---- 
+categories: [mountaineering]
+---
 #+END_HTML
 
 To read about the walk click [[file:aran_fawddwy.org][here]] . Hover your mouse over the photo to see

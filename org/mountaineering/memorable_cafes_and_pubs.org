@@ -3,10 +3,11 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Memorable Cafes and Pubs.
 #+BEGIN_HTML
---- 
+---
 layout: mountaineering
 title: Memorable Cafes and Pubs.
---- 
+categories: [mountaineering]
+---
 #+END_HTML
 
 
@@ -48,7 +49,7 @@ campers with a fresh mug of tea, although I suspect that this was a
 ploy to stop people getting away without paying.
 
 * Peak District.
-** Outside 
+** Outside
 Hathersage and Calver Crossroads.
 
 ** Stoney Cafe.

@@ -6,6 +6,7 @@
 ---
 layout: mountaineering
 title: Mountain Data.
+categories: [mountaineering]
 ---
 #+END_HTML
 This page is purely for my own reference and convenience. I don't

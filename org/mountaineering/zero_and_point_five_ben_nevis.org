@@ -3,10 +3,11 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Linux.
 #+BEGIN_HTML
---- 
+---
 layout: mountaineering
 title: Zero and Point Five Gullies Ben Nevis.
---- 
+categories: [mountaineering]
+---
 #+END_HTML
 
 When I first started climbing Zero and Point Five gullies were still regarded as serious and committing climbs and still had relatively few ascents. However, by the early 1980's they were being climbed regularly.
@@ -22,7 +23,7 @@ I agreed, but was a bit worried as I wasn't sure if I was up to the
 route. Marian wasn't feeling too well, but Pippa persuaded her to
 keep going. The first pitch was almost banked out and Pippa and I
 climbed un-roped to the peg at the top. Pippa then threw down a rope
-and brought Marian up. 
+and brought Marian up.
 
 Pippa disappeared up the steep second pitch and lead out a full 50
 metres of rope. Marian and I followed climbing together. Although it

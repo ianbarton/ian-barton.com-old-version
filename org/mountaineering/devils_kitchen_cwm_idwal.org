@@ -3,12 +3,12 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Linux.
 #+BEGIN_HTML
---- 
+---
 layout: mountaineering
 title: The Devil's Kitchen Cwm Idwal.
 comments: true
-
---- 
+categories: [mountaineering]
+---
 #+END_HTML
 
 It was one weekend early in February and I had driven over

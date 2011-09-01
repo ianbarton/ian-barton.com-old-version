@@ -3,12 +3,13 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Linux.
 #+BEGIN_HTML
---- 
+---
 layout:  mountaineering
 title: Aran Fawddwy.
 excerpt: "A circular walk over Aran Fawddwy (June 2010)"
 comments: true
---- 
+categories: [mountaineering]
+---
 #+END_HTML
 * A Circular Walk from Craig Cowarch Over Aran Fawddwy.
 This was the day of the England versus West Germany World Cup match,

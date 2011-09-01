@@ -3,12 +3,12 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Gear.
 #+BEGIN_HTML
---- 
+---
 layout:  mountaineering
 title: Equipment.
 comments: true
-
---- 
+categories: [mountaineering, gear]
+---
 
 <ul id="toc"></ul>
 
@@ -71,7 +71,7 @@ Keswick gave me the chance to try one out. It turned out that
 [[http://www.needlesports.com/][Needlesports]] in Keswick stock the POD range of sacs. I was fairly
 certain that I wanted the [[http://www.needlesports.com/acatalog/Mail_Order_POD_56.html][Black Ice]] . You can remove the waist belt if
 required and the hood is extensible to enable you to increase its
-capacity. 
+capacity.
 
 The sac's capacity is 50 litres with an extra 10 litres if
 you extend the hood. For most of the time 50 litres is quite enough,
@@ -398,7 +398,7 @@ whether they are worth the price difference compared to a micro-fleece.
 ** Outer Layer.
 **** Rab Generator Jacket.
 I bought this on impulse in a sale in Joe Brown's and I am really glad
-I did. 
+I did.
 
 The Generator has a Pertex Quantum inner and outer filled with
 Primaloft 1 fill. Primaloft is a man made fibre, similar to

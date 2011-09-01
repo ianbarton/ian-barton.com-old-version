@@ -7,6 +7,7 @@
 layout:  mountaineering
 title: What's in My Rucksack.
 comments: true
+categories: [mountaineering, gear]
 ---
 #+END_HTML
 

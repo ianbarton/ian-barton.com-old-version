@@ -8,7 +8,7 @@
 layout: mountaineering
 title: Mynydd Mawr.
 comments: true
-
+categories: [mountaineering]
 ---
 
 

@@ -7,6 +7,7 @@
 layout:  mountaineering
 title: Trip to Chamonix 2011.
 comments: true
+categories: [mountaineering]
 ---
 #+END_HTML
 
@@ -44,3 +45,5 @@ you will feel the pull of the mountains again and will once again be
 plodding up towards a hut. Your ambitions will increase and the
 "Grandes Courses" like the Brenva Face climbs will be on your
 list. It's too late you have now become addicted.
+
+
