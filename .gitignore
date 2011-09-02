@@ -1,9 +1,6 @@
 *.pyc
 *~
-*.jpg
-*.JPG
-*.png
-*.gif
+/images
 /jekyll/_site/
 /_site/
 /jekyll/cycling
