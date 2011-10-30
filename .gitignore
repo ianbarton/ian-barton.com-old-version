@@ -1,5 +1,6 @@
 *.pyc
 *~
+/_drafts
 /images
 /jekyll/_site/
 /_site/
