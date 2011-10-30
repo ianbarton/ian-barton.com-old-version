@@ -1,7 +1,7 @@
 .directory
 *.pyc
 *~
-/_drafts
+/org/_drafts
 /images
 /jekyll/_site/
 /_site/
