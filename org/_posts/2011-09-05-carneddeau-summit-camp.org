@@ -4,7 +4,7 @@
 ---
 title: Carneddeau Summit Camp
 layout: post
-excerpt: "Campin near the summit of Carnedd Llewelyn."
+excerpt: "Camping near the summit of Carnedd Llewelyn."
 categories: [blog, mountaineering]
 comments: true
 ---
