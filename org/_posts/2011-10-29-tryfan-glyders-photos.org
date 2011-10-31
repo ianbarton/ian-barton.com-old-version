@@ -8,7 +8,7 @@ layout:  post
 title: Glyders Wild Camp (Photos).
 comments: false
 categories: [blog, mountaineering]
-excerpt:
+excerpt: "Photos from My Tryfan Scramble and Glyders Camping Trip."
 ---
 #+END_HTML
 
