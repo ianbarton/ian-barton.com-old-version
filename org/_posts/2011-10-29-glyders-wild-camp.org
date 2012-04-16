@@ -11,6 +11,9 @@ comments: true
 #+END_HTML
 
 * Day One - a Scramble on Tryfan.
+
+You can see more photos from the trip [[file:2011-10-29-tryfan-glyders-photos.org][here]] .
+
 For some time I had wanted to do a two day backpack around the Arans,
 starting from Cwm Cyarch and climbing Aran Fawddwy, then
 making my way along the duck boards and climbing Glasgwm to camp near
@@ -93,7 +96,7 @@ his attempt and was climbing back up.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a id="simpletitle" href="/images/2011-10_wales/DSCF2076.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2076.JPG"
   title="Y Garn from Tryfan"> <img src="/images/2011-10_wales/DSCF2076_1.JPG" width="200"
      alt="Y Garn from Tryfan"></a></p>
   <p>Y Garn from Tryfan</p>
@@ -139,7 +142,7 @@ slept quite well, waking around 6:00am. Sunrise was shortly after
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a id="simpletitle" href="/images/2011-10_wales/DSCF2102.JPG" title="Sunrise
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2102.JPG" title="Sunrise
   over Moel Siabdd"> <img src="/images/2011-10_wales/DSCF2102_1.JPG" width="200"
      alt="Sunrise
   over Moel Siabdd."></a></p>
@@ -160,7 +163,7 @@ between Glyder Fach and Capel Curig.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a id="simpletitle" href="/images/2011-10_wales/DSCF2104.JPG"  title="Snowdon
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2104.JPG"  title="Snowdon
   Horseshoe"> <img src="/images/2011-10_wales/DSCF2104_1.JPG" width="200"
      alt="Snowdon Horseshoe."></a></p>
   <p>Snowdon Horseshoe.</p>
@@ -182,7 +185,7 @@ short detour for the excellent views.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a id="simpletitle" href="/images/2011-10_wales/DSCF2105.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2105.JPG"
 
   title="Glyder fach and Bristly Ridge."
   > <img src="/images/2011-10_wales/DSCF2105_1.JPG" width="200"
@@ -205,7 +208,7 @@ trail shoes.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a id="simpletitle" href="/images/2011-10_wales/DSCF2128.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2128.JPG"
   title="Cefyn y Capel."
   > <img src="/images/2011-10_wales/DSCF2128_1.JPG" width="200"
      alt="Cefyn y Capel."></a></p>
