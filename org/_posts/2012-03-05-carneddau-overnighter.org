@@ -26,7 +26,7 @@ the Saturday to collect my son from his rowing training.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Gallt yr Ogof." href="/images/2012-03-carned/02032012265.jpg"><img
-alt="example1" width="200" alt="Wild ponies." title="Gallt yr Ogof." src="/images/2012-03-carned/02032012265.jpg" /></a>
+ width="200" alt="Wild ponies." title="Gallt yr Ogof." src="/images/2012-03-carned/02032012265.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -54,7 +54,7 @@ Telford's old A5.
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du." href="/images/2012-03-carned/02032012266.jpg"><img
-alt="example1" width="200" alt="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du." title="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du." src="/images/2012-03-carned/02032012266.jpg" /></a>
+ width="200" alt="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du." title="Cloud Clearing from Pen Llithrig y Wrach and Pen yr Helgi Du." src="/images/2012-03-carned/02032012266.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -70,7 +70,7 @@ Saturday.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Tryfan and the Glyders." href="/images/2012-03-carned/02032012267.jpg"><img
-alt="example1" width="200" alt="Tryfan and the Glyders." title="Gallt yr Ogof." src="/images/2012-03-carned/02032012267.jpg" /></a>
+ width="200" alt="Tryfan and the Glyders." title="Gallt yr Ogof." src="/images/2012-03-carned/02032012267.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -89,7 +89,7 @@ reasonable camera.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Llyn Colwyd." href="/images/2012-03-carned/02032012269.jpg"><img
-alt="example1" width="200" alt="Llyn Colwyd." title="Llyn Colwyd." src="/images/2012-03-carned/02032012269.jpg" /></a>
+ width="200" alt="Llyn Colwyd." title="Llyn Colwyd." src="/images/2012-03-carned/02032012269.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -114,7 +114,7 @@ final hundred feet or so onto the plateau.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Frogspawn." href="/images/2012-03-carned/02032012272.jpg"><img
-alt="example1" width="200" alt="Frogspawn." title="Frogspawn." src="/images/2012-03-carned/02032012272.jpg" /></a>
+ width="200" alt="Frogspawn." title="Frogspawn." src="/images/2012-03-carned/02032012272.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -137,7 +137,7 @@ proved, it was lucky that I decided not to carry on.
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen Llithrig y
 Wrach." href="/images/2012-03-carned/02032012276.jpg"><img
-alt="example1" width="200" alt="Pen Llithrig y
+ width="200" alt="Pen Llithrig y
 Wrach." title="Pen Llithrig y
 Wrach." src="/images/2012-03-carned/02032012276.jpg" /></a>
 
@@ -160,7 +160,7 @@ dung, in a perfect cairn shape.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Eigiau." href="/images/2012-03-carned/02032012281.jpg"><img
-alt="example1" width="200" alt="Cwm Eigiau." title="Cwm Eigiau." src="/images/2012-03-carned/02032012281.jpg" /></a>
+ width="200" alt="Cwm Eigiau." title="Cwm Eigiau." src="/images/2012-03-carned/02032012281.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -180,7 +180,7 @@ the tent later on the mist had come down.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Wild Ponies in the Distance." href="/images/2012-03-carned/02032012286.jpg"><img
-alt="example1" width="200" alt="Wild Ponies in the Distance." title="Wild Ponies in the Distance." src="/images/2012-03-carned/02032012286.jpg" /></a>
+ width="200" alt="Wild Ponies in the Distance." title="Wild Ponies in the Distance." src="/images/2012-03-carned/02032012286.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -197,7 +197,7 @@ into my rucksack.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Zephyros on Pen yr Helgi Du." href="/images/2012-03-carned/02032012288.jpg"><img
-alt="example1" width="200" alt="Zephyros on Pen yr Helgi Du." title="Zephyros on Pen yr Helgi Du." src="/images/2012-03-carned/02032012288.jpg" /></a>
+ width="200" alt="Zephyros on Pen yr Helgi Du." title="Zephyros on Pen yr Helgi Du." src="/images/2012-03-carned/02032012288.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -226,7 +226,7 @@ of ascent.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig yr Ysfa and Carnedd Llewelyn." href="/images/2012-03-carned/02032012293.jpg"><img
-alt="example1" width="200" alt="Craig yr Ysfa and Carnedd Llewelyn." title="Craig yr Ysfa and Carnedd Llewelyn." src="/images/2012-03-carned/02032012293.jpg" /></a>
+ width="200" alt="Craig yr Ysfa and Carnedd Llewelyn." title="Craig yr Ysfa and Carnedd Llewelyn." src="/images/2012-03-carned/02032012293.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -250,7 +250,7 @@ rest of the crowd grinned.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset over Carnedd Dafydd." href="/images/2012-03-carned/02032012295.jpg"><img
-alt="example1" width="200" alt="Sunset over Carnedd Dafydd." title="Sunset over Carnedd Dafydd." src="/images/2012-03-carned/02032012295.jpg" /></a>
+ width="200" alt="Sunset over Carnedd Dafydd." title="Sunset over Carnedd Dafydd." src="/images/2012-03-carned/02032012295.jpg" /></a>
 
 </div>
 #+END_HTML
