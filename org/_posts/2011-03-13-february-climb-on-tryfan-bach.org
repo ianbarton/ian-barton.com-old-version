@@ -1,5 +1,7 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
 #+BEGIN_HTML
 ---
 title: February Climb on Tryfan Bach
@@ -24,8 +26,8 @@ highly recommend.
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a href="/images/2011-02-tryfan-bach/DSCF1158.JPG"
-  rel="lightbox" 
-    title="Ella shelters from the wind.">  
+  rel="lightbox"
+    title="Ella shelters from the wind.">
     <img src="/images/2011-02-tryfan-bach/DSCF1158.JPG" width="300"
      alt="Ella shelters from the wind."></a></p>
   <p>Ella shelters from the wind.</p>
@@ -52,8 +54,8 @@ descent.
 #+BEGIN_HTML
 <div class="photofloatl">
   <p><a href="/images/2011-02-tryfan-bach/DSCF1165.JPG"
-  rel="lightbox" 
-    title="Getting close to the top.">  
+  rel="lightbox"
+    title="Getting close to the top.">
     <img src="/images/2011-02-tryfan-bach/DSCF1165.JPG" width="300"
      alt="Getting close to the top."></a></p>
   <p>Getting close to the top.</p>

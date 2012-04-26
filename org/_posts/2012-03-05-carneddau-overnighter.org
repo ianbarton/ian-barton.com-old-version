@@ -1,5 +1,7 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
 #+BEGIN_HTML
 ---
 title: Carneddau Overnighter
@@ -30,7 +32,6 @@ the Saturday to collect my son from his rowing training.
 
 </div>
 #+END_HTML
-
 
 I packed the truck on Thursday night as I planned to make an early
 start. I dropped the children off to catch the school bus just after

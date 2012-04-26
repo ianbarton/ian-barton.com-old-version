@@ -1,8 +1,9 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
-#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+INFOJS_OPT: view:info toc:nil ltoc:nil
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Jodrell Bank.
+
 #+BEGIN_HTML
 ---
 layout: post

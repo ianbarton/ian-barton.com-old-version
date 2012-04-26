@@ -1,8 +1,8 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
-#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
-#+BEGIN_HTML
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
 
+#+BEGIN_HTML
 ---
 layout: post
 title: Proporta Gadget Bag.

@@ -1,5 +1,7 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
 #+BEGIN_HTML
 ---
 title: Solar Maximum and Minimum Thermometer

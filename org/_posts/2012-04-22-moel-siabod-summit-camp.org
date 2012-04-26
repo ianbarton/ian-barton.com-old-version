@@ -6,6 +6,7 @@ title: Moel Siabod - Summit Camp
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 layout: post
 excerpt: "Quick overnight trip. Snatched in a brief window of good weather."
+tags: [mountaineering]
 categories: [blog, mountaineering]
 comments: true
 ---
@@ -16,7 +17,6 @@ wasn't too good. There was supposed to be a good chance of clear
 summits, but with hail showers possibly merging into longer periods of
 continuous downpours. The weather at home wasn't too bad, so i decided
 to drive over without making any definite plans about my objective.
-
 
 #+BEGIN_HTML
 <div class="photofloatr">
