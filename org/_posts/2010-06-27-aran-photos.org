@@ -1,0 +1,102 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Photos from My Aran Fawddwy Walk.
+#+BEGIN_HTML
+---
+layout:  mountaineering
+title: Photos from My Aran Fawddwy Walk. (June 2010).
+comments: false
+categories: [mountaineering]
+---
+#+END_HTML
+
+To read about the walk click [[file:aran_fawddwy.org][here]] . Hover your mouse over the photo to see
+the caption.
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/2010-06-arans/DSCF2239.JPG" rel="lightbox"
+    title="Gully up to the start of the walk."> <img src="/images/2010-06-arans/DSCF2239.JPG" width="200"
+         alt="Gully up to the start of the walk."></a>
+<a href="/images/2010-06-arans/DSCF2234.JPG" rel="lightbox"
+    title="Craig Cywarch."> <img src="/images/2010-06-arans/DSCF2234.JPG" width="200"
+         alt="Craig Cywarch."></a>
+</div>
+#+END_HTML
+
+
+#+BEGIN_HTML
+
+<div class="thumbnail">
+<a href="/images/2010-06-arans/DSCF2192.JPG" rel="lightbox"
+    title="Aran Fawddwy from the col below Glasgwm."> <img src="/images/2010-06-arans/DSCF2192.JPG" width="200"
+         alt="Aran Fawddwy from the col below Glasgwm."></a>
+<a href="/images/2010-06-arans/DSCF2193.JPG" rel="lightbox"
+    title="Rhinogs from the col below Glasgwm."> <img src="/images/2010-06-arans//DSCF2193.JPG" width="200"
+         alt="Rhinogs from the col below Glasgwm."></a>
+</div>
+
+#+END_HTML
+
+
+#+BEGIN_HTML
+
+<div class="thumbnail">
+<a href="/images/2010-06-arans/DSCF2200.JPG" rel="lightbox"
+    title="Approaching the summit plateau of Aran Fawddwy."> <img src="/images/2010-06-arans/DSCF2200.JPG" width="200"
+         alt="Approaching the summit plateau of Aran Fawddwy."></a>
+<a href="/images/2010-06-arans/DSCF2202.JPG" rel="lightbox"
+    title="Looking back from the slopes of Aran Fawddwy to Glasgwm"> <img src="/images/2010-06-arans//DSCF2202.JPG" width="200"
+         alt="Looking back from the slopes of Aran Fawddwy to Glasgwm"></a>
+</div>
+
+#+END_HTML
+
+
+#+BEGIN_HTML
+
+<div class="thumbnail">
+<a href="/images/2010-06-arans/DSCF2203.JPG" rel="lightbox"
+    title="Cadair Idris from slopes of Aran Fawddwy."> <img src="/images/2010-06-arans/DSCF2203.JPG" width="200"
+         alt="Cadair Idris from slopes of Aran Fawddwy."></a>
+<a href="/images/2010-06-arans/DSCF2207.JPG" rel="lightbox"
+    title="View along the summit ridge from the summit of Aran Fawddwy."> <img src="/images/2010-06-arans/DSCF2207.JPG" width="200"
+         alt="View along the summit ridge from the summit of Aran Fawddwy."></a>
+</div>
+
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/2010-06-arans/DSCF2213.JPG" rel="lightbox"
+    title="Creiglyn Dyfi from summit of Aran Fawddwy."> <img src="/images/2010-06-arans/DSCF2213.JPG" width="200"
+         alt="Creiglyn Dyfi from summit of Aran Fawddwy."></a>
+<a href="/images/2010-06-arans/DSCF2216.JPG" rel="lightbox"
+    title="Ridge above valley of Hengwm leading to the memorial cairn."> <img src="/images/2010-06-arans/DSCF2216.JPG" width="200"
+         alt="Ridge above valley of Hengwm leading to the memorial cairn."></a>
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/2010-06-arans/DSCF2222.JPG" rel="lightbox"
+    title="Memorial Cairn on ridge above Hengwm."> <img src="/images/2010-06-arans/DSCF2222.JPG" width="200"
+         alt="Memorial Cairn on ridge above Hengwm."></a>
+<a href="/images/2010-06-arans/DSCF2226.JPG" rel="lightbox"
+    title="Memorial Cairn on ridge above Hengwm."> <img src="/images/2010-06-arans/DSCF2226.JPG" width="200"
+         alt="Memorial Cairn on ridge above Hengwm."></a>
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a href="/images/2010-06-arans/DSCF2227.JPG" rel="lightbox"
+    title="Cwm Cywarch from the memorial cairn."> <img src="/images/2010-06-arans/DSCF2227.JPG" width="200"
+         alt="Cwm Cywarch from the memorial cairn."></a>
+<a href="/images/2010-06-arans/DSCF2229.JPG" rel="lightbox"
+    title="Aran Fawddwy from the memorial cairn."> <img src="/images/2010-06-arans/DSCF2229.JPG" width="200"
+         alt="Aran Fawddwy from the memorial cairn."></a>
+</div>
+#+END_HTML
+
