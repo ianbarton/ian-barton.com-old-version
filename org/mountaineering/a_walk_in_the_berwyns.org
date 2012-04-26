@@ -7,7 +7,7 @@
 layout:  mountaineering
 title: A Walk in the Berwyns.
 comments: true
-categories: [mountaineering]
+categories: [blog, mountaineering]
 ---
 #+END_HTML
 

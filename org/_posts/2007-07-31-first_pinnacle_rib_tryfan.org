@@ -5,10 +5,10 @@
 #+TITLE: First Pinnacle Rib.
 #+BEGIN_HTML
 ---
-layout: mountaineering
+layout: post
 title: First Pinnacle Rib Tryfan.
 comments: true
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, trips]
 ---
 #+END_HTML
 

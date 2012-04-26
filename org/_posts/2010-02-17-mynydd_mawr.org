@@ -5,10 +5,10 @@
 #+TITLE: Mynydd Mawr.
 #+BEGIN_HTML
 ---
-layout: mountaineering
+layout: post
 title: Mynydd Mawr.
 comments: true
-categories: [mountaineering]
+categories: [mountaineering, bog, trips]
 ---
 
 

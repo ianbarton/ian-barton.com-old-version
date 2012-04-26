@@ -5,10 +5,10 @@
 
 #+BEGIN_HTML
 ---
-layout:  mountaineering
+layout:  post
 title: A Night on Moel Siabod (April 2010).
 comments: true
-categories: [mountaineering]
+categories: [mountaineering, blog, trips]
 ---
 #+END_HTML
 

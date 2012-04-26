@@ -1,6 +1,8 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+TITLE: A Night on Moel Siabod.
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
 #+BEGIN_HTML
 ---
 layout:  mountaineering

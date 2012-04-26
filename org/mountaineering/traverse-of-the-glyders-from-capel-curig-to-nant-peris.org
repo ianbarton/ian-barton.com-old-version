@@ -1,5 +1,7 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
 #+BEGIN_HTML
 ---
 title: Traverse of the Glyders from Capel Curig to Nant Peris.
@@ -7,7 +9,7 @@ layout: mountaineering
 excerpt: "A traverse of the Glyders from Capel Curig to Nant Peris."
 
 comments: true
-categories: [mountaineering]
+categories: [blog, mountaineering]
 ---
 #+END_HTML
 * A Traverse of the Glyders from Capel Curig to Nant Peris.

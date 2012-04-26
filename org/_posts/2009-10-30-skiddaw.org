@@ -4,10 +4,10 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+BEGIN_HTML
 ---
-layout: mountaineering
+layout: post
 title: Skiddaw.
 comments: true
-categories: [mountaineering]
+categories: [mountaineering, blog, trips]
 ---
 #+END_HTML
 

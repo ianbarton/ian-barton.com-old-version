@@ -6,7 +6,7 @@
 ---
 title: February Climb on Tryfan Bach
 layout: post
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, trips]
 excerpt: "Climbing with the children on Tryfan Bach."
 
 comments: true

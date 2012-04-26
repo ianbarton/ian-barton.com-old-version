@@ -7,7 +7,7 @@ title: Moel Siabod - Summit Camp
 layout: post
 excerpt: "Quick overnight trip. Snatched in a brief window of good weather."
 tags: [mountaineering]
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, trips]
 comments: true
 ---
 #+END_HTML

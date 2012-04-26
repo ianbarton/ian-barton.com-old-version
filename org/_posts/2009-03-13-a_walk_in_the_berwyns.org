@@ -4,10 +4,10 @@
 #+TITLE: Linux.
 #+BEGIN_HTML
 ---
-layout:  mountaineering
+layout:  post
 title: A Walk in the Berwyns.
 comments: true
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, trips]
 ---
 #+END_HTML
 
