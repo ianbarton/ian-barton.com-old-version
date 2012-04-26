@@ -12,7 +12,7 @@ comments: true
 ---
 #+END_HTML
 
-* Wild Camp on Moel Siabod with the Zephyros 2.
+
 I had wanted to try my Zephyros for some time, but hadn't had an
 opportunity to take it into the mountains. The weather had settled
 into the pattern of recent years, with a dry Spring, but wet and
