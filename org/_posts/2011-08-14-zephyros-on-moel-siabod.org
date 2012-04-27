@@ -22,7 +22,7 @@ afternoon, followed by a brighter day.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a id="simpletitle" href="/images/2011-08-08_moel_siabod/08082011168_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/08082011168_1.jpg"
   title="Llyn y Foel." ><img src="/images/2011-08-08_moel_siabod/08082011168_1.jpg" width="200"
      alt="Llyn y Foel."/></a></p>
   <p>Llyn y Foel.</p>
@@ -40,7 +40,7 @@ that camping on top of a mountain in dodgy weather was a good idea.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/08082011170_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"   href="/images/2011-08-08_moel_siabod/08082011170_1.jpg"
   title="View from Ddear Ddu." ><img src="/images/2011-08-08_moel_siabod/08082011170_1.jpg" width="200"
      alt="View from Ddear Ddu."/></a></p>
   <p>View from Ddear Ddu.</p>
@@ -59,7 +59,7 @@ back to the car park near to the Bryn y Glo cafe.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/08082011173_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/08082011173_1.jpg"
   title="Ella at the top of the Ddear Ddu ridge." ><img src="/images/2011-08-08_moel_siabod/08082011173_1.jpg" width="200"
      alt="Ella at the top of the Ddear Ddu ridge."/></a></p>
   <p>Ella at the top of the Ddear Ddu ridge.</p>
@@ -81,7 +81,7 @@ the morning..
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/08082011170_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/08082011170_1.jpg"
   title="Looking towards the Rhinogs." ><img src="/images/2011-08-08_moel_siabod/08082011170_1.jpg" width="200"
      alt="Llyn y Foel."/></a></p>
   <p>Looking towards the Rhinogs.</p>
@@ -99,7 +99,7 @@ today it just looked grey, like the sky above.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/09082011176_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011176_1.jpg"
   title="Looking NE along the summit ridge." ><img src="/images/2011-08-08_moel_siabod/09082011176_1.jpg" width="200"
      alt="Looking NE along the summit ridge."/></a></p>
   <p>Looking NE along the summit ridge.</p>
@@ -116,7 +116,7 @@ slowly up the ridge, with Ella skipping along behind like a faun.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/09082011178_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011178_1.jpg"
   title="Zephyros below the summit." ><img src="/images/2011-08-08_moel_siabod/09082011178_1.jpg" width="200"
      alt="Zephyros below the summit."/></a></p>
   <p>Zephyros below the summit.</p>
@@ -136,7 +136,7 @@ in search of a suitable spot to pitch the tent.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/09082011181_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011181_1.jpg"
   title="Cloudy early morning." ><img src="/images/2011-08-08_moel_siabod/09082011181_1.jpg" width="200"
      alt="Cloudy early morning."/></a></p>
   <p>Cloudy early morning.</p>
@@ -154,7 +154,7 @@ cairn.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/09082011182_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011182_1.jpg"
   title="The SE ridge." ><img src="/images/2011-08-08_moel_siabod/09082011182_1.jpg" width="200"
      alt="The SE ridge."/></a></p>
   <p>The SE ridge.</p>
@@ -178,7 +178,7 @@ any problems.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/09082011184_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011184_1.jpg"
   title="Early morning storm clouds." ><img src="/images/2011-08-08_moel_siabod/09082011184_1.jpg" width="200"
      alt="Early morning storm clouds."/></a></p>
   <p>Early morning storm clouds.</p>
@@ -200,7 +200,7 @@ passed us by. It felt much more like Autumn than early August.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a <a id="simpletitle" href="/images/2011-08-08_moel_siabod/08082011167_1.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/08082011167_1.jpg"
   title="Finally out of the gale." ><img src="/images/2011-08-08_moel_siabod/08082011167_1.jpg" width="200"
      alt="Finally out of the gale."/></a></p>
   <p>.Finally out of the gale.</p>
