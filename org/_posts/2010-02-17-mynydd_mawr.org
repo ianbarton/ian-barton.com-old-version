@@ -25,7 +25,7 @@ between Snowdon and the Nantlle Ridge. It's not very high - 698m or
 spectacular.
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/DSCF1301.JPG" rel="lightbox" title="Looking NW from Mynydd Mawr" ><img src="/images/DSCF1301.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1301.JPG"  title="Looking NW from Mynydd Mawr" ><img src="/images/DSCF1301.JPG" width="200"
      alt="Looking NW from Mynydd Mawr"/></a></p>
   <p>Looking NW from Mynydd Mawr</p>
 </div>
@@ -37,7 +37,7 @@ staying in the adjacent valley at [[http://www.tycochsnowdonia.co.uk/][Hen Ysgub
 the mountain, so that's where I started my climb.
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/DSCF1304.JPG" rel="lightbox" title="Cwm Du Mynydd Mawr" ><img src="/images/DSCF1304.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1304.JPG"  title="Cwm Du Mynydd Mawr" ><img src="/images/DSCF1304.JPG" width="200"
      alt="Craig Cwm Du"/></a></p>
   <p>Craig Cwm Du Mynydd Mawr.</p>
 </div>
@@ -53,7 +53,7 @@ From Hen Ysgubor I walked up the fields behind the house to reach the
 edge of the trees at approximately 532566.
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/DSCF1311.JPG" rel="lighbox" title="" ><img src="/images/DSCF1311.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1311.JPG" rel="lighbox" title="" ><img src="/images/DSCF1311.JPG" width="200"
      alt="?????"/></a></p>
   <p>????</p>
 </div>
@@ -89,7 +89,7 @@ From the summit you can descend to Rhydd Ddu, or simply retrace your steps.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/DSCF1313.JPG" rel="lightbox" title="Nantlle Ridge from Mynydd Mawr" ><img src="/images/DSCF1313.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1313.JPG"  title="Nantlle Ridge from Mynydd Mawr" ><img src="/images/DSCF1313.JPG" width="200"
      alt="Nantlle Ridge from Mynydd Mawr"/></a></p>
   <p>Nantlle Ridge from Mynydd Mawr</p>
 </div>
@@ -97,7 +97,7 @@ From the summit you can descend to Rhydd Ddu, or simply retrace your steps.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/DSCF1315.JPG" rel="lightbox" title="Snowdon from  the summit of Mynydd Mawr" ><img src="/images/DSCF1315.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1315.JPG"  title="Snowdon from  the summit of Mynydd Mawr" ><img src="/images/DSCF1315.JPG" width="200"
      alt="Snowdon from  the summit of Mynydd Mawr"/></a></p>
   <p>Snowdon from  the summit of Mynydd Mawr</p>
 </div>
@@ -106,7 +106,7 @@ From the summit you can descend to Rhydd Ddu, or simply retrace your steps.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/DSCF1318.JPG" rel="lightbox" title="Looking towards Anglesey from the summit of from Mynydd Mawr" ><img src="/images/DSCF1318.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/DSCF1318.JPG"  title="Looking towards Anglesey from the summit of from Mynydd Mawr" ><img src="/images/DSCF1318.JPG" width="200"
      alt="Looking towards Anglesey from the summit of from Mynydd Mawr"/></a></p>
   <p>Looking towards Anglesey from the summit of from Mynydd Mawr</p>
 </div>
