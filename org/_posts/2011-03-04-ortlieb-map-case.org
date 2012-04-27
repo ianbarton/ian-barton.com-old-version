@@ -27,7 +27,7 @@ probably the best option. I bought mine from [[http://www.facewest.co.uk/Ortlieb
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a href="/images/Ortlieb_Map_Case.jpg" rel="lightbox"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/Ortlieb_Map_Case.jpg"
     title="Ortlieb Map Case."> <img src="/images/Ortlieb_Map_Case.jpg" width="200"
          alt="Ortlieb Map Case."></a>
 </div>
