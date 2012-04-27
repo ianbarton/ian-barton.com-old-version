@@ -14,10 +14,10 @@ categories: [mountaineering]
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a href="" rel="lightbox"
+<a class="fancybox-thumb" rel="fancybox-thumb" href=""
 title=""> <img src=" " width="200"
 alt=""></a>
-<a href="" rel="lightbox"
+<a class="fancybox-thumb" rel="fancybox-thumb" href=""
 title=""> <img src="" width="200"
 alt=""></a>
 </div>
@@ -26,10 +26,10 @@ alt=""></a>
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a href="" rel="lightbox"
+<a class="fancybox-thumb" rel="fancybox-thumb" href=""
 title=""> <img src=" " width="200"
 alt=""></a>
-<a href="" rel="lightbox"
+<a class="fancybox-thumb" rel="fancybox-thumb" href=""
 title=""> <img src="" width="200"
 alt=""></a>
 </div>
