@@ -25,8 +25,8 @@ highly recommend.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/2011-02-tryfan-bach/DSCF1158.JPG"
-  rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-02-tryfan-bach/DSCF1158.JPG"
+
     title="Ella shelters from the wind.">
     <img src="/images/2011-02-tryfan-bach/DSCF1158.JPG" width="300"
      alt="Ella shelters from the wind."></a></p>
@@ -53,8 +53,8 @@ descent.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/2011-02-tryfan-bach/DSCF1165.JPG"
-  rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-02-tryfan-bach/DSCF1165.JPG"
+
     title="Getting close to the top.">
     <img src="/images/2011-02-tryfan-bach/DSCF1165.JPG" width="300"
      alt="Getting close to the top."></a></p>
