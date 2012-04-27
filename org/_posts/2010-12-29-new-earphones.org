@@ -7,7 +7,7 @@
 title: New Earphones
 layout: post
 excerpt:
-categories: [blog, gadget]
+categories: [blog, gadgets]
 comments: true
 excerpt: "New earphones to replace my old pair that failed after only
 a year."

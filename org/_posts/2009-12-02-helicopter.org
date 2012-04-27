@@ -5,7 +5,7 @@
 
 ---
 layout: post
-categories: [blog, gadget]
+categories: [blog, gadgets]
 title: Model Helicopter
 tags: [gadgets]
 
