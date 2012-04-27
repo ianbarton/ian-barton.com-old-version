@@ -32,7 +32,7 @@ material, pack into a small sack and weight 500g or less.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/bothy_bag.jpg" rel="lightbox" title="Using the
+  <p><a href="/images/bothy_bag.jpg" class="fancybox-thumb"  title="Using the
   Bothy Bag in the Shropshire Hills."> <img src="/images/bothy_bag.jpg" width="200"
      alt="Using the
   Bothy Bag in the Shropshire Hills."></a></p>
