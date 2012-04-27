@@ -8,7 +8,7 @@
 layout: post
 title: Mynydd Mawr.
 comments: true
-categories: [mountaineering, bog, trips]
+categories: [mountaineering, blog, trips]
 ---
 
 
