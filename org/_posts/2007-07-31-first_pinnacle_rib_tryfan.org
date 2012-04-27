@@ -14,7 +14,7 @@ categories: [blog, mountaineering, trips]
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/img_5602.jpg" rel="lightbox" title="Base camp."> <img src="/images/img_5602.jpg" width="300"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/img_5602.jpg"  title="Base camp."> <img src="/images/img_5602.jpg" width="300"
      alt="Base Camp"></a></p>
   <p>Base Camp at Gwern y gof Uchaf</p>
 </div>
@@ -73,9 +73,13 @@ me.  We climbed in fairly short pitches of about 25 metres, partly because I was
 climbing on a single rope doubled and it makes it easier to keep an
 eye on the children if you do short pitches.
 
-Difficulties can be avoided on much of
-the route if you wish. However, tackling the ridge directly
-maintains the interest of the climb throughout. When I have climbed FPR in the past, I was climbing regularly and was much younger and fitter. In the past I had rushed up the route as fast as possible and not taken enough time to enjoy it. Climbing much more slowly with the children, in perfect weather, allowed me to appreciate the route.
+Difficulties can be avoided on much of the route if you wish. However,
+tackling the ridge directly maintains the interest of the climb
+throughout. When I have climbed FPR in the past, I was climbing
+regularly and was much younger and fitter. In the past I had rushed up
+the route as fast as possible and not taken enough time to enjoy
+it. Climbing much more slowly with the children, in perfect weather,
+allowed me to appreciate the route.
 
 Eventually we arrived below the Yellow Slab. This is a lot harder than
 anything else on the route. There are a couple of balancy steps on very
@@ -91,10 +95,13 @@ reach.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/IMG_5631.JPG" rel="lightbox" title="Ella on the
-     final pitch" <img src="/images/IMG_5631.JPG" width="300"
-     alt="Final pitch"></a></p>
-  <p>Ella on the final pitch</p>
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/IMG_5631.JPG"  title="Ella on the
+     final pitch."> <img src="/images/IMG_5631.JPG" width="300"
+     alt="Ella on the
+     final pitch."></a></p>
+  <p>Ella on the
+     final pitch.</p>
+
 </div>
 #+END_HTML
 
@@ -111,10 +118,11 @@ the camp site, while John and Ella strode off in front.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/IMG_5639.JPG" rel="lightbox" title="Summit of Tryfan" <img src="/images/IMG_5639.JPG" width="300"
-     alt="Summmit of Tryfan"></a></p>
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/IMG_5639.JPG"  title="Summit of Tryfan."> <img src="/images/IMG_5639.JPG" width="300"
+     alt="Summit of Tryfan"></a></p>
   <p>Summit next to Adam and Eve</p>
 </div>
+
 #+END_HTML
 
 We chucked everything in the back of the truck and went back to the
