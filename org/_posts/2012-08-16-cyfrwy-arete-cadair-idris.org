@@ -19,7 +19,7 @@ but remember it being a decent site.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/2010-08-cadair/DSCF0299.JPG" rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0299.JPG"
   title="Cyfrwy Arete"
   ><img src="/images/2010-08-cadair/DSCF0299.JPG" width="200"
 alt="Cyfrwy Arete"/></a></p>
@@ -40,7 +40,7 @@ problem.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/2010-08-cadair/DSCF0308.JPG" rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0308.JPG"
   title="Ella plodding up the scree slope." ><img src="/images/2010-08-cadair/DSCF0308.JPG" width="200"
      alt="Ella plodding up the scree slope."/></a></p>
   <p>Ella plodding up the scree slope.</p>
@@ -73,7 +73,7 @@ munched our sandwiches.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/2010-08-cadair/DSCF0303.JPG" rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0303.JPG"
   title="Looking NE from the screes." ><img src="/images/2010-08-cadair/DSCF0303.JPG" width="200"
      alt="Looking NE from the screes."/></a></p>
   <p>Looking NE from the screes.</p>
@@ -100,7 +100,7 @@ to the car.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/2010-08-cadair/DSCF0311.JPG" rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0311.JPG"
   title="Ella on the summit of Pen y Gadair." ><img src="/images/2010-08-cadair/DSCF0311.JPG" width="200"
      alt="Ella on the summit of Pen y Gadair."/></a></p>
   <p>Ella on the summit of Pen y Gadair.</p>
@@ -128,7 +128,7 @@ the symptoms.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/2010-08-cadair/DSCF0317.JPG" rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0317.JPG"
   title="Almost back at the road." ><img src="/images/2010-08-cadair/DSCF0317.JPG" width="200"
      alt="Almost back at the road."/></a></p>
   <p>Almost back at the road.</p>
