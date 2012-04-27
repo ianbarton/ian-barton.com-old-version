@@ -1,7 +1,7 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Photos from My Aran Fawddwy Walk.
+#+TITLE: Photos from My Carneddau Traverse (April 2011).
 #+BEGIN_HTML
 ---
 layout:  mountaineering
