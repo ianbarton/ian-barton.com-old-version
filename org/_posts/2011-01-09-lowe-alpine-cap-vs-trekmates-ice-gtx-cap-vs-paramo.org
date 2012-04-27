@@ -39,7 +39,7 @@ way using a press stud.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/Lowe_Alpine_Cap.jpg" rel="lightbox" title="Lowe
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/Lowe_Alpine_Cap.jpg"  title="Lowe
   Alpine Cap."> <img src="/images/Lowe_Alpine_Cap.jpg" width="200"
      alt="Lowe Alpine Cap."></a></p>
   <p>Lowe Alpine Cap.</p>
@@ -72,7 +72,7 @@ and the inner is a fleecy material similar to the Lowe.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/Trekmates_Ice_Cap.jpg" rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/Trekmates_Ice_Cap.jpg"
   title="Trekmates Ice Cap."> <img src="/images/Trekmates_Ice_Cap.jpg" width="200"
      alt="Trekmates Ice Cap."></a></p>
   <p>Trekmates Ice Cap.</p>
@@ -100,7 +100,7 @@ of sizes and is waterproof if treated with Nickwax TX.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/paramo_cap.jpg" rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/paramo_cap.jpg"
   title="Paramo Cap."> <img src="/images/paramo_cap.jpg" width="200"
      alt="Paramo Cap."></a></p>
   <p>Paramo Cap.</p>
