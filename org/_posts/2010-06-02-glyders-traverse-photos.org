@@ -1,0 +1,210 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Photos from My Traverse of the Glyders.
+#+BEGIN_HTML
+---
+layout:  mountaineering
+title: Photos from Traverse of the Glyders (June 2010).
+comments: false
+categories: [blog, mountaineering, trips]
+---
+#+END_HTML
+* Photos from My Traverse of the Glyders.
+To read about the walk click [[file:./glyders-wild-camp.html][here]] . Hover your mouse over the photo to see
+the caption.
+
+#+BEGIN_HTML
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2166.JPG" rel="lightbox"
+    title="Path behind Joe Brown's shop."> <img src="/images/2010-06-glyders/DSCF2166.JPG" width="200"
+         alt="Path behind Joe Brown's shop."></a>
+<a href="/images/2010-06-glyders/DSCF2167.JPG" rel="lightbox"
+    title="Cefen y Capel from Joe Browns."> <img src="/images/2010-06-glyders/DSCF2167.JPG" width="200"
+         alt="Cefen y Capel from Joe Browns."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2083.JPG" rel="lightbox"
+    title="Snowdon from Capel Curig."> <img src="/images/2010-06-glyders/DSCF2083.JPG" width="200"
+         alt="Snowdon from Capel Curig."></a>
+<a href="/images/2010-06-glyders/DSCF2086.JPG" rel="lightbox"
+    title="Capel Curig from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2086.JPG" width="200"
+         alt="Capel Curig from Cefen y Capel."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2090.JPG" rel="lightbox"
+    title="Pen yr Helgi Du from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2090.JPG" width="200"
+         alt="Pen yr Helgi Du from Cefen y Capel."></a>
+<a href="/images/2010-06-glyders/DSCF2093.JPG" rel="lightbox"
+    title="Capel Curig and the A5 from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2093.JPG" width="200"
+         alt="Capel Curig and the A5 from Cefen y Capel."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2094.JPG" rel="lightbox"
+    title="Y Foel Goch from Cefen y Capel.."> <img src="/images/2010-06-glyders/DSCF2094.JPG" width="200"
+         alt="Y Foel Goch from Cefen y Capel.."></a>
+<a href="/images/2010-06-glyders/DSCF2096.JPG" rel="lightbox"
+    title="Gallt yr Ogof from Cefn y Capel."> <img src="/images/2010-06-glyders/DSCF2096.JPG" width="200"
+         alt="Gallt yr Ogof from Cefn y Capel."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2099.JPG" rel="lightbox"
+    title="Moel Siabod from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2099.JPG" width="200"
+         alt="Moel Siabod from Cefen y Capel."></a>
+<a href="/images/2010-06-glyders/DSCF2101.JPG" rel="lightbox"
+    title="Cwm LLoer from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2101.JPG" width="200"
+         alt="Cwm LLoer from Cefen y Capel."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2103.JPG" rel="lightbox"
+    title="Looking back to the A5 from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2103.JPG" width="200"
+         alt="Looking back to the A5 from Cefen y Capel."></a>
+<a href="/images/2010-06-glyders/DSCF2104.JPG" rel="lightbox"
+    title="Looking back towards the A5 from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2104.JPG" width="200"
+         alt="Looking back towards the A5 from Cefen y Capel."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2105.JPG" rel="lightbox"
+    title="Cnicht and the Moelwyns from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2105.JPG" width="200"
+         alt="Cnicht and the Moelwyns from Cefen y Capel."></a>
+<a href="/images/2010-06-glyders/DSCF2106.JPG" rel="lightbox"
+    title="Gallt yr Ogof from Cefen y Capel."> <img src="/images/2010-06-glyders/DSCF2106.JPG" width="200"
+         alt="Gallt yr Ogof from Cefen y Capel."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2107.JPG" rel="lightbox"
+    title="East face of Tryfan."> <img src="/images/2010-06-glyders/DSCF2107.JPG" width="200"
+         alt="East face of Tryfan."></a>
+
+<a href="/images/2010-06-glyders/DSCF2110.JPG" rel="lightbox"
+    title="Glyder Fach and Bristly Ridge."> <img src="/images/2010-06-glyders/DSCF2110.JPG" width="200"
+         alt="Glyder Fach and Bristly Ridge."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2112.JPG" rel="lightbox"
+    title="Slope up to Y Foel Goch from Gallt yr Ogof."> <img src="/images/2010-06-glyders/DSCF2112.JPG" width="200"
+         alt="Slope up to Y Foel Goch from Gallt yr Ogof."></a>
+<a href="/images/2010-06-glyders/DSCF2113.JPG" rel="lightbox"
+    title="Looking East from Y Foel Goch towards Gallt yr Ogof."> <img src="/images/2010-06-glyders/DSCF2113.JPG" width="200"
+         alt="Looking East from Y Foel Goch towards Gallt yr Ogof."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2114.JPG" rel="lightbox"
+    title="Glyder Fach from summit of Y Foel Goch."> <img src="/images/2010-06-glyders/DSCF2114.JPG" width="200"
+         alt="Glyder Fach from summit of Y Foel Goch."></a>
+<a href="/images/2010-06-glyders/DSCF2119.JPG" rel="lightbox"
+    title="Snowdon from the summit of Y Foel Goch."> <img src="/images/2010-06-glyders/DSCF2119.JPG" width="200"
+         alt="Snowdon from the summit of Y Foel Goch."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2120.JPG" rel="lightbox"
+    title="Glyder fach from Y Foel Goch."> <img src="/images/2010-06-glyders/DSCF2120.JPG" width="200"
+         alt="Glyder fach from Y Foel Goch."></a>
+<a href="/images/2010-06-glyders/DSCF2122.JPG" rel="lightbox"
+    title="Cwm Lloer from Y Foel Goch."> <img src="/images/2010-06-glyders/DSCF2122.JPG" width="200"
+         alt="Cwm Lloer from Y Foel Goch."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2123.JPG" rel="lightbox"
+    title="Looking East from Y Foel Goch."> <img src="/images/2010-06-glyders/DSCF2123.JPG" width="200"
+         alt="Looking East from Y Foel Goch."></a>
+<a href="/images/2010-06-glyders/DSCF2124.JPG" rel="lightbox"
+    title="Llyn Caseg Ffraith and Glyder Fach."> <img src="/images/2010-06-glyders/DSCF2124.JPG" width="200"
+         alt="Llyn Caseg Ffraith and Glyder Fach."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2125.JPG" rel="lightbox"
+    title="Snowdon from Bwlch Caseg Ffraith."> <img src="/images/2010-06-glyders/DSCF2125.JPG" width="200"
+         alt="Snowdon from Bwlch Caseg Ffraith."></a>
+<a href="/images/2010-06-glyders/DSCF2127.JPG" rel="lightbox"
+    title="East face of Tryfan from Bwlch Caseg Ffraith"> <img src="/images/2010-06-glyders/DSCF2127.JPG" width="200"
+         alt="East face of Tryfan from Bwlch Caseg Ffraith"></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2130.JPG" rel="lightbox"
+    title="The Cantilever Glyder Fach."> <img src="/images/2010-06-glyders/DSCF2130.JPG" width="200"
+         alt="The Cantilever Glyder Fach."></a>
+<a href="/images/2010-06-glyders/DSCF2132.JPG" rel="lightbox"
+    title="Snowdon and the Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2132.JPG" width="200"
+         alt="Snowdon and the Castle of the Winds."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2133.JPG" rel="lightbox"
+    title="Snowdon, Glyder Fawr and the Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2133.JPG" width="200"
+         alt="Snowdon, Glyder Fawr and the Castle of the Winds."></a>
+<a href="/images/2010-06-glyders/DSCF2134.JPG" rel="lightbox"
+    title="Summit of Glyder Fach from Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2134.JPG" width="200"
+         alt="Summit of Glyder Fach from Castle of the Winds."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2135.JPG" rel="lightbox"
+    title="Pen y Gwyrd from Glyder Fach."> <img src="/images/2010-06-glyders/DSCF2135.JPG" width="200"
+         alt="Pen y Gwyrd from Glyder Fach."></a>
+<a href="/images/2010-06-glyders/DSCF2137.JPG" rel="lightbox"
+    title="Glyder Fawr from Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2137.JPG" width="200"
+         alt="Glyder Fawr from Castle of the Winds."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2139.JPG" rel="lightbox"
+    title="Castle of the Winds from col between Glyder Fach and Glyder Fawr."> <img src="/images/2010-06-glyders/DSCF2139.JPG" width="200"
+         alt="Castle of the Winds from col between Glyder Fach and Glyder Fawr."></a>
+<a href="/images/2010-06-glyders/DSCF2140.JPG" rel="lightbox"
+    title="Cwm Cneifon."> <img src="/images/2010-06-glyders/DSCF2140.JPG" width="200"
+         alt="Cwm Cneifon."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2141.JPG" rel="lightbox"
+    title="Nant Ffrancon from Glyder Fawr."> <img src="/images/2010-06-glyders/DSCF2141.JPG" width="200"
+         alt="Nant Ffrancon from Glyder Fawr."></a>
+<a href="/images/2010-06-glyders/DSCF2144.JPG" rel="lightbox"
+    title="Glyder Fach from Glyder Fawr."> <img src="/images/2010-06-glyders/DSCF2144.JPG" width="200"
+         alt="Glyder Fach from Glyder Fawr."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2145.JPG" rel="lightbox"
+    title="Y Garn from Glyder Fawr."> <img src="/images/2010-06-glyders/DSCF2145.JPG" width="200"
+         alt="Y Garn from Glyder Fawr."></a>
+<a href="/images/2010-06-glyders/DSCF2147.JPG" rel="lightbox"
+    title="Glyder Fawr from Llyn y Cwn."> <img src="/images/2010-06-glyders/DSCF2147.JPG" width="200"
+         alt="Glyder Fawr from Llyn y Cwn."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2148.JPG" rel="lightbox"
+    title="Path down to Llanberis path from Llyn y Cwn."> <img src="/images/2010-06-glyders/DSCF2148.JPG" width="200"
+         alt="Path down to Llanberis path from Llyn y Cwn."></a>
+<a href="/images/2010-06-glyders/DSCF2150.JPG" rel="lightbox"
+    title="Llyn Peris seen from descent of Glyder Fawr."> <img src="/images/2010-06-glyders/DSCF2150.JPG" width="200"
+         alt="Llyn Peris seen from descent of Glyder Fawr."></a>
+</div>
+
+<div class="thumbnail">
+<a href="/images/2010-06-glyders/DSCF2152.JPG" rel="lightbox"
+    title="Metal bridge just above Gwastadant."> <img src="/images/2010-06-glyders/DSCF2152.JPG" width="200"
+         alt="Metal bridge just above Gwastadant."></a>
+<a href="/images/2010-06-glyders/DSCF2162.JPG" rel="lightbox"
+    title="Bryn Tyrch."> <img src="/images/2010-06-glyders/DSCF2162.JPG" width="200"
+         alt="Bryn Tyrch."></a>
+</div>
+
+
+#+END_HTML
