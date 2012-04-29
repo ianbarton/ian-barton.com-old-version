@@ -4,11 +4,11 @@
 #+TITLE: Linux.
 #+BEGIN_HTML
 ---
-layout:  mountaineering
-title: Via Ferrata Cir V.
-excerpt: "Via Ferrata Cir V from Val Gardena (July 2010)."
+layout:  post
+title: Via Ferrata Cir V (Photos).
+excerpt: "Photos of the Via Ferrata Cir V from Val Gardena (July 2010)."
 comments: true
-categories: [mountaineering]
+categories: [blog, mountaineering, trips]
 ---
 #+END_HTML
 * The Cir V Via Ferrata.
