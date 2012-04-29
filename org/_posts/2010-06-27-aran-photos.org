@@ -11,7 +11,7 @@ categories: [mountaineering, blog, trips]
 ---
 #+END_HTML
 
-To read about the walk click [[file:aran_fawddwy.org][here]] . Hover your mouse over the photo to see
+To read about the walk click [[file:aran-fawddwy.html][here]] . Hover your mouse over the photo to see
 the caption.
 
 #+BEGIN_HTML

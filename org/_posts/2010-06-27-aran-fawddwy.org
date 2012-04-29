@@ -8,7 +8,7 @@ layout:  post
 title: Aran Fawddwy.
 excerpt: "A circular walk over Aran Fawddwy (June 2010)"
 comments: true
-categories: [blog, mountaineering, trips]
+categories: [mountaineering, blog, trips]
 ---
 #+END_HTML
 * A Circular Walk from Craig Cowarch Over Aran Fawddwy.
@@ -18,7 +18,7 @@ anyone else to come out with me so decided the visit Cwm Cywarch,
 where I have never been before. I also wanted to climb Aran Fawddwy,
 which would be another first for me.
 
-To see more photos click [[file:aran_photos.org][here]] .
+To see more photos click [[file:./aran-photos.html][here]] .
 
 #+BEGIN_HTML
 <div class="photofloatr">

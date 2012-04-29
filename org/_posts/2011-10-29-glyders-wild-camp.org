@@ -7,14 +7,14 @@
 title: Glyders Wild Camp
 layout: post
 excerpt: "Scramble on the west face of Tryfan and a Wild Camp on the Glyders."
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, trips]
 comments: true
 ---
 #+END_HTML
 
 * Day One - a Scramble on Tryfan.
 
-You can see more photos from the trip [[file:2011-10-29-tryfan-glyders-photos.org][here]] .
+You can see more photos from the trip [[file:./tryfan-glyders-photos.html][here]] .
 
 For some time I had wanted to do a two day backpack around the Arans,
 starting from Cwm Cyarch and climbing Aran Fawddwy, then

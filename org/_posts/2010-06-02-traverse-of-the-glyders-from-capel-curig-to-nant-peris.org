@@ -21,14 +21,14 @@ the opposite way round, from Capel Curig to Nant Peris.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/2010-06-glyders/DSCF2134.JPG" rel="lightbox" title="Summit of Glyder Fach from Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2134.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-glyders/DSCF2134.JPG"  title="Summit of Glyder Fach from Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2134.JPG" width="200"
      alt="Summit of Glyder Fach from Castle of the Winds."></a></p>
   <p>Summit of Glyder Fach from Castle of the Winds.</p>
 
 </div>
 #+END_HTML
 
-Note to see more photographs from the walk click [[file:glyders_photos.org][here]] .
+Note to see more photographs from the walk click [[file:./glyders_photos.html][here]] .
 
 It was going to be hot and sunny, so I stopped at the shop in Capel to
 buy some flavoured water and a couple of slabs of flapjack. Walking
@@ -56,7 +56,7 @@ here.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/2010-06-glyders/DSCF2132.JPG" rel="lightbox" title="Snowdon and the Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2132.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-glyders/DSCF2132.JPG"  title="Snowdon and the Castle of the Winds."> <img src="/images/2010-06-glyders/DSCF2132.JPG" width="200"
      alt="Snowdon and the Castle of the Winds."></a></p>
   <p>Snowdon and the Castle of the Winds.</p>
 
@@ -114,7 +114,7 @@ lake and there were no sources of running water close by.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/2010-06-glyders/DSCF2120.JPG" rel="lightbox" title="Glyder fach from Y Foel Goch."> <img src="/images/2010-06-glyders/DSCF2120.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-glyders/DSCF2120.JPG"  title="Glyder fach from Y Foel Goch."> <img src="/images/2010-06-glyders/DSCF2120.JPG" width="200"
      alt="Glyder fach from Y Foel Goch."></a></p>
   <p>Glyder fach from Y Foel Goch.</p>
 
