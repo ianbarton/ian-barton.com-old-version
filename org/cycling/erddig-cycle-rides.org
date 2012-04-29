@@ -5,7 +5,7 @@
 title: Erdigg Cycle Rides.
 layout: post
 excerpt: "A couple of short cycle rides around Erdigg, near Wrexham."
-
+categories: [blog, cycling]
 comments: true
 ---
 #+END_HTML

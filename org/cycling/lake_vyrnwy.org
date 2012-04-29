@@ -6,6 +6,7 @@
 ---
 layout: cycling
 title: Cycling Round Lake Vyrnwy.
+categories: [blog, cycling]
 ---
 #+END_HTML
 * Lake Vyrnwy.
@@ -16,7 +17,7 @@ around the lake is around 12 miles and the road is almost completely
 flat.
 
 There are several parking places around the lake, and a cafe near the
-dam. 
+dam.
 
 ** A More Challenging Ride.
 For those wanting a harder ride there is an absolutely fantastic ride

@@ -5,7 +5,7 @@
 title: Manifold Valley Cycle Ride.
 layout: post
 excerpt: "Cycling along the Manifold Valley trail."
-
+categories: [blog, cycling]
 comments: true
 ---
 #+END_HTML

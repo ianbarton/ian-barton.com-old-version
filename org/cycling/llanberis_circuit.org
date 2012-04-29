@@ -5,7 +5,7 @@
 title: A Circular Ride Around Llanberis.
 layout: cycling
 excerpt: "A Circular Ride Around Llanberis."
-categories: [cycling]
+categories: [blog, cycling]
 comments: true
 ---
 #+END_HTML
@@ -24,8 +24,8 @@ a road bike will be fine.
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a href="/images/cycling/llanberis_circular/DSCF1157.JPG"
-  rel="lightbox" 
-    title="Llyn Padarn and the Glyders.">  
+  rel="lightbox"
+    title="Llyn Padarn and the Glyders.">
     <img src="/images/cycling/llanberis_circular/DSCF1157.JPG" width="300"
      alt="Llyn Padarn and the Glyders."></a></p>
   <p>Llyn Padarn and the Glyders.</p>
@@ -33,7 +33,7 @@ a road bike will be fine.
 #+END_HTML
 
 You could start the ride in several places. We have started from the
-Caban at Brynrefail and from the lake at Llanberis. However, 
+Caban at Brynrefail and from the lake at Llanberis. However,
 the parking at Llanberis is Pay and Display, whereas the parking near
 to the Caban is free.
 
@@ -51,8 +51,8 @@ need lights, but it can be quite dark so take care when cycling.
 #+BEGIN_HTML
 <div class="photofloatl">
   <p><a href="/images/cycling/llanberis_circular/20022011086.jpg"
-  rel="lightbox" 
-    title="Initial steep hill.">  
+  rel="lightbox"
+    title="Initial steep hill.">
     <img src="/images/cycling/llanberis_circular/20022011086.jpg" width="300"
      alt="Initial steep hill."></a></p>
   <p>Initial steep hill.</p>
@@ -69,8 +69,8 @@ but nothing really steep.
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a href="/images/cycling/llanberis_circular/DSCF1145.JPG"
-  rel="lightbox" 
-    title="Slate Quarry.">  
+  rel="lightbox"
+    title="Slate Quarry.">
     <img src="/images/cycling/llanberis_circular/DSCF1145.JPG" width="300"
      alt="Slate Quarry."></a></p>
   <p>Slate Quarry.</p>
@@ -87,8 +87,8 @@ meet cars coming uphill around the blind bends.
 #+BEGIN_HTML
 <div class="photofloatl">
   <p><a href="/images/cycling/llanberis_circular/DSCF1142.JPG"
-  rel="lightbox" 
-    title="Bryn Bas Castle.">  
+  rel="lightbox"
+    title="Bryn Bas Castle.">
     <img src="/images/cycling/llanberis_circular/DSCF1142.JPG" width="300"
      alt="Bryn Bas Castle."></a></p>
   <p>Bryn Bas Castle.</p>
@@ -104,8 +104,8 @@ junction with the main road.
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a href="/images/cycling/llanberis_circular/DSCF1134.JPG"
-  rel="lightbox" 
-    title="View West from Pen Y Bwlch.">  
+  rel="lightbox"
+    title="View West from Pen Y Bwlch.">
     <img src="/images/cycling/llanberis_circular/DSCF1134.JPG" width="300"
      alt="View West from Pen Y Bwlch."></a></p>
   <p>View West from Pen Y Bwlch.</p>

@@ -6,6 +6,7 @@
 ---
 layout: cycling
 title: Kentallen to Glencoe.
+categories: [blog, cycling]
 ---
 #+END_HTML
 
@@ -41,7 +42,7 @@ more than compensate for the climb!
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/DSCF0978.JPG" rel="lightbox" 
+  <p><a href="/images/DSCF0978.JPG" rel="lightbox"
     title="Pap of Glencoe"> <img src="/images/DSCF0978.JPG" width="300"
      alt="Pap of Glencoe"></a></p>
   <p>Pap of Glencoe from the forestry track</p>
