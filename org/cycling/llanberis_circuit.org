@@ -3,7 +3,7 @@
 #+BEGIN_HTML
 ---
 title: A Circular Ride Around Llanberis.
-layout: cycling
+layout: post
 excerpt: "A Circular Ride Around Llanberis."
 categories: [blog, cycling]
 comments: true
