@@ -18,11 +18,11 @@ in October 2011. You can read the trip report itself [[file:./glyders-wild-camp.
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2076.JPG"
-title="Y Garn from Tryfan."> <img src="/images/2011-10_wales/DSCF2076_1.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2076.JPG"
+title="Y Garn from Tryfan."> <img src="/images/2011-10_wales/thumb.DSCF2076.JPG" width="200"
 alt="Y Garn from Tryfan."></a>
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2082.JPG"
-title="Sunrise over Moel Siabod."> <img src="/images/2011-10_wales/DSCF2082_1.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2082.JPG"
+title="Sunrise over Moel Siabod."> <img src="/images/2011-10_wales/thumb.DSCF2082.JPG" width="200"
 alt="Sunrise over Moel Siabod."></a>
 </div>
 #+END_HTML
@@ -31,11 +31,11 @@ alt="Sunrise over Moel Siabod."></a>
 #+BEGIN_HTML
 
 <div class="thumbnail">
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2090.JPG"
-title="Sunrise over Moel Siabod."> <img src="/images/2011-10_wales/DSCF2090.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2090.JPG"
+title="Sunrise over Moel Siabod."> <img src="/images/2011-10_wales/thumb.DSCF2090.JPG" width="200"
 alt="Sunrise over Moel Siabod."></a>
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2096.JPG"
-title="Looking towards "> <img src="/images/2011-10_wales/DSCF2096.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2096.JPG"
+title="Looking towards "> <img src="/images/2011-10_wales/thumb.DSCF2096.JPG" width="200"
 alt="Looking towards "></a>
 </div>
 
@@ -44,11 +44,11 @@ alt="Looking towards "></a>
 #+BEGIN_HTML
 
 <div class="thumbnail">
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2099.JPG"
-title="Bristly Ridge."> <img src="/images/2011-10_wales/DSCF2099.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2099.JPG"
+title="Bristly Ridge."> <img src="/images/2011-10_wales/thumb.DSCF2099.JPG" width="200"
 alt="Bristly Ridge."></a>
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2102.JPG"
-title="Sunrise over Moel Siabod."> <img src="/images/2011-10_wales/DSCF2102.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2102.JPG"
+title="Sunrise over Moel Siabod."> <img src="/images/2011-10_wales/thumb.DSCF2102.JPG" width="200"
 alt="Sunrise over Moel Siabod."></a>
 </div>
 
@@ -58,11 +58,11 @@ alt="Sunrise over Moel Siabod."></a>
 #+BEGIN_HTML
 
 <div class="thumbnail">
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2104.JPG"
-title="Snowdon Horseshoe"> <img src="/images/2011-10_wales/DSCF2104.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2104.JPG"
+title="Snowdon Horseshoe"> <img src="/images/2011-10_wales/thumb.DSCF2104.JPG" width="200"
 alt="Snowdon Horseshoe"></a>
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2105.JPG"
-title="Glyder Fach and Bristly Ridge."> <img src="/images/2011-10_wales/DSCF2105.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2105.JPG"
+title="Glyder Fach and Bristly Ridge."> <img src="/images/2011-10_wales/thumb.DSCF2105.JPG" width="200"
 alt="Glyder Fach and Bristly Ridge."></a>
 </div>
 
@@ -72,11 +72,11 @@ alt="Glyder Fach and Bristly Ridge."></a>
 #+BEGIN_HTML
 
 <div class="thumbnail">
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2107.JPG"
-title="Tryfan and the Carneddeau."> <img src="/images/2011-10_wales/DSCF2107.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2107.JPG"
+title="Tryfan and the Carneddeau."> <img src="/images/2011-10_wales/thumb.DSCF2107.JPG" width="200"
 alt="Tryfan and the Carneddeau."></a>
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2112.JPG"
-title="View from y Foel Goch."> <img src="/images/2011-10_wales/DSCF2112.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2112.JPG"
+title="View from y Foel Goch."> <img src="/images/2011-10_wales/thumb.DSCF2112.JPG" width="200"
 alt="View from y Foel Goch."></a>
 </div>
 
@@ -86,11 +86,11 @@ alt="View from y Foel Goch."></a>
 #+BEGIN_HTML
 
 <div class="thumbnail">
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2113.JPG"
-title=""> <img src="/images/2011-10_wales/DSCF2113.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2113.JPG"
+title=""> <img src="/images/2011-10_wales/thumb.DSCF2113.JPG" width="200"
 alt=""></a>
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2118.JPG"
-title="Gallt yr Ogod from y Foel Goch."> <img src="/images/2011-10_wales/DSCF2118.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2118.JPG"
+title="Gallt yr Ogod from y Foel Goch."> <img src="/images/2011-10_wales/thumb.DSCF2118.JPG" width="200"
 alt="Gallt yr Ogod from y Foel Goch."></a>
 </div>
 
@@ -100,11 +100,11 @@ alt="Gallt yr Ogod from y Foel Goch."></a>
 #+BEGIN_HTML
 
 <div class="thumbnail">
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2122.JPG"
-title="y Foel Goch from Gallt yr Ogof."> <img src="/images/2011-10_wales/DSCF2122.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2122.JPG"
+title="y Foel Goch from Gallt yr Ogof."> <img src="/images/2011-10_wales/thumb.DSCF2122.JPG" width="200"
 alt="y Foel Goch from Gallt yr Ogof."></a>
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2124.JPG"
-title="View towards Capel from Gallt yr Ogof."> <img src="/images/2011-10_wales/DSCF2124.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2124.JPG"
+title="View towards Capel from Gallt yr Ogof."> <img src="/images/2011-10_wales/thumb.DSCF2124.JPG" width="200"
 alt="View towards Capel from Gallt yr Ogof."></a>
 </div>
 
@@ -114,11 +114,11 @@ alt="View towards Capel from Gallt yr Ogof."></a>
 #+BEGIN_HTML
 
 <div class="thumbnail">
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2135.JPG"
-title="Looking back towards Gallt yr Ogof from Cefyn y Capel."> <img src="/images/2011-10_wales/DSCF2135.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2135.JPG"
+title="Looking back towards Gallt yr Ogof from Cefyn y Capel."> <img src="/images/2011-10_wales/thumb.DSCF2135.JPG" width="200"
 alt="Looking back towards Gallt yr Ogof from Cefyn y Capel."></a>
-<a id="simpletitle" href="/images/2011-10_wales/DSCF2129.JPG"
-title="Looking over Cefyn y Capel."> <img src="/images/2011-10_wales/DSCF2129.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2011-10_wales/DSCF2129.JPG"
+title="Looking over Cefyn y Capel."> <img src="/images/2011-10_wales/thumb.DSCF2129.JPG" width="200"
 alt="Looking over Cefyn y Capel."></a>
 </div>
 
