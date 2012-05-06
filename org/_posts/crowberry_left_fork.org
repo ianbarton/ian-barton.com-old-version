@@ -5,7 +5,7 @@
 #+TITLE: Crowberry Left Fork.
 #+BEGIN_HTML
 ---
-layout: mountaineering
+layout: post
 title: Left Fork of Crowberry Gully.
 comments: true
 categories: [mountaineering, WinterClimbing]
