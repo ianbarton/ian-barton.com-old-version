@@ -6,7 +6,7 @@
 ---
 layout: mountaineering
 title: Zero and Point Five Gullies Ben Nevis.
-categories: [mountaineering]
+categories: [mountaineering, WinterClimbing]
 ---
 #+END_HTML
 

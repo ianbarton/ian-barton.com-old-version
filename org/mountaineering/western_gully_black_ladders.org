@@ -7,7 +7,7 @@
 ---
 layout: mountaineering
 title: Western Gully, Black Ladders.
-categories: [mountaineering]
+categories: [mountaineering, WinterClimbing]
 ---
 #+END_HTML
 "This is going to be a straight forward climb with no epics

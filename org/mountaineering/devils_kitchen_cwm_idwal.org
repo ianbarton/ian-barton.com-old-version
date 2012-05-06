@@ -7,7 +7,7 @@
 layout: mountaineering
 title: The Devil's Kitchen Cwm Idwal.
 comments: true
-categories: [mountaineering]
+categories: [mountaineering, WinterClimbing]
 ---
 #+END_HTML
 
