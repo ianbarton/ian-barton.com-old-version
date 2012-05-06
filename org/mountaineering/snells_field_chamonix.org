@@ -6,7 +6,7 @@
 ---
 layout: mountaineering
 title: Snells Field Chamonix.
-categories: [mountaineering]
+categories: [mountaineering, alps]
 ---
 #+END_HTML
 For many years impecunious British Alpinists camped on this field just
