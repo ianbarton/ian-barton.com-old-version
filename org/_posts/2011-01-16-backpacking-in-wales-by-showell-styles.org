@@ -8,7 +8,7 @@ title: Backpacking in Wales by Showell Styles
 layout: post
 excerpt: "A review of Showell Styles Backpacking in Wales."
 tags: [mountaineering]
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, books]
 
 comments: true
 ---
