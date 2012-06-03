@@ -99,7 +99,7 @@ his attempt and was climbing back up.
 #+BEGIN_HTML
 <div class="photofloatl">
   <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2076.JPG"
-  title="Y Garn from Tryfan"> <img src="/images/2011-10_wales/DSCF2076_1.JPG" width="200"
+  title="Y Garn from Tryfan"> <img src="/images/2011-10_wales/thumb.DSCF2076.JPG" width="200"
      alt="Y Garn from Tryfan"></a></p>
   <p>Y Garn from Tryfan</p>
 
