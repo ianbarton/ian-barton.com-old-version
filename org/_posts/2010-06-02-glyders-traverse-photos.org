@@ -7,7 +7,8 @@
 layout:  mountaineering
 title: Photos from Traverse of the Glyders (June 2010).
 comments: false
-categories: [blog, mountaineering, trips]
+categories: [blog, mountaineering]
+excerpt: "Photos from the Capel Curig to Nant Peris traverse of the Glyders."
 ---
 #+END_HTML
 * Photos from My Traverse of the Glyders.
