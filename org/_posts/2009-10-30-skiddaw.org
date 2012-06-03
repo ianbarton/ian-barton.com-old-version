@@ -7,7 +7,7 @@
 layout: post
 title: Skiddaw.
 comments: true
-categories: [mountaineering, blog, trips]
+categories: [mountaineering, blog]
 ---
 #+END_HTML
 
