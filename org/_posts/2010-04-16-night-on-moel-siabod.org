@@ -8,7 +8,8 @@
 layout:  post
 title: A Night on Moel Siabod (April 2010).
 comments: true
-categories: [mountaineering, blog, trips]
+categories: [mountaineering, blog, backpacking]
+excerpt: "Camping on the summit of Moel Siabod."
 ---
 #+END_HTML
 
