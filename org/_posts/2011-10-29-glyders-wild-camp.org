@@ -145,7 +145,7 @@ slept quite well, waking around 6:00am. Sunrise was shortly after
 #+BEGIN_HTML
 <div class="photofloatl">
   <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2102.JPG" title="Sunrise
-  over Moel Siabdd"> <img src="/images/2011-10_wales/DSCF2102_1.JPG" width="200"
+  over Moel Siabdd"> <img src="/images/2011-10_wales/thumb.DSCF2102.JPG" width="200"
      alt="Sunrise
   over Moel Siabdd."></a></p>
   <p>Sunrise
@@ -166,7 +166,7 @@ between Glyder Fach and Capel Curig.
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2104.JPG"  title="Snowdon
-  Horseshoe"> <img src="/images/2011-10_wales/DSCF2104_1.JPG" width="200"
+  Horseshoe"> <img src="/images/2011-10_wales/thumb.DSCF2104.JPG" width="200"
      alt="Snowdon Horseshoe."></a></p>
   <p>Snowdon Horseshoe.</p>
 
@@ -190,7 +190,7 @@ short detour for the excellent views.
   <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2105.JPG"
 
   title="Glyder fach and Bristly Ridge."
-  > <img src="/images/2011-10_wales/DSCF2105_1.JPG" width="200"
+  > <img src="/images/2011-10_wales/thumb.DSCF2105.JPG" width="200"
      alt="Glyder fach and Bristly Ridge."></a></p>
   <p>Glyder fach and Bristly Ridge.</p>
 
@@ -212,7 +212,7 @@ trail shoes.
 <div class="photofloatr">
   <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2128.JPG"
   title="Cefyn y Capel."
-  > <img src="/images/2011-10_wales/DSCF2128_1.JPG" width="200"
+  > <img src="/images/2011-10_wales/thumb.DSCF2128.JPG" width="200"
      alt="Cefyn y Capel."></a></p>
   <p>Cefyn y Capel.</p>
 
