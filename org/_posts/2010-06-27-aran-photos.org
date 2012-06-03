@@ -100,4 +100,3 @@ the caption.
          alt="Aran Fawddwy from the memorial cairn."></a>
 </div>
 #+END_HTML
-
