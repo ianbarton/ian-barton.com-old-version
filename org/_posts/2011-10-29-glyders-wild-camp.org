@@ -7,7 +7,7 @@
 title: Glyders Wild Camp
 layout: post
 excerpt: "Scramble on the west face of Tryfan and a Wild Camp on the Glyders."
-categories: [blog, mountaineering, trips]
+categories: [blog, mountaineering, backpacking]
 comments: true
 ---
 #+END_HTML
