@@ -6,7 +6,7 @@
 title: A Trip Over the Moelwyns
 layout: post
 excerpt: "A Short Backpack Over the Moelwyns."
-categories: [blog, mountaineering]
+categories: [blog, mountaineering, backpacking]
 comments: true
 ---
 #+END_HTML
