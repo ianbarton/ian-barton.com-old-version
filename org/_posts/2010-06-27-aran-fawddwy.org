@@ -8,7 +8,8 @@ layout:  post
 title: Aran Fawddwy.
 excerpt: "A circular walk over Aran Fawddwy (June 2010)"
 comments: true
-categories: [mountaineering, blog, trips]
+categories: [mountaineering, blog]
+excerpt: "A Circular Walk from Craig Cowarch Over Aran Fawddwy."
 ---
 #+END_HTML
 * A Circular Walk from Craig Cowarch Over Aran Fawddwy.
