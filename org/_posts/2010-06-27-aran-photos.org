@@ -7,7 +7,8 @@
 layout:  post
 title: Photos from My Aran Fawddwy Walk. (June 2010).
 comments: false
-categories: [mountaineering, blog, trips]
+categories: [mountaineering, blog]
+excerpt: "Photos from my walk from Craig Cowarch over Aran Fawddwy."
 ---
 #+END_HTML
 
