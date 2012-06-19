@@ -9,7 +9,7 @@ layout: post
 title: Benighted on the Ben.
 excerpt: ""
 comments: true
-categories: [WinterCimbing, mountaineering]
+categories: [WinterClimbing, mountaineering]
 excerpt: "A 1980's ascent of Glover's Chimney on the Ben. We get lost
 and benighted."
 ---
