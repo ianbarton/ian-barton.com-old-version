@@ -4,8 +4,9 @@
 #+TITLE: Natural History Books.
 #+BEGIN_HTML
 ---
-layout: books
+layout: article
 title: Natural History Books.
+categories: [books]
 ---
 #+END_HTML
 

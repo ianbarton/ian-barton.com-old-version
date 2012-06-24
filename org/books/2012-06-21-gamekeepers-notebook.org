@@ -4,8 +4,9 @@
 #+TITLE: A Gamekeeper’s Notebook.
 #+BEGIN_HTML
 ---
-layout: books
+layout: article
 title: A Gamekeeper’s Notebook
+categories: [blog, books]
 ---
 #+END_HTML
 

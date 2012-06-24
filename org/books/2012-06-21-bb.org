@@ -4,8 +4,9 @@
 #+TITLE: B.B. (Denys Watkins-Pitchford)
 #+BEGIN_HTML
 ---
-layout: books
+layout: article
 title: Denys Watkins-Pitchford.
+categories: [books]
 ---
 #+END_HTML
 
