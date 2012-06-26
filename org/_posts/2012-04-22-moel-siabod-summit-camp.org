@@ -15,7 +15,7 @@ comments: true
 I had planned to go for a walk in North Wales, but the [[http://www.mwis.org.uk][MWIS]] forecast
 wasn't too good. There was supposed to be a good chance of clear
 summits, but with hail showers possibly merging into longer periods of
-continuous downpours. The weather at home wasn't too bad, so i decided
+continuous downpours. The weather at home wasn't too bad, so I decided
 to drive over without making any definite plans about my objective.
 
 #+BEGIN_HTML
