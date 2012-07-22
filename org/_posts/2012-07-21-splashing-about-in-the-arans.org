@@ -1,0 +1,198 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Splashing About in the Arans
+layout: post
+excerpt: "An Arans backpack in poor weather, with an overnight stop at
+Creiglyn Dyfi"
+categories: [blog, mountaineering, backpacking]
+comments: true
+---
+#+END_HTML
+
+
+On Wednesday MWIS was promising 70% chance of clear summits on the
+Thursday and Friday. After months of rain, this looked like a chance
+for an overnight trip over the Arans. However, on Thursday morning the
+forecast was for only 10% chance of clear summits, but with a promise
+of clouds clearing in the evening with Friday still forecast as 70%
+clear.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Boards on N
+Ridge of Aran Benllyn." href="/images/2012-07-Arans/DSCF2690.jpg"><img
+ width="200" alt="Boards on N
+Ridge of Aran Benllyn." title="Boards on N
+Ridge of Aran Benllyn." src="/images/2012-07-Arans/thumb.DSCF2690.jpg" /></a>
+
+</div>
+#+END_HTML
+
+
+I decided on a late start from Llanuwchllyn on the Wednesday leaving
+the small car park at the end of the village about 2:00pm. The weather
+didn't look too promising. The summits of the Arenigs on the opposite
+side of the valley were covered in cloud and it looked as though the
+summits of the Arans were covered too. I set off up the long North
+ridge of Aran Benllyn. After months of very wet weather, I was
+expecting the ground to be completely sodden. However, it didn't seem
+much worse than usual, which is still very wet! As I splashed upwards
+through the bogs, I could see that the cloud was descending. I was
+soon in the mist, although it wasn't actually raining.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit of Aran Benllyn." href="/images/2012-07-Arans/DSCF2692.jpg"><img
+ width="200" alt="Summit of Aran Benllyn." title="Summit of Aran Benllyn." src="/images/2012-07-Arans/thumb.DSCF2692.jpg" /></a>
+
+</div>
+#+END_HTML
+
+
+For some reason the North ridge always seems an awfully long way to
+the summit (probably because it is). About 200m below the summit I met
+a group of people descending and stopped for a short chat. Finally the
+summit cairn of Aran Benllyn appeared out of the mist and I stopped
+for a rest. I had hoped to continue over the summit of Aran Fawddwy
+and continue round to the memorial cairn at Drws Bach camping near
+Gwaun Lydan. As the weather showed no signs of improving I decided to
+drop down from Erw y Ddafad-ddu to Creiglyn Dyfi. The only sensible
+way down is via a steep grassy spur, which cuts through very steep
+ground on the eastern face of the Arans. Finding the top of the spur
+and picking the correct line of descent in the very limited visibility
+could have proved very tricky. Anticipating this problem I
+had loaded up a track from [[http://v-g.me.uk/][v-g's]] web site into my Garmin GPS, which
+lead me safely down into the cwm.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Camp at Creiglyn Dyfi." href="/images/2012-07-Arans/DSCF2701.jpg"><img
+ width="200" alt="Camp at Creiglyn Dyfi." title="Camp at Creiglyn Dyfi." src="/images/2012-07-Arans/thumb.DSCF2701.jpg" /></a>
+
+</div>
+#+END_HTML
+
+
+The clag was well down and I only saw Creiglyn Dyfi when I was a
+couple of hundred feet above it. Casting around for a decent spot to
+camp, I settled on a very small level grassy area by the northern
+shore. There was a small stream only a few yards away, which looked as
+though it might flood my proposed site if there was a storm. However,
+I decided to take the chance. As soon as I got the tent out it started
+to rain. This was the first outing for my Terra Nova Voyager
+Superlite. I had bought this tent in one of Field and Trek's 30%
+discount, plus another 10% price matching from GoOutdoors. Although I
+am very happy with my Zephyros 2, it isn't really suitable for two
+people, whereas the Voyager has plenty of room. In fact it turns out
+that the Voyager is slightly lighter than the Zephyros. However, it
+does have one disadvantage. It's an inner pitch first and as I had
+only put it up once indoors, so wasn't the fastest pitch. Just to make
+life more difficult, there was only a very thin covering of grass over
+the stones, so getting the pegs in was hard work. There were several
+minutes of cursing before I finally got the tent up properly.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Camp at
+Creiglyn Dyfi. Better weather in the morning." href="/images/2012-07-Arans/DSCF2705.jpg"><img
+ width="200" alt="Camp at Creiglyn Dyfi. Better weather in the morning." title="Camp at Creiglyn
+Dyfi. Better weather in the morning." src="/images/2012-07-Arans/thumb.DSCF2705.jpg" /></a>
+
+</div>
+#+END_HTML
+
+Of course as soon as I had got the tent up it stopped raining. As I
+was very wet, I decided to go for a bit of a wander round the lake
+before retiring to the tent and getting into some dry
+clothes. Creiglyn Dyfi is a very inspiring place to camp. The
+edge was somewhat taken off the experience by the persistent clag
+obscuring the views of the Arans. I crawled inside the tent, got into
+some dry clothes and cooked tea. For one the Voyager is super spacious
+and in the poor weather the large porch was great for cooking and
+storing my wet clothes.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Cynlwydd." href="/images/2012-07-Arans/DSCF2720.jpg"><img
+ width="200" alt="Cwm Cynlwydd." title="Cwm Cynlwydd." src="/images/2012-07-Arans/thumb.DSCF2720.jpg" /></a>
+
+</div>
+#+END_HTML
+
+During the night there were several heavy showers, but luckily the
+small stream next to me didn't burst its banks. Peering out of the
+tent at 5:30am the next morning I could see that the cloud had risen
+above the summit of Aran Fawddwy. I had planned on a quick descent
+back to the car via Cwm Llwydd and Talardd. However, the prospect of
+views from the summit ridge was enticing. I decided to retrace my
+route and savour the views up there.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="View SE from
+Aran Benllyn." href="/images/2012-07-Arans/DSCF2722.jpg"><img
+ width="200" alt="View SE from
+Aran Benllyn.." title="View SE from
+Aran Benllyn.." src="/images/2012-07-Arans/thumb.DSCF2722.jpg" /></a>
+
+</div>
+#+END_HTML
+
+
+I packed away and began the long 1,000ft slog back up the grassy spur
+to Erw y Ddafad-ddu. Inevitably as I climbed back up the steep slope,
+the clag began to drop again. By the time I reached Erw y Ddafad-ddu
+the whole ridge was covered. On the plus side, I could see a bright patch
+where the sun was trying the break through and there was a steady
+breeze. Sure enough by the time I had reached Aran Benllyn the clag
+had mostly cleared the ridge, although Aran Fawddwy remained
+covered. The air was exceptionally clear, so I got great views through
+breaks in the mist. In some ways this was much better than unbroken
+horizon to horizon views. Every few minutes a different patch of mist
+would disperse and I would get a new view.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cloud gathering
+over the Aran Ridge." href="/images/2012-07-Arans/DSCF2723.jpg"><img
+ width="200" alt="Cloud gathering
+over the Aran Ridge." title="Cloud gathering
+over the Aran Ridge." src="/images/2012-07-Arans/thumb.DSCF2723.jpg" /></a>
+
+</div>
+#+END_HTML
+
+Dropping down from the summit of Aran Benllyn, I emerged completely
+from the clag. Somehow the descent of the north ridge seemed even
+longer than the ascent. Eventually I arrived back to the car, where I
+got into some dry clothes and made a brew before setting off back
+. Although the weather was far from perfect it had been a very
+satisfying trip.
+
+#+BEGIN_HTML
+<div class="thumbnail">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Bala from the ridge." href="/images/2012-07-Arans/DSCF2725.jpg"><img
+ width="200" alt="Bala from the ridge." title="Bala from the ridge." src="/images/2012-07-Arans/thumb.DSCF2725.jpg" /></a>
+
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Lake Vyrnwy in
+the distance." href="/images/2012-07-Arans/DSCF2727.jpg"><img
+ width="200" alt="Lake Vyrnwy in
+the distance." title="Lake Vyrnwy in
+the distance." src="/images/2012-07-Arans/thumb.DSCF2727.jpg" /></a>
+
+
+</div>
+
+
+<div class="thumbnail">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking at the
+long descent back down the North ridge." href="/images/2012-07-Arans/DSCF2731.jpg"><img
+ width="200" alt="Looking at the
+long descent back down the North ridge." title="Looking at the
+long descent back down the North ridge." src="/images/2012-07-Arans/thumb.DSCF2731.jpg" /></a>
+
+</div>
+
+
+#+END_HTML
