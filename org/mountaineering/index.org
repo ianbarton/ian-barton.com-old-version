@@ -2,10 +2,7 @@
 #+TITLE: Index for Mountaineering Pages.
 #+STARTUP: showall indent
 #+STARTUP: hidestars
-#+INFOJS_OPT: view:overview ltoc:nil toc:t
-#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
-#+LINK_UP: index.html
-#+LINK_HOME: ../index.html
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
 ---
@@ -27,22 +24,14 @@ years. However, the children are growing up and have started to take
 an interest in mountaineering and we have done some good routes
 together.
 
-There are links to articles about our recent climbs and also some
-older writings from the 1980′s. Please note that I tend to write about
-climbs where things go wrong, we don’t always have epics!
+This page contains links to articles that I wrote many years
+ago. Please note that I tend to write about climbs where things go
+wrong, we don’t always have epics!
+
+You can find more recent posts by clicking on the various categories.
 
 * Climbing and Walking.
-- [[file:carneddau-backpack.org][Carneddau]] backpacking trip.
-- [[file:cyfrwy-arete-cadair-idris.org][Not the Cyfrwy Arete]] (August 2010).
-- [[file:cir-v-via-ferrata.org][Cir V]] - Via Ferrata in the Italian Dolomites (July 2010).
-- [[file:aran_fawddwy.org][Aran Fawddwy]] - a circular walk (June 2010).
-- [[file:traverse-of-the-glyders-from-capel-curig-to-nant-peris.org][A Traverse of the Glyders]] - from Capel Curig to Nant Peris (June 2010).
-- [[file:night-on-moel-siabod.org][A Night on Moel Siabod]] - camping on the summit (April 2010).
-- [[file:mynydd_mawr.org][Mynydd Mawr]] - a walk up this great Snowdonia viewpoint (February 2010).
-- [[file:skiddaw.org][Skiddaw]] - a very windy day.
-- [[file:a_walk_in_the_berwyns.org][A Walk in the Berwyns]]  Just to show I don't always get lost (March 2009).
-- [[file:first_pinnacle_rib_tryfan.org][First Pinaccle Rib Tryfan]] How not to go climbing with young children
-  (July 2007).
+
 - [[./route_major.html][Route Major.]] We get lost on the famous route on Mont Blanc's southern side.
 - [[file:benighted_on_the_ben.org][Benighted on the Ben]] A Winter ascent of Glover's Chimney almost leads to bed & breakfast
   on the summit of Ben Nevis.

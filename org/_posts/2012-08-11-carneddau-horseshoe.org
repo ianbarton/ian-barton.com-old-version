@@ -1,5 +1,6 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
+#+DRAWERS: SETUP NOTES PROPERTIES
 #+BEGIN_HTML
 ---
 title: Carneddau Horseshoe
@@ -9,7 +10,39 @@ categories: [blog, mountaineering, backpacking]
 comments: true
 ---
 #+END_HTML
+:NOTES:
+OM Post.
 
+A two day trip round the Carneddau starting from Cwm Eigiau. I started
+by climbing Foel Fras via steep grassy slopes, as I couldn't find the
+path on the ground. Once on the ridge Foel Goch and Carnedd Llewelyn
+were covered in mist. However, things improved as I moved along the
+ridge. I nipped into the refuge at Foel Grach, my last visit there was
+in 1982.
+
+By the time I reached the summit of Carnedd Llewelyn only the top 100ft
+or so was misted out. I soon dropped out of the clag as I descended
+the SE ridge to Craig yr Ysfa. I climbed up from Bwlch Erol Farchog to
+Pen yr Helgi Du. I had started getting cramp in my legs on the last
+section, so decided to stop there overnight.
+
+In the evening the cloud cleared and there were extensive views, with
+very little haze. There was almost no breeze and I was able to sit
+outside the tent in my shirt. It was a perfect night, with bright moon
+and the odd shooting star.
+
+On the second day I was up at 4:00am and away by 6:00am. I dropped
+down to Bwlych tri Marchog and slogged up to the summit of Pen
+Llithrig y Wrach. From here the route back was uncertain. My Harvey's
+map didn't show any paths along the NE ridge. However, there was an
+obvious footpath leading in the right direction. This was indistinct
+in places and very, very boggy. I didn't want to go as far as Moel
+Eilio, so decided to cut directly down to Hafod y rhiw. After a few
+hundred feet of waist deep heather and a nasty incident when my leg
+slipped between to hidden boulders, I found a path which lead me down
+to Hafod y rhiw. From there is was a simple plod along the track to
+the truck.
+:END:
 
 At last the weather was showing signs of improving with good forecasts
 for today and for the next few days. I took my son to his
@@ -142,8 +175,9 @@ to drink on the route back to the car.
 I soon had the tent up and after a drink and some food felt much
 better. It was a perfect evening. The cloud, which had been covering
 many summits, cleared leaving perfect views in all directions. The sun
-disappeared behind Carnedd Llewelyn about ????. There was a ??? moon
-and the odd shooting star could be seen.
+disappeared behind Carnedd Llewelyn about 8:00pm. There was a bright moon
+and the odd shooting star could be seen, perhaps the precursors to the
+Perseid showers.
 
 #+BEGIN_HTML
 <div class="photofloatr">
