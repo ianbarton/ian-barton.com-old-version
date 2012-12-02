@@ -8,7 +8,7 @@ categories: [blog, linux]
 
 layout: post
 title: ADSL Connection Problems.
-tags: [gadgets, linux, test]
+
 excerpt: "Some time ago I upgraded my ADSL to ADSL Max. This worked very well
 indeed for quite a long time. However, several months ago I noticed
 that my Zyxel 660H D1 router kept disconnecting, sometimes for several

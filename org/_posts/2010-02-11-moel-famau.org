@@ -6,7 +6,6 @@
 ---
 layout: post
 title: Moel Famau
-tags: [mountaineering]
 categories: [blog, mountaineering, trips]
 excerpt: "I had passed the Clwydian range hundreds of times on the way to
 Snowdonia, but I had never climbed any of its hills. Amongst other
@@ -117,4 +116,3 @@ path beside the reservoir, I reached a gate at the end of the lane.
 Walking along the lane brought me out next to the car. It was 2:30pm,
 so I just had time to make another cup of hot chocolate before I set
 off for home.
-

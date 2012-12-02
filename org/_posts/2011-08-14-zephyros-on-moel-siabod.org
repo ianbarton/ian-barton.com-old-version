@@ -6,7 +6,6 @@
 title: Wild Country Zephyros 2 on Moel Siabod
 layout: post
 excerpt: "First outing for the new tent on a windy wild camp on Moel Siabod."
-tags: [mountaineering]
 categories: [blog, mountaineering, trips]
 comments: true
 ---
@@ -215,4 +214,3 @@ straight round to Pete's Eats for breakfast!
 
 You can read my account and see some photos of a much better night's
 camping on the summit in April 2010 by clicking [[http://www.ian-barton.com/mountaineering/night-on-moel-siabod.html][here]] .
-
