@@ -1,0 +1,61 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
+#+BEGIN_HTML
+---
+date: 2010-06-22
+title: Montane Terra Pants.
+layout: post
+categories: [blog, gear]
+excerpt: "Montane Terras are lightweight walking-climbing trousers, with several neat features."
+
+comments: true
+---
+#+END_HTML
+I wanted to get some trousers which were cool enough for cycling and
+walking in hot summer weather. I get too hot in my Craghopper Kiwis
+when cycling in warm weather. Also I have to tuck the ends into my
+socks to stop them getting tangled up in the chain, as I don't like
+cycle clips.
+
+The last time I was in Betwys y Coed I saw a pair of Montane Terra
+Pants in Cotswold. I had read many good reviews of these pants, but as
+they are expensive I didn't want to buy a pair without seeing them and
+trying some on. Having tried them on and decided that I like them, I
+wanted to buy a pair. I wanted a black pair, but Cotswold didn't have
+any in stock. I searched on line and ended up buying them from [[http://www.towerridge.co.uk][Tower
+Ridge]]. I bought my Rab sleeping back from them and they have been
+quick and efficient. The trousers were posted the same day as my order
+and arrived the next day.
+
+I got a chance to try them out straight away during the current hot
+spell. I have used them for cycling and as everyday wear for a
+couple of weeks. Overall I am very happy with them:
+
+** Good points.
+- Lightweight and very comfortable. Not too hot in summer, but I shall
+  be interested to see how they fare in the other seasons.
+- Zipped pockets, make it harder to lose your keys or money.
+- Zipped thigh vents, with black mesh underneath, so people can't see
+  my pasty white legs.
+- Zipped bottoms making them easy to roll up, or fit over big boots.
+- Poppers on the bottom of the legs. You can use these to cinch
+  up the ankles, so they don't get snagged in bike chains, or let cold
+  drafts in. You can also roll the legs up and use the poppers to stop
+  them unfolding.
+- Reinforced knee and bum patches.
+- Enough room around the crotch and articulated knees, so good for
+  scrambling and climbing.
+- Smart enough for everyday use.
+
+** Bad Points.
+- I am quite tall (6ft 2") and I would like the legs to be a couple of
+  inches longer. They are only available in regular and short leg sizes.
+- Not particularly water resistant. Better then my Craghopper Kiwi's,
+  but anything more than a brief shower will wet them. However, they
+  do dry quickly.
+
+
+
+In fact I like them so much, that  have just ordered a second pair.

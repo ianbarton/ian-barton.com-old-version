@@ -1,0 +1,60 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
+#+BEGIN_HTML
+---
+date: 2011-05-03
+title: New Thermos Flasks
+layout: post
+excerpt: "The Thermos Ultimate really does keep your drink hot all day."
+categories: [blog, gear]
+comments: true
+---
+#+END_HTML
+
+Over the years I have had quite a few vacuum flasks. Whilst the ones
+with the glass insides keep the liquid hot for a long time, they are
+rather fragile for outdoor use. There's nothing worse than slogging up
+to a summit, getting out your flask for a nice hot drink and finding
+your drink full of pieces of glass! We do have a few stainless steel
+flasks, but these are heavy and don't keep drinks hot for a full days
+walking.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/thermos.jpg"  title="Thermos Ultimate."> <img src="/images/thermos.jpg" width="180"
+     alt="Thermos Ultimate."></a></p>
+  <p>Thermos Ultimate.</p>
+
+</div>
+#+END_HTML
+
+
+Recently I heard about the Thermos Ultimate stainless steel flask,
+which claims to keep liquids hot for 24hrs. It is a proper vacuum
+flask. In other words there is a vacuum between the two walls of the
+flask. Most cheaper flasks fill the gap between the walls with some
+sort of insulating material, as it's much cheaper to produce.
+
+The Thermos Ultimate is available in 0.5l and 0.8l sizes and costs
+around £20 from [[http://direct.tesco.com/q/R.209-6038.aspx][Tesco]] Direct. This isn't cheap, but the flask has a
+10 year guarantee. I ordered the 0.5l size, as it's about the right
+size for bike rides in the winter.
+
+When it arrived I wanted to test it out. First I filled it with
+boiling water from the kettle and left it to stand for 10
+minutes. Next I poured the water out and refilled the flask with
+boiling water from the kettle. Unfortunately, I don't have an accurate
+thermometer that will read up to 100 Centrigade, so my test wasn't
+very scientific. After six hours, the longest I would expect to keep a
+liquid hot during a normal day out, I poured out a cup of water from
+the flask. I stuck my finger in and immediately removed it, as the
+water was so hot. So probably well over 60C. I left the remainder of
+the water in the flask overnight and repeated the test the next
+morning, about 19 hours after I had first filled the flask. The water
+was still too hot to keep my finger in for more than a second.
+
+So overall I was very impressed with the flask. It's not particularly
+heavy, the 0.5l version is 310g. In fact I was so impressed that I
+ended up ordering the 0.8l version.
