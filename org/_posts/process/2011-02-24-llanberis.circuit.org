@@ -6,7 +6,7 @@ date: 2011-02-24
 title: A Circular Ride Around Llanberis.
 layout: post
 excerpt: "A Circular Ride Around Llanberis."
-categories: [blog, cycling]
+tags: [blog, cycling]
 comments: true
 ---
 #+END_HTML

@@ -8,7 +8,7 @@ date: 2010-10-17
 title: Shorewall Firewall, Squid and Privoxy Proxies.
 layout: post
 excerpt: "Moving to a new firewall. Installing Squid 3.0 and Privoxy."
-categories: [blog, linux]
+tags: [blog, linux]
 comments: true
 ---
 #+END_HTML

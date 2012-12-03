@@ -7,7 +7,7 @@
 date: 2009-08-24
 layout: post
 title: Kentallen to Glencoe.
-categories: [blog, cycling]
+tags: [blog, cycling]
 ---
 #+END_HTML
 

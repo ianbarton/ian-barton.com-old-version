@@ -8,7 +8,7 @@ layout: mountaineering
 excerpt:
 
 comments: true
-categories: [mountaineering]
+tags: [mountaineering]
 ---
 #+END_HTML
 

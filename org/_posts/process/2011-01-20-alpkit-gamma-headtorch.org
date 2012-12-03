@@ -8,7 +8,7 @@ date: 2011-01-20
 title: Alpkit Gamma Headtorch
 layout: post
 excerpt: "Review of the Alpkit Gamma."
-categories: [blog, gear]
+tags: [blog, gear]
 comments: true
 ---
 #+END_HTML

@@ -8,7 +8,7 @@ date: 2010-06-02
 layout:  post
 title: Photos from Traverse of the Glyders (June 2010).
 comments: false
-categories: [blog, mountaineering, trips]
+tags: [blog, mountaineering, trips]
 ---
 #+END_HTML
 * Photos from My Traverse of the Glyders.

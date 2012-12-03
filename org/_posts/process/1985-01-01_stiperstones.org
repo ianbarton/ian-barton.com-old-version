@@ -7,7 +7,7 @@
 date: 1985-01-01
 layout:  mountaineering
 title: The Stiperstones.
-categories: [mountaineering]
+tags: [mountaineering]
 comments: true
 ---
 #+END_HTML

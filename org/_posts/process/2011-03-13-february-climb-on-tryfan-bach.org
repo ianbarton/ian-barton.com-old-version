@@ -7,7 +7,7 @@
 date: 2011-03-13
 title: February Climb on Tryfan Bach
 layout: post
-categories: [blog, mountaineering, trips]
+tags: [blog, mountaineering, trips]
 excerpt: "Climbing with the children on Tryfan Bach."
 
 comments: true

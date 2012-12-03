@@ -9,7 +9,7 @@ date: 1985-01-01
 layout: post
 title: Left Fork of Crowberry Gully.
 comments: true
-categories: [mountaineering, WinterClimbing]
+tags: [mountaineering, WinterClimbing]
 ---
 #+END_HTML
 It was the end of February and the weather had been superb for weeks

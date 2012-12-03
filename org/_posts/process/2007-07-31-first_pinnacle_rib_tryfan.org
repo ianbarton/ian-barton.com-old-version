@@ -9,7 +9,7 @@ date: 2007-07-31
 layout: post
 title: First Pinnacle Rib Tryfan.
 comments: true
-categories: [blog, mountaineering, trips]
+tags: [blog, mountaineering, trips]
 ---
 #+END_HTML
 

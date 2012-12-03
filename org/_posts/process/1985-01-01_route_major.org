@@ -9,7 +9,7 @@ date: 1985-01-01
 layout: mountaineering
 title: Route Major, Mont Blanc.
 comments: true
-categories: [mountaineering, alps]
+tags: [mountaineering, alps]
 ---
 #+END_HTML
 The Summer of 1986 was a good one in the Alps, with a long

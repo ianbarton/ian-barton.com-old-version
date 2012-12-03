@@ -7,7 +7,7 @@
 date: 2009-11-26
 layout: post
 title: Proporta Gadget Bag.
-categories: [gadgets, blog]
+tags: [gadgets, blog]
 tags: [gadgets, linux]
 excerpt: A review of the Proporta Gadget Bag.
 ---

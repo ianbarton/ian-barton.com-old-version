@@ -6,7 +6,7 @@
 ---
 date: 2009-12-02
 layout: post
-categories: [blog, gadgets]
+tags: [blog, gadgets]
 title: Model Helicopter
 
 excerpt: "Having three young children is always a useful excuse for buying new

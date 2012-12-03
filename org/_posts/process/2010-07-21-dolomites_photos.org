@@ -9,7 +9,7 @@ layout:  post
 title: Via Ferrata Cir V.
 excerpt: "Via Ferrata Cir V from Val Gardena (July 2010)."
 comments: true
-categories: [mountaineering, blog, trips]
+tags: [mountaineering, blog, trips]
 ---
 #+END_HTML
 * The Cir V Via Ferrata.

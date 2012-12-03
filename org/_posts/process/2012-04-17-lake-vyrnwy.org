@@ -7,7 +7,7 @@
 date: 2012-04-17
 layout: post
 title: Cycling Round Lake Vyrnwy.
-categories: [blog, cycling]
+tags: [blog, cycling]
 ---
 #+END_HTML
 * Lake Vyrnwy.

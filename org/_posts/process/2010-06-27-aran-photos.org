@@ -8,7 +8,7 @@ date: 2010-06-27
 layout:  post
 title: Photos from My Aran Fawddwy Walk. (June 2010).
 comments: false
-categories: [mountaineering, blog, trips]
+tags: [mountaineering, blog, trips]
 ---
 #+END_HTML
 
