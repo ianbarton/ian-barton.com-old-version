@@ -4,10 +4,11 @@
 
 #+BEGIN_HTML
 ---
+date: 2010-07-31
 title: Meindl Softline Ultra Boots
 layout: post
 excerpt: "A new pair of walking boots."
-categories: [blog, gear]
+tags: [blog, gear]
 comments: true
 ---
 #+END_HTML
@@ -37,5 +38,3 @@ recommended method of breaking in new boots. However, I felt
 comfortable all the way round and at the end of the day my feet had no
 blisters or sore spots. I just hope that they last a long time, so I
 don't have to worry about buying another pair of boots for some time!
-
-

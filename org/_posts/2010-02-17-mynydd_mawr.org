@@ -5,10 +5,11 @@
 #+TITLE: Mynydd Mawr.
 #+BEGIN_HTML
 ---
+date: 2010-02-17
 layout: post
 title: Mynydd Mawr.
 comments: true
-categories: [mountaineering, blog, trips]
+tags: [mountaineering, blog, trips]
 ---
 
 
@@ -111,5 +112,3 @@ From the summit you can descend to Rhydd Ddu, or simply retrace your steps.
   <p>Looking towards Anglesey from the summit of from Mynydd Mawr</p>
 </div>
 #+END_HTML
-
-

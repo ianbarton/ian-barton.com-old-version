@@ -4,11 +4,12 @@
 
 #+BEGIN_HTML
 ---
+date: 2011-10-31
 title: Archlinux Mail Server
 layout: post
 excerpt: "Setting up a mail server on Archlinux with virtual
 users. Using Postfix, Dovecot, SASL, postgrey, Roundcube and mailgraph."
-categories: [blog, linux]
+tags: [blog, linux]
 comments: true
 ---
 #+END_HTML
@@ -767,4 +768,3 @@ mailgraph.cgi file is installed into the cgi-bin directory of your web
 server. Depending on your web server's configuration you may need to
 copy this elsewhere. You will also need to add mailgraph to the
 DAEMONS array in /etc/rc.conf to ensure it's started at boot.
-

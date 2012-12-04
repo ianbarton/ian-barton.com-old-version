@@ -2,12 +2,13 @@
 #+STARTUP: hidestars
 #+BEGIN_HTML
 ---
+date: 2012-08-16
 title: Not the Cyfrwy Arete Cadair Idris
 layout: mountaineering
 excerpt:
 
 comments: true
-categories: [mountaineering]
+tags: [mountaineering]
 ---
 #+END_HTML
 
@@ -149,4 +150,3 @@ Square. This is a great little cafe/restaurant in the old (1606)
 jailhouse. We had a cup of coffee and a snack there earlier in the
 day. The food in he evening was very good and reasonably priced. They
 are also very child friendly.
-

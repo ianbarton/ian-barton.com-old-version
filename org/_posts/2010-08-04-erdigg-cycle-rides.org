@@ -2,10 +2,11 @@
 #+STARTUP: hidestars
 #+BEGIN_HTML
 ---
+date: 2010-08-04
 title: Erdigg Cycle Rides.
 layout: post
 excerpt: "A couple of short cycle rides around Erdigg, near Wrexham."
-categories: [blog, cycling]
+tags: [blog, cycling]
 comments: true
 ---
 #+END_HTML

@@ -1,12 +1,13 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
----
-title: Moel Siabod - Summit Camp
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+---
+date: 2012-04-22
+title: Moel Siabod - Summit Camp
 layout: post
 excerpt: "Quick overnight trip. Snatched in a brief window of good weather."
-categories: [blog, mountaineering, trips]
+tags: [blog, mountaineering, trips]
 comments: true
 ---
 #+END_HTML

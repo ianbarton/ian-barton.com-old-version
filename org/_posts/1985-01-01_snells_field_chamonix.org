@@ -4,9 +4,10 @@
 #+TITLE: Snells Field Chamonix.
 #+BEGIN_HTML
 ---
+date: 1985-01-01
 layout: mountaineering
 title: Snells Field Chamonix.
-categories: [mountaineering, alps]
+tags: [mountaineering, alps]
 ---
 #+END_HTML
 For many years impecunious British Alpinists camped on this field just
@@ -25,4 +26,3 @@ could afford to pay. A couple of people even got to stay for free.
 
 I haven't been back to Chamonix since the mid 1990's and I understand
 that Snell's field has now been built over.
-

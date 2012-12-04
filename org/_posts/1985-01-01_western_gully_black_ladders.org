@@ -5,9 +5,10 @@
 #+TITLE: Western Gully Black Ladders.
 #+BEGIN_HTML
 ---
+date: 1985-01-01
 layout: mountaineering
 title: Western Gully, Black Ladders.
-categories: [mountaineering, WinterClimbing]
+tags: [mountaineering, WinterClimbing]
 ---
 #+END_HTML
 "This is going to be a straight forward climb with no epics

@@ -2,10 +2,11 @@
 #+STARTUP: hidestars
 #+BEGIN_HTML
 ---
+date: 2010-08-09
 title: Manifold Valley Cycle Ride.
 layout: post
 excerpt: "Cycling along the Manifold Valley trail."
-categories: [blog, cycling]
+tags: [blog, cycling]
 comments: true
 ---
 #+END_HTML

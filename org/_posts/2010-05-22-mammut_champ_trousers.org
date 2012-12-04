@@ -7,10 +7,11 @@
 #+BEGIN_HTML
 
 ---
+date: 2010-05-22
 layout: post
 title: Mammut Champ Trousers.
 comments: true
-categories: [blog, gear]
+tags: [blog, gear]
 excerpt: "For a few years I have worn Craghopper Kiwi trousers almost all the
 time. I am in the lucky position of being able to wear whatever I want
 most of the time, so I tend to choose clothes that are both practical
@@ -76,5 +77,3 @@ The bottoms are expandable, so the trousers will fit if you are
 wearing big boots in winter. There are two zip pockets and a single
 large thigh pocket. The material seems to be durable, time will tell
 how long it lasts.
-
-

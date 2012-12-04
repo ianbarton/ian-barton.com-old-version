@@ -4,10 +4,11 @@
 #+TITLE: Linux.
 #+BEGIN_HTML
 ---
+date: 1985-01-01
 layout: mountaineering
 title: The Devil's Kitchen Cwm Idwal.
 comments: true
-categories: [mountaineering, WinterClimbing]
+tags: [mountaineering, WinterClimbing]
 ---
 #+END_HTML
 

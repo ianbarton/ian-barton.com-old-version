@@ -5,9 +5,10 @@
 #+TITLE: Circuit of Llyn Brenig.
 #+BEGIN_HTML
 ---
+date: 2010-08-01
 layout: post
 title: Circuit of Llyn Brenig.
-categories: [blog, cycling]
+tags: [blog, cycling]
 ---
 #+END_HTML
 
@@ -48,4 +49,3 @@ The Visitor Centre is open seven days a week between March and the end
 of October. There is a good cafe and an and outside play area for the
 children. They can be contacted on 01490 420463 or you can view their
 web site by clicking [[http://www.hiraethog.org.uk/content.php?nID%3D5&aID%3D3&lID%3D1][here]] .
-

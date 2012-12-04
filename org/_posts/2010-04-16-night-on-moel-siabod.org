@@ -5,10 +5,11 @@
 
 #+BEGIN_HTML
 ---
+date: 2010-04-16
 layout:  post
 title: A Night on Moel Siabod (April 2010).
 comments: true
-categories: [mountaineering, blog, trips]
+tags: [mountaineering, blog, trips]
 ---
 #+END_HTML
 
@@ -178,4 +179,3 @@ dawn."></a>
 </div>
 
 #+END_HTML
-

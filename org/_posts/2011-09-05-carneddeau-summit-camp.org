@@ -4,10 +4,11 @@
 
 #+BEGIN_HTML
 ---
+date: 2011-09-05
 title: Carneddeau Summit Camp
 layout: post
 excerpt: "Camping near the summit of Carnedd Llewelyn."
-categories: [blog, mountaineering]
+tags: [blog, mountaineering]
 comments: true
 ---
 #+END_HTML
@@ -201,4 +202,3 @@ found the wind a bit of a problem, it was nothing like as bad as on
 our Moel Siabod trip. The low cloud of the previous day had cleared in
 the evening and we had enjoyed great views from the tent and during
 our walk along the ridge.
-

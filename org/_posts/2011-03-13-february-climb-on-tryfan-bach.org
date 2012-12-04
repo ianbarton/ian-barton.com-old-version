@@ -4,9 +4,10 @@
 
 #+BEGIN_HTML
 ---
+date: 2011-03-13
 title: February Climb on Tryfan Bach
 layout: post
-categories: [blog, mountaineering, trips]
+tags: [blog, mountaineering, trips]
 excerpt: "Climbing with the children on Tryfan Bach."
 
 comments: true
@@ -93,5 +94,3 @@ scrambled over the top and dropped down the other side, where we were
 more sheltered. The children seemed to have enjoyed themselves,
 despite the challenging conditions and it didn't take long to get to
 Pete's Eats for tea.
-
-

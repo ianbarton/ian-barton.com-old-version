@@ -3,10 +3,11 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
 ---
+date: 2011-08-14
 title: Wild Country Zephyros 2 on Moel Siabod
 layout: post
 excerpt: "First outing for the new tent on a windy wild camp on Moel Siabod."
-categories: [blog, mountaineering, trips]
+tags: [blog, mountaineering, trips]
 comments: true
 ---
 #+END_HTML
