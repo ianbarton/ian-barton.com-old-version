@@ -12,13 +12,13 @@ comments: true
 ---
 #+END_HTML
 
-
-* Day One - Tanygrisiau to Moelwyn Mawr.
 This was another trip shamelessly nicked from [[http://v-g.me.uk/Trips/T0863/T0863.htm][v-g's]] web site. I was
 hoping to do it with the children, but the weather forecast looked too
 dodgy to take them. The initial plan was either to do this trip, or
 another one over the Arans. Read on to see why I didn't do the Arans
 trip.
+
+* Day One - Tanygrisiau to Moelwyn Mawr.
 
 #+BEGIN_HTML
 <div class="photofloatr">
