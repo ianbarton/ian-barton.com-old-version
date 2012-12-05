@@ -13,7 +13,6 @@ comments: true
 ---
 #+END_HTML
 
-* Shorewall Firewall.
 In my continuing quest for the perfect firewall for my requirements, I
 have moved from eBox - recently renamed [[http://www.zentyal.org/][Zentyal]] to [[http://www.shorewall.net][Shorewall]] . The
 problem with Zentyal was that I was only using a tiny portion of its
