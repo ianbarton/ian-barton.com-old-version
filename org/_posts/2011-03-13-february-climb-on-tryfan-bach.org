@@ -14,7 +14,6 @@ comments: true
 ---
 #+END_HTML
 
-* Rock Climbing in February.
 It's hard to find things to do in the February school half term
 week. The weather is usually bad, at least as far as doing anything
 outside with children is concerned and the hours of daylight are
