@@ -24,8 +24,8 @@ temperature and not the maximum or minimum.
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><img src="/images/solar_thermometer.jpg" width="300"
-     alt="Helicopter"></p>
-  <p>Twin Rotor Helicopter</p>
+     alt="Solar Max and Min Thermometer"></p>
+  <p>Solar Max and Min Thermometer</p>
 </div>
 #+END_HTML
 
