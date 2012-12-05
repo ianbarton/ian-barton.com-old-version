@@ -13,6 +13,24 @@ comments: true
 ---
 #+END_HTML
 
+For some time I had wanted to do a two day backpack around the Arans,
+starting from Cwm Cyarch and climbing Aran Fawddwy, then
+making my way along the duck boards and climbing Glasgwm to camp near
+Llyn y Fign.
+
+After a spell of settled weather the rain had arrived. However, the
+[[http://mwis.org.uk][MWIS]] site was predicting decent weather over Snowdonia. I left home
+shortly after 7:00am in a steady drizzle and headed towards
+Welshpool. As I started heading up the Tanat Valley, I could see the
+hills on either side covered in cloud, while the rain didn't show any
+signs of stopping. I decided to carry on driving through Cwm Hirnant
+to Bala. This would give me the option of continuing onto Capel Curig
+if the weather was still bad, or ascend the Arans from the Bala
+side. As I dropped down towards Bala, the weather was less awful, but
+both the Arans and Arenigs were submerged in cloud, so I continued
+onto the A5 towards Capel Curig.
+
+
 * Day One - a Scramble on Tryfan.
 
 You can see more photos from the trip [[file:./tryfan-glyders-photos.html][here]] .
