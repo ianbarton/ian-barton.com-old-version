@@ -11,16 +11,17 @@ comments: true
 ---
 #+END_HTML
 
-* A Short Circular Ride Around Llanberis Over the Old Clegir Road.
- - Time around 1.5 hours.
- - Distance 10.5km.
- - Ascent 225m.
-
 I found this ride in "BikeFax - The best mountain bike trails in
 Snowdonia". It's probably the easiest ride in the book, but well worth
 doing. It's all on tracks or minor roads and is suitable for all but
 very young children. You don't need a "Mountain Bike" for this route,
 a road bike will be fine.
+
+
+ - Time around 1.5 hours.
+ - Distance 10.5km.
+ - Ascent 225m.
+
 
 #+BEGIN_HTML
 <div class="photofloatr">
