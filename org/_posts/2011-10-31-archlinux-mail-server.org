@@ -14,7 +14,6 @@ comments: true
 ---
 #+END_HTML
 
-* Home Mail Server Using ArchLinux, Postfix and Dovecot.
 This tutorial aims to show you how to set up a mail server with
 virtual users, imap and POP3 email, spamassassin, anti-virus, postgrey
 and mail filtering. It's described as a "Home Mailserver", but it
