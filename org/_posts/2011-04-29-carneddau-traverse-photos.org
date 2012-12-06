@@ -9,9 +9,12 @@ layout:  mountaineering
 title: Photos from My Carneddau Traverse (April 2011).
 comments: true
 tags: [mountaineering]
+status: draft
 ---
 #+END_HTML
 
+These are some more photos from my traverse of the Carneddau, which
+you can read about ????
 
 #+BEGIN_HTML
 <div class="thumbnail">
