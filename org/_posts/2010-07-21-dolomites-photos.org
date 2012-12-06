@@ -12,7 +12,7 @@ comments: true
 tags: [blog, mountaineering, dolomites, trips]
 ---
 #+END_HTML
-* The Cir V Via Ferrata.
+
 These photos were taken in July 2010. Click [[file:cir-v-via-ferrata.org][here]] to read more about
 this route.
 
