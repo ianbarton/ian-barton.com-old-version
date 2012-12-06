@@ -13,7 +13,6 @@ excerpt: "Photos from My Tryfan Scramble and Glyders Camping Trip."
 ---
 #+END_HTML
 
-* Photos from Tryfan and Glyders Trip.
 Here are some of the photos from my Tryfan scramble and camping trip
 in October 2011. You can read the trip report itself [[file:./glyders-wild-camp.html][here]] .
 
