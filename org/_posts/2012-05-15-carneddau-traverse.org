@@ -1,6 +1,16 @@
-** DONE Traverse of the Carneddau.
-  CLOSED: [2012-10-18 Thu]
-
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Carneddau Traverse and Backpack.
+#+BEGIN_HTML
+---
+date: 2010-08-11
+layout:  post
+title: Carneddau Traverse and Backpack.
+comments: false
+tags: [mountaineering, blog, backpacking, trips]
+---
+#+END_HTML
 
 Another outing over the Carneddau, coinciding with a window of one and
 a half days of decent weather in the current wet and cold. The trip
