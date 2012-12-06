@@ -13,14 +13,6 @@ tags: [blog, mountaineering, trips]
 ---
 #+END_HTML
 
-#+BEGIN_HTML
-<div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/img_5602.jpg"  title="Base camp."> <img src="/images/img_5602.jpg" width="300"
-     alt="Base Camp"></a></p>
-  <p>Base Camp at Gwern y gof Uchaf</p>
-</div>
-#+END_HTML
-
 
 After the wettest June and July that anyone can remember the sun finally
 came out in the last few days of July. I had promised John and Ella that we
@@ -29,6 +21,15 @@ after six o'clock, so by the time we had eaten at the Bryn Tyrch in Capel
 Curig the sun had begun to set. We camped at Gwern y Gof Uchaf just beneath
 Tryfan. We were surrounded by clouds of midges as we put the tent up and
 were glad to get into our sleeping bags.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/img_5602.jpg"  title="Base camp."> <img src="/images/img_5602.jpg" width="300"
+     alt="Base Camp"></a></p>
+  <p>Base Camp at Gwern y gof Uchaf</p>
+</div>
+#+END_HTML
+
 
 On Tuesday morning there was hardly a cloud in the sky. I cooked some bacon
 on the Trangia and started to pack the rucksack. Looking into the rucksack I
