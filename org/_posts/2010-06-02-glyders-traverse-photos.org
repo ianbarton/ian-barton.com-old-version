@@ -11,7 +11,7 @@ comments: false
 tags: [blog, mountaineering, trips]
 ---
 #+END_HTML
-* Photos from My Traverse of the Glyders.
+
 To read about the walk click [[file:./glyders-wild-camp.html][here]] . Hover your mouse over the photo to see
 the caption.
 
