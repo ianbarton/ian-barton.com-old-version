@@ -1,0 +1,217 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+date: 2011-08-14
+title: Wild Country Zephyros 2 on Moel Siabod
+layout: post
+excerpt: "First outing for the new tent on a windy wild camp on Moel Siabod."
+tags: [blog, mountaineering, trips]
+comments: true
+---
+#+END_HTML
+
+
+I had wanted to try my Zephyros for some time, but hadn't had an
+opportunity to take it into the mountains. The weather had settled
+into the pattern of recent years, with a dry Spring, but wet and
+unsettled weather throughout the Summer. However, a brief window of
+opportunity was forecast mid-week with bad weather clearing in the
+afternoon, followed by a brighter day.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/08082011168_1.jpg"
+  title="Llyn y Foel." ><img src="/images/2011-08-08_moel_siabod/08082011168_1.jpg" width="200"
+     alt="Llyn y Foel."/></a></p>
+  <p>Llyn y Foel.</p>
+</div>
+#+END_HTML
+
+
+I had hoped to use one of the routes over the Arans from [[http://v-g.me.uk][v-g's]]
+site. However, it didn't look as though the good weather would last
+long enough. So, I decided on a late afternoon ascent of Moel Siabod
+from Capel Curig, camping near to the summit and returning to Capel
+early the next morning. It was school holidays (which probably
+explains the bad weather), so I persuaded one of my daughters (Ella)
+that camping on top of a mountain in dodgy weather was a good idea.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"   href="/images/2011-08-08_moel_siabod/08082011170_1.jpg"
+  title="View from Ddear Ddu." ><img src="/images/2011-08-08_moel_siabod/08082011170_1.jpg" width="200"
+     alt="View from Ddear Ddu."/></a></p>
+  <p>View from Ddear Ddu.</p>
+</div>
+#+END_HTML
+
+
+Driving over the Llandegla Moors, rain began to pour down from the
+grey skies, so much for the promised clear weather in the
+afternoon. When we reached the A5, it had stopped raining, but the sky
+was entirely covered in low grey clouds. Driving up from Betwys y Coed
+I caught occasional glimpses of the summit of Siabod trough the
+cloud. It wasn't raining continuously, but there were frequent heavy
+showers. We had tea in the Pinnacle cafe in Capel Curig before driving
+back to the car park near to the Bryn y Glo cafe.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/08082011173_1.jpg"
+  title="Ella at the top of the Ddear Ddu ridge." ><img src="/images/2011-08-08_moel_siabod/08082011173_1.jpg" width="200"
+     alt="Ella at the top of the Ddear Ddu ridge."/></a></p>
+  <p>Ella at the top of the Ddear Ddu ridge.</p>
+</div>
+#+END_HTML
+
+
+Ella sat in the car while I packed the rucksack in the rain. When we
+set off the sky was covered in low grey cloud and it was raining
+intermittently. I glanced over the bridge at Pont y ??? and noticed
+that the level of water in the river was well up for the time of
+year. After a short distance we turned right and started up the steep
+farm track, following the diversion that takes the path away from the
+farm buildings. As we made our way along the track over the moors, I
+could see that the summit of Siabod was covered in cloud. Rather than
+try and camp on the summit, I decided that we would be better off
+camping next to Llyn y Foel and hope that the weather was better in
+the morning..
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/08082011170_1.jpg"
+  title="Looking towards the Rhinogs." ><img src="/images/2011-08-08_moel_siabod/08082011170_1.jpg" width="200"
+     alt="Llyn y Foel."/></a></p>
+  <p>Looking towards the Rhinogs.</p>
+</div>
+#+END_HTML
+
+This was Ella's first trip up Siabod and I was regretting not waiting
+for better conditions. Also, her boots were leaking badly and since
+the path was running with water, her feet were soon soaked. We made
+our way up through the old quarry workings and stopped to stare into a
+couple of the flooded workings. On a sunny day the water appears in
+vivid colours, caused by the different dissolved minerals. However,
+today it just looked grey, like the sky above.
+
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011176_1.jpg"
+  title="Looking NE along the summit ridge." ><img src="/images/2011-08-08_moel_siabod/09082011176_1.jpg" width="200"
+     alt="Looking NE along the summit ridge."/></a></p>
+  <p>Looking NE along the summit ridge.</p>
+</div>
+#+END_HTML
+
+As we approached Llyn y Foel a few breaks appeared in the clouds and
+the summit cleared. After a bit of deliberation we decided to continue
+over the Ddear Ddu ridge to the summit. Unfortunately, the path past Llyn
+y Foel was very boggy and Ella's feet got even wetter. The Ddear Ddu ridge was
+a pleasant scramble, but needed care as the rock was quite
+greasy. Also I was hampered by carrying a heavy pack. I made my way
+slowly up the ridge, with Ella skipping along behind like a faun.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011178_1.jpg"
+  title="Zephyros below the summit." ><img src="/images/2011-08-08_moel_siabod/09082011178_1.jpg" width="200"
+     alt="Zephyros below the summit."/></a></p>
+  <p>Zephyros below the summit.</p>
+</div>
+#+END_HTML
+
+
+I could see the clouds racing over the summit and wondered how windy
+it was going to be on top. The forecast was for winds gusting up to
+45mph, but falling back to 25mph later in the day. By the time we had
+reached the final rocks below the summit, the cloud had risen some way
+above the summit and there were some large patches of blue sky
+appearing. Once we got onto the summit ridge it was very windy and
+Ella sat in the summit shelter, covered by my bothy bag, while I went
+in search of a suitable spot to pitch the tent.
+
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011181_1.jpg"
+  title="Cloudy early morning." ><img src="/images/2011-08-08_moel_siabod/09082011181_1.jpg" width="200"
+     alt="Cloudy early morning."/></a></p>
+  <p>Cloudy early morning.</p>
+</div>
+#+END_HTML
+
+
+There is a nice flat area to the North of the summit, which has great
+views over Snowdon and the Glyders, where I pitched the tent on my
+ last trip. However, it was exposed to the full force of the westerly
+wind, which was blowing me about and was definitely not the place to
+pitch the tent. I back tracked to the area on the southern slope, just below
+the summit ridge, where I found a nice flat area close to the summit
+cairn.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011182_1.jpg"
+  title="The SE ridge." ><img src="/images/2011-08-08_moel_siabod/09082011182_1.jpg" width="200"
+     alt="The SE ridge."/></a></p>
+  <p>The SE ridge.</p>
+</div>
+#+END_HTML
+
+
+I unpacked the Zephyros and had it pitched in less than 10 minutes. I
+climbed back up to the summit shelter and fetched Ella and we put all
+our gear into the tent. The Zephyros 2 is very cosy for two and you
+can only just fit two sleeping mats side by side. It was now about
+8:30pm and the light was fading. I found it was possible to cook in
+the porch, but you really need to have the flysheet open to avoid
+setting light to the tent! After a cup of hot chocolate and some
+porridge and sultanas, we settled down for the night. Contrary to the
+forecast the wind didn't drop at all during the night. We could hear
+the roar of the gale on the other side of the summit ridge and blasts
+of wind that made it over the ridge rattled the Zephyros. However, the
+tent stood up to the wind and sharp showers during the night without
+any problems.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/09082011184_1.jpg"
+  title="Early morning storm clouds." ><img src="/images/2011-08-08_moel_siabod/09082011184_1.jpg" width="200"
+     alt="Early morning storm clouds."/></a></p>
+  <p>Early morning storm clouds.</p>
+</div>
+#+END_HTML
+
+
+The wind kept us awake most of the night and we dropped off to sleep
+about 4:00pm, waking again about 6:30am. Wisps of cloud were blowing
+over the summit and the wind hadn't dropped at all during the
+night. After a cup of hot chocolate we decide to pack up and go down
+to the valley for breakfast. We crossed over to the northern side of
+the summit ridge and dropped down below the crest, to avoid scrambling
+over the rocks. We were now exposed to the full force of the wind. I
+was being buffeted and Ella was struggling to stay on her feet. I
+could see sheets of rain blowing along the Ogwen Valley over Capel
+Curig. Luckily, although we were exposed to the gale, the rain showers
+passed us by. It felt much more like Autumn than early August.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-08-08_moel_siabod/08082011167_1.jpg"
+  title="Finally out of the gale." ><img src="/images/2011-08-08_moel_siabod/08082011167_1.jpg" width="200"
+     alt="Finally out of the gale."/></a></p>
+  <p>.Finally out of the gale.</p>
+</div>
+#+END_HTML
+
+
+Once we started dropping down the southern slopes we were sheltered
+from the wind and made quick progress down the eroded path back to
+the end of the track. We got back to the car about 9:00am and went
+straight round to Pete's Eats for breakfast!
+
+You can read my account and see some photos of a much better night's
+camping on the summit in April 2010 by clicking [[http://www.ian-barton.com/mountaineering/night-on-moel-siabod.html][here]] .

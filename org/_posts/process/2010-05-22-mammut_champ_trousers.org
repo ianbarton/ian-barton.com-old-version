@@ -1,0 +1,79 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Bothy Bags.
+
+#+BEGIN_HTML
+
+---
+date: 2010-05-22
+layout: post
+title: Mammut Champ Trousers.
+comments: true
+tags: [blog, gear]
+excerpt: "For a few years I have worn Craghopper Kiwi trousers almost all the
+time. I am in the lucky position of being able to wear whatever I want
+most of the time, so I tend to choose clothes that are both practical
+and I feel comfortable in."
+---
+#+END_HTML
+
+For a few years I have worn Craghopper Kiwi trousers almost all the
+time. I am in the lucky position of being able to wear whatever I want
+most of the time, so I tend to choose clothes that are both practical
+and I feel comfortable in.
+
+The Kiwi's are great and if you shop around you can pick them up for
+around £25, rather than the rrp. of £40. They are reasonably wind
+proof and dry very quickly when wet. However, one problem is that they
+also get wet very quickly in a shower, or if you brush against
+something like wet bracken.
+
+If it's really cold I have my Buffalo salopettes, but at anything
+above freezing they are far too warm. I wanted something that was more
+water resistant than the Kiwis, but not too warm to wear in Spring and
+Autumn. Initially I considered the Paramo Cascadas, but decided that
+these were probably too bulky and heavy for me.
+
+There are a bewildering number of "Mountain Trousers" available at
+various price points. I made a short list of desirable properties:
+
+- Reasonably windproof and light.
+
+- Water resistant.
+
+- Articulated knees so I could use them for scrambling and climbing.
+
+- Hard wearing - I tend to use my gear a lot and want it to last.
+
+I read numerous reviews and trawled various forums looking for
+advice. Eventually, I settled on Mammut Base Jumps. They had many
+positive reviews and are available in a wide range of sizes - I have
+long legs, so wanted to make sure I didn't end up with something that
+was too short. However, just when I decided what I wanted, Mammut
+decided to discontinue the original Base Jump and bring out a new
+model. No on in the UK had a pair available in my size.
+
+When the new design became available, it was even more expensive than
+the already expensive old Base Jumps. Luckily, I found out that I
+could buy Mammut Champs, which are basically  the same as the Base
+Jumps, but more expensive. They were now cheaper than the new range of
+Base Jumps. I took a deep breath and bought a pair of Champs from V12,
+who are the main distributor in the UK. The price of £116 was more
+than I have ever paid for a pair of trousers before.
+
+I was initially very uncertain about paying so much for a pair of
+trousers. However, having worn them a number of times I am very hapy
+with them. They are very comfortable and whilst not completely wind
+proof, the fabric is very breathable so I don't sweat. This makes them
+great for both walking and cycling. I hate waterproof over trousers
+and though I have a pair I almost never wear them. The Champs are
+water resistant to the extent that I don't bother carrying my
+waterproof over trousers, thus saving some weight. I think that rain
+heavy enough to soak the Champs would get through over trousers too.
+
+The bottoms are expandable, so the trousers will fit if you are
+wearing big boots in winter. There are two zip pockets and a single
+large thigh pocket. The material seems to be durable, time will tell
+how long it lasts.

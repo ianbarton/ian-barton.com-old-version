@@ -1,0 +1,124 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
+#+BEGIN_HTML
+---
+date: 2011-01-09
+title: Lowe Alpine Cap vs Trekmates Ice GTX Cap
+layout: post
+tags: [blog, gear]
+excerpt: "Comparison of the Lowe Alpine Mountain Cap, Trekmates Ice
+Cap and Paramo Cap."
+
+comments: true
+---
+#+END_HTML
+
+In the warmer months of the year I wear my Paramo Cap. However,
+in the recent very cold winter weather it wasn't really warm enough. I
+have read many reviews of the Lowe Alpine Cap, which seems to be a
+classic winter hat. The only drawback was the price of around £35. I
+didn't want to spend that much on a hat I would probably only wear for
+a limited period of the year. Luckily, I found it discounted to £15 in
+a [[http://www.gooutdoors.co.ok][GoOutdoors]] sale, so I ordered one.
+
+Recently I succumbed to a  [[http://www.tgomagazine.co.uk][TGO]] subscription offer, which included a
+Trekmates Ice Cap. The rest of this post is a comparison of the
+Paramo, Lowe Alpine and Trekmates caps.
+
+
+** Lowe Alpine Cap.
+I have been wearing it every day since early November and it has kept
+my head warm and dry in all sorts of wet and cold conditions. The
+outer is made from Goretex with fully taped seams and keeps out the
+wort of the rain and snow. The inner is lined with warm fleecy
+material and there is a small peak, which can be fastened out of the
+way using a press stud.
+
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/Lowe_Alpine_Cap.jpg"  title="Lowe
+  Alpine Cap."> <img src="/images/Lowe_Alpine_Cap.jpg" width="200"
+     alt="Lowe Alpine Cap."></a></p>
+  <p>Lowe Alpine Cap.</p>
+
+</div>
+#+END_HTML
+
+
+Likes:
+
+- Waterproof and very warm.
+- Warm ear flaps. These can be folded inside the cap if you don't want
+  to use them.
+- Adjustable fit.
+
+Dislikes:
+
+- Too warm for much of the year.
+- There are loops for a chip strap, but to strap is provided (unlike
+  the Paramo).
+- Peak could be a bit larger.
+
+
+** Trekmates Ice Cap.
+
+The Trekmates Ice Cap is a very similar design to the Lowe. Hardly
+surprising that they chose to copy such and excellent design. I got
+mine as part of a [[http://www.tgomagazine.co.uk][TGO]] subscription offer. The outer is Goretex Paclite
+and the inner is a fleecy material similar to the Lowe.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/Trekmates_Ice_Cap.jpg"
+  title="Trekmates Ice Cap."> <img src="/images/Trekmates_Ice_Cap.jpg" width="200"
+     alt="Trekmates Ice Cap."></a></p>
+  <p>Trekmates Ice Cap.</p>
+
+</div>
+#+END_HTML
+
+Overall the cap is lighter than the Lowe and as such I may be able to
+wear it outside the winter months.
+
+Likes:
+
+- Similar design to the Lowe, so has all the benefits of this design.
+- Overall lighter than the Lowe Cap, so could be more useful in warmer weather.
+- Broader peak than the Lowe, giving better shielding from the sun.
+
+Dislikes:
+
+- Loops for a chin strap, but none provided.
+- Only available in a single size.
+
+** Paramo Cap.
+The Paramo is made from Paramo's own fabric. It's available in a range
+of sizes and is waterproof if treated with Nickwax TX.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/paramo_cap.jpg"
+  title="Paramo Cap."> <img src="/images/paramo_cap.jpg" width="200"
+     alt="Paramo Cap."></a></p>
+  <p>Paramo Cap.</p>
+
+</div>
+#+END_HTML
+
+
+Likes:
+
+- Very light (80g).
+- Long ear and neck flap for protection from rain and sun. These can
+  be folded inside the cap when not required.
+- Good range of adjustments, including elasticated neck and face volume.
+- Good size peak.
+- Poppered chin strap with big tabs making it easy to undo with
+  gloves. Lowe and Trekmates take note!
+
+Dislikes:
+
+- None really, but it isn't as warm as the Lowe and Trekmates caps.

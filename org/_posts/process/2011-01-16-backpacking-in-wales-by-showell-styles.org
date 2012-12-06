@@ -1,0 +1,69 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
+#+BEGIN_HTML
+---
+date: 2011-01-16
+title: Backpacking in Wales by Showell Styles
+layout: post
+excerpt: "A review of Showell Styles Backpacking in Wales."
+tags: [blog, mountaineering]
+
+comments: true
+---
+#+END_HTML
+
+[[http://en.wikipedia.org/wiki/Showell_Styles][Showell Styles]] (known to his friends as "Pip") was a prolific author
+with over 160 published books. I think that I first became aware of
+his mountaineering writing when I used to read "Climber and Rambler",
+where he published several articles. He also contributed to Ken
+Wilson's "Classic Rock" writing about three climbs on the East Face of
+Tryfan.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <p><a href="/images/backpacking_in_wales.jpg" rel="lightbox" title="Backpacking in Wales."> <img src="/images/backpacking_in_wales.jpg"
+     alt="Backpacking in Wales."></a></p>
+  <p>Backpacking in Wales.</p>
+
+</div>
+#+END_HTML
+
+
+My father was an avid reader of seafaring books and one day I noticed
+him reading a book by Showell Styles and that's how I found about his
+fiction. Although I have my father's copies of many of his seafaring
+fiction, I have never read any of his mountaineering books.
+
+A few months ago I read a post on [[http://www.outdoorsmagic.com/forum/forummessages/mps/dt/1/UTN/38309/V/1/SP/][Outdoors Magic]] which described
+following one of Styles' routes described in his "Backpacking in
+Wales" book the "Bay to Bay" walk. After reading the post I decided I
+would also like to read "Backpacking in Wales". Although Styles books
+have long been out of print, most of them are available from second
+hand booksellers. A quick search showed up several copies, but for
+some reason they were all priced between £20 and £35. This seemed a
+little strange because almost all of Styles other books are available
+for less than £10. Even stranger - if I visited the US sites of these
+same booksellers the same book was available for $6! For a while I
+considered trying to order the book via the US site. The books
+themselves were all dispatched from Britain, but I decided that this
+probably wouldn't work.
+
+Today I was in Shrewsbury and went into a second hand book shop to see
+if they had any mountaineering books. In the section with books about
+Wales I found a copy of "Backpacking in Wales" in excellent condition
+for £4.Unable to believe my good fortune, I promptly bought it.
+
+There is a plate inside the book showing it originally belonged to DAG
+Hampton Davies. The plate has a Welsh inscription "Duw Gwir a Gwiad".
+The book itself is divided into three sections "Journeys for a
+Fortnight", "Journeys for a Week" and "Journeys for a Weekend". Each
+day of a walk is preceded by a detailed route description, followed by
+Styles' own account of the day.  haven't read all the book yet, but it
+has already given me several new ideas for walks and Styles'
+descriptions of the Welsh landscape and his journeys through it are
+always worth reading.
+
+"Backpacking in Wales" by Showell Styles was published by Robert Hale (London)
+in 1977.

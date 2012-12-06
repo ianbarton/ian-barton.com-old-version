@@ -1,0 +1,56 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
+
+#+BEGIN_HTML
+---
+date: 2010-06-08
+title: Bryn Tyrch Hotel, Capel Curig.
+layout: post
+excerpt: "The Bryn Tyrch in Capel Curig, a family friendly hotel with
+a high standard of accommodation and good food."
+tags: [blog, mountaineering]
+comments: true
+---
+#+END_HTML
+
+When I was a small child, in the 1960's, we often stayed at Cobdens in
+Capel Curig. The hotel was then owned by a Mrs Newman, who also owned
+the Tyn y Coed just down the road. I think that she also owned the
+hotel on the A5 at Pentrefoelas. She lived in the house opposite to
+Cobdens, by the green bridge over the river. Cobdens was always a bit
+ramshackle, but in a nice sort of way.
+
+In the 1970's Cobdens had really gone down hill and my parents started
+to stay up the road at the [[http://www.bryntyrchinn.co.uk/][Bryn Tyrch]] . By this time I had left home,
+so didn't stay there with them, but often called to have a meal with
+them when my weekend trips to North Wales coincided with theirs. Over
+the years I have drunk countless pints of beer and eaten innumerable
+bar meals at the Bryn Tyrch. Recently the hotel has been refurbished and
+the standard and choice of food has been greatly improved. There are
+still the old photographs, taken by the guidebook author [[http://en.wikipedia.org/wiki/W._A._Poucher][WA Poucher]],
+who use to stay here.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+  <a href="/images/2010-06-glyders/DSCF2162.JPG" rel="lightbox"
+    title="Bryn Tyrch."> <img src="/images/2010-06-glyders/DSCF2162.JPG" width="200"
+         alt="Bryn Tyrch."></a>
+</div>
+#+END_HTML
+
+
+We have three children and now that they are getting older, we tend
+not to stay in hotels and guest houses, as we can no longer all fit in
+one room, so it can work out very expensive. However, it turns out the
+Bryn Tyrch has a couple of bunk rooms inside the hotel, which meant
+that we could fit in one room and the children had a room to
+themselves. The food was excellent, importantly there were things that
+the children would eat available in child size portions.
+
+The standard of the rooms was very good, with excellent
+breakfasts. The staff are also family friendly and the price for B&B
+for all five of us very reasonable. The location of the hotel in Capel
+Curig is ideal for visiting all parts of Snowdonia. In fact you can
+start many walks from the hotel itself, so you don't have to drive at
+all. I am sure that we shall be staying there again.
