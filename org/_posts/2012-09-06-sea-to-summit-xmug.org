@@ -1,3 +1,18 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Sea to Summit X Mug.
+#+BEGIN_HTML
+---
+date: 2012-09-06
+layout:  post
+title: Sea to Summit X Mug.
+comments: false
+tags: [mountaineering, blog, gear, review]
+---
+#+END_HTML
+
+
 I managed to crack my plastic mug and was about to buy another one
 when I decided to investigate the alternatives. I don't like metal
 mugs of any sort. I end up burning my finger and lips whenever I use
