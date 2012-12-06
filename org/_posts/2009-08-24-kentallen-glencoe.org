@@ -11,6 +11,14 @@ tags: [blog, cycling]
 ---
 #+END_HTML
 
+
+The Oban to Fort William Cycle trail seems to be one of the best kept
+secrets in Scotland. I only found out about it because we were staying
+at Kentallen right next to it. It is supposed to be a flagship trail,
+but there was almost no information available locally, or on the
+web. The trail isn't complete, but the section between Kentallen and
+Ballachulish is finished.
+
 #+BEGIN_HTML
 <div class="photofloatr">
   <p><a href="/images/DSCF0972.JPG" rel="lightbox" title="View from
@@ -21,17 +29,10 @@ tags: [blog, cycling]
 </div>
 #+END_HTML
 
-The Oban to Fort William Cycle trail seems to be one of the best kept
-secrets in Scotland. I only found out about it because we were staying
-at Kentallen right next to it. It is supposed to be a flagship trail,
-but there was almost no information available locally, or on the
-web. The trail isn't complete, but the section between Kentallen and
-Ballachulish is finished.
 
-We started our ride next to the
-[[http://www.hollytreehotel.co.uk/][Holly Tree Hotel]] in
-Kentallen. The trail winds its way along the shores of Loch Linnhe. It
-emerges next to Ballachulish bridge, where you can cross over to
+We started our ride next to the [[http://www.hollytreehotel.co.uk/][Holly Tree Hotel]] in Kentallen. The
+trail winds its way along the shores of Loch Linnhe. It emerges next
+to Ballachulish bridge, where you can cross over to
 Glenachulish. There are great view over the lake to Ardgour and
 Glencoe. From the end of the track it's possible to follow a forestry
 track from the car park in Glenachulish towards Ballachulish. The
