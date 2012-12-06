@@ -11,7 +11,7 @@ comments: false
 tags: [blog, mountaineering, trips]
 ---
 #+END_HTML
-* Photos from My Traverse of the Glyders.
+
 To read about the walk click [[file:traverse-of-the-glyders-from-capel-curig-to-nant-peris.org][here]] . Hover your mouse over the photo to see
 the caption.
 
