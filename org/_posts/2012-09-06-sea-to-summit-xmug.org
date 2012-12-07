@@ -1,0 +1,49 @@
+#+TITLE: Sea to Summit X-Mug
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
+#+BEGIN_HTML
+---
+date: 2012-09-06
+layout: post
+title: Sea to Summit X-Mug
+comments: true
+tags: [mountaineering, blog, equipment]
+---
+#+END_HTML
+
+I managed to crack my plastic mug and was about to buy another one
+when I decided to investigate the alternatives. I don't like metal
+mugs of any sort. I end up burning my finger and lips whenever I use
+them. Mugs take up space in my rucksack. I can try to stuff things
+inside them to try and reduce the dead space, but this isn't always
+possible.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/X-Mug.jpg"  title="Sea to Summit X-Mug" ><img src="/images/X-Mug.jpg" width="200"
+     alt="Sea to Summit X-Mug"/></a></p>
+  <p>Sea to Summit X-Mug</p>
+</div>
+#+END_HTML
+
+I had read several reviews of Sea to Summits [[http://www.seatosummit.com/products/display/71][X-Mug]] . It's constructed
+from silicone with a rigid rim. Its unique selling point is that it
+collapses into a flat disc. It holds around 500ml and the rim
+around the top prevents scalded fingers. I had a couple of concerns
+about it. Firstly I wondered how stable it was, I didn't want it
+collapsing in the tent when it was full of a hot drink. Secondly some
+reviewers said that it retained the taste of the previous
+contents. However, several other people said that they hadn't found
+this to be a problem.
+
+I nipped into my local [[http://www.cotswoldoutdoor.com][Cotswold]] to have a look at one. After
+examining one I was happy that it wouldn't collapse accidentally. I
+decided to take a chance that it wouldn't retain the taste of any
+previous contents and bought one. When I got it home I tried several
+drink in it and confirm that after washing it doesn't retain the
+taste of the previous contents. It was find with hot drinks, I didn't
+scale either my fingers or my mouth. Drinks do cool down a bit faster
+than in my old plastic beaker. However, this is an advantage for me
+as I like to have my hot drink as soon as I have made it and it
+doesn't stay in the cup long enough to get cold!
