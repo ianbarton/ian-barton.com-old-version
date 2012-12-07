@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 
 AUTHOR = u"Ian Barton"
-SITENAME = u"Ian's Blog"
+SITENAME = u"ian-barton.com"
 SITEURL = 'http://www.ian-barton.com'
 
 TIMEZONE = 'Europe/Paris'
@@ -21,9 +21,13 @@ SOCIAL = (('You can add links in your config file', '#'),
 
 DEFAULT_PAGINATION = 10
 
-OUTPUT_PATH = "~/dropbox/public_html/pelican"
+OUTPUT_PATH = "/srv/http"
 
 STATIC_PATHS = (['images'])
 
 ARTICLE_URL = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html"
+
+DISQUS_SITENAME = "ianbarton"
+GITHUB_URL = "https://github.com/geekinthesticks"
+GOOGLE_ANALYTICS = "UA-7259094-1"
