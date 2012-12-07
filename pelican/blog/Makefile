@@ -3,7 +3,7 @@ PELICANOPTS= -t bootstrap
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
-OUTPUTDIR=/home/ian/dropbox/public_html/pelican
+OUTPUTDIR=/srv/http
 CONFFILE=$(BASEDIR)/pelicanconf.py
 PUBLISHCONF=$(BASEDIR)/publishconf.py
 
