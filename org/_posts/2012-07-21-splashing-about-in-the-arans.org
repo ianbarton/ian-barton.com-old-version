@@ -1,5 +1,17 @@
-** DONE Splashing About in the Arans.
-  CLOSED: [2012-10-17 Wed]
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Splashing About in the Arans.
+#+BEGIN_HTML
+---
+date: 2012-07-21
+layout: post
+title: Splashing About in the Arans.
+comments: true
+tags: [mountaineering, backpacking]
+---
+#+END_HTML
 
 On Wednesday MWIS was promising 70% chance of clear summits on the
 Thursday and Friday. After months of rain, this looked like a chance

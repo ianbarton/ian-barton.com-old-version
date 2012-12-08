@@ -1,8 +1,17 @@
-** DONE Carneddau Horseshoe.
-  CLOSED: [2012-01-07 Sat 00:13]
-
-:NOTES:
-OM Post.
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+TITLE: Carneddau Horseshoe.
+#+BEGIN_HTML
+---
+date: 2012-08-11
+layout: post
+title: Carneddau Horseshoe.
+comments: true
+tags: [mountaineering, backpacking]
+---
+#+END_HTML
 
 A two day trip round the Carneddau starting from Cwm Eigiau. I started
 by climbing Foel Fras via steep grassy slopes, as I couldn't find the
