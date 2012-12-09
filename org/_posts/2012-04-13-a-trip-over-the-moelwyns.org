@@ -6,14 +6,14 @@
 date: 2012-04-13
 title: A Trip Over the Moelwyns
 layout: post
-excerpt: "A Short Backpack Over the Moelwyns."
+summary: "A Short Backpack Over the Moelwyns."
 tags: [blog, mountaineering]
 comments: true
 ---
 #+END_HTML
 
 
-* Day One - Tanygrisiau to Moelwyn Mawr.
+** Day One - Tanygrisiau to Moelwyn Mawr.
 This was another trip shamelessly nicked from [[http://v-g.me.uk/Trips/T0863/T0863.htm][v-g's]] web site. I was
 hoping to do it with the children, but the weather forecast looked too
 dodgy to take them. The initial plan was either to do this trip, or
@@ -172,7 +172,7 @@ I made my way back to the tent to get into some dry gear and cook
 tea. The spot I had chosen turned out to be very sheltered and I had a
 quiet night.
 
-* Day Two Moel-yr-hydd and Cwm Orthin.
+** Day Two Moel-yr-hydd and Cwm Orthin.
 I was up around 6:30am. Looking out of the tent the
 summit was still shrouded in mist, but the wind had dropped and it
 wasn't hailing or raining. As I was packing away the tent,
