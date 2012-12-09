@@ -3,16 +3,15 @@
 #+BEGIN_HTML
 ---
 date: 2011-09-01
-title: Exped Synmat Ultralite
+title: Exped Synmat Ultralite vs Thermarest Neoair.
 layout: post
 tags: [blog, gear]
-excerpt: "Comparison of the Exped Synmat Ultralite and the Thermarest Neoair"
+summary: "Comparison of the Exped Synmat Ultralite and the Thermarest Neoair"
 
 comments: true
 ---
 #+END_HTML
 
-* Exped Synmat Ultralite and Thermarest Neoair Comparison.
 I am a big fan of my Thermarest Neoair, which is very comfortable,
 light and packs down small. However, I find that I tend to roll off it
 when I am asleep. Recently I needed to buy another light weight mat
