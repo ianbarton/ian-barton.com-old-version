@@ -6,7 +6,7 @@
 ---
 date: 2011-04-29
 layout:  mountaineering
-title: Photos from My Carneddau Traverse (April 2011).
+summary: Photos from My Carneddau Traverse (April 2011).
 comments: true
 tags: [mountaineering]
 ---
