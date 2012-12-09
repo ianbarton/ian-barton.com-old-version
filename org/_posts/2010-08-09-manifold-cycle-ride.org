@@ -11,7 +11,6 @@ comments: true
 ---
 #+END_HTML
 
-* The Manifold Valley Trail.
 The Manifold Valley in Derbyshire has an 8.5 mile cycle trail that
 follows the line of an old railway line through the valley. It's a
 linear ride, so you will end up cycling the trail both ways, but it's
