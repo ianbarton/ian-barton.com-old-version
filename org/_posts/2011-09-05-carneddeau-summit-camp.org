@@ -7,13 +7,12 @@
 date: 2011-09-05
 title: Carneddeau Summit Camp
 layout: post
-excerpt: "Camping near the summit of Carnedd Llewelyn."
-tags: [blog, mountaineering]
+summary: "Camping near the summit of Carnedd Llewelyn."
+tags: [blog, mountaineering, backpacking]
 comments: true
 ---
 #+END_HTML
 
-* Camping on Carnedd Llewelyn.
 After another summer of indifferent weather, following the hot spring,
 the Snowdonia weather forecast was predicting a couple of days of
 cloud free summits. Not deterred by our very windy camp on the summit
