@@ -7,13 +7,12 @@
 date: 2010-10-17
 title: Shorewall Firewall, Squid and Privoxy Proxies.
 layout: post
-excerpt: "Moving to a new firewall. Installing Squid 3.0 and Privoxy."
+summary: "Moving to a new firewall. Installing Squid 3.0 and Privoxy."
 tags: [blog, linux]
 comments: true
 ---
 #+END_HTML
 
-* Shorewall Firewall.
 In my continuing quest for the perfect firewall for my requirements, I
 have moved from eBox - recently renamed [[http://www.zentyal.org/][Zentyal]] to [[http://www.shorewall.net][Shorewall]] . The
 problem with Zentyal was that I was only using a tiny portion of its
