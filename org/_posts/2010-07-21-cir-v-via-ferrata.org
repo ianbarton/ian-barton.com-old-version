@@ -7,7 +7,7 @@
 date: 2010-07-21
 layout: post
 title: Via Ferrata Cir V.
-excerpt: "Via Ferrata Cir V from Val Gardena (July 2010)."
+summary: "Via Ferrata Cir V from Val Gardena (July 2010)."
 comments: true
 tags: [blog, mountaineering, dolomites, trips]
 ---

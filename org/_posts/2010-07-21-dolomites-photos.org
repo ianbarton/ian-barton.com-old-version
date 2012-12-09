@@ -7,12 +7,12 @@
 date: 2010-07-21
 layout:  post
 title: Via Ferrata Cir V (Photos).
-excerpt: "Photos of the Via Ferrata Cir V from Val Gardena (July 2010)."
+summary: "Photos of the Via Ferrata Cir V from Val Gardena (July 2010)."
 comments: true
 tags: [blog, mountaineering, dolomites, trips]
 ---
 #+END_HTML
-* The Cir V Via Ferrata.
+
 These photos were taken in July 2010. Click [[file:cir-v-via-ferrata.org][here]] to read more about
 this route.
 
