@@ -7,13 +7,13 @@
 date: 2011-10-29
 title: Glyders Wild Camp
 layout: post
-excerpt: "Scramble on the west face of Tryfan and a Wild Camp on the Glyders."
+summary: "Scramble on the west face of Tryfan and a Wild Camp on the Glyders."
 tags: [blog, mountaineering, trips]
 comments: true
 ---
 #+END_HTML
 
-* Day One - a Scramble on Tryfan.
+** Day One - a Scramble on Tryfan.
 
 You can see more photos from the trip [[file:./tryfan-glyders-photos.html][here]] .
 
@@ -135,7 +135,7 @@ for several hours. After it had stopped I unzipped the tent door and
 looking outside I could see the sky was almost completely clear. The
 wind was gradually dropping and I had a peaceful night.
 
-* Day 2 - Llyn Caseg y Fraith to Capel Curig.
+** Day 2 - Llyn Caseg y Fraith to Capel Curig.
 One disadvantage of camping at the end of October is it's dark for
 about 12 hours. I cooked and listened to a couple of podcasts on my
 phone before drifting off to sleep. As there was almost no wind, I
