@@ -8,10 +8,11 @@ date: 2010-06-02
 layout:  mountaineering
 title: Photos from Traverse of the Glyders (June 2010).
 comments: false
+summary: Tryfan and Glyders photos from my June 2010 trip.
 tags: [blog, mountaineering, trips]
 ---
 #+END_HTML
-* Photos from My Traverse of the Glyders.
+
 To read about the walk click [[file:./glyders-wild-camp.html][here]] . Hover your mouse over the photo to see
 the caption.
 
