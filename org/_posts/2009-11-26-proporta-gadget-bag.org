@@ -9,12 +9,10 @@ layout: post
 title: Proporta Gadget Bag.
 tags: [gadgets, blog]
 tags: [gadgets, linux]
-excerpt: A review of the Proporta Gadget Bag.
+summary: A review of the Proporta Gadget Bag.
 ---
 #+END_HTML
 
-
-* Proporta Gadget Bag.
 The bag that comes with the Asus eee is fine for carrying the
 computer, but doesn't have any space for the charger or other bits and
 pieces that you might want to carry about.
