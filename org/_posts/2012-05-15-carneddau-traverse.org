@@ -5,7 +5,7 @@
 #+TITLE: Traverse of the Carneddau.
 #+BEGIN_HTML
 ---
-date: 1985-01-01
+date: 2012-05-15
 layout: post
 title: Traverse of the Carneddau.
 comments: true
