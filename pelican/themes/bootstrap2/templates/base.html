@@ -95,15 +95,16 @@
     </div>
 
     <div class="container-fluid">
+        <div class="span3 well sidebar-nav" id="sidebar">
+            {% include 'sidebar.html' %}
+        </div><!--/.well -->
+
       <div class="row">
         <div class="span9" id="content">
             {% block content %}
             {% endblock %}
         </div><!--/span-->
 
-                <div class="span3 well sidebar-nav" id="sidebar">
-            {% include 'sidebar.html' %}
-        </div><!--/.well -->
 
       </div><!--/row-->
 
