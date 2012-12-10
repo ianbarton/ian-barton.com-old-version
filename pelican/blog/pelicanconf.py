@@ -16,7 +16,7 @@ LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
           ('You can modify those links in your config file', '#'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
+SOCIAL = (('Twitter', '#'),
           ('Another social link', '#'),)
 
 DEFAULT_PAGINATION = 10
@@ -24,6 +24,8 @@ DEFAULT_PAGINATION = 10
 OUTPUT_PATH = "/srv/http"
 
 STATIC_PATHS = (['images'])
+
+NEWEST_FIRST_ARCHIVES (True)
 
 ARTICLE_URL = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/"
 ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html"
