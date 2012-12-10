@@ -9,11 +9,15 @@ TIMEZONE = 'Europe/Paris'
 MARKUP = (('rst', 'md', 'yml'))
 DEFAULT_LANG = 'en'
 
+DISPLAY_PAGES_ON_MENU = (True)
+
 # Blogroll
-LINKS =  (('Pelican', 'http://docs.notmyidea.org/alexis/pelican/'),
-          ('Python.org', 'http://python.org'),
-          ('Jinja2', 'http://jinja.pocoo.org'),
-          ('You can modify those links in your config file', '#'),)
+LINKS =  (('v-g Backpacking', 'http://v-g.me.uk/'),
+          ('Huw Gilbert Mountaineering', 'http://huwgilbert.blogspot.co.uk/'),
+          ('Glencoe Mountaineer', 'http://glencoemountaineer.blogspot.co.uk/'),
+          ('Footless Crow', 'http://http://footlesscrow.blogspot.co.uk/'),
+          ('Emacs org-mode', 'http://org-mode.org')
+          ,)
 
 # Social widget
 SOCIAL = (('Twitter', 'http://twitter.com/ianbarton'),
