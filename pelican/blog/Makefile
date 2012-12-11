@@ -1,5 +1,6 @@
 PELICAN=pelican
-PELICANOPTS= -t bootstrap
+#PELICANOPTS= -t bootstrap2
+PELICANOPTS=
 
 BASEDIR=$(CURDIR)
 INPUTDIR=$(BASEDIR)/content
