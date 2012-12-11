@@ -9,7 +9,7 @@ SITEURL = 'http://www.ian-barton.com'
 
 THEME = "bootstrap2"
 
-TIMEZONE = 'Europe/Paris'
+TIMEZONE = 'Europe/London'
 MARKUP = (('rst', 'md', 'yml'))
 DEFAULT_LANG = 'en'
 
