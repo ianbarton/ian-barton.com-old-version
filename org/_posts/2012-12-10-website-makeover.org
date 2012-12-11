@@ -1,0 +1,29 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Website Makeover
+summary: Goodbye Jekyll, hello Pelican.I have decided to ditch the old web design and come up with a new one.
+date: 2012-12-10
+tags: python
+---
+#+END_HTML
+
+One of my original goals in using Jekyll as a static site generator
+was to make it easier to write posts and thus increasing the
+number of my posts. However, I found Jekyll had a couple of
+idiosyncrasies with categorizing and tagging posts that made it
+awkward for me to use. It was also difficult to re-theme the site,
+without doing an almost ground up re-write.
+
+I searched Google for another static site generator and tried a few
+out before I discovered [[http://alexis.notmyidea.org/pelican/][Pelican]] .This seemed to fit in with all my
+requirements:
+
+- written in Python, which makes it easier for me to hack on.
+- good handling of categories, tags and static pages.
+- easy to use [[http://jinja.pocoo.org/][template]] language (Jinja2).
+- themes
+- it was simple to write a new reader that understood my existing
+  YAML files, so I didn't have to rewrite all my old posts.
+- I can use Emacs to write my posts.
