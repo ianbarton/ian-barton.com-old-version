@@ -5,11 +5,18 @@ AUTHOR = u"Ian Barton"
 SITENAME = u"ian-barton.com"
 SITEURL = 'http://www.ian-barton.com'
 
+#TEMPLATE_PAGES = {'contents/pages/about.html' : 'pages/about.html'}
+
+THEME = "bootstrap2"
+
 TIMEZONE = 'Europe/Paris'
 MARKUP = (('rst', 'md', 'yml'))
 DEFAULT_LANG = 'en'
 
-DISPLAY_PAGES_ON_MENU = (True)
+#PATH = '~/dropbox/web_sites/ianbarton/pelican/blog/content'
+#PAGE_DIR = '../pages'
+
+DISPLAY_PAGES_ON_MENU = True
 
 # Blogroll
 LINKS =  (('v-g Backpacking', 'http://v-g.me.uk/'),
