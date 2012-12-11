@@ -17,6 +17,7 @@
 /jekyll/sitemap.html
 /jekyll/contact.html
 /pelican/blog/content/*.yml
+/pelican/blog/content/pages/*.yml
 *.#
 *#
 .directory
