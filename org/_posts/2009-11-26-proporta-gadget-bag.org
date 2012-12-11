@@ -9,6 +9,7 @@ layout: post
 title: Proporta Gadget Bag.
 tags: [gadgets, blog]
 tags: [gadgets, linux]
+category: blog
 summary: A review of the Proporta Gadget Bag.
 ---
 #+END_HTML

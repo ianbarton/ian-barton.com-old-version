@@ -7,9 +7,10 @@
 date: 2012-03-05
 title: Carneddau Overnighter
 layout: post
-excerpt: "An Overnight camp on Pen yr Helgi Du, followed by a cold wet
+summary: "An Overnight camp on Pen yr Helgi Du, followed by a cold wet
 descent."
-tags: [blog, mountaineering]
+tags: [mountaineering]
+category: blog
 comments: true
 ---
 #+END_HTML

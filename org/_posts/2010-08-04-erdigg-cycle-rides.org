@@ -6,8 +6,9 @@ date: 2010-08-04
 title: Erdigg Cycle Rides.
 layout: post
 excerpt: "A couple of short cycle rides around Erdigg, near Wrexham."
-tags: [blog, cycling]
+tags: [cycling]
 comments: true
+category: blog
 ---
 #+END_HTML
 

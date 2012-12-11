@@ -7,9 +7,10 @@
 date: 2011-10-31
 title: Archlinux Mail Server
 layout: post
-excerpt: "Setting up a mail server on Archlinux with virtual
+summary: "Setting up a mail server on Archlinux with virtual
 users. Using Postfix, Dovecot, SASL, postgrey, Roundcube and mailgraph."
-tags: [blog, linux]
+tags: [linux]
+category: blog
 comments: true
 ---
 #+END_HTML

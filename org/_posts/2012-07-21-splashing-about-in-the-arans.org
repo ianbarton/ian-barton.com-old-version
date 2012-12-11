@@ -9,6 +9,7 @@ date: 2012-07-21
 layout: post
 title: Splashing About in the Arans.
 comments: true
+category: blog
 tags: [mountaineering, backpacking]
 ---
 #+END_HTML

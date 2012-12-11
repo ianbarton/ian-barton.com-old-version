@@ -10,6 +10,7 @@ title: Photos from My Carneddau Traverse (April 2011).
 summary: Photos from my two day backpack in April 2011.
 comments: true
 tags: [mountaineering]
+category: blog
 ---
 #+END_HTML
 

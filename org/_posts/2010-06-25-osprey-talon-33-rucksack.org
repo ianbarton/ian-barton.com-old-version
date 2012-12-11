@@ -7,9 +7,10 @@
 date: 2010-06-25
 title: Osprey Talon 33 Rucksack
 layout: post
-excerpt: "A lightweight sack suitable for day/alpine use. An excellent
+summary: "A lightweight sack suitable for day/alpine use. An excellent
 replacement for my old Karrimor Hot Ice rucksack."
-tags: [blog, gear]
+tags: [gear]
+category: blog
 comments: true
 ---
 #+END_HTML

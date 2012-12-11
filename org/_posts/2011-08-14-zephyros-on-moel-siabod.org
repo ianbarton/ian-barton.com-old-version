@@ -6,8 +6,9 @@
 date: 2011-08-14
 title: Wild Country Zephyros 2 on Moel Siabod
 layout: post
-excerpt: "First outing for the new tent on a windy wild camp on Moel Siabod."
-tags: [blog, mountaineering, trips]
+summary: "First outing for the new tent on a windy wild camp on Moel Siabod."
+tags: [mountaineering, trips]
+category: blog
 comments: true
 ---
 #+END_HTML

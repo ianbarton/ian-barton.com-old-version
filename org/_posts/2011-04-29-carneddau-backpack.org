@@ -9,6 +9,7 @@ layout:  mountaineering
 title: Carneddau - a Two Day Trip.
 comments: true
 tags: [mountaineering]
+category: blog
 ---
 #+END_HTML
 

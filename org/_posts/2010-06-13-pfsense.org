@@ -9,7 +9,8 @@ title: pfSense Firewall.
 layout: post
 excerpt: "Setting up a pfSense with 1:1 NAT using an ADSL router in
 bridged mode."
-tags: [blog, linux]
+tags: [linux]
+category: blog
 comments: true
 ---
 #+END_HTML

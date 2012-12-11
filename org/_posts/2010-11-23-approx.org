@@ -8,7 +8,8 @@ date: 2010-11-23
 title: Approx Package Caching.
 layout: post
 excerpt:
-tags: [blog, linux]
+tags: [linux]
+category: blog
 comments: true
 ---
 #+END_HTML

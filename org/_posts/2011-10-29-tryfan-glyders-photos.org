@@ -9,8 +9,9 @@ layout:  post
 title: Glyders Wild Camp (Photos).
 summary: Photos from my traverse of Tryfan and overnight camp.
 comments: false
-tags: [blog, mountaineering, trips, backpacking]
-excerpt: "Photos from My Tryfan Scramble and Glyders Camping Trip."
+tags: [mountaineering, trips, backpacking]
+category: blog
+summary: "Photos from My Tryfan Scramble and Glyders Camping Trip."
 ---
 #+END_HTML
 

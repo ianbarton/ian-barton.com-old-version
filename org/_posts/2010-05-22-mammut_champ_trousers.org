@@ -2,7 +2,7 @@
 #+STARTUP: hidestars
 #+INFOJS_OPT: view:info toc:t ltoc:nil
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
-#+TITLE: Bothy Bags.
+#+TITLE: Mammut Champ Trousers.
 
 #+BEGIN_HTML
 
@@ -11,7 +11,8 @@ date: 2010-05-22
 layout: post
 title: Mammut Champ Trousers.
 comments: true
-tags: [blog, gear]
+tags: [gear]
+category: blog
 excerpt: "For a few years I have worn Craghopper Kiwi trousers almost all the
 time. I am in the lucky position of being able to wear whatever I want
 most of the time, so I tend to choose clothes that are both practical

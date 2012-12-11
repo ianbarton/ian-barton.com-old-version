@@ -8,7 +8,8 @@ date: 2010-12-29
 title: Ultimate Ears Metro Fi 220.
 layout: post
 excerpt:
-tags: [blog, gadgets]
+tags: [gadgets]
+category: blog
 comments: true
 excerpt: "New earphones to replace my old pair that failed after only
 a year."

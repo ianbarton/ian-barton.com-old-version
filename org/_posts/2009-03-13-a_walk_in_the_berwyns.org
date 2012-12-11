@@ -8,7 +8,8 @@ date: 2009-03-13
 layout:  post
 title: A Walk in the Berwyns.
 comments: true
-tags: [blog, mountaineering, trips]
+category: blog
+tags: [mountaineering, trips]
 ---
 #+END_HTML
 
