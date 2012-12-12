@@ -25,8 +25,8 @@ a road bike will be fine.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/cycling/llanberis_circular/DSCF1157.JPG"
-  rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/DSCF1157.JPG"
+
     title="Llyn Padarn and the Glyders.">
     <img src="/images/cycling/llanberis_circular/DSCF1157.JPG" width="300"
      alt="Llyn Padarn and the Glyders."></a></p>
@@ -52,8 +52,8 @@ need lights, but it can be quite dark so take care when cycling.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/cycling/llanberis_circular/20022011086.jpg"
-  rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/20022011086.jpg"
+
     title="Initial steep hill.">
     <img src="/images/cycling/llanberis_circular/20022011086.jpg" width="300"
      alt="Initial steep hill."></a></p>
@@ -70,8 +70,8 @@ but nothing really steep.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/cycling/llanberis_circular/DSCF1145.JPG"
-  rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/DSCF1145.JPG"
+
     title="Slate Quarry.">
     <img src="/images/cycling/llanberis_circular/DSCF1145.JPG" width="300"
      alt="Slate Quarry."></a></p>
@@ -88,8 +88,8 @@ meet cars coming uphill around the blind bends.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/images/cycling/llanberis_circular/DSCF1142.JPG"
-  rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/DSCF1142.JPG"
+
     title="Bryn Bas Castle.">
     <img src="/images/cycling/llanberis_circular/DSCF1142.JPG" width="300"
      alt="Bryn Bas Castle."></a></p>
@@ -105,8 +105,8 @@ junction with the main road.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/images/cycling/llanberis_circular/DSCF1134.JPG"
-  rel="lightbox"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/DSCF1134.JPG"
+
     title="View West from Pen Y Bwlch.">
     <img src="/images/cycling/llanberis_circular/DSCF1134.JPG" width="300"
      alt="View West from Pen Y Bwlch."></a></p>
