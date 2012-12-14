@@ -1,0 +1,15 @@
+#+SETUPFILE: ~/.emacs-lisp/org-templates/level-0.org
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+INFOJS_OPT: view:info toc:t ltoc:nil
+#+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:nil
+#+TITLE: About Ian.
+
+---
+layout: default
+title: About Ian.
+---
+
+* Ian Barton.
+sakljskjasaljkljslkas
+
