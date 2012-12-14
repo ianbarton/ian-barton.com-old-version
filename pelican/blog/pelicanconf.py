@@ -48,3 +48,5 @@ DISQUS_SITENAME = "ianbarton"
 GITHUB_URL = "https://github.com/geekinthesticks"
 GOOGLE_ANALYTICS = "UA-7259094-1"
 TWITTER_USERNAME = 'ianbarton'
+
+GOOGLE_CUSTOM_SEARCH_SIDEBAR = True
