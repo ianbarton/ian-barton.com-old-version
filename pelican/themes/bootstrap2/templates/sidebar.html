@@ -1,4 +1,3 @@
-{% include 'search_sidebar.html' %}
 <ul class="nav nav-list">
 {% if LINKS %}
 <li class="nav-header"><h4><i class="icon-external-link"></i>blogroll</h4></li>
@@ -36,7 +35,7 @@
 {% endfor %}
 
 {% include 'twitter_profile.html' %}
-
+{% include 'search_sidebar.html' %}
 
 {% if SIDEBAR_CUSTOM %}
     {{ SIDEBAR_CUSTOM }}

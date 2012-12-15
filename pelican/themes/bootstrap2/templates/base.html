@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
+
   <head>
+   {% block head %}
     <meta charset="utf-8">
     <title>{% block title %}{{ SITENAME }}{% endblock %}</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -109,9 +111,14 @@
     <link href="{{ SITEURL }}/{{ FEED_RSS }}" type="application/atom+xml" rel="alternate" title="{{ SITENAME }} RSS Feed" />
     {% endif %}
 
+
+
+    {% endblock %}
   </head>
 
-  <body>
+{% block bodystart %}
+  <body >
+{% endblock %}
 
     <div class="navbar navbar-fixed-top">
       <div class="navbar-inner">
