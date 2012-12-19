@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 
 OUTPUT_PATH = "/srv/http"
 
-STATIC_PATHS = (['images'])
+STATIC_PATHS = (['images', 'gpx'])
 
 #NEWEST_FIRST_ARCHIVES (True)
 
@@ -48,3 +48,5 @@ DISQUS_SITENAME = "ianbarton"
 GITHUB_URL = "https://github.com/geekinthesticks"
 GOOGLE_ANALYTICS = "UA-7259094-1"
 TWITTER_USERNAME = 'ianbarton'
+
+GOOGLE_CUSTOM_SEARCH_SIDEBAR = True
