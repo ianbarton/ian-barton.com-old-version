@@ -1,0 +1,86 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: A Circular Ride from Whitchurch
+summary: Circular ride of approximately 22 miles (35km) around the Cheshire and Shropshire countryside. The route is almost all on quite country lanes.
+date: 2012-12-15
+template: map
+gpx: track_2012-11-23.gpx
+tags: [cycling]
+---
+#+END_HTML
+
+The route is described starting from Whitchurch, but since it's
+circular, you could start from anywhere. There is only one short
+steep hill between Tittenley and Calverhall. Apart from Whitchurch,
+which does have some cycle lanes, most of the route is on quiet
+country lanes.
+
+From Whitchurch turn up Claypit Street, which is just before the new
+Sainsbury. Alternatively, you can follow Sustrans Route 45. The road
+leads slowly uphill past a cemetary and the ??? camping farm. A
+downhill section leads to a left hand bend, where you take the road
+(Ossmere Lane) on the right. Shortly after crossing the railway you
+will join Sustrans Route 45, which comes in from the right. If you
+look in the hedge on the left hand side your will see ???? Mercian
+statue.
+
+At the T junction turn right into Hollyhurst road. You will be able to
+see and obelisk to your right, which is a war memorial in the grounds
+of Combermere Abbey. Shortly before you go underneath he railway,
+there is a style and a grassy area on the right, which provides a
+convenient stopping place to eat and drink. Immediately after you go
+under the railway bridge turn right and then a short distance further
+on turn right again at a fork in the road. You are now on Sustrnas
+route 70. This will lead you through Aston, past the corn mills, to the main Whitchurch -
+Nantwich road. Cross this and head off along Shepenhall Lane. Ignore
+all the turnings to the left and right. Just after you cross over a
+brook Shepenhall Lane changes into Rookery Lane.
+
+Cross over the main road to Audlem and follow Royals Green
+Lane. After half a mile or so, you will come to a T junction opposite
+the end of Wilkesley Wood. Turn left along Wilkesley Lane and cycle
+through the hamlet of Wilkesley. After about a mile and a half, at
+the end of a long red brick wall you will pass the two lodges which
+were one of the entrances to the Shavington Estate. Carry on along
+the road until it bends sharply to the left. At this point you need
+to take the lane to the right, which leads past the large pool at
+Tittenley, on your left hand side.
+
+Shortly after passing the Tittenley pool there are another two lodges,
+which mark what used to be another entrance to the Shavington
+Estate. Turn up the lane to the right, which is the only real climb on
+this route. It doesn't last very long and leads you to another T
+junction. Turn right here (signposted Calverhall). After half a mile
+of so you will pass the grand iron gates, which were the main entrance
+to the Shavington Estate. Carry on until you reach the small village
+of Calverhall. The Jack pub on the left is well worth a visit and
+serves good food and beer.
+
+Turn right at the T junction and cycle into Ightfield. There is a
+convenient brick bus shelter here, which is a good place to eat your
+sandwiches if it's raining. Follow the bend round to the left. Just
+on the right there is a large grassy playground, with a couple of
+benches. This is a nice place to eat your sandwiches in good weather!
+
+The road continues on into the two villages of Ash. It's a short easy
+climb and there is a nice duck pond where you can linger. From Ash the
+road descends to meet the Whitchurch bypass. Cross straight over the
+roundabout and enter a small industrial estate. Carry straight on at
+the apex of the sharp left hand bend which allows you to regain the
+old main road into Whitchurch, via a short stretch of footpath. From
+here it's only a short ride back to the town centre.
+
+** Cafes and Pubs.
+- Jones Coffee House, House Green End, Whitchurch
+- Juan Cafe, Watergate St, Whitchurch.
+- Dusty Miller (pub) Wrenbury Tel:
+- The Jack, Calverhall Tel:
+
+
+
+** Parking.
+Free parking in Whitchurch, Aston and Wrenbury. If you know the area
+there are plenty of laybys on the route where you can park.
