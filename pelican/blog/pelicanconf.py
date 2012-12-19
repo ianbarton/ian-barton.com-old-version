@@ -34,7 +34,7 @@ DEFAULT_PAGINATION = 10
 
 OUTPUT_PATH = "/srv/http"
 
-STATIC_PATHS = (['images'])
+STATIC_PATHS = (['images', 'gpx'])
 
 #NEWEST_FIRST_ARCHIVES (True)
 
