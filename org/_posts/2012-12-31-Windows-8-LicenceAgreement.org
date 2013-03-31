@@ -1,0 +1,40 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: Forced to Accept Windows 8 Licence Agreement.
+date: 2012-12-31
+tags: [linux, review, hardware]
+category: blog
+---
+#+END_HTML
+
+I have just bought a new laptop (Acer Aspire V3-571), which ships
+with Windows 8. However, I don't want to use Windows at all, just
+Linux. My usual procedure is to boot Clonezilla from a usb stick,
+and make an image of the hard drive in case I ever want to sell it so I can
+restore all the original software that came with it. I then
+repartition the disk without ever installing Windows.
+
+However, in order to do this you need to get into the BIOS to change
+the boot order, so you can boot from a usb stick. The Acer uses the F2
+key to enter the BIOS setup. Repeated mashing of F2 on booting failed
+to get me into the BIOS. A search of the Acer support boards reveals
+that F2 only works when you reboot the computer, but not when you
+start it up from cold. Also the F12 key, which allows you to change
+the boot order is disabled in the BIOS by default.
+
+So I started the computer up and waited for about 5 minutes while it
+trundled away doing something (presumably setting up Windows). I then
+got to the Windows Licence screen. However, if I decline the
+agreement I just end up having to power off the computer
+manually. This isn't a reboot, so I can't get into the
+BIOS. In the end I accept the licence agreement and wait while
+Windows 8 installs. Now I can reboot and get into the BIOS.
+
+The end result is if you want to use the computer for anything other
+than Windows you are *forced* to accept the Windows licence agreement
+first. IMHO this is anti-competitive behaviour and hopefully some
+regulator will be along shortly to rap Microsoft's knuckles with a
+hefty fine.
