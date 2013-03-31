@@ -1,0 +1,161 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: Acer Aspire V3-571 15.6-inch Laptop
+summary: Installing ArchLinux on my new laptop. Short review of the Acer V3-571.
+date: 2012-12-31
+tags: [linux, hardware]
+category: blog
+---
+#+END_HTML
+
+For the last four years I have been using a Lenovo N3000. Like most
+Lenovos this was well built with a good keyboard and has been my main
+work horse computer. However, it has nVidia graphics and recently
+nVidia stopped supporting the chipset used in my Lenovo. Whilst the
+nVidia drivers have generally been very good, recent versions have
+had problems with Chromium. Symptoms are after using the browser for
+a while, or viewing certain sites Chromium would gradually start
+consuming ever increasing amounts of RAM and CPU. The only way out
+was to kill Chromium from the command line. One or two of the keys
+were a bit dodgy - I had to press them really hard to make them
+work. This wasn't too surprising given the amount of use the computer
+has had. Also the 160Gb hard disk was beginning to get very full,
+despite my best efforts to keep it free of cruft.
+
+So, I was looking around for a replacement. My requirements are
+fairly modest:
+
+- Decent size hard drive.
+- Preferably Intel graphics, although a recent nVidia card would be OK.
+- Good keyboard. As an Emacs user having a good keyboard is essential.
+- Good enough CPU and graphics to be able to watch the odd video and
+  act as a MythTV front end.
+- Cost < £600.
+
+Most of my time is spent using Chromium, in a terminal, or using Emacs
+so I didn't need a high spec. computer. I had a look at the current
+Lenova budget range, but nothing quite matched my requirements. I had
+looked at a few Acer laptops in various shops and the keyboard seem to
+suit me. Browsing Amazon I found the [[http://www.amazon.co.uk/gp/product/B009R156P2/ref%3Doh_details_o02_s00_i00][Acer Aspire V3-571]] . This seemed
+to fulfil all my requirements:
+
+- Intel graphics.
+- 500Gb hard disk.
+- Intel Core i5
+- 6Gb RAM.
+
+I ordered one and it duly turned up the next day. The computer came
+with Windows 8 and all the new fangled UEFI BIOS. I didn't want
+either Windows 8 or UEFI, but some preliminary research had revealed
+that I could turn off UEFI in the BIOS and boot in GPT mode. I had
+also discovered that pressing F2 to get into the BIOS settings when
+starting up didn't appear to work and you had to reboot then press F2.
+
+After a rapid unboxing I powered the computer up and spent the next
+ten minutes or so watching some sort of animation of the screen. I
+was beginning to think that I had a faulty computer, but it was just
+Windows 8 setup chuntering into life. This is really sneaky of
+Micosoft, as you don't seem able to get into the BIOS to switch off
+the UEFI nonsense, without first installing Windows 8. This means you
+can't refuse to accept the licence agreement and try to reclaim the
+cost of the Windows 8 licence.
+
+Anyway after Windows 8 had installed itself, I actually had to read
+the instructions to see how to reboot the computer. The Windows 8
+team has obviously been copying the Gnome 3 designers. After finally
+working out to reboot, I changed the BIOS settings to GPT and
+re-partitioned the drive using [[http://www.partedmagic.com][Parted Magic]] so I could install
+[[http://archlinux.org][ArchLinux]] .
+
+To cut a long story short, the first attempt failed at the last
+hurdle. On GPT partitioned disks GRUB needs to be installed in a
+small special partition, preferably at the start of the disk. As a
+firm follower of the "Don't read the instructions until all else
+fails", I had failed to notice this. So, after another session with
+PartedMagic I had created the requisite 2Mb partition at the beginning
+of the drive. The drive now had three partitions - 2Mb at the start
+for GRUB, 25GB as the /root partition and the rest for /home. I had
+set up my Lenovo to have a 15Gb /root, but this turned out to be a
+bit too small as Arch caches downloaded package files in
+/var/cache/pacman. Even pruning downloaded packages to keep just the
+current version, I was running short of space.
+
+Arch isn't for everyone. It's a rolling release distro, which means
+you almost always have the latest version of everything and should
+never have to re-install the whole system, like you have to do with
+distros that have 6 month or 12 month release cycles. It also gives
+you much more control over what gets installed and how its configured
+than distros like Ubuntu. The downside is that initially you need to
+do more work to set up the system.
+
+Once I had installed the base Arch system I copied all the downloaded
+packages from my old system to /var/cache/pacman/pkg. This meant that
+pacman (the Arch package manager) could reload all my installed
+packages from the pacman cache, rather than have to download them all
+again. I had previously saved a list of all the packages on my old
+system:
+
+#+BEGIN_SRC sh
+  comm -23 <(pacman -Qeq|sort) <(pacman -Qmq|sort) > pkglist.txt
+
+#+END_SRC
+
+Note this only lists packages installed from the official Arch repos
+and not the user contributed packages from the [[http://aur.archlinux.org][AUR]] repository. I
+edited the list to remove packages relating to nVidia, as they were
+not required on my new system and indeed would probably mess it up.
+
+Now all I needed to do was to restore my packages using this list:
+
+#+BEGIN_SRC sh
+  pacman -S $(< pkglist.txt)
+#+END_SRC
+
+The final step was to copy the contents of my /home directory from
+the Lenovo, which I had backed up onto a usb drive.
+
+#+BEGIN_SRC sh
+  rsync -avz /mnt/myusbdisk/ /home/ian/
+#+END_SRC
+
+Not the two trailing backslashes, they are important! Finally I made
+sure that all the files in my /home directory were owned by me:
+
+#+BEGIN_SRC sh
+  sudo chmod -R ian.users /home/ian
+#+END_SRC
+
+Next had to do a small amount of tinkering to ensure that various things
+in various /etc files, such the keyboard mapping in KDE were correctly
+configured for the UK.
+
+Finally I had to enable all the services I needed to start at boot
+using systemctl, including the KDM service for KDE.
+
+A quick reboot and I was back at my KDE desktop with all my user
+settings from the old Lenovo preserved. The final, final steps were to
+re-install packages I needed from AUR. The whole process had taken
+about half a day.
+
+So, what do I think about my new computer? Overall impressions are
+very positive:
+
+- It's a lot faster. I would expect that as it has a much better
+  processor and more RAM.
+- All the special keys e.g. volume, screen brightness worked right
+  out of the box.
+- Nice keyboard.
+- Screen is nicer than my old computer.
+- No problems with Chromium falling over.
+- Playing back videos and watching TV via MythTV work well.
+- No nVidia drivers. We have three computers in the family with Intel
+  graphics and two with nVidia. Intel drivers have always worked
+  fine, but nVidia drivers regularly have problems.
+- Suspend resume work correctly. With the nVidia drivers, this seemed
+  a bit hit and miss depending on which version of the driver was installed.
+
+Overall I would thoroughly recommend the Acer Aspire V3-571 for a
+Linux user.
