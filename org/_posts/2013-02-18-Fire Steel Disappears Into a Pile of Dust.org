@@ -1,0 +1,41 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: My Fire Steel Crumbles to Dust.
+summary:
+date: 2013-02-17
+tags: [gear]
+category: blog
+---
+#+END_HTML
+
+After my walk over Moel Famau and Moel Arthur I was looking forward
+to making a hot drink. My brew kit lives permanently in the boot of
+the truck, so I don't forget to take it with me! I unpacked my Primus
+Gravity stove from its pouch and connected up a gas cylinder.
+
+I use a
+Light My Fire [[http://www.lightmyfire.com/products/sparking-fire-collection/swedish-firesteel-20.aspx][Swedish Fire Steel]] rather than matches or a
+lighter. This will generate a spark under almost any conditions and
+doesn't run out of gas, or refuse to light when soggy, like lighters
+and, matches. I keep it in a small zipped section of the pouch that
+the stove lives in. I pulled it out, so I coud light the stove and
+noticed that the steel was now only about half an inch long! I
+thought that it must have somehow got broken, but looking inside the
+pouch there was nothing but a pile of grey dust. Luckily there was
+just enough left to generate a spark and light my stove.
+
+When I got home I spent some time Googling and found that other
+people had had similar problems: [[http://www.youtube.com/watch?v%3DR4pfZAcPq3o][here]] and there was a possible
+[[http://www.youtube.com/watch?v%3DXhPyig4ra40][explanation]] . It would appear that contact with inorganic salts and
+water can make the fire steel, which is made from an alloy called
+Ferrocerium, can act as a battery. This results in the fire steel
+corroding away. The bag containing my steel may well have been
+slightly damp, but as far as I know it hadn't come into contact with
+any salt solutions unless something spilt on the bag had soaked through.
+
+Anyway, lesson learned. Always check your fire steel before setting
+out. Even something you think couldn't possibly fail can do so in an
+unexpected way.
