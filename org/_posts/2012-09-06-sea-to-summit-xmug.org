@@ -9,7 +9,7 @@ layout: post
 title: Sea to Summit X-Mug
 comments: true
 category: blog
-tags: [mountaineering, equipment]
+tags: [mountaineering, gear, review]
 ---
 #+END_HTML
 

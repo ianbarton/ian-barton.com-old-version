@@ -3,10 +3,9 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
 ---
-title:
-summary:
+title: Moel Famau to Moel Arthur and Back
 date: 2013-02-17
-tags:
+tags:  [mountaineering, trips]
 category: blog
 ---
 #+END_HTML
@@ -23,14 +22,31 @@ over Moel Famau to the car park. However, I wasn't sure if I would
 have enough time, as I only had around 5hrs before I needed to be
 back.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Jubilee Tower Moel Famau." href="/images/2013-02_moel_famau/IMG_6655.JPG"><img
+ width="200" alt="Jubilee Tower Moel Famau." title="Jubilee Tower Moel Famau." src="/images/2013-02_moel_famau/IMG_6655.JPG" /></a>
+
+</div>
+#+END_HTML
+
 As I climbed up the track towards the monument, I could hear the wind
 blowing through the trees. There was an icy cold wind blowing around
-the monument and I went round to the ??? side to shelter for a few
+the monument and I went round to the lee side to shelter for a few
 minutes. I had a brief chat with someone while I sorted out my gear
 and found my gloves. As usual there was quite a crowd round the
 monument, one of the reasons I don't come here too often as I prefer
 to have the hills to myself. However, once I started off along the
 ridge I soon left the crowds behind.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="View along the ridge." href="/images/2013-02_moel_famau/IMG_6641.JPG"><img
+ width="200" alt="View along the ridge." title="View along the ridge." src="/images/2013-02_moel_famau/IMG_6641.JPG" /></a>
+
+</div>
+#+END_HTML
+
 
 I could make out a snow covered mountain in the distance, but it was
 slightly hazy and I couldn't see any other mountains which would help
@@ -46,10 +62,19 @@ to Moel Arthur, as I didn't have to be back until around 3:30pm.
 
 Crossing the road, I took a direct line up to the summit Moel Arthur
 where there is a small pile of stones marking the top. I couldn't see
-any sign of the old ??? remains. I decided to eat lunch on the summit
+any sign of the ancient hill fort. I decided to eat lunch on the summit
 event though it was windy and there was no shelter. I sat with my
 back to the wind, but one big gust blew the hot chocolate out of my
 cup.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Arthur." href="/images/2013-02_moel_famau/IMG_6647.JPG"><img
+ width="200" alt="Moel Arthur." title="Moel Arthur." src="/images/2013-02_moel_famau/IMG_6647.JPG" /></a>
+
+</div>
+#+END_HTML
+
 
 I decided not to bother trying to return along the valley to
 Cilcain. The last time I had done this route the path was unclear in
