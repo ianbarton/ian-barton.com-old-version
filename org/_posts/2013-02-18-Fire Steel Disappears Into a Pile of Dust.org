@@ -4,10 +4,10 @@
 #+BEGIN_HTML
 ---
 title: My Fire Steel Crumbles to Dust.
-summary:
 date: 2013-02-17
 tags: [gear]
 category: blog
+
 ---
 #+END_HTML
 
