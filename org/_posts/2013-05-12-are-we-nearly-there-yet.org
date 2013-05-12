@@ -1,0 +1,307 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title:
+summary:
+date:
+tags:
+category: blog
+---
+#+END_HTML
+
+* Introduction.
+If you have children, you will recognise the "Are we nearly there"
+syndrome. This happens on long car journeys, usually starting only a
+few minutes after setting off and repeating at frequent intervals. If
+you have three children, it's like listening to a quadraphonic
+speaker setup with one of the speakers missing.
+
+In pre-gadget days, when I was a child we used to play endless games
+of "I Spy". Whilst this is still fun, it does get a bit tedious after
+three of four hours. Now most children will have some sort of gadget
+that lets them play games, or watch a video. On problem with videos
+is that the one they insist on watching isn't on their phone/tablet
+and even if they had though to put it on their phone before leaving
+home, it's still quite a faff.
+
+However, for the open source tinkerer there is a solution at
+hand. How about creating a Wifi access point inside the car connected
+to a box that streams video. If you already have most of the bits,
+this isn't too expensive and given a big enough hard disk you can
+take almost your whole video collection with you. Even better if you
+arrive somewhere with no TV, you can simply take the whole setup
+inside with you and carry on watching videos.
+
+
+* Overview.
+The system uses a raspberry Pi with a WiFi dongle and a usb external
+hard drive. The Pi is configured as a WiFi access point, while the
+ethernet interface is configured on a separate network. This allows
+you to connect to the access point with your phone, but still just plug the Pi into
+your home network using an ethernet cable.
+
+I installed a dhcp server on the Pi. This only listens on the WiFi
+interface, so will only hand out dhcp addresses to devices connected
+via WiFi. The ethernet interface is configured to use dhcp, so you
+can plug it into any network with a dhcp server.
+
+I have also installed hostapd, which allows the Pi to act as an
+access point and minidlna, which turns the Pi into a dlna server.
+
+Since I am using both a WiFi dongle and an external USB hard drive, I
+am powering the Pi via a powered hub. You should check the
+specifications of your hub to make sure it can power the Pi.
+
+To power the powered hub in the car I am using a Universal Battery
+Elimination Circuit (UBEC). This converts this 12v from the car
+battery and provides a 5v 3 amp output. I will also provide some
+protection from voltage and current spikes. These are available for
+about £6 on eBay.
+
+* Hardware.
+- Raspberry Pi
+- Wifi Card
+- Powered hub capable of powering the Pi from the hub itself.
+- External bus powered usb drive
+- Resistors 1x10k and 1x1k
+- Momentary switch
+- UBEC
+- Some sort of box to hold the Pi hard drive and hub (Tupperware)
+- Jack plug and socket
+
+
+* Setting Up the Server.
+I am using Raspbian, but the setup should work with most distros.
+
+** Install required packages:
+
+#+BEGIN_SRC shell
+sudo apt-get install isc-dhcp-server hostapd minidnla
+
+#+END_SRC
+
+
+** Connect the External usb Disk.
+
+Check what device your hard drive is:
+
+#+BEGIN_SRC shell
+pi@mediapi ~ $ lsblk
+NAME        MAJ:MIN RM   SIZE RO TYPE MOUNTPOINT
+sda           8:0    0 232.9G  0 disk
+└─sda1        8:1    0 232.9G  0 part /mnt/sda1
+mmcblk0     179:0    0  14.6G  0 disk
+├─mmcblk0p1 179:1    0    56M  0 part /boot
+└─mmcblk0p2 179:2    0  14.6G  0 part /
+
+
+#+END_SRC
+
+In my case it's /dev/sda1.
+
+Make a directory and mount the drive:
+
+#+BEGIN_SRC shell
+sudo mkdir /mnt/sda1
+sudo mount /dev/sda1 /mnt
+
+#+END_SRC
+
+To make the drive mount at boot modify /etc/fstab:
+
+#+BEGIN_SRC shell
+sudo nano /etc/fstab
+
+proc            /proc           proc    defaults          0       0
+/dev/mmcblk0p1  /boot           vfat    defaults          0       2
+/dev/mmcblk0p2  /               ext4    defaults,noatime  0       1
+
+# Mount our usb disk.
+/dev/sda1  /mnt/sda1               ext4    defaults,noatime  0       1
+#+END_SRC
+
+** Configuring the Wireless Access Point.
+The WiFi access point must have a static ip address, that is in a
+different subnet to your home network. My home network uses the
+192.168.0.0 range of addresses, so I setup the WiFi interface to use
+10.0.0.1.
+
+Edit /etc/network/interfaces:
+
+#+BEGIN_SRC shell
+auto lo
+
+iface lo inet loopback
+iface eth0 inet dhcp
+
+
+auto wlan0
+iface wlan0 inet static
+        address 10.0.0.1
+        netmask 255.255.255.0
+        gateway 10.0.0.1
+
+#+END_SRC
+
+
+Now we need to set up the dhcp server to hand out addresses to devices
+connected on the WiFi interface. Edit /etc/dhcp/dhcpd.conf:
+
+#+BEGIN_SRC sh
+#
+# Sample configuration file for ISC dhcpd for Debian
+#
+# $Id: dhcpd.conf,v 1.1.1.1 2002/05/21 00:07:44 peloy Exp $
+#
+
+# The ddns-updates-style parameter controls whether or not the server will
+# attempt to do a DNS update when a lease is confirmed. We default to the
+# behavior of the version 2 packages ('none', since DHCP v2 didn't
+# have support for DDNS.)
+# ddns-update-style none;
+ddns-updates on;
+ddns-update-style interim;
+ddns-rev-domainname "in-addr.arpa.";
+ignore client-updates;      # Overwrite client configured FQHNs
+
+# Replace this with your domain name
+# option definitions common to all supported networks...
+option domain-name "bantercat.co.uk";
+
+
+option domain-name-servers 10.0.0.1;
+
+default-lease-time 600;
+max-lease-time 7200;
+one-lease-per-client on;
+
+# If this DHCP server is the official DHCP server for the local
+# network, the authoritative directive should be uncommented.
+authoritative;
+
+# Use this to send dhcp log messages to a different log file (you also
+# have to hack syslog.conf to complete the redirection).
+log-facility local7;
+
+
+
+subnet 10.0.0.0 netmask 255.255.255.0 {
+    pool {
+             range 10.0.0.10 10.0.0.100;
+             max-lease-time 1800; # 30 minutes
+             allow unknown-clients;
+    }
+
+    option routers 10.0.0.1;
+#    option subnet-mask 255.255.255.0;
+    option broadcast-address 10.0.0.255;
+
+}
+
+#+END_SRC
+
+Next we need to configure hostapd. Edit /etc/hostapd.conf:
+
+
+#+BEGIN_SRC shell
+
+interface=wlan0
+driver=nl80211
+logger_syslog=-1
+logger_syslog_level=2
+logger_stdout=-1
+logger_stdout_level=2
+ssid=archpi
+hw_mode=g
+channel=6
+auth_algs=3
+max_num_sta=5
+wpa=2
+wpa_passphrase=yourpassphrase
+wpa_key_mgmt=WPA-PSK
+wpa_pairwise=TKIP CCMP
+rsn_pairwise=CCMP
+#+END_SRC
+
+Now reboot and log into the Pi, making sure it's still connected via
+the ethernet cable. Check that the wireless interface is up and
+running and configured to the correct address:
+
+#+BEGIN_SRC shell
+pi@mediapi ~ $ ifconfig wlan0
+wlan0     Link encap:Ethernet  HWaddr 7c:dd:90:30:99:02
+          inet addr:10.0.0.1  Bcast:10.0.0.255  Mask:255.255.255.0
+          UP BROADCAST RUNNING MULTICAST  MTU:1500  Metric:1
+          RX packets:0 errors:0 dropped:0 overruns:0 frame:0
+          TX packets:26 errors:0 dropped:0 overruns:0 carrier:0
+          collisions:0 txqueuelen:1000
+          RX bytes:0 (0.0 B)  TX bytes:7876 (7.6 KiB)
+#+END_SRC
+
+Look carefully at the inet addr:10.0.0.1 to make sure its got the
+correct address.
+
+If you look in your wireless manager app, you should see a new access
+point called "mediapi". You can try connecting to it - the password
+is whatever you set in hostapd.conf.
+
+** Configuring the minidlna Server.
+Once you have established that you can connect to the WiFi access
+point, you can setup the minidlna server.
+
+Edit /etc/minidlna.conf
+
+#+BEGIN_SRC shell
+media_dir=V,/mnt/sda1/Videos
+media_dir=A,/mnt/sda1/mp3
+
+
+# Path to the directory that should hold the database and album art cache.
+db_dir=/var/lib/minidlna
+
+# Path to the directory that should hold the log file.
+log_dir=/var/log
+
+# Network interface(s) to bind to (e.g. eth0), comma delimited.
+network_interface=eth0,wlan0
+
+#+END_SRC
+
+The parts you need to edit are shown above. Note that media_dir
+should be the path to the directories usb hard disk containing your
+media. In the example above, I have got one directory for video files
+and one for audio files. I have also configured it to serve media on
+both the ethernet and wireless interfaces.
+
+Now you can test the dnla server. With my Android phone I use
+MediaHouse. You should be able to connect via your home network if
+the server is plugged into your router via  the ethernet cable. Now
+see if you can see a new Wireless Access Point called "mediapi" on
+your Android phone and try connecting to it. You should then be able
+to browse your media using MediaHouse.
+
+
+** Connecting the UBEC.
+Before you try to do this double check to make sure you know what you
+are doing. If you fry your car electrics, or the Pi don't blame me.
+
+I have cut the power cable between my powered usb hub between the
+power brick and the hub. I have put a jack socket on one end of the
+cable and a plug on the other end. Make sure you don't get the
+polarities mixed up. This allows me to disconnect the wall wart and
+plug the output from the UBEC into the powered hub input, which is
+5v. If I want to use the unit in the house, I just unplug the UBEC
+and plug the jack plug from the wall wart back in.
+
+** Hardware Off Switch.
+There is one final problem. How to turn off the Pi in the car,
+without simply pulling the plug which may well corrupt your USB card.
+
+
+
+* Final Thoughts.
+Streaming videos isn't the only thing I plan to do. By adding a usb
+3G dongle I can also use it as a portable WiFi internet
+hotspot. However, the details are for another post.
