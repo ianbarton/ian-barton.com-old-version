@@ -22,19 +22,32 @@ Writing blog posts using org-mode is very straightforward. You can
 use a capture template to generate a skeleton file for the post. A
 typical org file for a post would look like:
 
-#+begin_example
+#+BEGIN_SRC emacs-lisp
+(defun capture-pelican-draft-file (path)
+  (let ((name (read-string "Name: ")))
+    (expand-file-name (format "%s-%s.org"
+                              (format-time-string "%Y-%m-%d")
+                              name) path)))
+(setq org-capture-templates `(
 
-#+end_example
+("p"
+   "New blog post"
+   plain
+   (file (capture-pelican-draft-file  "~/Documents/emacs/web_sites/ianbarton/org/_posts"))
+   "#+STARTUP: showall indent\n#+STARTUP: hidestars\n#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil\n#+BEGIN_HTML\n---\ntitle:\nsummary:\ndate:\ntags:\ncategory: blog\n---\n#+END_HTML\n\n")
+))
+
+#+END_SRC
 
 The YAML tags are enclosed in the "---" section at the top of the
 document. Note the yaml front matter must be the first thing in the
 published document. The body part of your post can contain anything
 that the org-mode html exporter can convert to html. Additionally,
-you can insert inline html using the XXXX syntax.
+you can insert inline html using the #+begin_html markup.
 
 ** An Example org-mode Capture Template for New Blog Posts:
 
-#+begin_src emacs-lisp
+#+BEGIN_SRC emacs-lisp
 (defun capture-pelican-draft-file (path)
   (let ((name (read-string "Name: ")))
     (expand-file-name (format "%s-%s.org"
@@ -49,7 +62,7 @@ you can insert inline html using the XXXX syntax.
    "#+STARTUP: showall indent\n#+STARTUP: hidestars\n#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil\n#+BEGIN_HTML\n---\ntitle:\nsummary:\ndate:\ntags:\ncategory: blog\n---\n#+END_HTML\n\n")
 
 ))
-#+end_src
+#+END_SRC
 
 
 * Publishing Your Project.
@@ -67,7 +80,8 @@ Once you have written your new blog post, just publish your project
 from with org-mode.
 
 ** An Example org-mode Publishing Setup.
-#+begin_html
+
+#+BEGIN_SRC emacs-lisp
 (require 'ox-html)
 (setq org-publish-project-alist
       '(
@@ -96,23 +110,31 @@ from with org-mode.
 
     ("ianbarton" :components ("org-ianbarton" "org-static-ian"))
       ))
-#+end_html
+#+END_SRC
 
 * The Pelican yaml Importer.
 Pelican doesn't support importing yaml formatted files. You will need
 to patch the Pelican readers.py file. Just pasting the following code
-blocks to the end of the file should work.
+blocks to the end of the file should work. Alternatively, you can
+obtain the code from my [[https://github.com/geekinthesticks/pelican][Github]] fork of Pelican. Note my changes are
+in the yaml branch, so you need to do:
 
-#+begin_src python
+#+BEGIN_SRC sh
+git checkout yaml
+#+END_SRC
+
+once you have cloned the repo.
+
+#+BEGIN_SRC python
 try:
     import yaml
     Yaml = True # NOQA
 except ImportError:
     Yaml = False # NOQA
 
-#+end_src
+#+END_SRC
 
-#+begin_src python
+#+BEGIN_SRC python
 class YamlReader(Reader):
     enabled = bool(Yaml)
     file_extensions = ['yml']
@@ -145,7 +167,7 @@ class YamlReader(Reader):
         # asciidata = udata.encode("ascii", "ignore")
         return udata, metadata
 
-#+end_src
+#+END_SRC
 
 * Run Pelican.
 When you have published your org project just run Pelican to update
