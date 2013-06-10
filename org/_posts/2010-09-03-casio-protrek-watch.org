@@ -22,7 +22,7 @@ between the Suunto and a Casio Pathfinder [[http://www.youtube.com/watch?v%3DHLM
 #+BEGIN_HTML
 
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/casio_protrek.jpg"  title="Casio Protrek."> <img src="/images/casio_protrek.jpg" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/casio_protrek.jpg"  title="Casio Protrek."> <img src="/static/images/casio_protrek.jpg" width="200"
      alt="Casio Protrek."></a></p>
   <p>Casio Protrek.</p>
 

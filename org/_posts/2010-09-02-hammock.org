@@ -22,7 +22,7 @@ the usual efficient service it arrived next day.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb"  href="/images/girls_in_hammock.jpg"  title="Resting in the hammock."> <img src="/images/girls_in_hammock.jpg" width="200"
+  <p><a class="fancybox-thumb"  href="/static/images/girls_in_hammock.jpg"  title="Resting in the hammock."> <img src="/static/images/girls_in_hammock.jpg" width="200"
      alt="Resting in the hammock."></a></p>
   <p>Resting in the hammock.</p>
 
