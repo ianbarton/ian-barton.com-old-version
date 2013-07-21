@@ -24,7 +24,7 @@ walking.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/thermos.jpg"  title="Thermos Ultimate."> <img src="/images/thermos.jpg" width="180"
+<p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/thermos.jpg"  title="Thermos Ultimate."> <img src="/static/images/thermos.jpg" width="180"
      alt="Thermos Ultimate."></a></p>
   <p>Thermos Ultimate.</p>
 

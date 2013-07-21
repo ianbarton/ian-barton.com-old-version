@@ -17,7 +17,7 @@ tags: [mountaineering, trips]
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/img_5602.jpg"  title="Base camp."> <img src="/images/img_5602.jpg" width="300"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/img_5602.jpg"  title="Base camp."> <img src="/static/images/img_5602.jpg" width="300"
      alt="Base Camp"></a></p>
   <p>Base Camp at Gwern y gof Uchaf</p>
 </div>
@@ -98,8 +98,8 @@ reach.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/IMG_5631.JPG"  title="Ella on the
-     final pitch."> <img src="/images/IMG_5631.JPG" width="300"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/IMG_5631.JPG"  title="Ella on the
+     final pitch."> <img src="/static/images/IMG_5631.JPG" width="300"
      alt="Ella on the
      final pitch."></a></p>
   <p>Ella on the
@@ -121,7 +121,7 @@ the camp site, while John and Ella strode off in front.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/IMG_5639.JPG"  title="Summit of Tryfan."> <img src="/images/IMG_5639.JPG" width="300"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/IMG_5639.JPG"  title="Summit of Tryfan."> <img src="/static/images/IMG_5639.JPG" width="300"
      alt="Summit of Tryfan"></a></p>
   <p>Summit next to Adam and Eve</p>
 </div>

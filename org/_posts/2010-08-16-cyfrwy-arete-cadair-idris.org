@@ -18,9 +18,9 @@ but remember it being a decent site.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0299.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/2010-08-cadair/DSCF0299.JPG"
   title="Cyfrwy Arete"
-  ><img src="/images/2010-08-cadair/DSCF0299.JPG" width="200"
+  ><img src="/static/images/2010-08-cadair/DSCF0299.JPG" width="200"
 alt="Cyfrwy Arete"/></a></p>
   <p>Cyfrwy Arete</p>
 </div>
@@ -39,8 +39,8 @@ problem.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0308.JPG"
-  title="Ella plodding up the scree slope." ><img src="/images/2010-08-cadair/DSCF0308.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/2010-08-cadair/DSCF0308.JPG"
+  title="Ella plodding up the scree slope." ><img src="/static/images/2010-08-cadair/DSCF0308.JPG" width="200"
      alt="Ella plodding up the scree slope."/></a></p>
   <p>Ella plodding up the scree slope.</p>
 </div>
@@ -72,8 +72,8 @@ munched our sandwiches.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0303.JPG"
-  title="Looking NE from the screes." ><img src="/images/2010-08-cadair/DSCF0303.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/2010-08-cadair/DSCF0303.JPG"
+  title="Looking NE from the screes." ><img src="/static/images/2010-08-cadair/DSCF0303.JPG" width="200"
      alt="Looking NE from the screes."/></a></p>
   <p>Looking NE from the screes.</p>
 </div>
@@ -99,8 +99,8 @@ to the car.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0311.JPG"
-  title="Ella on the summit of Pen y Gadair." ><img src="/images/2010-08-cadair/DSCF0311.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/2010-08-cadair/DSCF0311.JPG"
+  title="Ella on the summit of Pen y Gadair." ><img src="/static/images/2010-08-cadair/DSCF0311.JPG" width="200"
      alt="Ella on the summit of Pen y Gadair."/></a></p>
   <p>Ella on the summit of Pen y Gadair.</p>
 </div>
@@ -127,8 +127,8 @@ the symptoms.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-08-cadair/DSCF0317.JPG"
-  title="Almost back at the road." ><img src="/images/2010-08-cadair/DSCF0317.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/2010-08-cadair/DSCF0317.JPG"
+  title="Almost back at the road." ><img src="/static/images/2010-08-cadair/DSCF0317.JPG" width="200"
      alt="Almost back at the road."/></a></p>
   <p>Almost back at the road.</p>
 </div>

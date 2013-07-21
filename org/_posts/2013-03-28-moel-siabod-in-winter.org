@@ -19,8 +19,8 @@ below freezing for many days.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Siabod from the Farm Track." href="/images/2013-03_moel_siabod/IMG_6781.JPG"><img
- width="200" alt="Moel Siabod from the Farm Track." title="Moel Siabod from the Farm Track." src="/images/2013-03_moel_siabod/IMG_6781.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Siabod from the Farm Track." href="/static/images/2013-03_moel_siabod/IMG_6781.JPG"><img
+ width="200" alt="Moel Siabod from the Farm Track." title="Moel Siabod from the Farm Track." src="/static/images/2013-03_moel_siabod/IMG_6781.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -42,8 +42,8 @@ I set off for Capel Curig.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Final section up to the summit." href="/images/2013-03_moel_siabod/IMG_6785.JPG"><img
- width="200" alt="Final section up to the summit." title="Final section up to the summit." src="/images/2013-03_moel_siabod/IMG_6785.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Final section up to the summit." href="/static/images/2013-03_moel_siabod/IMG_6785.JPG"><img
+ width="200" alt="Final section up to the summit." title="Final section up to the summit." src="/static/images/2013-03_moel_siabod/IMG_6785.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -64,8 +64,8 @@ freezing. I had hoped to collect water from one of the lakes or a
 stream, but everything was frozen solid.
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking towards the Moelwyns." href="/images/2013-03_moel_siabod/IMG_6788.JPG"><img
- width="200" alt="Looking towards the Moelwyns." title="Looking towards the Moelwyns." src="/images/2013-03_moel_siabod/IMG_6788.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking towards the Moelwyns." href="/static/images/2013-03_moel_siabod/IMG_6788.JPG"><img
+ width="200" alt="Looking towards the Moelwyns." title="Looking towards the Moelwyns." src="/static/images/2013-03_moel_siabod/IMG_6788.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -89,8 +89,8 @@ over to the stone shelter, which was slightly less exposed to the wind
 and ate some cake.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking back along the summit ridge." href="/images/2013-03_moel_siabod/IMG_6795.JPG"><img
- width="200" alt="Looking back along the summit ridge." title="Looking back along the summit ridge." src="/images/2013-03_moel_siabod/IMG_6795.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking back along the summit ridge." href="/static/images/2013-03_moel_siabod/IMG_6795.JPG"><img
+ width="200" alt="Looking back along the summit ridge." title="Looking back along the summit ridge." src="/static/images/2013-03_moel_siabod/IMG_6795.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -107,8 +107,8 @@ about 3:30pm I would have plenty of time to descend if I wanted to.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sheltering in a bothy bag on the summit." href="/images/2013-03_moel_siabod/IMG_6797.JPG"><img
- width="200" alt="Sheltering in a bothy bag on the summit." title="Sheltering in a bothy bag on the summit." src="/images/2013-03_moel_siabod/IMG_6797.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sheltering in a bothy bag on the summit." href="/static/images/2013-03_moel_siabod/IMG_6797.JPG"><img
+ width="200" alt="Sheltering in a bothy bag on the summit." title="Sheltering in a bothy bag on the summit." src="/static/images/2013-03_moel_siabod/IMG_6797.JPG" /></a>
 
 </div>
 #+END_HTML

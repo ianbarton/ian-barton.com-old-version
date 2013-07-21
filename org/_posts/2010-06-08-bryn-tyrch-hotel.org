@@ -34,8 +34,8 @@ who use to stay here.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <a href="/images/2010-06-glyders/DSCF2162.JPG" rel="lightbox"
-    title="Bryn Tyrch."> <img src="/images/2010-06-glyders/DSCF2162.JPG" width="200"
+  <a href="/static/images/2010-06-glyders/DSCF2162.JPG" rel="lightbox"
+    title="Bryn Tyrch."> <img src="/static/images/2010-06-glyders/DSCF2162.JPG" width="200"
          alt="Bryn Tyrch."></a>
 </div>
 #+END_HTML

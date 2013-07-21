@@ -69,8 +69,8 @@ somewhere around Foel Fras and continue towards Foel Grach.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Wild pony." href="/images/2012-08-carned/DSCF2759.JPG"><img
- width="200" alt="Wild pony." title="Wild pony." src="/images/2012-08-carned/DSCF2759.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Wild pony." href="/static/images/2012-08-carned/DSCF2759.JPG"><img
+ width="200" alt="Wild pony." title="Wild pony." src="/static/images/2012-08-carned/DSCF2759.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -95,8 +95,8 @@ the time I had eaten my lunch Foel Grach was clear.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Path to Foel Grach." href="/images/2012-08-carned/DSCF2765.JPG"><img
- width="200" alt="Path to Foel Grach." title="Path to Foel Grach." src="/images/2012-08-carned/DSCF2765.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Path to Foel Grach." href="/static/images/2012-08-carned/DSCF2765.JPG"><img
+ width="200" alt="Path to Foel Grach." title="Path to Foel Grach." src="/static/images/2012-08-carned/DSCF2765.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -114,8 +114,8 @@ find, being sort of hidden in the slope below the summit.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Refuge on Foel Grach." href="/images/2012-08-carned/DSCF2768.JPG"><img
- width="200" alt="Refuge on Foel Grach." title="Refuge on Foel Grach." src="/images/2012-08-carned/DSCF2768.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Refuge on Foel Grach." href="/static/images/2012-08-carned/DSCF2768.JPG"><img
+ width="200" alt="Refuge on Foel Grach." title="Refuge on Foel Grach." src="/static/images/2012-08-carned/DSCF2768.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -137,10 +137,10 @@ the col. However, eventually they managed it without incident.
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Campsite Pen yr
-Helgi Du." href="/images/2012-08-carned/DSCF2794.JPG"><img
+Helgi Du." href="/static/images/2012-08-carned/DSCF2794.JPG"><img
  width="200" alt="Campsite Pen yr
 Helgi Du." title="Campsite Pen yr
-Helgi Du." src="/images/2012-08-carned/DSCF2794.JPG" /></a>
+Helgi Du." src="/static/images/2012-08-carned/DSCF2794.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -154,10 +154,10 @@ better viewpoint.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Evening Light
-on Tryfan and the Glyders." href="/images/2012-08-carned/DSCF2806.JPG"><img
+on Tryfan and the Glyders." href="/static/images/2012-08-carned/DSCF2806.JPG"><img
  width="200" alt="Evening Light
 on Tryfan and the Glyders." title="Evening Light
-on Tryfan and the Glyders." src="/images/2012-08-carned/DSCF2806.JPG" /></a>
+on Tryfan and the Glyders." src="/static/images/2012-08-carned/DSCF2806.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -171,8 +171,8 @@ to drink on the route back to the car.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Just Before Sunrise." href="/images/2012-08-carned/DSCF2817.JPG"><img
- width="200" alt="Just Before Sunrise." title="Just Before Sunrise." src="/images/2012-08-carned/DSCF2817.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Just Before Sunrise." href="/static/images/2012-08-carned/DSCF2817.JPG"><img
+ width="200" alt="Just Before Sunrise." title="Just Before Sunrise." src="/static/images/2012-08-carned/DSCF2817.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -187,8 +187,8 @@ Perseid showers.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Here Comes the Sun." href="/images/2012-08-carned/DSCF2821.JPG"><img
- width="200" alt="Here Comes the Sun." title="Here Comes the Sun." src="/images/2012-08-carned/DSCF2821.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Here Comes the Sun." href="/static/images/2012-08-carned/DSCF2821.JPG"><img
+ width="200" alt="Here Comes the Sun." title="Here Comes the Sun." src="/static/images/2012-08-carned/DSCF2821.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -204,8 +204,8 @@ of my walking done before it got too hot.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking East." href="/images/2012-08-carned/DSCF2826.JPG"><img
- width="200" alt="Looking East." title="Looking East." src="/images/2012-08-carned/DSCF2826.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking East." href="/static/images/2012-08-carned/DSCF2826.JPG"><img
+ width="200" alt="Looking East." title="Looking East." src="/static/images/2012-08-carned/DSCF2826.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -223,8 +223,8 @@ obvious route between Ogwen and Cwm Eigiau.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Glyders at Dawn." href="/images/2012-08-carned/DSCF2838.JPG"><img
- width="200" alt="Glyders at Dawn." title="Glyders at Dawn." src="/images/2012-08-carned/DSCF2838.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Glyders at Dawn." href="/static/images/2012-08-carned/DSCF2838.JPG"><img
+ width="200" alt="Glyders at Dawn." title="Glyders at Dawn." src="/static/images/2012-08-carned/DSCF2838.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -243,10 +243,10 @@ just didn't go quite far enough.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking Back
-Towards Pen Llithrig y Wrach." href="/images/2012-08-carned/DSCF2850.JPG"><img
+Towards Pen Llithrig y Wrach." href="/static/images/2012-08-carned/DSCF2850.JPG"><img
  width="200" alt="Looking Back
 Towards Pen Llithrig y Wrach." title="Looking Back
-Towards Pen Llithrig y Wrach." src="/images/2012-08-carned/DSCF2850.JPG" /></a>
+Towards Pen Llithrig y Wrach." src="/static/images/2012-08-carned/DSCF2850.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -273,10 +273,10 @@ going for day walks.
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen Llithrig y
-Wrach and Pen yr Helgi Du from Cwm Eigiau." href="/images/2012-08-carned/DSCF2857.JPG"><img
+Wrach and Pen yr Helgi Du from Cwm Eigiau." href="/static/images/2012-08-carned/DSCF2857.JPG"><img
  width="200" alt="Pen Llithrig y
 Wrach and Pen yr Helgi Du from Cwm Eigiau." title="Pen Llithrig y
-Wrach and Pen yr Helgi Du from Cwm Eigiau." src="/images/2012-08-carned/DSCF2857.JPG" /></a>
+Wrach and Pen yr Helgi Du from Cwm Eigiau." src="/static/images/2012-08-carned/DSCF2857.JPG" /></a>
 
 </div>
 #+END_HTML
