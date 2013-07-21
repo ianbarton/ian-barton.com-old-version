@@ -1,0 +1,95 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: Moel Famau to Moel Arthur and Back
+date: 2013-02-17
+tags:  [mountaineering, trips]
+category: blog
+---
+#+END_HTML
+
+My son is doing the Duke of Edinburgh Bronze Award this year. He had
+a training day at Moel Famau, so I thought I would take the
+opportunity to go for a walk. The weather was looking good, with
+clear skies forecast all day.
+
+We arrived at the car park around 9:45am and my son went off to join
+his group. I decided that I wanted to traverse the ridge to Moel
+Arthur and then make my way back along the valley to Cilcain and back
+over Moel Famau to the car park. However, I wasn't sure if I would
+have enough time, as I only had around 5hrs before I needed to be
+back.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Jubilee Tower Moel Famau." href="/static/images/2013-02_moel_famau/IMG_6655.JPG"><img
+ width="200" alt="Jubilee Tower Moel Famau." title="Jubilee Tower Moel Famau." src="/static/images/2013-02_moel_famau/IMG_6655.JPG" /></a>
+
+</div>
+#+END_HTML
+
+As I climbed up the track towards the monument, I could hear the wind
+blowing through the trees. There was an icy cold wind blowing around
+the monument and I went round to the lee side to shelter for a few
+minutes. I had a brief chat with someone while I sorted out my gear
+and found my gloves. As usual there was quite a crowd round the
+monument, one of the reasons I don't come here too often as I prefer
+to have the hills to myself. However, once I started off along the
+ridge I soon left the crowds behind.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="View along the ridge." href="/static/images/2013-02_moel_famau/IMG_6641.JPG"><img
+ width="200" alt="View along the ridge." title="View along the ridge." src="/static/images/2013-02_moel_famau/IMG_6641.JPG" /></a>
+
+</div>
+#+END_HTML
+
+
+I could make out a snow covered mountain in the distance, but it was
+slightly hazy and I couldn't see any other mountains which would help
+me to identify it. This was a bit of a disappointment, as I had
+lugged the telephoto lens up with me in the hope of getting some
+decent long distance shots. I fell into conversation with a man whose
+son was currently doing the silver D of E award. We chatted for a
+while and then he set off down towards the pub in Cilcain. The wind
+varied in strength on different sections of the ridge and I was being
+really buffeted on certain parts. I reached the start of the drop
+down to the road around 11:30am, so I had plenty of time to go over
+to Moel Arthur, as I didn't have to be back until around 3:30pm.
+
+Crossing the road, I took a direct line up to the summit Moel Arthur
+where there is a small pile of stones marking the top. I couldn't see
+any sign of the ancient hill fort. I decided to eat lunch on the summit
+event though it was windy and there was no shelter. I sat with my
+back to the wind, but one big gust blew the hot chocolate out of my
+cup.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Arthur." href="/static/images/2013-02_moel_famau/IMG_6647.JPG"><img
+ width="200" alt="Moel Arthur." title="Moel Arthur." src="/static/images/2013-02_moel_famau/IMG_6647.JPG" /></a>
+
+</div>
+#+END_HTML
+
+
+I decided not to bother trying to return along the valley to
+Cilcain. The last time I had done this route the path was unclear in
+places and I had to negotiate a high sheep fence on the edge of a
+steep bank. Also, I much preferred being up on the ridge than down in
+the valley. In any case the views are always different if you do the
+walk the other way round!
+
+Rather than follow my direct line of ascent on the way down, I stuck
+to the path that initially heads off NE and then contours back round
+the hill down to the road. Once back on the main ridge, I was walking
+directly into the wind. I stopped for another drink and Kit Kat by
+the cairn at SJ 1502963255. The wind was very strong on this part of
+the ridge and the cairn provided only partial shelter. I was soon
+back at the monument and retrace my route of ascent back to the car,
+arriving about 2:30pm in good time to meet my son.
+
+Cairn: OSGB36 Grid ref: SJ 1502963255
