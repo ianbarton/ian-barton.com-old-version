@@ -1,0 +1,35 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: Cross Fell
+date: 2013-05-05
+tags: [mountaineering, trips]
+category: blog
+status: draft
+---
+#+END_HTML
+
+I was staying with the family near to Appleby for a few days. The
+cold clear weather of the last few weeks looked set to continue for a
+few more days at least. I wanted to get out and walk up something,
+but only had half a day to spare. I could see Cross Fell over the
+other side of the valley and I can't remember when I was last up
+there, so a return visit seemed in order.
+
+I hadn't got a map, but my brother-in-law kindly lent me one. Also,
+as I hadn't planned on doing any high level walking, I didn't have
+any winter kit with me. From what I could see from down in the valley
+most of the snow had been scoured off the slopes by the wind, so I
+hope I could make my way round any patches of hard snow or ice. I
+drove over to Culgaith and looked at my map to see how I would get to
+Kirkland where the walk started. This was when I discovered that my
+brother-in-law had given me the wrong map! A quick trip to Penrith
+and a wait until 9:00am, when WH Smith opened, solved this
+problem. However, it meant that getting back by 2:00pm was going to
+be hard.
+
+I parked up next to the church in Kirkland and consulted my new map
+about the fastest route to the summit. I had enough clothing to keep
+warm, but only my Inov8 Roclite's
