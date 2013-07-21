@@ -1,0 +1,145 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+BEGIN_HTML
+---
+title: Moelwyns Cloud Inversion
+layout: post
+tags: [mountaineering, backpacking]
+comments: true
+category: blog
+---
+#+END_HTML
+
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/static/images/2013-07-moelwyns/IMG_7584.jpg"><img
+ width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/static/images/2013-07-moelwyns/IMG_7584.jpg" /></a>
+
+</div>
+
+#+END_HTML
+
+
+My son was doing his D of E Bronze expedition over the weekend,
+starting from Llandegla. The weather forecast was for hot and sunny
+conditions over the next few days. I didn't want to waste the
+opportunity for an overnight trip, but has to be back home at midday
+on the Saturday morning. However, we wouldn't be
+arriving at Llandegla until about 7:00pm, which left very limited
+time for me to drive into Snowdonia and get up to a summit.
+
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
+
+
+Sunset at this time of year was 9:37pm. The closest mountains,
+the Arans, only about 30mins drive away. I had completed an
+Arans circuit a couple of weeks ago and didn't want to go back so
+soon. Finally, I decided on the Mooelwyns, which were about an hour
+and fifteen minutes drive from Llandegla. I would be completing about
+half the walk after sunset, but navigation was simple, just follow
+the ridge and at this time of year it never goes properly dark.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Nantlle Ridge and Moelwyn Mawr." href="/static/images/2013-07-moelwyns/IMG_7587.jpg"><img
+ width="200" alt="Nantlle Ridge and Moelwyn Mawr." title="Nantlle Ridge and Moelwyn Mawr." src="/static/images/2013-07-moelwyns/IMG_7587.jpg" /></a>
+
+</div>
+#+END_HTML
+
+I arrived at the car park in Tanygrisiau shortly before 8:30pm. I had
+packed my rucksack before leaving home, so all I needed to do was get
+out of the car and start walking. My plan was to walk up the reservoir
+road to Llyn Stwlan, climb Moelwyn Bach, descend back to the col and
+then climb Moelwyn Mawr where I would camp on the summit. I had done
+this trip in [[http://www.ian-barton.com/posts/2012/Apr/13/a-trip-over-the-moelwyns/][April]] last year, when I experienced a hail storm on my
+ascent of Moelwyn Bach and the summit was misted out.
+
+Wandering up the reservoir road munching a cheese and onion sandwich,
+I met two groups of two people descending. I soon reached the dam
+wall and crossed the stream below it. I couldn't remember if it was
+easy to access Llyn Stwlan from this side, so I collected water from
+the outfall pipe below the dam. Once I had climbed the concrete steps
+at the far side of the dam, I would see that I could easily have
+collected my water from the lake, something to remember for next time.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/static/images/2013-07-moelwyns/IMG_7620.jpg"><img
+ width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/static/images/2013-07-moelwyns/IMG_7620.jpg" /></a>
+
+</div>
+#+END_HTML
+
+The route from Llyn Stwlan follows a fairly direct line over semi
+boggy ground to the col between Moelwyn Mawr and Moelwyn Bach. I
+reached the col at around 9:25pm in time to see the sun setting. I
+dumped my sack and managed to get to the summit of Moelwyn Bach before
+the sun disappeared completely. I sat on the summit cairn and watched
+it disappear over the summit of the Nantlle Ridge and Molewyn
+Mawr.After taking some photos I retraced my steps to the col. I had
+left my sack in plain view near to the path. There wasn't anyone else
+about at this time and I didn't want to lose sight of it in the
+gathering gloom.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Sunrise over Moel-yr-hydd." href="/static/images/2013-07-moelwyns/IMG_7623.jpg"><img
+ width="200" alt="Sunrise over Moel-yr-hydd." title="Sunrise over Moel-yr-hydd." src="/static/images/2013-07-moelwyns/IMG_7623.jpg" /></a>
+
+</div>
+#+END_HTML
+
+The ascent of Craigysgafn involves a pleasant scramble. Much better
+than my [[http://www.ian-barton.com/posts/2012/Apr/13/a-trip-over-the-moelwyns/][last]] visit when this section was more like a winter climb,
+with the rocks covered in verglas and hail. The ascent to Moelwyn
+Mawr was much longer than I remembered and it was 11:00pm when I
+arrived at the summit cairn. Even though the sun had disappeared
+nearly two hours before, it was still light enough to see without a
+head torch.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Mist drifting around Moel-yr-hydd." href="/static/images/2013-07-moelwyns/IMG_7625.jpg"><img
+ width="200" alt="Mist drifting around Moel-yr-hydd." title="Mist drifting around Moel-yr-hydd." src="/static/images/2013-07-moelwyns/IMG_7625.jpg" /></a>
+
+</div>
+#+END_HTML
+
+I set up the tent on a patch of grass close to the summit cairn. As I
+had been climbing towards the summit I had noticed the valleys below
+me starting to fill with cloud. I made a hot drink and some porridge
+and it was nearly midnight when I go into my sleeping bag. At around
+4:00am an attack of cramp had me hopping about outside the tent. The
+sun was due to rise shortly after 4:30am, but already there was a red
+tinge in the Eastern sky. All the surrounding valleys were full of
+mist, with the odd sliver blowing over the summit. Only the tops of
+the mountains were visible.
+
+I crawled back into the tent and watched the sun rising through the
+door. As the sun started to come up, the fragments of mist on the
+summit dispersed and I was treated to the best inversion I have seen
+in Wales. I sat outside the tent for a couple of hours watching as
+the heat of the rising sun made caused the mist in below to swirl and
+change shape.
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Early morning light on Moelwyn Bach." href="/static/images/2013-07-moelwyns/IMG_7627.jpg"><img
+ width="200" alt="Early morning light on Moelwyn Bach." title="Early morning light on Moelwyn Bach." src="/static/images/2013-07-moelwyns/IMG_7627.jpg" /></a>
+
+</div>
+#+END_HTML
+
+I packed up around 7:00am and began to make my way downwards and over
+to Moel-yr-hydd. By the time I had reached the summit the heat of the
+sun had caused the mist to rise although, Moel-yr-hydd was still
+clear. I descended into the mist towards the old quarry
+workings. Eventually some old buildings appeared out of the mist and
+I followed a path. However, this ended on top of a steep slope of
+slate scree. Not wishing to scramble down, I back-tracked to the
+buildings and found the track that leads down through the various
+levels. I soon dropped below the mist and enjoyed a pleasant walk
+through Cwmorthin back to the road. I drove the short distance to the
+lakeside cafe for a second breakfast.
