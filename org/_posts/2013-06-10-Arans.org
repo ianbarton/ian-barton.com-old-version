@@ -1,0 +1,194 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: An Arans Traverse and Summit Camp on Glasgwm.
+layout: post
+date: 2013-06-03
+tags:  [mountaineering, backpacking, trips]
+category: blog
+---
+#+END_HTML
+
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig Cywarch." href="/static/images/2013-06-03_arans/IMG_7219.JPG"><img
+ width="200" alt="Craig Cywarch." title="Craig Cywarch." src="/static/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
+
+</div>
+#+END_HTML
+
+Finally a period of sunny weather. I had wanted to get out for an
+overnight trip, but the weather had put paid to any trips so far this
+year. After dropping the children off at the school bus I set off for
+North Wales. I still hadn't decided exactly where I was going, but on
+my way over the A5104 made up my mind to have a go at the Arans
+traverse and camp on Glasgwm. This was a trip that I had been thinking
+about for some time, as I had never climbed Glasgwm. After several
+trips over the Arans in indifferent weather, I had wanted to save the
+circuit for a settled period of fine weather.
+
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
+
+
+The plan was to park in Cwm Cowarch, then walk up Hengwm and over the
+summit of Aran Fawddwy followed by a crossing of the boggy along the
+boardwalks and then a final pull up Glasgwm, where I would camp next
+to Llyn y Fign. The next morning I would follow my route of ascent
+back to the path leading down into Cwm Cwyarch and so back to the car park.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Fawddwy and Craiglyn Dyfi." href="/static/images/2013-06-03_arans/IMG_7229.JPG"><img
+ width="200" alt="Aran Fawddwy and Craiglyn Dyfi." title="Aran Fawddwy and Craiglyn Dyfi." src="/static/images/2013-06-03_arans/thumb.IMG_7229.JPG" /></a>
+
+</div>
+#+END_HTML
+
+I packed my rucksack and emptied a bottle of flavoured water into one
+of my Platypus bottles. I set off from the car park shortly after
+11:00am heading for Hengwm. Just after I had crossed the stream a few
+hundred yards from the car park, I realized that I had left the
+Platypus with the flavoured water in the car. Rather than go back for
+it, I filled another Platypus up from the river. This wasn't really
+enough water for the whole day, but I thought I would be
+able to get more water higher up.
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Memorial with Cadair Idris in the background." href="/static/images/2013-06-03_arans/IMG_7234.JPG"><img
+ width="200" alt="Memorial with Cadair Idris in the background." title="Memorial with Cadair Idris in the background." src="/static/images/2013-06-03_arans/thumb.IMG_7234.JPG" /></a>
+
+</div>
+#+END_HTML
+
+Walking up Hengwm I was in the shade, which made for pleasant walking
+as it was very hot in the sun. On the far side of the valley I had a
+perfect view of Craig Cwyarch, with its great rock climbs like "Will
+o' the Wisp" and Acheron. Cresting the slope up to the col, I decided
+against plodding through the peat hags to visit the top of Waun Goch
+and struck out up the slope towards Drysgol. When I reached the
+memorial at Drws Bach I stopped for a drink and ate the slice of
+Victoria sponge I had brought with me. The summit ridge of Aran
+Fawddwy was completely clear and there were great views over the
+steep East face and down to Craiglyn Dyfi, where I had pitched the
+Voyager Superlite last year for the first time in pouring rain.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Rhinogs in the distance." href="/static/images/2013-06-03_arans/IMG_7235.JPG"><img
+ width="200" alt="Rhinogs in the distance." title="Rhinogs in the distance." src="/static/images/2013-06-03_arans/thumb.IMG_7235.JPG" /></a>
+
+</div>
+#+END_HTML
+
+After a short rest, I continued up towards the summit of Aran
+Fawddwy. On the way I crossed a ladder style and noticed a small
+plaque with the OS grid reference on it. On the rest of the walk I saw
+that every style now had one of these plaques. I can't help thinking
+that putting these everywhere is destroying the remoteness that many
+people seek in the mountains.  There was someone resting near to the
+cairn who said that he was reccing a walk he was planning to lead at
+the wearing the weekend. After he left I got out my lunch and ate it
+with my feet dangling over the drop above Craiglyn Dyfi. I thought
+that there would be pools of water around the summit, but I could find
+any. I new that there were several big pools near to the summit of
+Aran Benllyn. However, I was too lazy to walk the extra distance to
+Aran Benllyn and thought I would be certain to find more water before
+my ascent of Glasgwm. This turned out to be a bad decision!
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="OS grid reference on a ladder style." href="/static/images/2013-06-03_arans/IMG_7245.JPG"><img
+ width="200" alt="OS grid reference on a ladder style." title="OS grid reference on a ladder style." src="/static/images/2013-06-03_arans/thumb.IMG_7245.JPG" /></a>
+
+</div>
+#+END_HTML
+
+
+When I had finished lunch I started to make my way back down the
+summit pyramid to join the fence that would take me to the bottom of
+Glasgwm. I could see the cairn on the summit clearly, but knew that
+it was a fair distance to walk before I reached the final slopes up
+to its summit. Just after I crossed the ladder style at the start of
+the fence, I met another man who was sitting admiring the view. In the
+whole day I only saw three people.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Benllyn from Aran Fawddwy." href="/static/images/2013-06-03_arans/IMG_7256.JPG"><img
+ width="200" alt="Aran Benllyn from Aran Fawddwy." title="Aran Benllyn from Aran Fawddwy." src="/static/images/2013-06-03_arans/thumb.IMG_7256.JPG" /></a>
+
+</div>
+#+END_HTML
+
+Luckily the ground was fairly dry. Only a couple of the boarded
+sections over the bogs were significantly wet sections. It seemed
+a long way to where the path met the one coming up from Cwm Cywarch
+and I didn't find any sources of water to replenish my supply. By the
+time I reached the slope that leads up to Glasgwm, I was feeling a bit
+dehydrated. Foolishly, I didn't walk the extra couple of hundred yards
+to find the start of the stream that flows down to Cwm Cywarch, but
+started off in the opposite direction to find the path that climbs up
+Glasgwm.
+
+The ascent of Glasgwm was a steep pull. The path follows the fence
+almost all the way, with a steep scree section just below the
+summit. Finally I saw Llyn Bach and the summit cairn. Sitting on the
+cairn I could see Llyn Figyn just below the summit.
+
+The first job was to go straight down to the lake and drink lots of
+water. Once I had rehydrated, I looked around for a camp site. There
+was a perfect flat grassy patch that was near to the ladder style. I
+soon had the tent pitched and lay down inside to escape from the sun
+for a few minutes and rest.
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tent near Llyn Figyn." href="/static/images/2013-06-03_arans/IMG_7269.JPG"><img
+ width="200" alt="Tent near Llyn Figyn." title="Tent near Llyn Figyn." src="/static/images/2013-06-03_arans/thumb.IMG_7269.JPG" /></a>
+
+</div>
+#+END_HTML
+
+There was plenty of daylight left, so once I had eaten tea I set off
+around the summit to explore. Although it had been a warm day, there
+was very little haze. There was just enough breeze to keep the
+insects away. I was quite tired, but wanted to get some pictures of
+the sunset, which was around 9:30pm. Shortly after nine I got out of
+the tent and wandered around taking photos. Finally I sat next to the
+summit cairn and watched the sun drop below the horizon.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset." href="/static/images/2013-06-03_arans/IMG_7311.JPG"><img
+ width="200" alt="Sunset." title="Sunset." src="/static/images/2013-06-03_arans/thumb.IMG_7311.JPG" /></a>
+
+</div>
+#+END_HTML
+
+Crawling back into the tent, I fell asleep almost immediately. When I
+woke up it was light. Glancing at my watch it was shortly after
+5:00am. I had wanted to get some pictures of the sunrise, which was
+just before 5:00am. Scrambling out of the tent I was just in time to
+get some photos of the sun rising over Aran Fawddwy.
+
+I made some breakfast with [[http://www.mountaintrails.org.uk/][Mountain Trails]] excellent porridge and
+began to pack up the tent. I didn't want to be late back and it was
+obviously going to be another hot day, so I was packed up and ready to
+descend shortly after 6:00am. Taking my time, so I could enjoy the
+views I retraced my line of ascent along the fence. I enjoyed the
+steep descent into Cwm Cywarch. The sun was beginning to illuminate
+the valley and the shadows formed as it rose were making all sorts of
+interesting shapes over the valley. Lost in my own thoughts I walked
+straight past the car park, not realizing my mistake for about a
+quarter of a mile.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/static/images/2013-06-03_arans/IMG_7315.JPG"><img
+ width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/static/images/2013-06-03_arans/thumb.IMG_7315.JPG" /></a>
+
+</div>
+#+END_HTML
+
+It had been a memorable trip. Perfect weather, a perfect wild camping
+spot and almost deserted mountains.
