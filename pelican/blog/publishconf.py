@@ -5,9 +5,10 @@ import sys
 sys.path.append('.')
 from pelicanconf import *
 
-SITEURL = 'http://localhost'
+SITEURL = 'http://www.ian-barton.com'
+#SITEURL = 'http://localhost'
 
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 # Following items are often useful when publishing
 
