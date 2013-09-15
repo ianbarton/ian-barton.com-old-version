@@ -58,7 +58,7 @@ white liquid attached to the blades of grass.
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Tarns on South ridge of Arenig Fawr." href="/static/images/2013-07_arenigs/IMG_7672.JPG"><img
- width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/static/images/thumb.2013-07_arenigs/IMG_7672.JPG" /></a>
+ width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/static/images/2013-07_arenigs/thumb.IMG_7672.JPG" /></a>
 
 </div>
 #+END_HTML
