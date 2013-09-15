@@ -13,7 +13,7 @@ TIMEZONE = 'Europe/London'
 MARKUP = (('rst', 'md', 'yml'))
 DEFAULT_LANG = 'en'
 
-#PATH = '~/dropbox/web_sites/ianbarton/pelican/blog/content'
+#PATH = '~/Documents/emacs/web_sites/ianbarton/pelican/blog/content'
 #PAGE_DIR = '../pages'
 
 DISPLAY_PAGES_ON_MENU = True
@@ -50,3 +50,8 @@ GOOGLE_ANALYTICS = "UA-7259094-1"
 TWITTER_USERNAME = 'ianbarton'
 
 GOOGLE_CUSTOM_SEARCH_SIDEBAR = True
+GOOGLE_SITE_SEARCH_URL = "www.ian-barton.com"
+
+
+PLUGIN_PATH = "/home/ian/Dropbox/src/pelican-plugins"
+PLUGINS = ['yaml_importer', 'summary']
