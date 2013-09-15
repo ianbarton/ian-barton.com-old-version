@@ -4,47 +4,61 @@
 #+BEGIN_HTML
 ---
 title: Summit Camp on Moel Llyfnant (Arenigs).
-summary:
 date: 2013-07-17
-
+comments: true
 tags: [mountaineering, backpacking, trips]
 category: blog
 ---
 #+END_HTML
 
+
 #+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cotton grass on Arenig Fawr." href="/images/2013-07_arenigs/IMG_7650.JPG"><img
- width="200" alt="Cotton grass on Arenig Fawr." title="Cotton grass on Arenig Fawr." src="/images/2013-07_arenigs/IMG_7650.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cotton grass on Arenig Fawr." href="/static/images/2013-07_arenigs/IMG_7650.JPG"><img
+ width="200" alt="Cotton grass on Arenig Fawr." title="Cotton grass on Arenig Fawr." src="/static/images/2013-07_arenigs/thumb.IMG_7650.JPG" /></a>
 
 </div>
+
 #+END_HTML
 
 Another short trip, starting late in the day to avoid the heat. I had
 done the same trip last year and enjoyed it so much, I decided to do
-it again!
+it again! The original inspiration for this trip came from [[http://v-g.me.uk/Trips/T0607/T0607.htm][v-g]]
+excellent site.
+
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
+
+
 
 Last time I had parked in the small pull in near to the start of the
 track leading up to Llyn Arenig Fawr. However, this left me with quite
 a bit of road walking on the second day. So I decided to park in the
-large area opposite the quarry at ????, which meant I would get most
+large area opposite the quarry at 830393, which meant I would get most
 of the road walking done at the start of the first day.
 
 I left the car around 4:00pm and made my way to the start of the
-track. It is possible to follow the old railway track, but you need to
-cut back to the road at one point and it seemed simpler to just walk
-along the road. The temperature was gradually cooling, but it was
-still very hot at around 25C. As I mad my way up the track towards
-Llyn Arenig Fawr I met a couple  of people descending. There was a
-group with a couple of tents just setting up, below the dam wall. I
-had a quick look in the bothy, as I had read that it had been
-vandalized recently. However, it seemed to have been repaired as it
-looked in good condition.
+track. It is possible to follow the old railway track alongside the
+road, but you need to cut back to the road at one point and it seemed
+simpler to just walk along the road. The temperature was gradually
+cooling, but it was still very hot at around 25C. As I made my way up
+the track towards Llyn Arenig Fawr I met a couple of people
+descending. There was a group with a couple of tents just setting up,
+below the dam wall. I had a quick look in the bothy, as I had read
+that it had been vandalized recently. However, it seemed to have been
+repaired as it looked in good condition.
+
+The cotton grass was out, making the large areas of grass look much
+more attractive. I also noticed what I know as "Cuckoo spit" - frothy
+white liquid attached to the blades of grass.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tarns on South ridge of Arenig Fawr." href="/images/2013-07_arenigs/IMG_7672.JPG"><img
- width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/images/2013-07_arenigs/IMG_7672.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tarns on South ridge of Arenig Fawr." href="/static/images/2013-07_arenigs/IMG_7672.JPG"><img
+ width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/static/images/thumb.2013-07_arenigs/IMG_7672.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -54,15 +68,16 @@ slope leading to Arenig Fawr. Last time I had followed the path that
 contours all the way along the East face before finally gaining the
 ridge just below the summit of Arenig Fawr. This time I wanted to gain
 the ridge earlier by climbing directly up the grass slope on the
-right. On my fist attempt I left the path too early and ended up
-regaining it a bit higher up. However, I could now see the ridge line
-and on my second attempt got up to the ridge. The heat had made the
-distant views hazy, but there was still a fine prospect of almost
-every peak in Snowdonia.
+right. This would give me god views both to the East and West as I
+climbed towards the summit. On my first attempt I left the path too
+early and ended up regaining it a bit higher up. However, I could now
+see the ridge line and on my second attempt got up onto the ridge. The
+heat had made the distant views hazy, but there was still a fine
+prospect of almost every peak in Snowdonia.
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit camp on Moel Llyfnant." href="/images/2013-07_arenigs/IMG_7674.JPG"><img
- width="200" alt="Summit camp on Moel Llyfnant." title="Summit camp on Moel Llyfnant." src="/images/2013-07_arenigs/IMG_7674.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit camp on Moel Llyfnant." href="/static/images/2013-07_arenigs/IMG_7674.JPG"><img
+ width="200" alt="Summit camp on Moel Llyfnant." title="Summit camp on Moel Llyfnant." src="/static/images/2013-07_arenigs/thumb.IMG_7674.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -77,8 +92,8 @@ had gone to the trouble of placing the poppies beneath the plaque. I
 wondered if any of the airmen's families had ever visited this spot.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset over Snowdon." href="/images/2013-07_arenigs/IMG_7704.JPG"><img
- width="200" alt="Sunset over Snowdon." title="Sunset over Snowdon." src="/images/2013-07_arenigs/IMG_7704.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset over Snowdon." href="/static/images/2013-07_arenigs/IMG_7704.JPG"><img
+ width="200" alt="Sunset over Snowdon." title="Sunset over Snowdon." src="/static/images/2013-07_arenigs/thumb.IMG_7704.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -90,25 +105,19 @@ the small stream on the western slope leading down to the col would be
 dry. I scooped some water out of one of the lakes into a Platypus and
 it had a distinct green tinge. There were no obvious sources of
 running water and I knew there were none on Moel Llyfnant. Luckily I
-had brought my Travel Tap ????? link with me. I don't normally bother
-purifying water in the UK, as there is normally ample supplies of
-clean water. However, I had anticipated a problem and so had brought
+had brought my [[http://www.drinksafe-systems.co.uk/products.php][Travel Tap]]. I don't normally bother
+purifying water in the UK, as there are usually ample supplies of
+clean water. However, I had anticipated a problem because of the
+recent dry weather and so had brought
 my Travel Tap along with me. I filled up all three one litre Platypus
-bottles before walking over to the corner of the fence that marks the
+bottles from the lake before walking over to the corner of the fence that marks the
 start of the descent to the col below Moel Llyfnant.
 
-As I expected all the stream were dry, as was the normally boggy
+As I expected all the little streams were dry, as was the normally boggy
 section at the col. The ascent to Moel Llyfnant is steep and
 unremitting, but not too far. I sweated my way up the steep grass
 taking a direct line towards the summit, popping out on the ridge only
 a few yards away from the cairn.
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Just before the sunrise over Arenig Fawr." href="/images/2013-07_arenigs/IMG_7715.JPG"><img
- width="200" alt="Just before the sunrise over Arenig Fawr." title="Just before the sunrise over Arenig Fawr." src="/images/2013-07_arenigs/IMG_7715.JPG" /></a>
-
-</div>
-#+END_HTML
 
 I camped on a small sheltered area close to the summit. There was just
 enough of a breeze to keep the insects away. After taking on board
@@ -116,42 +125,45 @@ lots of fluid and a Hot Cereal Start, I sat by the summit cairn and
 watched the sun setting over Snowdon.
 
 It was a very warm night and I slept with the doors open. Sometime
-after it went dark, I emerged from the tent to look at the stars. I
-finally woke shortly after 4:00pm. It was already getting light and
-climbing out of the tent I could see the sky glowing red behind Arenig
-Fawr.
+after it went dark, I emerged from the tent to look at the stars. Even
+in the middle of the night I was quite comfortable in just shirt
+sleeves. I woke again shortly after 4:00pm. It was already getting
+light and climbing out of the tent I could see the sky glowing red
+behind Arenig Fawr. I got out the camera and took photos as the sun
+climbed over the shoulder of Arenig Fawr.
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Just before the sunrise over Arenig Fawr." href="/images/2013-07_arenigs/IMG_7715.JPG"><img
- width="200" alt="Just before the sunrise over Arenig Fawr." title="Just before the sunrise over Arenig Fawr." src="/images/2013-07_arenigs/IMG_7715.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Just before the sunrise over Arenig Fawr." href="/static/images/2013-07_arenigs/IMG_7715.JPG"><img
+ width="200" alt="Just before the sunrise over Arenig Fawr." title="Just before the sunrise over Arenig Fawr." src="/static/images/2013-07_arenigs/thumb.IMG_7715.JPG" /></a>
 
 </div>
 #+END_HTML
 
 I had packed up by 7:00am and began descending the North Ridge towards
-????. Last time I had retraced my ascent route back to the col and had
-bushwacked through long tussocky wet bog, which was really
+the abanodoned cottage of Amnod-bwll. Last time I had retraced my
+ascent route back to the col and had bushwacked through long tussocky
+wet bog to the edge of the plantation, which was really
 unpleasant. The North ridge was much nicer, with short grass and no
 boggy bits. There are traces of a path, intermingled with lots of
 misleading sheep tracks. However, if you just head on a bearing
-towards Amnod-bwll you will emerge onto a farm track near to the
+towards Amnodd-bwll you will emerge onto a farm track near to the
 bottom of the hill.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Llyfnant from the forestry track." href="/images/2013-07_arenigs/IMG_7741.JPG"><img
- width="200" alt="Moel Llyfnant from the forestry track." title="Moel Llyfnant from the forestry track." src="/images/2013-07_arenigs/IMG_7741.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Llyfnant from the forestry track." href="/static/images/2013-07_arenigs/IMG_7741.JPG"><img
+ width="200" alt="Moel Llyfnant from the forestry track." title="Moel Llyfnant from the forestry track." src="/static/images/2013-07_arenigs/thumb.IMG_7741.JPG" /></a>
 
 </div>
 #+END_HTML
 
-From Amnod-bwll I followed the forestry road. There comes a point near
-to the ruined buildings of ???? where the track divides. I couldn't
-remember which branch I should take and set off down the left had
+From Amnodd-bwll I followed the forestry road. There comes a point near
+to the ruined buildings of Amnodd-wen where the track divides. I couldn't
+remember which branch I should take and set off down the left hand
 one. After a few hundred yards I could see that this was the wrong way
 and would bring me out much too far up the road, so I back
 tracked. The right hand branch of the path soon leads to a very boggy
 section next to a wall. Whichever way you choose is wet, even in the
 current drought conditions. After a short distance I reached a style
-beyond which he splash fest became a farm track. I descended past the
+beyond which the splash fest became a farm track. I descended past the
 farm and onto a recently made track above the railway line. This
 emerged onto the road only about a kilometre from the car.
