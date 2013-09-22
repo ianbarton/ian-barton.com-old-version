@@ -3,11 +3,12 @@
 
 AUTHOR = u"Ian Barton"
 SITENAME = u"ian-barton.com"
-SITEURL = 'http://www.ian-barton.com'
+#SITEURL = 'http://www.ian-barton.com'
+SITEURL = 'http://localhost'
 
 #TEMPLATE_PAGES = {'contents/pages/about.html' : 'pages/about.html'}
 
-THEME = "bootstrap2"
+THEME = "/home/ian/Documents/emacs/web_sites/ian-barton/pelican/themes/bootstrap2/"
 
 TIMEZONE = 'Europe/London'
 MARKUP = (('rst', 'md', 'yml'))
