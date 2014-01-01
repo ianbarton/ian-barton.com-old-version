@@ -47,7 +47,7 @@ ARTICLE_SAVE_AS = "posts/{date:%Y}/{date:%b}/{date:%d}/{slug}/index.html"
 
 DISQUS_SITENAME = "ianbarton"
 GITHUB_URL = "https://github.com/geekinthesticks"
-GOOGLE_ANALYTICS = "UA-7259094-1"
+GOOGLE_ANALYTICS = "UA-24959628-1"
 TWITTER_USERNAME = 'ianbarton'
 
 GOOGLE_CUSTOM_SEARCH_SIDEBAR = True
