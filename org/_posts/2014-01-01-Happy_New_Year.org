@@ -1,0 +1,24 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: Happy New Year!
+layout: post
+date: 2014-01-01
+tags: [blog]
+category: blog
+---
+#+END_HTML
+
+A New Year and time for some changes. This blog has got something of
+a mixture of technology related posts and posts about the outdoors. I
+have decided to start a new blog at http://ianbarton.net to which is
+going to be about technology. This blog will be where I post all my
+outdoors related content. I have started by moving all the technology
+related posts from this blog over to the new one.
+
+There are a lot of gear related reviews, which are scattered around. I
+am planning to make an index page to make it easier to find a
+review. I'll also be adding an index page for my backpacking posts and
+I hope to add a gpx file and map for each post.
