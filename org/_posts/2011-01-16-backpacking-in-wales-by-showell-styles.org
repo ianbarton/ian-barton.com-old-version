@@ -23,7 +23,7 @@ Tryfan.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/static/images/backpacking_in_wales.jpg" rel="lightbox" title="Backpacking in Wales."> <img src="/static/images/backpacking_in_wales.jpg"
+  <p><a href="/images/backpacking_in_wales.jpg" rel="lightbox" title="Backpacking in Wales."> <img src="/images/backpacking_in_wales.jpg"
      alt="Backpacking in Wales."></a></p>
   <p>Backpacking in Wales.</p>
 

@@ -24,8 +24,8 @@ at Glan Dena.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2433.JPG"
-  title="Pen yr Ole Wen SE Ridge"> <img src="/static/images/2012-05-carned/thumb.DSCF2433.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2433.JPG"
+  title="Pen yr Ole Wen SE Ridge"> <img src="/images/2012-05-carned/thumb.DSCF2433.JPG" width="200"
      alt="Pen yr Ole Wen SE Ridge"></a></p>
   <p>Pen yr Ole Wen SE Ridge</p>
 
@@ -44,8 +44,8 @@ on Pen yr Helgi Du.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2436.JPG"
-  title="Carnedd Dafydd misted out"> <img src="/static/images/2012-05-carned/thumb.DSCF2436.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2436.JPG"
+  title="Carnedd Dafydd misted out"> <img src="/images/2012-05-carned/thumb.DSCF2436.JPG" width="200"
      alt="Carnedd Dafydd misted out"></a></p>
   <p>Carnedd Dafydd misted out</p>
 
@@ -65,8 +65,8 @@ the south east ridge through several boggy patches.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2441.JPG"
-  title="Menai Straights appears briefly"> <img src="/static/images/2012-05-carned/thumb.DSCF2441.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2441.JPG"
+  title="Menai Straights appears briefly"> <img src="/images/2012-05-carned/thumb.DSCF2441.JPG" width="200"
      alt="Menai Straights appears briefly"></a></p>
   <p>Menai Straights appears briefly</p>
 
@@ -93,8 +93,8 @@ next to the cairn.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2457.JPG"
-  title="Looking West. Afon Llafar far below."> <img src="/static/images/2012-05-carned/thumb.DSCF2457.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2457.JPG"
+  title="Looking West. Afon Llafar far below."> <img src="/images/2012-05-carned/thumb.DSCF2457.JPG" width="200"
      alt="Looking West. Afon Llafar far below."></a></p>
   <p>Looking West. Afon Llafar far below.</p>
 
@@ -117,8 +117,8 @@ lifted. The summit was just clear of the clag when I reached it.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2461.JPG"
-  title="Tent on Pen yr Helgi Du. Moel Siabod in Background."> <img src="/static/images/2012-05-carned/thumb.DSCF2461.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2461.JPG"
+  title="Tent on Pen yr Helgi Du. Moel Siabod in Background."> <img src="/images/2012-05-carned/thumb.DSCF2461.JPG" width="200"
      alt="Tent on Pen yr Helgi Du. Moel Siabod in Background."></a></p>
   <p>Tent on Pen yr Helgi Du. Moel Siabod in Background.</p>
 
@@ -138,8 +138,8 @@ and began descending the ridge towards Craig yr Ysfa.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2463.JPG"
-  title="Summit of Pen yr Helgi Du. Carnedd Llewelyn beyond."> <img src="/static/images/2012-05-carned/thumb.DSCF2463.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2463.JPG"
+  title="Summit of Pen yr Helgi Du. Carnedd Llewelyn beyond."> <img src="/images/2012-05-carned/thumb.DSCF2463.JPG" width="200"
      alt="Summit of Pen yr Helgi Du. Carnedd Llewelyn beyond."></a></p>
   <p>Summit of Pen yr Helgi Du. Carnedd Llewelyn beyond.</p>
 
@@ -158,8 +158,8 @@ real "mountaineering" route.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2478.JPG"
-  title="Sunset."> <img src="/static/images/2012-05-carned/thumb.DSCF2478.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2478.JPG"
+  title="Sunset."> <img src="/images/2012-05-carned/thumb.DSCF2478.JPG" width="200"
      alt="Sunset."></a></p>
   <p>Sunset.</p>
 
@@ -180,8 +180,8 @@ road and walk along the old A5.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2476.JPG"
-  title="Dawn"> <img src="/static/images/2012-05-carned/thumb.DSCF2476.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2476.JPG"
+  title="Dawn"> <img src="/images/2012-05-carned/thumb.DSCF2476.JPG" width="200"
      alt="Dawn."></a></p>
   <p>Dawn.</p>
 
@@ -201,8 +201,8 @@ much conditions can vary, even over a relatively short distance.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2489.JPG"
-  title="Gallt yr Ogof."> <img src="/static/images/2012-05-carned/thumb.DSCF2489.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2489.JPG"
+  title="Gallt yr Ogof."> <img src="/images/2012-05-carned/thumb.DSCF2489.JPG" width="200"
      alt="Gallt yr Ogof."></a></p>
   <p>Gallt yr Ogof.</p>
 
@@ -224,8 +224,8 @@ section, but had to wade through.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2012-05-carned/DSCF2492.JPG"
-  title="Early Morning Sun on Tryfan."> <img src="/static/images/2012-05-carned/thumb.DSCF2492.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2012-05-carned/DSCF2492.JPG"
+  title="Early Morning Sun on Tryfan."> <img src="/images/2012-05-carned/thumb.DSCF2492.JPG" width="200"
      alt="Early Morning Sun on Tryfan."></a></p>
   <p>Early Morning Sun on Tryfan.</p>
 

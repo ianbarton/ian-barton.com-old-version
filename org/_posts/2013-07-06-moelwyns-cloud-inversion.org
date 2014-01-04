@@ -14,8 +14,8 @@ category: blog
 <!-- PELICAN_BEGIN_SUMMARY -->
 
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/static/images/2013-07-moelwyns/IMG_7584.jpg"><img
- width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/static/images/2013-07-moelwyns/IMG_7584.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/images/2013-07-moelwyns/IMG_7584.jpg"><img
+ width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/images/2013-07-moelwyns/IMG_7584.jpg" /></a>
 
 </div>
 
@@ -45,8 +45,8 @@ the ridge and at this time of year it never goes properly dark.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Nantlle Ridge and Moelwyn Mawr." href="/static/images/2013-07-moelwyns/IMG_7587.jpg"><img
- width="200" alt="Nantlle Ridge and Moelwyn Mawr." title="Nantlle Ridge and Moelwyn Mawr." src="/static/images/2013-07-moelwyns/IMG_7587.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Nantlle Ridge and Moelwyn Mawr." href="/images/2013-07-moelwyns/IMG_7587.jpg"><img
+ width="200" alt="Nantlle Ridge and Moelwyn Mawr." title="Nantlle Ridge and Moelwyn Mawr." src="/images/2013-07-moelwyns/IMG_7587.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -68,8 +68,8 @@ at the far side of the dam, I would see that I could easily have
 collected my water from the lake, something to remember for next time.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/static/images/2013-07-moelwyns/IMG_7620.jpg"><img
- width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/static/images/2013-07-moelwyns/IMG_7620.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Tremadoc Bay from Moelwyn Bach." href="/images/2013-07-moelwyns/IMG_7620.jpg"><img
+ width="200" alt="Tremadoc Bay from Moelwyn Bach." title="Tremadoc Bay from Moelwyn Bach." src="/images/2013-07-moelwyns/IMG_7620.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -87,8 +87,8 @@ gathering gloom.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Sunrise over Moel-yr-hydd." href="/static/images/2013-07-moelwyns/IMG_7623.jpg"><img
- width="200" alt="Sunrise over Moel-yr-hydd." title="Sunrise over Moel-yr-hydd." src="/static/images/2013-07-moelwyns/IMG_7623.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Sunrise over Moel-yr-hydd." href="/images/2013-07-moelwyns/IMG_7623.jpg"><img
+ width="200" alt="Sunrise over Moel-yr-hydd." title="Sunrise over Moel-yr-hydd." src="/images/2013-07-moelwyns/IMG_7623.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -102,8 +102,8 @@ nearly two hours before, it was still light enough to see without a
 head torch.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Mist drifting around Moel-yr-hydd." href="/static/images/2013-07-moelwyns/IMG_7625.jpg"><img
- width="200" alt="Mist drifting around Moel-yr-hydd." title="Mist drifting around Moel-yr-hydd." src="/static/images/2013-07-moelwyns/IMG_7625.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Mist drifting around Moel-yr-hydd." href="/images/2013-07-moelwyns/IMG_7625.jpg"><img
+ width="200" alt="Mist drifting around Moel-yr-hydd." title="Mist drifting around Moel-yr-hydd." src="/images/2013-07-moelwyns/IMG_7625.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -126,8 +126,8 @@ the heat of the rising sun made caused the mist in below to swirl and
 change shape.
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb" title="Early morning light on Moelwyn Bach." href="/static/images/2013-07-moelwyns/IMG_7627.jpg"><img
- width="200" alt="Early morning light on Moelwyn Bach." title="Early morning light on Moelwyn Bach." src="/static/images/2013-07-moelwyns/IMG_7627.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb" title="Early morning light on Moelwyn Bach." href="/images/2013-07-moelwyns/IMG_7627.jpg"><img
+ width="200" alt="Early morning light on Moelwyn Bach." title="Early morning light on Moelwyn Bach." src="/images/2013-07-moelwyns/IMG_7627.jpg" /></a>
 
 </div>
 #+END_HTML

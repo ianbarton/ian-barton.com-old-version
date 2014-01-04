@@ -21,8 +21,8 @@ easily accessible and not too long.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/static/images/dolomites/DSCF0191.JPG" rel="lightbox"
-  title="Cir V."> <img src="/static/images/dolomites/DSCF0191.JPG" width="300"
+  <p><a href="/images/dolomites/DSCF0191.JPG" rel="lightbox"
+  title="Cir V."> <img src="/images/dolomites/DSCF0191.JPG" width="300"
      alt="Cir V"></a></p>
   <p>Cir V. Aproximate line of route marked.</p>
 </div>
@@ -47,8 +47,8 @@ the start of the route.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/static/images/dolomites/DSCF0211.JPG" rel="lightbox"
-  title="Cir V."> <img src="/static/images/dolomites/DSCF0211.JPG" width="300"
+  <p><a href="/images/dolomites/DSCF0211.JPG" rel="lightbox"
+  title="Cir V."> <img src="/images/dolomites/DSCF0211.JPG" width="300"
      alt="Cir V"></a></p>
   <p>Ella on Cir V Via Ferrata.</p>
 </div>

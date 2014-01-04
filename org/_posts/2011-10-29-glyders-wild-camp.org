@@ -100,8 +100,8 @@ his attempt and was climbing back up.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2011-10_wales/DSCF2076.JPG"
-  title="Y Garn from Tryfan"> <img src="/static/images/2011-10_wales/DSCF2076_1.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2076.JPG"
+  title="Y Garn from Tryfan"> <img src="/images/2011-10_wales/DSCF2076_1.JPG" width="200"
      alt="Y Garn from Tryfan"></a></p>
   <p>Y Garn from Tryfan</p>
 
@@ -146,8 +146,8 @@ slept quite well, waking around 6:00am. Sunrise was shortly after
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2011-10_wales/DSCF2102.JPG" title="Sunrise
-  over Moel Siabdd"> <img src="/static/images/2011-10_wales/DSCF2102_1.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2102.JPG" title="Sunrise
+  over Moel Siabdd"> <img src="/images/2011-10_wales/DSCF2102_1.JPG" width="200"
      alt="Sunrise
   over Moel Siabdd."></a></p>
   <p>Sunrise
@@ -167,8 +167,8 @@ between Glyder Fach and Capel Curig.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2011-10_wales/DSCF2104.JPG"  title="Snowdon
-  Horseshoe"> <img src="/static/images/2011-10_wales/DSCF2104_1.JPG" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2104.JPG"  title="Snowdon
+  Horseshoe"> <img src="/images/2011-10_wales/DSCF2104_1.JPG" width="200"
      alt="Snowdon Horseshoe."></a></p>
   <p>Snowdon Horseshoe.</p>
 
@@ -189,10 +189,10 @@ short detour for the excellent views.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2011-10_wales/DSCF2105.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2105.JPG"
 
   title="Glyder fach and Bristly Ridge."
-  > <img src="/static/images/2011-10_wales/DSCF2105_1.JPG" width="200"
+  > <img src="/images/2011-10_wales/DSCF2105_1.JPG" width="200"
      alt="Glyder fach and Bristly Ridge."></a></p>
   <p>Glyder fach and Bristly Ridge.</p>
 
@@ -212,9 +212,9 @@ trail shoes.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/static/images/2011-10_wales/DSCF2128.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb"  href="/images/2011-10_wales/DSCF2128.JPG"
   title="Cefyn y Capel."
-  > <img src="/static/images/2011-10_wales/DSCF2128_1.JPG" width="200"
+  > <img src="/images/2011-10_wales/DSCF2128_1.JPG" width="200"
      alt="Cefyn y Capel."></a></p>
   <p>Cefyn y Capel.</p>
 

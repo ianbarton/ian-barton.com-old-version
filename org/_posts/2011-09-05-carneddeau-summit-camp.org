@@ -21,8 +21,8 @@ of Moel Siabod, Ella was keen to go on another summit camp.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Wild ponies." href="/static/images/2011-08-carned/DSCF1822.JPG"><img
- width="200" alt="Wild ponies." title="Wild ponies." src="/static/images/2011-08-carned/DSCF1822.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Wild ponies." href="/images/2011-08-carned/DSCF1822.JPG"><img
+ width="200" alt="Wild ponies." title="Wild ponies." src="/images/2011-08-carned/DSCF1822.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -36,8 +36,8 @@ descend the South East ridge back to the valley.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ffynnon Llugwy." href="/static/images/2011-08-carned/DSCF1829.JPG"><img
-alt="Ffynnon Llugwy." width="200" alt="Ffynnon Llugwy." title="Ffynnon Llugwy." src="/static/images/2011-08-carned/DSCF1829.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ffynnon Llugwy." href="/images/2011-08-carned/DSCF1829.JPG"><img
+alt="Ffynnon Llugwy." width="200" alt="Ffynnon Llugwy." title="Ffynnon Llugwy." src="/images/2011-08-carned/DSCF1829.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -53,8 +53,8 @@ proceed with our plan.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Zephyros on C. Llewelyn" href="/static/images/2011-08-carned/DSCF1834.JPG"><img
- width="200" alt="Zephyros on C. Llewelyn" title="Zephyros on C. Llewelyn" src="/static/images/2011-08-carned/DSCF1834.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Zephyros on C. Llewelyn" href="/images/2011-08-carned/DSCF1834.JPG"><img
+ width="200" alt="Zephyros on C. Llewelyn" title="Zephyros on C. Llewelyn" src="/images/2011-08-carned/DSCF1834.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -108,8 +108,8 @@ huge, turned out to be just a small pile of rock.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ella in the tent." href="/static/images/2011-08-carned/DSCF1837.JPG"><img
- width="200" alt="Ella in the tent." title="Ella in the tent." src="/static/images/2011-08-carned/DSCF1837.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ella in the tent." href="/images/2011-08-carned/DSCF1837.JPG"><img
+ width="200" alt="Ella in the tent." title="Ella in the tent." src="/images/2011-08-carned/DSCF1837.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -117,8 +117,8 @@ huge, turned out to be just a small pile of rock.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Siabod appears from the mist." href="/static/images/2011-08-carned/DSCF1847.JPG"><img
- width="200" alt="Moel Siabod appears from the mist." title="Moel Siabod appears from the mist." src="/static/images/2011-08-carned/DSCF1847.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Siabod appears from the mist." href="/images/2011-08-carned/DSCF1847.JPG"><img
+ width="200" alt="Moel Siabod appears from the mist." title="Moel Siabod appears from the mist." src="/images/2011-08-carned/DSCF1847.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -139,8 +139,8 @@ tuned in finally just before it got dark around 9:00pm.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ella on the summit of Carnedd Llewelyn." href="/static/images/2011-08-carned/DSCF1852.JPG"><img
- width="200" alt="Ella on the summit of Carnedd Llewelyn." title="Ella on the summit of Carnedd Llewelyn." src="/static/images/2011-08-carned/DSCF1852.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Ella on the summit of Carnedd Llewelyn." href="/images/2011-08-carned/DSCF1852.JPG"><img
+ width="200" alt="Ella on the summit of Carnedd Llewelyn." title="Ella on the summit of Carnedd Llewelyn." src="/images/2011-08-carned/DSCF1852.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -161,8 +161,8 @@ of Pen yr Ole Wen, where we saw the first person of the day.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Black Ladders." href="/static/images/2011-08-carned/DSCF1858.JPG"><img
- width="200" alt="Wild ponies." title="The Black Ladders." src="/static/images/2011-08-carned/DSCF1858.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Black Ladders." href="/images/2011-08-carned/DSCF1858.JPG"><img
+ width="200" alt="Wild ponies." title="The Black Ladders." src="/images/2011-08-carned/DSCF1858.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -170,8 +170,8 @@ of Pen yr Ole Wen, where we saw the first person of the day.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen yr Ole Wen and Snowdon." href="/static/images/2011-08-carned/DSCF1860.JPG"><img
- width="200" alt="Pen yr Ole Wen and Snowdon." title="Pen yr Ole Wen and Snowdon." src="/static/images/2011-08-carned/DSCF1860.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen yr Ole Wen and Snowdon." href="/images/2011-08-carned/DSCF1860.JPG"><img
+ width="200" alt="Pen yr Ole Wen and Snowdon." title="Pen yr Ole Wen and Snowdon." src="/images/2011-08-carned/DSCF1860.JPG" /></a>
 
 </div>
 #+END_HTML

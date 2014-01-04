@@ -25,10 +25,10 @@ a road bike will be fine.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/cycling/llanberis_circular/DSCF1157.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/DSCF1157.JPG"
 
     title="Llyn Padarn and the Glyders.">
-    <img src="/static/images/cycling/llanberis_circular/DSCF1157.JPG" width="300"
+    <img src="/images/cycling/llanberis_circular/DSCF1157.JPG" width="300"
      alt="Llyn Padarn and the Glyders."></a></p>
   <p>Llyn Padarn and the Glyders.</p>
 </div>
@@ -52,10 +52,10 @@ need lights, but it can be quite dark so take care when cycling.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/cycling/llanberis_circular/20022011086.jpg"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/20022011086.jpg"
 
     title="Initial steep hill.">
-    <img src="/static/images/cycling/llanberis_circular/20022011086.jpg" width="300"
+    <img src="/images/cycling/llanberis_circular/20022011086.jpg" width="300"
      alt="Initial steep hill."></a></p>
   <p>Initial steep hill.</p>
 </div>
@@ -70,10 +70,10 @@ but nothing really steep.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/cycling/llanberis_circular/DSCF1145.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/DSCF1145.JPG"
 
     title="Slate Quarry.">
-    <img src="/static/images/cycling/llanberis_circular/DSCF1145.JPG" width="300"
+    <img src="/images/cycling/llanberis_circular/DSCF1145.JPG" width="300"
      alt="Slate Quarry."></a></p>
   <p>Slate Quarry.</p>
 </div>
@@ -88,10 +88,10 @@ meet cars coming uphill around the blind bends.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/cycling/llanberis_circular/DSCF1142.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/DSCF1142.JPG"
 
     title="Bryn Bas Castle.">
-    <img src="/static/images/cycling/llanberis_circular/DSCF1142.JPG" width="300"
+    <img src="/images/cycling/llanberis_circular/DSCF1142.JPG" width="300"
      alt="Bryn Bas Castle."></a></p>
   <p>Bryn Bas Castle.</p>
 </div>
@@ -105,10 +105,10 @@ junction with the main road.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/cycling/llanberis_circular/DSCF1134.JPG"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/cycling/llanberis_circular/DSCF1134.JPG"
 
     title="View West from Pen Y Bwlch.">
-    <img src="/static/images/cycling/llanberis_circular/DSCF1134.JPG" width="300"
+    <img src="/images/cycling/llanberis_circular/DSCF1134.JPG" width="300"
      alt="View West from Pen Y Bwlch."></a></p>
   <p>View West from Pen Y Bwlch.</p>
 </div>

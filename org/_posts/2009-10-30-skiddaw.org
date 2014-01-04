@@ -21,9 +21,9 @@ seeing and sometimes you get those cold clear days when you can see
 for miles.
 
 #+BEGIN_HTML
-<div class="photofloatr"> <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/skiddaw/DSCF1056.JPG"
+<div class="photofloatr"> <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/skiddaw/DSCF1056.JPG"
    title="John and Ella on Skiddaw" ><img
-  src="/static/images/skiddaw/DSCF1056.JPG" width="200" alt="John and Ella on
+  src="/images/skiddaw/DSCF1056.JPG" width="200" alt="John and Ella on
   Skiddaw"/></a></p> <p>John and Ella on Skiddaw</p> </div>
 #+END_HTML
 

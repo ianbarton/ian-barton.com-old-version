@@ -25,10 +25,10 @@ clear.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Boards on N
-Ridge of Aran Benllyn." href="/static/images/2012-07-Arans/DSCF2690.jpg"><img
+Ridge of Aran Benllyn." href="/images/2012-07-Arans/DSCF2690.jpg"><img
  width="200" alt="Boards on N
 Ridge of Aran Benllyn." title="Boards on N
-Ridge of Aran Benllyn." src="/static/images/2012-07-Arans/thumb.DSCF2690.jpg" /></a>
+Ridge of Aran Benllyn." src="/images/2012-07-Arans/thumb.DSCF2690.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -47,8 +47,8 @@ soon in the mist, although it wasn't actually raining.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit of Aran Benllyn." href="/static/images/2012-07-Arans/DSCF2692.jpg"><img
- width="200" alt="Summit of Aran Benllyn." title="Summit of Aran Benllyn." src="/static/images/2012-07-Arans/thumb.DSCF2692.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit of Aran Benllyn." href="/images/2012-07-Arans/DSCF2692.jpg"><img
+ width="200" alt="Summit of Aran Benllyn." title="Summit of Aran Benllyn." src="/images/2012-07-Arans/thumb.DSCF2692.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -71,8 +71,8 @@ lead me safely down into the cwm.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Camp at Creiglyn Dyfi." href="/static/images/2012-07-Arans/DSCF2701.jpg"><img
- width="200" alt="Camp at Creiglyn Dyfi." title="Camp at Creiglyn Dyfi." src="/static/images/2012-07-Arans/thumb.DSCF2701.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Camp at Creiglyn Dyfi." href="/images/2012-07-Arans/DSCF2701.jpg"><img
+ width="200" alt="Camp at Creiglyn Dyfi." title="Camp at Creiglyn Dyfi." src="/images/2012-07-Arans/thumb.DSCF2701.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -99,9 +99,9 @@ minutes of cursing before I finally got the tent up properly.
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Camp at
-Creiglyn Dyfi. Better weather in the morning." href="/static/images/2012-07-Arans/DSCF2705.jpg"><img
+Creiglyn Dyfi. Better weather in the morning." href="/images/2012-07-Arans/DSCF2705.jpg"><img
  width="200" alt="Camp at Creiglyn Dyfi. Better weather in the morning." title="Camp at Creiglyn
-Dyfi. Better weather in the morning." src="/static/images/2012-07-Arans/thumb.DSCF2705.jpg" /></a>
+Dyfi. Better weather in the morning." src="/images/2012-07-Arans/thumb.DSCF2705.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -118,8 +118,8 @@ storing my wet clothes.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Cynlwydd." href="/static/images/2012-07-Arans/DSCF2720.jpg"><img
- width="200" alt="Cwm Cynlwydd." title="Cwm Cynlwydd." src="/static/images/2012-07-Arans/thumb.DSCF2720.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Cynlwydd." href="/images/2012-07-Arans/DSCF2720.jpg"><img
+ width="200" alt="Cwm Cynlwydd." title="Cwm Cynlwydd." src="/images/2012-07-Arans/thumb.DSCF2720.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -135,10 +135,10 @@ route and savour the views up there.
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="View SE from
-Aran Benllyn." href="/static/images/2012-07-Arans/DSCF2722.jpg"><img
+Aran Benllyn." href="/images/2012-07-Arans/DSCF2722.jpg"><img
  width="200" alt="View SE from
 Aran Benllyn.." title="View SE from
-Aran Benllyn.." src="/static/images/2012-07-Arans/thumb.DSCF2722.jpg" /></a>
+Aran Benllyn.." src="/images/2012-07-Arans/thumb.DSCF2722.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -159,10 +159,10 @@ would disperse and I would get a new view.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Cloud gathering
-over the Aran Ridge." href="/static/images/2012-07-Arans/DSCF2723.jpg"><img
+over the Aran Ridge." href="/images/2012-07-Arans/DSCF2723.jpg"><img
  width="200" alt="Cloud gathering
 over the Aran Ridge." title="Cloud gathering
-over the Aran Ridge." src="/static/images/2012-07-Arans/thumb.DSCF2723.jpg" /></a>
+over the Aran Ridge." src="/images/2012-07-Arans/thumb.DSCF2723.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -176,14 +176,14 @@ satisfying trip.
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Bala from the ridge." href="/static/images/2012-07-Arans/DSCF2725.jpg"><img
- width="200" alt="Bala from the ridge." title="Bala from the ridge." src="/static/images/2012-07-Arans/thumb.DSCF2725.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Bala from the ridge." href="/images/2012-07-Arans/DSCF2725.jpg"><img
+ width="200" alt="Bala from the ridge." title="Bala from the ridge." src="/images/2012-07-Arans/thumb.DSCF2725.jpg" /></a>
 
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Lake Vyrnwy in
-the distance." href="/static/images/2012-07-Arans/DSCF2727.jpg"><img
+the distance." href="/images/2012-07-Arans/DSCF2727.jpg"><img
  width="200" alt="Lake Vyrnwy in
 the distance." title="Lake Vyrnwy in
-the distance." src="/static/images/2012-07-Arans/thumb.DSCF2727.jpg" /></a>
+the distance." src="/images/2012-07-Arans/thumb.DSCF2727.jpg" /></a>
 
 
 </div>
@@ -191,10 +191,10 @@ the distance." src="/static/images/2012-07-Arans/thumb.DSCF2727.jpg" /></a>
 
 <div class="thumbnail">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking at the
-long descent back down the North ridge." href="/static/images/2012-07-Arans/DSCF2731.jpg"><img
+long descent back down the North ridge." href="/images/2012-07-Arans/DSCF2731.jpg"><img
  width="200" alt="Looking at the
 long descent back down the North ridge." title="Looking at the
-long descent back down the North ridge." src="/static/images/2012-07-Arans/thumb.DSCF2731.jpg" /></a>
+long descent back down the North ridge." src="/images/2012-07-Arans/thumb.DSCF2731.jpg" /></a>
 
 </div>
 

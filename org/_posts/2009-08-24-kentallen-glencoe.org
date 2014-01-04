@@ -15,9 +15,9 @@ tags: [cycling]
 
 #+BEGIN_HTML
 <div class="photofloatr">
-  <p><a href="/static/images/DSCF0972.JPG" rel="lightbox" title="View from
+  <p><a href="/images/DSCF0972.JPG" rel="lightbox" title="View from
   the forestry track">
-  <img src="/static/images/DSCF0972.JPG" width="300"
+  <img src="/images/DSCF0972.JPG" width="300"
      alt="View from the forestry track"></a></p>
   <p>Top of the forestry track</p>
 </div>
@@ -45,8 +45,8 @@ more than compensate for the climb!
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a href="/static/images/DSCF0978.JPG" rel="lightbox"
-    title="Pap of Glencoe"> <img src="/static/images/DSCF0978.JPG" width="300"
+  <p><a href="/images/DSCF0978.JPG" rel="lightbox"
+    title="Pap of Glencoe"> <img src="/images/DSCF0978.JPG" width="300"
      alt="Pap of Glencoe"></a></p>
   <p>Pap of Glencoe from the forestry track</p>
 </div>

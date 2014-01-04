@@ -21,8 +21,8 @@ to drive over without making any definite plans about my objective.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Storm Clouds Over Moel Siabod." href="/static/images/2012-04_Moel_Siabod/DSCF2356.JPG"><img
- width="200" alt="Storm Clouds Over Moel Siabod." title="Storm Clouds Over Moel Siabod." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2356.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Storm Clouds Over Moel Siabod." href="/images/2012-04_Moel_Siabod/DSCF2356.JPG"><img
+ width="200" alt="Storm Clouds Over Moel Siabod." title="Storm Clouds Over Moel Siabod." src="/images/2012-04_Moel_Siabod/thumb.DSCF2356.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -43,10 +43,10 @@ Hebog was partially clear.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Y Cribau and Yr
-Aran." href="/static/images/2012-04_Moel_Siabod/DSCF2372.JPG"><img
+Aran." href="/images/2012-04_Moel_Siabod/DSCF2372.JPG"><img
  width="200" alt="Y Cribau and Yr
 Aran." title="Y Cribau and Yr
-Aran." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2372.JPG" /></a>
+Aran." src="/images/2012-04_Moel_Siabod/thumb.DSCF2372.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -73,10 +73,10 @@ the sky was brightening.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Snow on the
-Carneddau." href="/static/images/2012-04_Moel_Siabod/DSCF2383.JPG"><img
+Carneddau." href="/images/2012-04_Moel_Siabod/DSCF2383.JPG"><img
  width="200" alt="Snow on the
 Carneddau." title="Snow on the
-Carneddau." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2383.JPG" /></a>
+Carneddau." src="/images/2012-04_Moel_Siabod/thumb.DSCF2383.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -94,10 +94,10 @@ as the tent flapped in the wind.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Zephyros
-Pitched below the summit." href="/static/images/2012-04_Moel_Siabod/DSCF2387.JPG"><img
+Pitched below the summit." href="/images/2012-04_Moel_Siabod/DSCF2387.JPG"><img
  width="200" alt="Zephyros
 Pitched below the summit." title="Zephyros
-Pitched below the summit." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2387.JPG" /></a>
+Pitched below the summit." src="/images/2012-04_Moel_Siabod/thumb.DSCF2387.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -116,10 +116,10 @@ the views.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset Over the
-Carneddau." href="/static/images/2012-04_Moel_Siabod/DSCF2395.JPG"><img
+Carneddau." href="/images/2012-04_Moel_Siabod/DSCF2395.JPG"><img
  width="200" alt="Sunset Over the
 Carneddau." title="Sunset Over the
-Carneddau." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2395.JPG" /></a>
+Carneddau." src="/images/2012-04_Moel_Siabod/thumb.DSCF2395.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -142,8 +142,8 @@ over the far side. There was a stiff breeze and it felt very cold.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Glyders at Sunset." href="/static/images/2012-04_Moel_Siabod/DSCF2397.JPG"><img
- width="200" alt="Glyders at Sunset." title="Glyders at Sunset." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2397.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Glyders at Sunset." href="/images/2012-04_Moel_Siabod/DSCF2397.JPG"><img
+ width="200" alt="Glyders at Sunset." title="Glyders at Sunset." src="/images/2012-04_Moel_Siabod/thumb.DSCF2397.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -167,10 +167,10 @@ it had cooled down quite a bit.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Snowy Summit at
-Dawn." href="/static/images/2012-04_Moel_Siabod/DSCF2405.JPG"><img
+Dawn." href="/images/2012-04_Moel_Siabod/DSCF2405.JPG"><img
  width="200" alt="Snowy Summit at
 Dawn." title="Snowy Summit at
-Dawn." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2405.JPG" /></a>
+Dawn." src="/images/2012-04_Moel_Siabod/thumb.DSCF2405.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -192,10 +192,10 @@ warmed me up and slithering down the ledge.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Clouds Blowing
-in From the West." href="/static/images/2012-04_Moel_Siabod/DSCF2408.JPG"><img
+in From the West." href="/images/2012-04_Moel_Siabod/DSCF2408.JPG"><img
  width="200" alt="Clouds Blowing
 in From the West." title="Clouds Blowing
-in From the West." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2408.JPG" /></a>
+in From the West." src="/images/2012-04_Moel_Siabod/thumb.DSCF2408.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -213,8 +213,8 @@ while carrying a relatively heavy sack.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Stormy Sunrise." href="/static/images/2012-04_Moel_Siabod/DSCF2409.JPG"><img
- width="200" alt="Stormy Sunrise." title="Stormy Sunrise." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2409.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Stormy Sunrise." href="/images/2012-04_Moel_Siabod/DSCF2409.JPG"><img
+ width="200" alt="Stormy Sunrise." title="Stormy Sunrise." src="/images/2012-04_Moel_Siabod/thumb.DSCF2409.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -227,10 +227,10 @@ weight of huge rucksacks.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking Towards
-the Farm Track from the Descent." href="/static/images/2012-04_Moel_Siabod/DSCF2419.JPG"><img
+the Farm Track from the Descent." href="/images/2012-04_Moel_Siabod/DSCF2419.JPG"><img
  width="200" alt="Looking Towards
 the Farm Track from the Descent." title="Looking Towards
-the Farm Track from the Descent." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2419.JPG" /></a>
+the Farm Track from the Descent." src="/images/2012-04_Moel_Siabod/thumb.DSCF2419.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -245,10 +245,10 @@ in the current dreary conditions.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Descent Route
-on SE Face Moel Siabod." href="/static/images/2012-04_Moel_Siabod/DSCF2423.JPG"><img
+on SE Face Moel Siabod." href="/images/2012-04_Moel_Siabod/DSCF2423.JPG"><img
  width="200" alt="Descent Route
 on SE Face Moel Siabod." title="Descent Route
-on SE Face Moel Siabod." src="/static/images/2012-04_Moel_Siabod/thumb.DSCF2423.JPG" /></a>
+on SE Face Moel Siabod." src="/images/2012-04_Moel_Siabod/thumb.DSCF2423.JPG" /></a>
 
 </div>
 #+END_HTML

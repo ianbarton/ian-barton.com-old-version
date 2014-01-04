@@ -22,7 +22,7 @@ possible.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/X-Mug.jpg"  title="Sea to Summit X-Mug" ><img src="/static/images/X-Mug.jpg" width="200"
+  <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/X-Mug.jpg"  title="Sea to Summit X-Mug" ><img src="/images/X-Mug.jpg" width="200"
      alt="Sea to Summit X-Mug"/></a></p>
   <p>Sea to Summit X-Mug</p>
 </div>

@@ -22,55 +22,55 @@ see a larger version.
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0153.JPG"
-    title="Looking down the gully at the start of the ferrata."> <img src="/static/images/dolomites/DSCF0153.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0153.JPG"
+    title="Looking down the gully at the start of the ferrata."> <img src="/images/dolomites/DSCF0153.JPG" width="200"
          alt="Looking down the gully at the start of the ferrata."></a>
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0154.JPG"
-    title="The ladder at the start of the climbing."> <img src="/static/images/dolomites/DSCF0154.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0154.JPG"
+    title="The ladder at the start of the climbing."> <img src="/images/dolomites/DSCF0154.JPG" width="200"
          alt="The ladder at the start of the climbing."></a>
 </div>
 #+END_HTML
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0161.JPG"
-    title="Looking down to the ledge above the ladder."> <img src="/static/images/dolomites/DSCF0161.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0161.JPG"
+    title="Looking down to the ledge above the ladder."> <img src="/images/dolomites/DSCF0161.JPG" width="200"
          alt="Looking down to the ledge above the ladder."></a>
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0159.JPG"
-    title="Statue of the Madonna above the ladder pitch."> <img src="/static/images/dolomites/DSCF0159.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0159.JPG"
+    title="Statue of the Madonna above the ladder pitch."> <img src="/images/dolomites/DSCF0159.JPG" width="200"
          alt="Statue of the Madonna above the ladder pitch."></a>
 </div>
 #+END_HTML
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0173.JPG"
-    title="Ella at the start of the traverse."> <img src="/static/images/dolomites/DSCF0173.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0173.JPG"
+    title="Ella at the start of the traverse."> <img src="/images/dolomites/DSCF0173.JPG" width="200"
          alt="Ella at the start of the traverse."></a>
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0216.JPG"
-    title="John on the traverse."> <img src="/static/images/dolomites/DSCF0216.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0216.JPG"
+    title="John on the traverse."> <img src="/images/dolomites/DSCF0216.JPG" width="200"
          alt="John on the traverse."></a>
 </div>
 #+END_HTML
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0192.JPG"
-    title="John just above the ladder."> <img src="/static/images/dolomites/DSCF0192.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0192.JPG"
+    title="John just above the ladder."> <img src="/images/dolomites/DSCF0192.JPG" width="200"
          alt="John just above the ladder."></a>
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0211.JPG"
-    title="Ella on the wall above the first ledge."> <img src="/static/images/dolomites/DSCF0211.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0211.JPG"
+    title="Ella on the wall above the first ledge."> <img src="/images/dolomites/DSCF0211.JPG" width="200"
          alt="Ella on the wall above the first ledge."></a>
 </div>
 #+END_HTML
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0220.JPG"
-    title="Ella on the final steep wall below the shoulder."> <img src="/static/images/dolomites/DSCF0220.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0220.JPG"
+    title="Ella on the final steep wall below the shoulder."> <img src="/images/dolomites/DSCF0220.JPG" width="200"
          alt="Ella on the final steep wall below the shoulder."></a>
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0182.JPG"
-    title="Ella on the summit."> <img src="/static/images/dolomites/DSCF0182.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0182.JPG"
+    title="Ella on the summit."> <img src="/images/dolomites/DSCF0182.JPG" width="200"
          alt="Ella on the summit."></a>
 
 </div>
@@ -79,11 +79,11 @@ see a larger version.
 
 #+BEGIN_HTML
 <div class="thumbnail">
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0228.JPG"
-    title="View of the route from the descent gully."> <img src="/static/images/dolomites/DSCF0228.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0228.JPG"
+    title="View of the route from the descent gully."> <img src="/images/dolomites/DSCF0228.JPG" width="200"
          alt="View of the route from the descent gully."></a>
-<a class="fancybox-thumb" rel="fancybox-thumb" href="/static/images/dolomites/DSCF0229.JPG"
-    title="View of the route from the descent gully."> <img src="/static/images/dolomites/DSCF0229.JPG" width="200"
+<a class="fancybox-thumb" rel="fancybox-thumb" href="/images/dolomites/DSCF0229.JPG"
+    title="View of the route from the descent gully."> <img src="/images/dolomites/DSCF0229.JPG" width="200"
          alt="View of the route from the descent gully."></a>
 </div>
 #+END_HTML

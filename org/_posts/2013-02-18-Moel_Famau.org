@@ -24,8 +24,8 @@ back.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Jubilee Tower Moel Famau." href="/static/images/2013-02_moel_famau/IMG_6655.JPG"><img
- width="200" alt="Jubilee Tower Moel Famau." title="Jubilee Tower Moel Famau." src="/static/images/2013-02_moel_famau/IMG_6655.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Jubilee Tower Moel Famau." href="/images/2013-02_moel_famau/IMG_6655.JPG"><img
+ width="200" alt="Jubilee Tower Moel Famau." title="Jubilee Tower Moel Famau." src="/images/2013-02_moel_famau/IMG_6655.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -41,8 +41,8 @@ ridge I soon left the crowds behind.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="View along the ridge." href="/static/images/2013-02_moel_famau/IMG_6641.JPG"><img
- width="200" alt="View along the ridge." title="View along the ridge." src="/static/images/2013-02_moel_famau/IMG_6641.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="View along the ridge." href="/images/2013-02_moel_famau/IMG_6641.JPG"><img
+ width="200" alt="View along the ridge." title="View along the ridge." src="/images/2013-02_moel_famau/IMG_6641.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -69,8 +69,8 @@ cup.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Arthur." href="/static/images/2013-02_moel_famau/IMG_6647.JPG"><img
- width="200" alt="Moel Arthur." title="Moel Arthur." src="/static/images/2013-02_moel_famau/IMG_6647.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Arthur." href="/images/2013-02_moel_famau/IMG_6647.JPG"><img
+ width="200" alt="Moel Arthur." title="Moel Arthur." src="/images/2013-02_moel_famau/IMG_6647.JPG" /></a>
 
 </div>
 #+END_HTML

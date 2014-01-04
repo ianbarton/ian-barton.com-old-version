@@ -15,8 +15,8 @@ category: blog
 <!-- PELICAN_BEGIN_SUMMARY -->
 
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig Cywarch." href="/static/images/2013-06-03_arans/IMG_7219.JPG"><img
- width="200" alt="Craig Cywarch." title="Craig Cywarch." src="/static/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig Cywarch." href="/images/2013-06-03_arans/IMG_7219.JPG"><img
+ width="200" alt="Craig Cywarch." title="Craig Cywarch." src="/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
 </div>
 #+END_HTML
 
@@ -41,8 +41,8 @@ to Llyn y Fign. The next morning I would follow my route of ascent
 back to the path leading down into Cwm Cwyarch and so back to the car park.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Fawddwy and Craiglyn Dyfi." href="/static/images/2013-06-03_arans/IMG_7229.JPG"><img
- width="200" alt="Aran Fawddwy and Craiglyn Dyfi." title="Aran Fawddwy and Craiglyn Dyfi." src="/static/images/2013-06-03_arans/thumb.IMG_7229.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Fawddwy and Craiglyn Dyfi." href="/images/2013-06-03_arans/IMG_7229.JPG"><img
+ width="200" alt="Aran Fawddwy and Craiglyn Dyfi." title="Aran Fawddwy and Craiglyn Dyfi." src="/images/2013-06-03_arans/thumb.IMG_7229.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -58,8 +58,8 @@ able to get more water higher up.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Memorial with Cadair Idris in the background." href="/static/images/2013-06-03_arans/IMG_7234.JPG"><img
- width="200" alt="Memorial with Cadair Idris in the background." title="Memorial with Cadair Idris in the background." src="/static/images/2013-06-03_arans/thumb.IMG_7234.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Memorial with Cadair Idris in the background." href="/images/2013-06-03_arans/IMG_7234.JPG"><img
+ width="200" alt="Memorial with Cadair Idris in the background." title="Memorial with Cadair Idris in the background." src="/images/2013-06-03_arans/thumb.IMG_7234.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -78,8 +78,8 @@ Voyager Superlite last year for the first time in pouring rain.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Rhinogs in the distance." href="/static/images/2013-06-03_arans/IMG_7235.JPG"><img
- width="200" alt="Rhinogs in the distance." title="Rhinogs in the distance." src="/static/images/2013-06-03_arans/thumb.IMG_7235.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Rhinogs in the distance." href="/images/2013-06-03_arans/IMG_7235.JPG"><img
+ width="200" alt="Rhinogs in the distance." title="Rhinogs in the distance." src="/images/2013-06-03_arans/thumb.IMG_7235.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -100,8 +100,8 @@ Aran Benllyn and thought I would be certain to find more water before
 my ascent of Glasgwm. This turned out to be a bad decision!
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="OS grid reference on a ladder style." href="/static/images/2013-06-03_arans/IMG_7245.JPG"><img
- width="200" alt="OS grid reference on a ladder style." title="OS grid reference on a ladder style." src="/static/images/2013-06-03_arans/thumb.IMG_7245.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="OS grid reference on a ladder style." href="/images/2013-06-03_arans/IMG_7245.JPG"><img
+ width="200" alt="OS grid reference on a ladder style." title="OS grid reference on a ladder style." src="/images/2013-06-03_arans/thumb.IMG_7245.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -118,8 +118,8 @@ whole day I only saw three people.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Benllyn from Aran Fawddwy." href="/static/images/2013-06-03_arans/IMG_7256.JPG"><img
- width="200" alt="Aran Benllyn from Aran Fawddwy." title="Aran Benllyn from Aran Fawddwy." src="/static/images/2013-06-03_arans/thumb.IMG_7256.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran Benllyn from Aran Fawddwy." href="/images/2013-06-03_arans/IMG_7256.JPG"><img
+ width="200" alt="Aran Benllyn from Aran Fawddwy." title="Aran Benllyn from Aran Fawddwy." src="/images/2013-06-03_arans/thumb.IMG_7256.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -147,8 +147,8 @@ for a few minutes and rest.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tent near Llyn Figyn." href="/static/images/2013-06-03_arans/IMG_7269.JPG"><img
- width="200" alt="Tent near Llyn Figyn." title="Tent near Llyn Figyn." src="/static/images/2013-06-03_arans/thumb.IMG_7269.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tent near Llyn Figyn." href="/images/2013-06-03_arans/IMG_7269.JPG"><img
+ width="200" alt="Tent near Llyn Figyn." title="Tent near Llyn Figyn." src="/images/2013-06-03_arans/thumb.IMG_7269.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -163,8 +163,8 @@ summit cairn and watched the sun drop below the horizon.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset." href="/static/images/2013-06-03_arans/IMG_7311.JPG"><img
- width="200" alt="Sunset." title="Sunset." src="/static/images/2013-06-03_arans/thumb.IMG_7311.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset." href="/images/2013-06-03_arans/IMG_7311.JPG"><img
+ width="200" alt="Sunset." title="Sunset." src="/images/2013-06-03_arans/thumb.IMG_7311.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -189,8 +189,8 @@ quarter of a mile.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/static/images/2013-06-03_arans/IMG_7315.JPG"><img
- width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/static/images/2013-06-03_arans/thumb.IMG_7315.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/images/2013-06-03_arans/IMG_7315.JPG"><img
+ width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/images/2013-06-03_arans/thumb.IMG_7315.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -207,10 +207,10 @@ of ascent along the fence.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Boards on N
-Ridge of Aran Benllyn." href="/static/images/2013-06-03_arans/IMG_7219.JPG"><img
+Ridge of Aran Benllyn." href="/images/2013-06-03_arans/IMG_7219.JPG"><img
  width="200" alt="Boards on N
 Ridge of Aran Benllyn." title="Boards on N
-Ridge of Aran Benllyn." src="/static/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
+Ridge of Aran Benllyn." src="/images/2013-06-03_arans/thumb.IMG_7219.JPG" /></a>
 
 </div>
 #+END_HTML
