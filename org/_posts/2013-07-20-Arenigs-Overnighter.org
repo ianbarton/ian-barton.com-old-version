@@ -16,8 +16,8 @@ category: blog
 <!-- PELICAN_BEGIN_SUMMARY -->
 
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cotton grass on Arenig Fawr." href="/static/images/2013-07_arenigs/IMG_7650.JPG"><img
- width="200" alt="Cotton grass on Arenig Fawr." title="Cotton grass on Arenig Fawr." src="/static/images/2013-07_arenigs/thumb.IMG_7650.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cotton grass on Arenig Fawr." href="/images/2013-07_arenigs/IMG_7650.JPG"><img
+ width="200" alt="Cotton grass on Arenig Fawr." title="Cotton grass on Arenig Fawr." src="/images/2013-07_arenigs/thumb.IMG_7650.JPG" /></a>
 
 </div>
 
@@ -57,8 +57,8 @@ white liquid attached to the blades of grass.
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tarns on South ridge of Arenig Fawr." href="/static/images/2013-07_arenigs/IMG_7672.JPG"><img
- width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/static/images/2013-07_arenigs/thumb.IMG_7672.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tarns on South ridge of Arenig Fawr." href="/images/2013-07_arenigs/IMG_7672.JPG"><img
+ width="200" alt="Tarns on South ridge of Arenig Fawr." title="Tarns on South ridge of Arenig Fawr." src="/images/2013-07_arenigs/thumb.IMG_7672.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -76,8 +76,8 @@ heat had made the distant views hazy, but there was still a fine
 prospect of almost every peak in Snowdonia.
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit camp on Moel Llyfnant." href="/static/images/2013-07_arenigs/IMG_7674.JPG"><img
- width="200" alt="Summit camp on Moel Llyfnant." title="Summit camp on Moel Llyfnant." src="/static/images/2013-07_arenigs/thumb.IMG_7674.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit camp on Moel Llyfnant." href="/images/2013-07_arenigs/IMG_7674.JPG"><img
+ width="200" alt="Summit camp on Moel Llyfnant." title="Summit camp on Moel Llyfnant." src="/images/2013-07_arenigs/thumb.IMG_7674.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -92,8 +92,8 @@ had gone to the trouble of placing the poppies beneath the plaque. I
 wondered if any of the airmen's families had ever visited this spot.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset over Snowdon." href="/static/images/2013-07_arenigs/IMG_7704.JPG"><img
- width="200" alt="Sunset over Snowdon." title="Sunset over Snowdon." src="/static/images/2013-07_arenigs/thumb.IMG_7704.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunset over Snowdon." href="/images/2013-07_arenigs/IMG_7704.JPG"><img
+ width="200" alt="Sunset over Snowdon." title="Sunset over Snowdon." src="/images/2013-07_arenigs/thumb.IMG_7704.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -133,8 +133,8 @@ behind Arenig Fawr. I got out the camera and took photos as the sun
 climbed over the shoulder of Arenig Fawr.
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Just before the sunrise over Arenig Fawr." href="/static/images/2013-07_arenigs/IMG_7715.JPG"><img
- width="200" alt="Just before the sunrise over Arenig Fawr." title="Just before the sunrise over Arenig Fawr." src="/static/images/2013-07_arenigs/thumb.IMG_7715.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Just before the sunrise over Arenig Fawr." href="/images/2013-07_arenigs/IMG_7715.JPG"><img
+ width="200" alt="Just before the sunrise over Arenig Fawr." title="Just before the sunrise over Arenig Fawr." src="/images/2013-07_arenigs/thumb.IMG_7715.JPG" /></a>
 
 </div>
 #+END_HTML
@@ -150,8 +150,8 @@ towards Amnodd-bwll you will emerge onto a farm track near to the
 bottom of the hill.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Llyfnant from the forestry track." href="/static/images/2013-07_arenigs/IMG_7741.JPG"><img
- width="200" alt="Moel Llyfnant from the forestry track." title="Moel Llyfnant from the forestry track." src="/static/images/2013-07_arenigs/thumb.IMG_7741.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Llyfnant from the forestry track." href="/images/2013-07_arenigs/IMG_7741.JPG"><img
+ width="200" alt="Moel Llyfnant from the forestry track." title="Moel Llyfnant from the forestry track." src="/images/2013-07_arenigs/thumb.IMG_7741.JPG" /></a>
 
 </div>
 #+END_HTML
