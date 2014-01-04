@@ -33,7 +33,7 @@ SOCIAL = (('Twitter', 'http://twitter.com/ianbarton'),
 
 DEFAULT_PAGINATION = 10
 
-OUTPUT_PATH = "/srv/http"
+OUTPUT_PATH = "/home/ian/Documents/emacs/web_sites/ian-barton/pelican/blog/output"
 
 STATIC_PATHS = (['images', 'gpx'])
 
