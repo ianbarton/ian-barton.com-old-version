@@ -4,7 +4,7 @@
 #+TITLE: Traverse of the Carneddau.
 #+BEGIN_HTML
 ---
-date: 2015-05-15
+date: 2014-05-15
 layout: post
 title: Traverse of the Carneddau from Cwm Eigiau.
 comments: true
@@ -20,6 +20,15 @@ into Cwm Eigiau and do a two day traverse. I had done a similar route
 a couple of years ago, but wanted to do a similar route in reverse
 starting at Pen Llithrig y Wrach and going clockwise around the ridge.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." href="/images/2014-05-carned/IMG_8276.JPG"><img
+ width="200" alt="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." title="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." src="/images/2014-05-carned/thumb.IMG_8276.JPG" /></a>
+
+</div>
+#+END_HTML
+
+
 Last year various bits of the road into Cwm Egiau were widened and new
 passing places installed and the road was closed for several
 months. Before these improvements there were only a very limited
@@ -31,6 +40,15 @@ down just next to the first gate. I had to bump up onto the grass pull
 in next to the gate to let it past. At the second gate I passed
 someone walking up the road and he kindly to closed the gate for me.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Llyn Eigiau appears from the mist." href="/images/2014-05-carned/IMG_8280.JPG"><img
+ width="200" alt="Llyn Eigiau appears from the mist." title="Llyn Eigiau appears from the mist." src="/images/2014-05-carned/thumb.IMG_8280.JPG" /></a>
+
+</div>
+#+END_HTML
+
+
 The weather forecast was for early morning mist over the summits to
 clear by midday. However, at 10:30am the summits were all misted out
 and I wondered if I had made the right choice in coming up into Cwm
@@ -41,6 +59,15 @@ getting ready the man who had opened the gate stopped to chat with
 me. He was originally from Dolgarrog, but was now living in
 Manchester. He had camped further down the road and was going to walk
 over to Llyn Colwyd before going back to Dolgarrog.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Siabod from Pen Llithrig yr Wrach." href="/images/2014-05-carned/IMG_8282.JPG"><img
+ width="200" alt="Moel Siabod from Pen Llithrig yr Wrach." title="Moel Siabod from Pen Llithrig yr Wrach." src="/images/2014-05-carned/thumb.IMG_8282.JPG" /></a>
+
+</div>
+#+END_HTML
+
 
 I bumped into him again when I went up to the reservoir to fill my
 water bottles. He asked if he could walk with me up towards Pen
@@ -55,6 +82,15 @@ Llyn Colwyd. I plodded on up the summit of Pen y Llithrig y Wrach,
 which was still covered in mist. Luckily the mist cleared just as I
 reached the summit and I was able to enjoy good views while I sat and
 ate my sandwich and chocolate brownie.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="The way ahead to Carnedd Llewelyn from Pen Llithrig yr Wrach." href="/images/2014-05-carned/IMG_8284.JPG"><img
+ width="200" alt="The way ahead to Carnedd Llewelyn from Pen Llithrig yr Wrach." title="The way ahead to Carnedd Llewelyn from Pen Llithrig yr Wrach." src="/images/2014-05-carned/thumb.IMG_8284.JPG" /></a>
+
+</div>
+#+END_HTML
+
 
 I still hadn't decided what to do about the missing stove. All my
 camping food was dehydrated, so without hot water I wasn't going to be
@@ -77,6 +113,15 @@ carbohydrate snacks with me. Eventually I arrived at the summit, which was cover
 despite being clear a few minutes earlier. Luckily, the mist cleared just long
 enough for me to take a photo of Moel Siabod.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tryfan and the Glyders from Pen yr Helgi Du." href="/images/2014-05-carned/IMG_8290.JPG"><img
+ width="200" alt="Tryfan and the Glyders from Pen yr Helgi Du." title="Tryfan and the Glyders from Pen yr Helgi Du." src="/images/2014-05-carned/thumb.IMG_8290.JPG" /></a>
+
+</div>
+#+END_HTML
+
+
  I thought I might camp next to the small pools of water on
 Gledrffordd. At least I would have water and wouldn't be too far from
 the car the next morning. I glimpsed the pools through brief clearings
@@ -84,7 +129,7 @@ in the mist. However, I wasn't at all certain how to get down to them
 and the detail of that area on my Harveys BMC map didn't really give
 me any clues. I was pretty certain it was a straightforward slope, but
 didn't really know where I needed to turn off the main ridge and it
-there would be any cargs that weren't marked on my map. I set off in
+there would be any crags that weren't marked on my map. I set off in
 the direction of Foel Goch, finding the bouldery initial section hard
 going. I checked the GPS a couple of times to fix my position on the
 map. It was still very misty and I couldn't see the descent to
@@ -94,6 +139,14 @@ ridge towards the path and in the distance I could see the pools of
 water on Gledrffordd. I didn't feel too bad going downhill, but still
 got a few attacks of cramp. I didn't have a lot of water left and
 wanted to conserve it in case I couldn't find a stream.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Siabod from Carnedd Llewelyn." href="/images/2014-05-carned/IMG_8294.JPG"><img
+ width="200" alt="Moel Siabod from Carnedd Llewelyn." title="Moel Siabod from Carnedd Llewelyn." src="/images/2014-05-carned/thumb.IMG_8294.JPG" /></a>
+
+</div>
+#+END_HTML
 
 As I made may way towards Gledrffordd, I began to think it might be
 more sensible to descend all the way back to the car, as I was feeling
@@ -105,6 +158,15 @@ the end. The path disappeared into the rocks and thinking that I was
 at the end of the ridge , I clambered over the rocky crest and began
 to descend. I should have checked the map first!
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen yr Helgi Du and Pen Llithrig yr Wrach from Carnedd Llewelyn." href="/images/2014-05-carned/IMG_8299.JPG"><img
+ width="200" alt="Pen yr Helgi Du and Pen Llithrig yr Wrach from Carnedd Llewelyn." title="Pen yr Helgi Du and Pen Llithrig yr Wrach from Carnedd Llewelyn." src="/images/2014-05-carned/thumb.IMG_8299.JPG" /></a>
+
+</div>
+#+END_HTML
+
+
 The valley below was obscured by mist, but this cleared after I had
 descended a couple of hundred feet. I could see that I was on the
 crags (Craig Eigiau) about half way along Llyn Eigiau. Trying to
@@ -115,6 +177,14 @@ descended towards a Landrover track. I was very tired and hobbled
 along the track eventually, rejoining the road next to the car
 park. All the way down I had passed no streams and only a few muddy
 pools on Gledrffordd. I would have expected more water after the recent rains.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Carneddau Ponies." href="/images/2014-05-carned/IMG_8304.JPG"><img
+ width="200" alt="Carneddau Ponies." title="Carneddau Ponies." src="/images/2014-05-carned/thumb.IMG_8304.JPG" /></a>
+
+</div>
+#+END_HTML
 
 Luckily there was a bottle of water inside the truck, which I drank
 before retrieving the stove and staggering off towards the
@@ -134,6 +204,15 @@ A short while later it got very light. Looking outside I could see
 there was a full moon. The mist over the summits from earlier had
 disappeared and there was a clear starry sky.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Gledrffordd appears out of the mist." href="/images/2014-05-carned/IMG_8301.JPG"><img
+ width="200" alt="Gledrffordd appears out of the mist." title="Gledrffordd appears out of the mist." src="/images/2014-05-carned/thumb.IMG_8301.JPG" /></a>
+
+</div>
+#+END_HTML
+
+
 I woke up about 5:30am, with the sun already rising. I crawled out of
 the tent and put on some water to boil for a cup of hot chocolate and
 to make some porridge. I was expecting to get cramp in my legs, but apart from
@@ -142,6 +221,14 @@ Tyvek sheet from my rucksack and piled all the stuff from the tent on
 top of it to stop it getting wet. I took my time packing away and
 enjoyed looking at the scenery.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Landrover track leading down from Craig Eigiau." href="/images/2014-05-carned/IMG_8305.JPG"><img
+ width="200" alt="Landrover track leading down from Craig Eigiau." title="Landrover track leading down from Craig Eigiau." src="/images/2014-05-carned/thumb.IMG_8305.JPG" /></a>
+
+</div>
+#+END_HTML
+
 In order to avoid the boggy section, I walked up to the big break in
 the dam wall before rejoining the Landrover track. It seemed a long
 way back to the truck and the sun was already getting hot. I was
@@ -149,6 +236,14 @@ wearing my new Montane insulated trousers which I had brought along
 for camp use, as my Mammut Base Jumps were wet from yesterday. Once
 back at the truck I changed into my lightweight Rab Treklites and felt
 much better.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen Llithrig yr Wrach from the dam." href="/images/2014-05-carned/IMG_8310.JPG"><img
+ width="200" alt="Pen Llithrig yr Wrach from the dam." title="Pen Llithrig yr Wrach from the dam." src="/images/2014-05-carned/thumb.IMG_8310.JPG" /></a>
+
+</div>
+#+END_HTML
 
 I drove into Caernarfon and joined the A55 driving towards Bangor. I
 stopped at Y Caban in Deniolen. It was only 8:50am and they didn't
@@ -159,6 +254,15 @@ I was wondering what the sausage would taste like.  I needn't have
 worried as it tasted as good as the meat version. Y Caban is very
 friendly and serves excellent food, highly recommended. I had a couple
 of cups of coffee before setting off for Capel Curig.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Packing away the tent below the dam wall." href="/images/2014-05-carned/IMG_8311.JPG"><img
+ width="200" alt="Packing away the tent below the dam wall." title="Packing away the tent below the dam wall." src="/images/2014-05-carned/thumb.IMG_8311.JPG" /></a>
+
+</div>
+#+END_HTML
+
 
 Just outside Joe Browns in Capel Curig I bumped into some old friends
 from Sheffield and we had a chat.  They had been up Cnicht the day
