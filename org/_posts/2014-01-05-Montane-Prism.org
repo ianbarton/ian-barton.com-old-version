@@ -1,0 +1,28 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title:
+summary:
+date: 2013-01-05
+tags:
+category: blog
+
+---
+#+END_HTML
+
+* Jacket.
+- Light
+- Packs up into its own pocket
+- Reasonably waterproof
+- Good hood
+- Dropped tail
+- Elasticate cuffs
+- High pockets above harness
+- Padded pockets
+
+
+* Gilet.
+
+* Trousers.
