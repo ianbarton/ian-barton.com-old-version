@@ -16,8 +16,8 @@ category: blog
 <!-- PELICAN_BEGIN_SUMMARY -->
 
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tour of Britain." href="/images/2013-09_tour_of_britain/IMG_7905.JPG"><img
- width="200" alt="Tour of Britain." title="Tour of Britain." src="/images/2013-09_tour_of_britain/thumb.IMG_7905.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tour of Britain." href="/static/images/2013-09_tour_of_britain/IMG_7905.JPG"><img
+ width="200" alt="Tour of Britain." title="Tour of Britain." src="/static/images/2013-09_tour_of_britain/thumb.IMG_7905.JPG" /></a>
 
 </div>
 

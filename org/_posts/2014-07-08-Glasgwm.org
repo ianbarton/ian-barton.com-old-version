@@ -1,0 +1,105 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title: A Summit Camp on Glasgwm.
+summary:
+layout: post
+comments: true
+date: 2014-07-05
+tags: [mountaineering, backpacking]
+category: blog
+---
+#+END_HTML
+
+I had forgotten what a long haul it is to drive via Welshpool to Dinas
+Mawddwy.  I got to the small car park at the end of Cwm Cywarch about
+5:30pm. Although the car park was nowhere near full, there were more
+cars than I had seen on my previous visits. Various people were
+returning from their day out and getting ready to depart for home. I
+finished packing my rucksack and attached Dad's old Velbon tripod to
+the outside. I had also brought along the intervalometer with the
+intention of taking some night time sky photographs from the summit.
+
+
+I set off along the track and ended up outside the Ibex hut. There were
+a couple of people sitting outside and I asked if the track behind the
+hut continued up to the ????. They didn't know and I don't remember
+passing the hut on my previous visits, so I guessed I had missed the
+start of the path. I continued along a feint path behind the hut for
+some way until it became obvious that I was way off route. I returned
+back to the track where the the style I should have climbed over was now obvious!
+
+It was very hot with hardly a cloud in the sky. Luckily after a few
+hundred feet most of the steep section of the route was in shade. I
+plodded up the path towards the col. Some way below it I came out of
+the shade. The sun was low in the sky and shining almost directly in
+my face. Even wearing sun glasses it was difficult to see where I was
+going. In finally emerged at the col below Glasgwm drenched with
+sweat.
+
+The way to the summit was straightforward, albeit a bit of a slog. It
+was just a matter of following the fence which leads to within a few
+yards of the summit cairn. Once I had emerged from Cwm Cywarch there
+were fine views to the West with very little heat haze. I could see the summit of
+Arenig Fawr, where I had been a couple of weeks ago, although Moel
+Llyfnant, where I had camped was hidden from sight. A final steep rise
+bought the summit cairn into view. Llyn Bach just below was almost
+dry. I continued past the summit and climbed the stile at the end of
+Llyn y Fign. I made my way to the flat grassy area just to the north
+of the lake. There was a pleasant westerly breeze which soon
+evaporated all the sweat.
+
+I soon had the tent pitched and there was still a couple of hours until
+sunset at around 8:45pm, I made a cup of hot chocolate and had some
+porridge and raisins. I grabbed the camera and began walking around
+the summit plateau. Looking towards Cader I could see how I could take
+a high level route and continue over its summit to Dolgelleau. Over to
+the South West I could see the wind turbines on ???.  As the sun sank
+towards the horizon a layer of cloud formed, so I didn't get the
+spectacular sunset that I saw last time. However, the top of Aran
+Fawddwy glowed pink as did the summit cairn of Glasgwm.
+
+At this time of year it takes a long time for it to get really dark
+after the sun has set, so I got into my sleeping bag for a couple of
+hours. I woke up about 12:30am to see a clear sky outside. The stars
+of the plough were clearly visible over the top of my tent. I put the
+camera on the tripod and started taking some photographs. However, my
+attempt was thwarted by condensation forming on the lens. Not even
+leaving the camera for some time to adjust to the temperature outside
+the tent made any difference. Eventually I called it a night and went
+back to my sleeping bag. I woke again at 5:30am and made breakfast -
+porridge again! I got out of the tent and began to take
+photographs. However, soon a layer of early morning cloud obscured the
+summit. I packed up and began the descent back to the car. I dropped
+out of the mist, but most of the surrounding summits were misted
+out. I had badly bruised my left big toe on my Carneddau trip a few
+weeks ago, so the descent was quite slow. Although it had stopped
+hurting the nail had turned black and I didn't want to aggravate the
+injury.
+
+I drove back along the Cwm following the farmer with his sheep
+trailer. The road is very narrow with few passing places, so it was
+good to have an oncoming traffic detector in front of me.
+
+On my down the A470 I was delayed some time while the police cleared
+away an accident. It looked as though a car had emerged from a side
+road and collided with an oncoming car. Although the cars looked a
+mess it didn't appear that anyone had been seriously hurt.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Arenigs from the col below Glasgwm." href="/images/2014-07-glasgwm/IMG_8510.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="The Arenigs from the col below Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8510.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Arenigs from the col below Glasgwm." href="/images/2014-07-glasgwm/IMG_8510.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="The Arenigs from the col below Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8510.JPG" /></a>
+
+</div>
+#+END_HTML
