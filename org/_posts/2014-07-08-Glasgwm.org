@@ -22,6 +22,7 @@ finished packing my rucksack and attached Dad's old Velbon tripod to
 the outside. I had also brought along the intervalometer with the
 intention of taking some night time sky photographs from the summit.
 
+
 I set off along the track and ended up outside the Ibex hut. There were
 a couple of people sitting outside and I asked if the track behind the
 hut continued up to the ????. They didn't know and I don't remember
@@ -86,3 +87,19 @@ On my down the A470 I was delayed some time while the police cleared
 away an accident. It looked as though a car had emerged from a side
 road and collided with an oncoming car. Although the cars looked a
 mess it didn't appear that anyone had been seriously hurt.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Arenigs from the col below Glasgwm." href="/images/2014-07-glasgwm/IMG_8510.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="The Arenigs from the col below Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8510.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Arenigs from the col below Glasgwm." href="/images/2014-07-glasgwm/IMG_8510.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="The Arenigs from the col below Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8510.JPG" /></a>
+
+</div>
+#+END_HTML
