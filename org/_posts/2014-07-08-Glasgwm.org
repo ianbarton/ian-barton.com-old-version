@@ -115,8 +115,59 @@ oncoming traffic detector in front of me!
 
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Arenigs from the col below Glasgwm." href="/images/2014-07-glasgwm/IMG_8510.JPG"><img
- width="200" alt="The Arenigs from the col below Glasgwm." title="The Arenigs from the col below Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8510.JPG" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Windfarm on ???" href="/images/2014-07-glasgwm/IMG_8513.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="Windfarm on ???" src="/images/2014-07-glasgwm/thumb.IMG_8513.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran
+Fawddwy from Glasgwm." href="/images/2014-07-glasgwm/IMG_8516.JPG"><img
+ width="200" alt="Aran
+Fawddwy from Glasgwm." title="Aran
+Fawddwy from Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8516.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit cairn Glasgwm." href="/images/2014-07-glasgwm/IMG_8529.JPG"><img
+ width="200" alt="Summit cairn Glasgwm." title="Summit cairn Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8529.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cader at sunset." href="/images/2014-07-glasgwm/IMG_8533.JPG"><img
+ width="200" alt="Cader at sunset." title="Cader at sunset." src="/images/2014-07-glasgwm/thumb.IMG_8533.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/images/2014-07-glasgwm/IMG_8553.JPG"><img
+ width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/images/2014-07-glasgwm/thumb.IMG_8553.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Cowarch." href="/images/2014-07-glasgwm/IMG_8566.JPG"><img
+ width="200" alt="Cwm Cowarch." title="Cwm Cowarch." src="/images/2014-07-glasgwm/thumb.IMG_8566.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig Cowarch." href="/images/2014-07-glasgwm/IMG_8570.JPG"><img
+ width="200" alt="Craig Cowarch." title="Craig Cowarch." src="/images/2014-07-glasgwm/thumb.IMG_8570.JPG" /></a>
 
 </div>
 #+END_HTML
