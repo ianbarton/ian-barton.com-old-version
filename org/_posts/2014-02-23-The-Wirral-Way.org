@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 ---
 title: Cycling the Wirral Way.
-summary:
+status: draft
 date: 2014-02-21
 tags: [cycling]
 category: blog
