@@ -13,6 +13,17 @@ tags: [mountaineering, backpacking]
 ---
 #+END_HTML
 
+
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." href="/images/2014-05-carned/IMG_8276.JPG"><img
+ width="200" alt="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." title="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." src="/images/2014-05-carned/thumb.IMG_8276.JPG" /></a>
+
+</div>
+#+END_HTML
+
 I had wanted to get out backpacking all year, but my free time had
 always coincided with periods of poor weather. Finally I could get out
 for a couple of days and the forecast was good. The plan was to drive
@@ -21,13 +32,8 @@ a couple of years ago, but wanted to do a similar route in reverse
 starting at Pen Llithrig y Wrach and going clockwise around the ridge.
 
 #+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." href="/images/2014-05-carned/IMG_8276.JPG"><img
- width="200" alt="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." title="Pen Llithrig yr Wrach and Pen yr Helgi Du misted out." src="/images/2014-05-carned/thumb.IMG_8276.JPG" /></a>
-
-</div>
+<!-- PELICAN_END_SUMMARY -->
 #+END_HTML
-
 
 Last year various bits of the road into Cwm Egiau were widened and new
 passing places installed and the road was closed for several

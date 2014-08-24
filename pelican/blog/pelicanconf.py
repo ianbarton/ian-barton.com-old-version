@@ -3,8 +3,8 @@
 
 AUTHOR = u"Ian Barton"
 SITENAME = u"ian-barton.com"
-#SITEURL = 'http://www.ian-barton.com'
-SITEURL = 'http://localhost:8000'
+SITEURL = 'http://www.ian-barton.com'
+#SITEURL = 'http://localhost:8000'
 
 #TEMPLATE_PAGES = {'contents/pages/about.html' : 'pages/about.html'}
 
