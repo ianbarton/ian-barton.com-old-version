@@ -4,23 +4,13 @@
 #+BEGIN_HTML
 ---
 title: A Summit Camp on Glasgwm.
+summary:
 layout: post
 comments: true
 date: 2014-07-05
 tags: [mountaineering, backpacking]
 category: blog
 ---
-#+END_HTML
-
-#+BEGIN_HTML
-<!-- PELICAN_BEGIN_SUMMARY -->
-
-
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Arenigs from the col below Glasgwm." href="/images/2014-07-glasgwm/IMG_8510.JPG"><img
- width="200" alt="The Arenigs from the col below Glasgwm." title="The Arenigs from the col below Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8510.JPG" /></a>
-
-</div>
 #+END_HTML
 
 I was going to visit a relative in Swansea and thought I could combine
@@ -33,43 +23,21 @@ cars than I had seen on my previous visits. Various people were
 returning from their day out and getting ready to depart for home. The
 weather forecast was for a clear night, so I wanted to try some
 astrophotography from the summit. A couple of years ago I bought a
-Yongnuo  [[http://www.linearconcepts.com/photography/reviews/photo1][MC-36B]]  intervalometer for my Canon DSLR. I have used it at home to
+???? intervalometer for my Canon DSLR. I have used it at home to
 create time lapse photos and take astro pictures. I have an Velbon
 tripod that belonged to my father, which I intended to lug up to the summit. I
 finished packing my rucksack and strapped the tripod to
 the outside.
 
-#+BEGIN_HTML
-<!-- PELICAN_END_SUMMARY -->
-#+END_HTML
 
 
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Windfarm on ???" href="/images/2014-07-glasgwm/IMG_8513.JPG"><img
- width="200" alt="The Arenigs from the col below Glasgwm." title="Windfarm on ???" src="/images/2014-07-glasgwm/thumb.IMG_8513.JPG" /></a>
-
-</div>
-#+END_HTML
-
-
-I set off along the track and ended up outside the Bryn Hafod hut. There were
+I set off along the track and ended up outside the ???? hut. There were
 a couple of people sitting outside and I asked if the track behind the
-hut continued up to the col above. They didn't know and I don't remember
+hut continued up to the ????. They didn't know and I don't remember
 passing the hut on my previous visits, so I guessed I had missed the
 start of the path. I continued along a feint path behind the hut for
 some way until it became obvious that I was way off route. I returned
 back to the track where the the style I should have climbed over was now obvious!
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran
-Fawddwy from Glasgwm." href="/images/2014-07-glasgwm/IMG_8516.JPG"><img
- width="200" alt="Aran
-Fawddwy from Glasgwm." title="Aran
-Fawddwy from Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8516.JPG" /></a>
-
-</div>
-#+END_HTML
 
 It was very hot with hardly a cloud in the sky. Luckily after a few
 hundred feet most of the steep section of the route was in shade. I
@@ -78,13 +46,6 @@ the shade. The sun was now low in the sky and shining almost directly in
 my face. Even wearing sun glasses it was difficult to see where I was
 going. I finally emerged at the col below Glasgwm drenched with
 sweat.
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit cairn Glasgwm." href="/images/2014-07-glasgwm/IMG_8529.JPG"><img
- width="200" alt="Summit cairn Glasgwm." title="Summit cairn Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8529.JPG" /></a>
-
-</div>
-#+END_HTML
 
 The way to the summit was straightforward, albeit a bit of a slog. It
 was just a matter of following the fence which leads to within a few
@@ -99,13 +60,6 @@ direction. Even better for summit campers there was no need to carry
 up a heavy load of water. I made my way to the flat grassy area just
 to the north of the lake, where I had camped previously. There was a
 pleasant westerly breeze which soon evaporated all the sweat.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cader at sunset." href="/images/2014-07-glasgwm/IMG_8533.JPG"><img
- width="200" alt="Cader at sunset." title="Cader at sunset." src="/images/2014-07-glasgwm/thumb.IMG_8533.JPG" /></a>
-
-</div>
-#+END_HTML
 
 I soon had the tent pitched and there was still a couple of hours until
 sunset at around 8:45pm, I made a cup of hot chocolate and had some
@@ -119,13 +73,6 @@ towards the horizon a layer of cloud formed, so I didn't get the
 spectacular sunset that I saw last time. The top of Aran
 Fawddwy glowed pink as did the summit cairn of Glasgwm, as the sun
 sank below the clouds.
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/images/2014-07-glasgwm/IMG_8553.JPG"><img
- width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/images/2014-07-glasgwm/thumb.IMG_8553.JPG" /></a>
-
-</div>
-#+END_HTML
 
 At this time of year it takes a long time for it to get really dark
 after the sun has set, so I got into my sleeping bag for a couple of
@@ -146,6 +93,69 @@ weeks ago, so the descent was quite slow. Although th toe had stopped
 hurting, the nail had turned black and I didn't want to aggravate the
 injury.
 
+
+I drove back along the Cwm following the farmer with his sheep
+trailer. The road is very narrow with few passing places, so it was
+good to have an oncoming traffic detector in front of me.
+
+Back at the car park a couple of cars had arrived and people were
+departing for their walk. I threw my rucksack into the back of the
+truck and got ready to resume my journey to Swansea.  I drove back
+along the Cwm following the farmer with his sheep trailer. The road is
+very narrow with few passing places, so it was good to have an
+oncoming traffic detector in front of me!
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Arenigs from the col below Glasgwm." href="/images/2014-07-glasgwm/IMG_8510.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="The Arenigs from the col below Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8510.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Windfarm on ???" href="/images/2014-07-glasgwm/IMG_8513.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="Windfarm on ???" src="/images/2014-07-glasgwm/thumb.IMG_8513.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran
+Fawddwy from Glasgwm." href="/images/2014-07-glasgwm/IMG_8516.JPG"><img
+ width="200" alt="Aran
+Fawddwy from Glasgwm." title="Aran
+Fawddwy from Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8516.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit cairn Glasgwm." href="/images/2014-07-glasgwm/IMG_8529.JPG"><img
+ width="200" alt="Summit cairn Glasgwm." title="Summit cairn Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8529.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cader at sunset." href="/images/2014-07-glasgwm/IMG_8533.JPG"><img
+ width="200" alt="Cader at sunset." title="Cader at sunset." src="/images/2014-07-glasgwm/thumb.IMG_8533.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/images/2014-07-glasgwm/IMG_8553.JPG"><img
+ width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/images/2014-07-glasgwm/thumb.IMG_8553.JPG" /></a>
+
+</div>
+#+END_HTML
+
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Cowarch." href="/images/2014-07-glasgwm/IMG_8566.JPG"><img
@@ -154,10 +164,6 @@ injury.
 </div>
 #+END_HTML
 
-I drove back along the Cwm following the farmer with his sheep
-trailer. The road is very narrow with few passing places, so it was
-good to have an oncoming traffic detector in front of me.
-
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig Cowarch." href="/images/2014-07-glasgwm/IMG_8570.JPG"><img
@@ -165,10 +171,3 @@ good to have an oncoming traffic detector in front of me.
 
 </div>
 #+END_HTML
-
-Back at the car park a couple of cars had arrived and people were
-departing for their walk. I threw my rucksack into the back of the
-truck and got ready to resume my journey to Swansea.  I drove back
-along the Cwm following the farmer with his sheep trailer. The road is
-very narrow with few passing places, so it was good to have an
-oncoming traffic detector in front of me!

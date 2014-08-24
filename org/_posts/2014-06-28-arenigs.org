@@ -4,6 +4,7 @@
 #+BEGIN_HTML
 ---
 title: A Two Day Trip Over Arenig Fawr and Moel Llyfnant.
+summary:
 layout: post
 comments: true
 date: 2014-06-28
@@ -12,27 +13,11 @@ category: blog
 ---
 #+END_HTML
 
-#+BEGIN_HTML
-<!-- PELICAN_BEGIN_SUMMARY -->
-
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit cairn and memorial Arenig Fawr." href="/images/2014-07-arenigs/IMG_8460.JPG"><img
- width="200" alt="Summit cairn and memorial Arenig Fawr." title="Summit cairn and memorial Arenig Fawr." src="/images/2014-07-arenigs/thumb.IMG_8460.JPG" /></a>
-
-</div>
-
-#+END_HTML
-
-
 I have done this backpack a couple of times before. However, I had no
 hesitation in repeating it. The Arenigs are relatively unfrequented
 and have panoramic views over most of the mountains of North
 Wales. The summit of Moel Llyfnant seems to be rarely visited, as there
 are only vague signs of tracks leading up to the top.
-
-#+BEGIN_HTML
-<!-- PELICAN_END_SUMMARY -->
-#+END_HTML
 
 After a long period of settled good weather the Mountain Weather Information
 Service was predicting an area of low pressure over Wales on Saturday
@@ -40,13 +25,6 @@ with a great deal of uncertainty about conditions. The summits were
 going to be misted out early on and there was a possibility of heavy
 showers. However, the forecast for Sunday was much better.
 
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Moel Llyfnant appears from the mist." href="/images/2014-07-arenigs/IMG_8466.JPG"><img
- width="200" alt="Moel Llyfnant appears from the mist." title="Moel Llyfnant appears from the mist." src="/images/2014-07-arenigs/thumb.IMG_8466.JPG" /></a>
-
-</div>
-#+END_HTML
 
 Driving along the A55,  I could see see clouds over the Carneddau, but it wasn't
 raining. I stopped at Y Caban in Deniolen for a cup of tea and lemon
@@ -62,13 +40,6 @@ the summit of Cnicht was clear.  However, as I got close to Ffestiniog, I could 
 Moelwyns submerged in cloud and this part of Wales seemed to be having
 much worse weather than further west. However, I decided to keep going
 as MWIS had promised an improvement in the weather as the day went on.
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Small pools on the South ridge of Arenig Fawr." href="/images/2014-07-arenigs/IMG_8471.JPG"><img
- width="200" alt="Small pools on the South ridge of Arenig Fawr." title="Small pools on the South ridge of Arenig Fawr." src="/images/2014-07-arenigs/thumb.IMG_8471.JPG" /></a>
-
-</div>
-#+END_HTML
 
 It was after 12:30pm when I arrived in the car park opposite the
 quarry at Clogwyn Maen Glogog. I could see the summit of Arenig Fach,
@@ -79,13 +50,6 @@ car park as an equipment dump. I sorted out my gear and set off on the
 longish walk along the road towards the track leading up to Llyn
 Arenig Fawr. Leaving the car opposite the quarry would greatly reduce
 the road walking on the second day.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="The descent to the col below Moel Llyfnant." href="/images/2014-07-arenigs/IMG_8476.JPG"><img
- width="200" alt="The descent to the col below Moel Llyfnant." title="The descent to the col below Moel Llyfnant." src="/images/2014-07-arenigs/thumb.IMG_8476.JPG" /></a>
-
-</div>
-#+END_HTML
 
 When I reached the start of the track there was a large red sign at
 the bottom saying it was closed. However, there was no work going on,
@@ -95,13 +59,6 @@ the track, which would be a major hazard for anyone underneath when
 they were working on the pylons. Since it was Saturday there was no work going
 on, although all around the valley I could see where they had laid the temporary
 road surfaces under the pylons.
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cader Idris at dawn." href="/images/2014-07-arenigs/IMG_8486.JPG"><img
- width="200" alt="Cader Idris at dawn." title="Cader Idris at dawn." src="/images/2014-07-arenigs/thumb.IMG_8486.JPG" /></a>
-
-</div>
-#+END_HTML
 
 When I reached the bothy I took off my rucksack and had a look round
 inside. It was clean and tidy. Written on an old biscuit tin lid was
@@ -118,13 +75,6 @@ out and there was a cold breeze. Last time I had climbed directly up
 on the North ridge to get better views. However, this time there wasn't any
 point, as I wouldn't be able to see anything. I just followed the main path
 that countours along the slope below the ridge before a final slog up to the summit.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Mist filled valleys at dawn." href="/images/2014-07-arenigs/IMG_8489.JPG"><img
- width="200" alt="Mist filled valleys at dawn." title="Mist filled valleys at dawn." src="/images/2014-07-arenigs/thumb.IMG_8489.JPG" /></a>
-
-</div>
-#+END_HTML
 
 The mist cleared a few times, but had descended again just before I
 reached the summit. Just below the summit shelter I met a man and a
@@ -144,13 +94,6 @@ on the bottom. On my first visit, I had collected water from a small
 stream at the start of the descent to the col below Moel
 Llyfnant. However, last time I came this way the stream was dry and I suspected
 it might be dry today. In the event I was proved right.
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tent on Moel Llyfnant." href="/images/2014-07-arenigs/IMG_8497.JPG"><img
- width="200" alt="Tent on Moel Llyfnant." title="Tent on Moel Llyfnant." src="/images/2014-07-arenigs/thumb.IMG_8497.JPG" /></a>
-
-</div>
-#+END_HTML
 
 I used the pile of stones placed next to the wire fence that marks the
 start of the descent to the col below Moel Llyfnant. There is an
@@ -169,13 +112,6 @@ to the breeze, so I dropped down to another flat spot a few yards to
 the west, which was more sheltered. I soon had the tent up and after a
 quick cup of hot chocolate I went on a short wander to take some
 photographs.
-#+BEGIN_HTML
-<div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cader at sunrise." href="/images/2014-07-arenigs/IMG_8499.JPG"><img
- width="200" alt="Cader at sunrise." title="Cader at sunrise." src="/images/2014-07-arenigs/thumb.IMG_8499.JPG" /></a>
-
-</div>
-#+END_HTML
 
 I was hungry, so when I got back to the tent I heated some water and
 had one of the Adventure Foods expedition breakfasts. This was OK, but
@@ -198,14 +134,6 @@ morning mist. The sun was hidden behind a bank of cloud, so there
 wasn't a spectacular sunrise. I made a cup of hot chocolate and
 porridge and then went back to bed. I got up again about 6:15 am to
 take some more photographs and pack up.
-
-#+BEGIN_HTML
-<div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Early morning mist." href="/images/2014-07-arenigs/IMG_8505.JPG"><img
- width="200" alt="Early morning mist." title="Early morning mist." src="/images/2014-07-arenigs/thumb.IMG_8505.JPG" /></a>
-
-</div>
-#+END_HTML
 
 I planned to go over to Foel Boeth and Moel y Slates having been here
 twice without climbing them. However, as I was packing the tent away
