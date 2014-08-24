@@ -53,6 +53,7 @@ the outside.
 #+END_HTML
 
 
+
 I set off along the track and ended up outside the Bryn Hafod hut. There were
 a couple of people sitting outside and I asked if the track behind the
 hut continued up to the col above. They didn't know and I don't remember
@@ -146,6 +147,68 @@ weeks ago, so the descent was quite slow. Although th toe had stopped
 hurting, the nail had turned black and I didn't want to aggravate the
 injury.
 
+<<<<<<< HEAD
+=======
+
+Back at the car park a couple of cars had arrived and people were
+departing for their walk. I threw my rucksack into the back of the
+truck and got ready to resume my journey to Swansea.  I drove back
+along the Cwm following the farmer with his sheep trailer. The road is
+very narrow with few passing places, so it was good to have an
+oncoming traffic detector in front of me!
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="The Arenigs from the col below Glasgwm." href="/images/2014-07-glasgwm/IMG_8510.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="The Arenigs from the col below Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8510.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Windfarm on ???" href="/images/2014-07-glasgwm/IMG_8513.JPG"><img
+ width="200" alt="The Arenigs from the col below Glasgwm." title="Windfarm on ???" src="/images/2014-07-glasgwm/thumb.IMG_8513.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Aran
+Fawddwy from Glasgwm." href="/images/2014-07-glasgwm/IMG_8516.JPG"><img
+ width="200" alt="Aran
+Fawddwy from Glasgwm." title="Aran
+Fawddwy from Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8516.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Summit cairn Glasgwm." href="/images/2014-07-glasgwm/IMG_8529.JPG"><img
+ width="200" alt="Summit cairn Glasgwm." title="Summit cairn Glasgwm." src="/images/2014-07-glasgwm/thumb.IMG_8529.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Cader at sunset." href="/images/2014-07-glasgwm/IMG_8533.JPG"><img
+ width="200" alt="Cader at sunset." title="Cader at sunset." src="/images/2014-07-glasgwm/thumb.IMG_8533.JPG" /></a>
+
+</div>
+#+END_HTML
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sunrise over Aran Fawddwy." href="/images/2014-07-glasgwm/IMG_8553.JPG"><img
+ width="200" alt="Sunrise over Aran Fawddwy." title="Sunrise over Aran Fawddwy." src="/images/2014-07-glasgwm/thumb.IMG_8553.JPG" /></a>
+
+</div>
+#+END_HTML
+
+>>>>>>> 60466b1fcd87fc4b16d55cf9a9958d51c4c8f779
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Cwm Cowarch." href="/images/2014-07-glasgwm/IMG_8566.JPG"><img
