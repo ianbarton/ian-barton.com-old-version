@@ -1,0 +1,73 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+---
+title:
+summary:
+date:
+tags:
+category: blog
+---
+#+END_HTML
+
+There are a number of Coast to Coast cycle rides in the UK. This
+series of posts is about the ride that starts at either Workington or
+Whitehaven and finishes at Tynemouth or Sunderland.
+
+There were five of us planing to do the ride, my son with two of his
+friends and one of my brothers in law. My brother in law could only
+join us for the last two days. Also I wanted to let my son ride in a
+group with his friends, without having his ancient Dad tagging
+along. This meant that  was effectively riding solo. However, since I
+do almost all my cycling alone this suited me.
+
+I had done the Way of the Roses last year on my hybrid bike. I had
+carried a fair bit of gear in panniers. For the C2C I decided to use
+my road bike and carry a minimal amount of gear in a rucksack. Most
+cyclists don't like carrying a rucksack, but since I do a lot of
+walking and climbing, I find I prefer to carry things in a rucksack
+than in panniers. Since I was using my road bike, I made a couple of
+modifications to the "Official Route". On the descent from Whinatter I
+followed the road, rather than the track through the forest. Leaving
+Keswick I cycled  past Castlerigg Stone circles before
+rejoining the C2C at Threlkeld. On day three I avoided cycling along
+the Waskerley Way, taking the B road that runs parallel to
+it. However, my son who was also on his road bike cycled along the
+Waskerley Way and said it was fine.
+
+Depending on the route you take the C2C is around 140 miles long with
+approximately 16,600ft (5,320 metres) of ascent. Most people do the
+route over several days. We had decided to do it in three days. Day
+one was Whitehaven to Keswick. We chose Keswick as my son and his
+friends were staying with one of his friend's grandmother's
+house. This turned out to be a good choice as the ride wasn't too
+hard, so was a nice introduction to the route.
+
+Day two was Keswick to Allenheads. I chose the destination on the
+basis that it Allenheads was supposed to be the end of the big
+hills. This turned out to be quite a short day and it turned out that
+there were two more big hills beyond Allenheads!
+
+Day three was Allenheads to Tynemouth/Sunderland. My son and his
+friends had chosen to finish at Sunderland where one of his friends
+parents was going to pick them up an drive them home. My brother in
+law and I planned to finish at Tynemouth. However, I had to get back
+to Whitehaven and then drive four hours to get home, as we were going
+on holiday the next day. My brother in law had done the route
+previously and knew that we couldn't take cycles on the metro, so
+would have to cycle the ten miles back to Newcastle station. I wasn't
+that bothered about going all the way to the coast, so we finished at
+Newcastle station.
+
+See my rant about rail transport arrangements for the C2C.
+
+We drove up the day before our first stage. My son and his friends
+stayed at the ??? hotel in Whitehaven, whilst I stayed at [[http://www.chestnuts-whitehaven.com][Chestnuts]] about
+three miles outside Whitehaven. If you like animals I can thoroughly
+recommend Chestnuts. The owners are very helpful and
+accommodating. The B&B is comfortable and the breakfasts good and they
+will serve you an early breakfast if you want an early start. The
+owners also run a small animal sanctuary, as well as having several
+pets of their own. There are dogs, cats, chinchillas, a parrot and
+some owls.
