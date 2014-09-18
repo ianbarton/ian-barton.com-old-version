@@ -8,7 +8,7 @@
 Date: 1985-01-01
 Layout: mountaineering
 Title: Western Gully, Black Ladders.
-category: blog
+Category: blog
 Tags: [mountaineering, WinterClimbing]
 
 #+END_HTML

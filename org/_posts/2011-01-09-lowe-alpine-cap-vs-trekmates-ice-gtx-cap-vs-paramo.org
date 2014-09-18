@@ -8,7 +8,7 @@ Date: 2011-01-09
 Title: Lowe Alpine Cap vs Trekmates Ice GTX Cap
 Layout: post
 Tags: [gear]
-category: blog
+Category: blog
 Summary: "Comparison of the Lowe Alpine Mountain Cap, Trekmates Ice
 Cap and Paramo Cap."
 

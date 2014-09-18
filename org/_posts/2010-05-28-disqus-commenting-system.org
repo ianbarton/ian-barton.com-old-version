@@ -6,7 +6,7 @@
 
 Date: 2010-05-28
 Layout: post
-category: blog
+Category: blog
 Title: Disqus Commenting System.
 excerpt: "Trying out a new commenting system."
 Comments: true

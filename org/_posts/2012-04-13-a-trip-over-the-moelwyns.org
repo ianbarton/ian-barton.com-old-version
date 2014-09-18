@@ -8,7 +8,7 @@ Title: A Trip Over the Moelwyns
 Layout: post
 Summary: "A Short Backpack Over the Moelwyns."
 Tags: [mountaineering]
-category: blog
+Category: blog
 Comments: true
 
 #+END_HTML

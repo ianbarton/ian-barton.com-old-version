@@ -8,7 +8,7 @@ Layout: post
 Comments: true
 Date: 2014-06-28
 Tags: [mountaineering, backpacking]
-category: blog
+Category: blog
 
 #+END_HTML
 

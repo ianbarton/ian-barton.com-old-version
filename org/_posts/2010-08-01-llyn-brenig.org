@@ -8,7 +8,7 @@
 Date: 2010-08-01
 Layout: post
 Title: Circuit of Llyn Brenig.
-category: blog
+Category: blog
 Tags: [cycling]
 
 #+END_HTML

@@ -6,7 +6,7 @@
 Title: My Fire Steel Crumbles to Dust.
 Date: 2013-02-17
 Tags: [gear]
-category: blog
+Category: blog
 
 
 #+END_HTML

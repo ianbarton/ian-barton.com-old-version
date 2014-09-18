@@ -9,7 +9,7 @@ Date: 2012-12-15
 template: map
 gpx: track_2012-11-23.gpx
 Tags: [cycling]
-category: blog
+Category: blog
 
 #+END_HTML
 

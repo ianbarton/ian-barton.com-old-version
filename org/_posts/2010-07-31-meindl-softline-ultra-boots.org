@@ -9,7 +9,7 @@ Title: Meindl Softline Ultra Boots
 Layout: post
 Summary: "A new pair of walking boots."
 Tags: [gear]
-category: blog
+Category: blog
 Comments: true
 
 #+END_HTML

@@ -7,7 +7,7 @@ Title: Summit Camp on Moel Llyfnant (Arenigs).
 Date: 2013-07-17
 Comments: true
 Tags: [mountaineering, backpacking, trips]
-category: blog
+Category: blog
 
 #+END_HTML
 

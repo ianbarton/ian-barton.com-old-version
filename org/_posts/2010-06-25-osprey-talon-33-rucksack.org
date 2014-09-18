@@ -10,7 +10,7 @@ Layout: post
 Summary: "A lightweight sack suitable for day/alpine use. An excellent
 replacement for my old Karrimor Hot Ice rucksack."
 Tags: [gear]
-category: blog
+Category: blog
 Comments: true
 
 #+END_HTML

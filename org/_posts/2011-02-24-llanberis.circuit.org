@@ -7,7 +7,7 @@ Title: A Circular Ride Around Llanberis.
 Layout: post
 Summary: "A Circular Ride Around Llanberis."
 Tags: [cycling]
-category: blog
+Category: blog
 Comments: true
 
 #+END_HTML

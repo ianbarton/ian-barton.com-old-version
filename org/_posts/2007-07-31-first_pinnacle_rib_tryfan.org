@@ -10,7 +10,7 @@ Layout: post
 Title: First Pinnacle Rib Tryfan.
 Summary: After the wettest June and July that anyone can remember the sun finally came out in the last few days of July.
 Comments: true
-category: blog
+Category: blog
 Tags: [mountaineering, trips]
 
 #+END_HTML

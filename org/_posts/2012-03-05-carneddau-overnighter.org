@@ -10,7 +10,7 @@ Layout: post
 Summary: "An Overnight camp on Pen yr Helgi Du, followed by a cold wet
 descent."
 Tags: [mountaineering]
-category: blog
+Category: blog
 Comments: true
 
 #+END_HTML

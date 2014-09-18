@@ -7,7 +7,7 @@ Title: Tour of Britain
 Layout: post
 Date: 2013-09-18
 Tags: [cycling]
-category: blog
+Category: blog
 
 #+END_HTML
 

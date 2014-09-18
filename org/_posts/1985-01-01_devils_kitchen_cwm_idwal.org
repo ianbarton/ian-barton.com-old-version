@@ -8,7 +8,7 @@ Date: 1985-01-01
 Layout: mountaineering
 Title: The Devil's Kitchen Cwm Idwal.
 Comments: true
-category: blog
+Category: blog
 Tags: [mountaineering, WinterClimbing]
 
 #+END_HTML

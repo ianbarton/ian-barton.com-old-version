@@ -9,7 +9,7 @@ Title: Backpacking in Wales by Showell Styles
 Layout: post
 Summary: "A review of Showell Styles Backpacking in Wales."
 Tags: [mountaineering]
-category: blog
+Category: blog
 Comments: true
 
 #+END_HTML

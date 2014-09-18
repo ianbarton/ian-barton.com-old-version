@@ -6,7 +6,7 @@
 Title: Cross Fell
 Date: 2013-05-05
 Tags: [mountaineering, trips]
-category: blog
+Category: blog
 status: draft
 
 #+END_HTML

@@ -6,7 +6,7 @@ Date: 2011-09-01
 Title: Exped Synmat Ultralite vs Thermarest Neoair.
 Layout: post
 Tags: [gear]
-category: blog
+Category: blog
 Summary: "Comparison of the Exped Synmat Ultralite and the Thermarest Neoair"
 
 Comments: true

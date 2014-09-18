@@ -6,7 +6,7 @@ Title: Moelwyns Cloud Inversion
 Layout: post
 Tags: [mountaineering, backpacking]
 Comments: true
-category: blog
+Category: blog
 
 #+END_HTML
 

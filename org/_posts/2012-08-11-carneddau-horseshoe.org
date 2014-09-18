@@ -12,7 +12,7 @@ Comments: true
 template: map
 Tags: [mountaineering, backpacking]
 gpx: 2012-08-09_carnedds.gpx
-category: blog
+Category: blog
 
 #+END_HTML
 

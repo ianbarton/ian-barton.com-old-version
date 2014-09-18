@@ -9,7 +9,7 @@ Date: 2010-02-18
 Layout: post
 Title: Coastal Cycle Ride from Caernarfon.
 Tags: [cycling]
-category: blog
+Category: blog
 
 #+END_HTML
 This week we have spent a few days in North Wales. We were very lucky

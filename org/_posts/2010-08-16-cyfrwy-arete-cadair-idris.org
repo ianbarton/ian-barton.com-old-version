@@ -6,7 +6,7 @@ Date: 2010-08-16
 Title: Not the Cyfrwy Arete Cadair Idris
 Comments: true
 Tags: [mountaineering]
-category: blog
+Category: blog
 
 #+END_HTML
 

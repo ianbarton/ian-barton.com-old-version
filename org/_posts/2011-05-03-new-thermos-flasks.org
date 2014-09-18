@@ -9,7 +9,7 @@ Title: New Thermos Flasks
 Layout: post
 excerpt: "The Thermos Ultimate really does keep your drink hot all day."
 Tags: [gear]
-category: blog
+Category: blog
 Comments: true
 
 #+END_HTML

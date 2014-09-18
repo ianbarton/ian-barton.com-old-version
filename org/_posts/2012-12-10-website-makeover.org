@@ -6,7 +6,7 @@ Title: Website Makeover
 Summary: Goodbye Jekyll, hello Pelican.I have decided to ditch the old web design and come up with a new one.
 Date: 2012-12-10
 Tags: [python]
-category: blog
+Category: blog
 
 #+END_HTML
 

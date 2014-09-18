@@ -8,7 +8,7 @@ Date: 2012-09-06
 Layout: post
 Title: Sea to Summit X-Mug
 Comments: true
-category: blog
+Category: blog
 Tags: [mountaineering, gear, review]
 
 #+END_HTML

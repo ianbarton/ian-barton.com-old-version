@@ -9,7 +9,7 @@ Title: Adventures in KVM Land
 Layout: post
 Tags: [linux]
 Summary: "Moving my virtual machines from Xen on Debian to KVM on Ubuntu."
-category: blog
+Category: blog
 
 
 #+END_HTML

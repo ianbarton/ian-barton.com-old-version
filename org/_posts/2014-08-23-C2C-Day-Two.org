@@ -7,7 +7,7 @@ Title:
 Summary:
 Date:
 Tags:
-category: blog
+Category: blog
 
 #+END_HTML
 
