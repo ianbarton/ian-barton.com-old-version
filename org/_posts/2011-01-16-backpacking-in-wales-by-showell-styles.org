@@ -7,7 +7,7 @@
 Date: 2011-01-16
 Title: Backpacking in Wales by Showell Styles
 layout: post
-summary: "A review of Showell Styles Backpacking in Wales."
+Summary: "A review of Showell Styles Backpacking in Wales."
 tags: [mountaineering]
 category: blog
 comments: true

@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 
 Title:
-summary:
+Summary:
 Date:
 tags:
 category: blog

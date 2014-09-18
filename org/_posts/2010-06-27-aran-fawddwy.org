@@ -7,7 +7,7 @@
 Date: 2010-06-27
 layout:  post
 Title: Aran Fawddwy.
-summary: "A circular walk over Aran Fawddwy (June 2010)"
+Summary: "A circular walk over Aran Fawddwy (June 2010)"
 comments: true
 category: blog
 tags: [mountaineering, trips]

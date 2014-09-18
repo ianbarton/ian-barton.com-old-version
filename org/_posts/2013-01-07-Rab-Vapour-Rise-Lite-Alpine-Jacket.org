@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 
 Title: Rab Vapour Rise Lite Jacket.
-summary:
+Summary:
 Date: 2013-01-07
 status: draft
 tags: [gear, mountaineering]

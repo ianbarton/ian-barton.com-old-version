@@ -6,7 +6,7 @@
 Date: 2012-04-13
 Title: A Trip Over the Moelwyns
 layout: post
-summary: "A Short Backpack Over the Moelwyns."
+Summary: "A Short Backpack Over the Moelwyns."
 tags: [mountaineering]
 category: blog
 comments: true

@@ -7,7 +7,7 @@
 Date: 2011-09-05
 Title: Carneddeau Summit Camp
 layout: post
-summary: "Camping near the summit of Carnedd Llewelyn."
+Summary: "Camping near the summit of Carnedd Llewelyn."
 tags: [mountaineering, backpacking]
 category: blog
 comments: true

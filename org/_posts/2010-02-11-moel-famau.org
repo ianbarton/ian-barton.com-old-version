@@ -9,7 +9,7 @@ layout: post
 Title: Moel Famau
 tags: [mountaineering, trips]
 category: blog
-summary: "I had passed the Clwydian range hundreds of times on the way to
+Summary: "I had passed the Clwydian range hundreds of times on the way to
 Snowdonia, but I had never climbed any of its hills. Amongst other
 things the hills are famous for the range of iron Age hill forts, with
 six forts along the crest of the ridge. The crest of the ridge is

@@ -7,7 +7,7 @@
 Date: 2010-07-31
 Title: Meindl Softline Ultra Boots
 layout: post
-summary: "A new pair of walking boots."
+Summary: "A new pair of walking boots."
 tags: [gear]
 category: blog
 comments: true

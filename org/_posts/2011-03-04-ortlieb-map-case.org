@@ -9,7 +9,7 @@ Date: 2011-03-04
 Title: Ortlieb Map Case.
 layout: post
 tags: [gear]
-summary: "A review of the Ortlieb map case. Made from flexible and very
+Summary: "A review of the Ortlieb map case. Made from flexible and very
 strong material"
 category: blog
 comments: true

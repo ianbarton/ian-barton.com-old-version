@@ -7,11 +7,11 @@
 Date: 2011-10-29
 layout:  post
 Title: Glyders Wild Camp (Photos).
-summary: Photos from my traverse of Tryfan and overnight camp.
+Summary: Photos from my traverse of Tryfan and overnight camp.
 comments: false
 tags: [mountaineering, trips, backpacking]
 category: blog
-summary: "Photos from My Tryfan Scramble and Glyders Camping Trip."
+Summary: "Photos from My Tryfan Scramble and Glyders Camping Trip."
 
 #+END_HTML
 

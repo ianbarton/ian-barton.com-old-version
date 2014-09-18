@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 
 Title: Coast To Coast Cycle Ride - Prologue and Day One.
-summary:
+Summary:
 Date:
 tags: [cycling]
 category: blog
