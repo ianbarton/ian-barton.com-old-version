@@ -6,7 +6,7 @@
 
 
 #+BEGIN_HTML
----
+
 date: 2010-01-21
 layout: post
 title: Bothy Bags.
@@ -16,7 +16,7 @@ excerpt: "I have only recently discovered bothy bags. For many years I have been
 carrying round my Wild Country Goretex bivvy bag in the winter
 time. I have used it many times for planned bivvies and a few times for
 unplanned ones."
----
+
 #+END_HTML
 
 I have only recently discovered bothy bags. For many years I have been

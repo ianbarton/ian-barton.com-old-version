@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
----
+
 date: 2011-01-16
 title: Backpacking in Wales by Showell Styles
 layout: post
@@ -11,7 +11,7 @@ summary: "A review of Showell Styles Backpacking in Wales."
 tags: [mountaineering]
 category: blog
 comments: true
----
+
 #+END_HTML
 
 [[http://en.wikipedia.org/wiki/Showell_Styles][Showell Styles]] (known to his friends as "Pip") was a prolific author

@@ -4,7 +4,7 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Splashing About in the Arans.
 #+BEGIN_HTML
----
+
 date: 2012-07-21
 layout: post
 template: map
@@ -13,7 +13,7 @@ title: Splashing About in the Arans.
 comments: true
 category: blog
 tags: [mountaineering, backpacking]
----
+
 #+END_HTML
 
 On Wednesday MWIS was promising 70% chance of clear summits on the

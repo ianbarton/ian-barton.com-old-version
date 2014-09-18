@@ -3,7 +3,7 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Via Ferrata Cir V.
 #+BEGIN_HTML
----
+
 date: 2010-07-21
 layout: post
 title: Via Ferrata Cir V.
@@ -11,7 +11,7 @@ summary: "Via Ferrata Cir V from Val Gardena (July 2010)."
 comments: true
 tags: [mountaineering, dolomites, trips]
 category: blog
----
+
 #+END_HTML
 This summer we went on a family holiday to Val Gardena, in the Italian
 Dolomites. This was our first visit to the Dolomites I was keen to

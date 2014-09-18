@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
----
+
 date: 2010-07-31
 title: Meindl Softline Ultra Boots
 layout: post
@@ -11,7 +11,7 @@ summary: "A new pair of walking boots."
 tags: [gear]
 category: blog
 comments: true
----
+
 #+END_HTML
 
 Normally I go walking either in my trainers, or in a cheap and

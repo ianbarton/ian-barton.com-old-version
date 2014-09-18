@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
----
+
 date: 2010-06-25
 title: Osprey Talon 33 Rucksack
 layout: post
@@ -12,7 +12,7 @@ replacement for my old Karrimor Hot Ice rucksack."
 tags: [gear]
 category: blog
 comments: true
----
+
 #+END_HTML
 
 For many years I owned a Karrimor Hot Ice rucksack. Generally, I was

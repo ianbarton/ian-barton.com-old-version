@@ -3,14 +3,14 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Traverse of the Carneddau.
 #+BEGIN_HTML
----
+
 date: 2014-05-15
 layout: post
 title: Traverse of the Carneddau from Cwm Eigiau.
 comments: true
 category: blog
 tags: [mountaineering, backpacking]
----
+
 #+END_HTML
 
 

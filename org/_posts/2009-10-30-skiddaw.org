@@ -3,14 +3,14 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+BEGIN_HTML
----
+
 date: 2009-10-30
 layout: post
 title: Skiddaw.
 comments: true
 category: blog
 tags: [mountaineering,trips]
----
+
 #+END_HTML
 
 

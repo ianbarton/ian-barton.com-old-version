@@ -3,7 +3,7 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Photos from My Traverse of the Glyders.
 #+BEGIN_HTML
----
+
 date: 2010-06-02
 layout:  mountaineering
 title: Photos from Traverse of the Glyders (June 2010).
@@ -11,7 +11,7 @@ comments: false
 summary: Tryfan and Glyders photos from my June 2010 trip.
 category: blog
 tags: [mountaineering, trips]
----
+
 #+END_HTML
 
 To read about the walk click [[file:./glyders-wild-camp.html][here]] . Hover your mouse over the photo to see

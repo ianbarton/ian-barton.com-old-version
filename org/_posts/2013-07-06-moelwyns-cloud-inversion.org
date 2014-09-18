@@ -1,13 +1,13 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
----
+
 title: Moelwyns Cloud Inversion
 layout: post
 tags: [mountaineering, backpacking]
 comments: true
 category: blog
----
+
 #+END_HTML
 
 #+BEGIN_HTML

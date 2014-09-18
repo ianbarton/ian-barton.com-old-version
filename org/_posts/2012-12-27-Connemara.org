@@ -2,13 +2,13 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
----
+
 title: Connemara Loop (Ballyconneely and Roundstone Loop).
 summary: A 47km circular ride in Connemara (Eire).
 date: 2012-08-28
 tags: cycling
 status: draft
----
+
 #+END_HTML
 
 The West coast of Ireland is great for cycling. The coastal scenery

@@ -2,13 +2,13 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
----
+
 title: Tour of Britain
 layout: post
 date: 2013-09-18
 tags: [cycling]
 category: blog
----
+
 #+END_HTML
 
 

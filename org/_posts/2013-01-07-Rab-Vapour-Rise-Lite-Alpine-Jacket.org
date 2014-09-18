@@ -2,14 +2,14 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
----
+
 title: Rab Vapour Rise Lite Jacket.
 summary:
 date: 2013-01-07
 status: draft
 tags: [gear, mountaineering]
 category: blog
----
+
 #+END_HTML
 
 I have been a fan of Rab's Vapour Rise clothing for a while. The

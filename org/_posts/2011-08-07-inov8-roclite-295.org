@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
----
+
 date: 2011-08-07
 title: Inov8 Roclite 295 Trail Shoes.
 layout: post
@@ -11,7 +11,7 @@ summary: "A new pair of shoes for general wear and mountain walking."
 tags: [gear]
 category: blog
 comments: true
----
+
 #+END_HTML
 
 I spend most of my time wearing trainers. Over the last couple of

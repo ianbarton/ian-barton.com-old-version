@@ -4,14 +4,14 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Benighted on the Ben.
 #+BEGIN_HTML
----
+
 date: 1985-01-01
 layout: post
 title: Benighted on the Ben.
 comments: true
 category: blog
 tags: [mountaineering, WinterClimbing]
----
+
 #+END_HTML
 It was early January when six of us travelled up to
 Scotland in Mark’s Sherpa van. Arriving in Glencoe in the early

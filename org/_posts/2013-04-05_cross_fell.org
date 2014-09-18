@@ -2,13 +2,13 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
----
+
 title: Cross Fell
 date: 2013-05-05
 tags: [mountaineering, trips]
 category: blog
 status: draft
----
+
 #+END_HTML
 
 I was staying with the family near to Appleby for a few days. The

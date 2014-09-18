@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
----
+
 date: 2011-01-20
 title: Alpkit Gamma Headtorch
 layout: post
@@ -11,7 +11,7 @@ summary: "Review of the Alpkit Gamma."
 tags: [gear]
 category: blog
 comments: true
----
+
 #+END_HTML
 
 I am a bit of a head torch addict. Over the years I have had a number

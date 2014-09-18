@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
----
+
 date: 2010-08-09
 title: Manifold Valley Cycle Ride.
 layout: post
@@ -11,7 +11,7 @@ excerpt: "Cycling along the Manifold Valley trail."
 tags: [cycling]
 category: blog
 comments: true
----
+
 #+END_HTML
 
 The Manifold Valley in Derbyshire has an 8.5 mile cycle trail that

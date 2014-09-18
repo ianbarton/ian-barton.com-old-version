@@ -1,7 +1,7 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
----
+
 date: 2010-08-04
 title: Erdigg Cycle Rides.
 layout: post
@@ -9,7 +9,7 @@ excerpt: "A couple of short cycle rides around Erdigg, near Wrexham."
 tags: [cycling]
 comments: true
 category: blog
----
+
 #+END_HTML
 
 [[http://www.nationaltrust.org.uk/main/w-vh/w-visits/w-findaplace/w-erddig][Erddig]] is owned by the National Trust, to whom it was bequeathed by

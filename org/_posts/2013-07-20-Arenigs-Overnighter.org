@@ -2,13 +2,13 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
----
+
 title: Summit Camp on Moel Llyfnant (Arenigs).
 date: 2013-07-17
 comments: true
 tags: [mountaineering, backpacking, trips]
 category: blog
----
+
 #+END_HTML
 
 

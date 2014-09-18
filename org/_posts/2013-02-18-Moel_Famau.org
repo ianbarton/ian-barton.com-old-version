@@ -2,12 +2,12 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
----
+
 title: Moel Famau to Moel Arthur and Back
 date: 2013-02-17
 tags:  [mountaineering, trips]
 category: blog
----
+
 #+END_HTML
 
 My son is doing the Duke of Edinburgh Bronze Award this year. He had

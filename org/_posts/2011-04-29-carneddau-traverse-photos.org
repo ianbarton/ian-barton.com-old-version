@@ -3,7 +3,7 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Photos from My Carneddau Traverse (April 2011).
 #+BEGIN_HTML
----
+
 date: 2011-04-29
 layout:  mountaineering
 title: Photos from My Carneddau Traverse (April 2011).
@@ -11,7 +11,7 @@ summary: Photos from my two day backpack in April 2011.
 comments: true
 tags: [mountaineering]
 category: blog
----
+
 #+END_HTML
 
 

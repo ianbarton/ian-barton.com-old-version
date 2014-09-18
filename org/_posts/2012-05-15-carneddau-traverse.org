@@ -4,14 +4,14 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Traverse of the Carneddau.
 #+BEGIN_HTML
----
+
 date: 2012-05-15
 layout: post
 title: Traverse of the Carneddau.
 comments: true
 category: blog
 tags: [mountaineering, backpacking]
----
+
 #+END_HTML
 
 Another outing over the Carneddau, coinciding with a window of one and

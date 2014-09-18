@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
----
+
 date: 2010-09-02
 title: Hammock.
 layout: post
@@ -12,7 +12,7 @@ Backpackinglight."
 tags: [gear]
 category: blog
 comments: true
----
+
 #+END_HTML
 
 The girls have been pestering me for months to buy a hammock. By

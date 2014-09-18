@@ -2,14 +2,14 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
----
+
 title: A Two Day Trip Over Arenig Fawr and Moel Llyfnant.
 layout: post
 comments: true
 date: 2014-06-28
 tags: [mountaineering, backpacking]
 category: blog
----
+
 #+END_HTML
 
 #+BEGIN_HTML

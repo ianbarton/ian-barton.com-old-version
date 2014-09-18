@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
----
+
 date: 2011-01-09
 title: Lowe Alpine Cap vs Trekmates Ice GTX Cap
 layout: post
@@ -13,7 +13,7 @@ summary: "Comparison of the Lowe Alpine Mountain Cap, Trekmates Ice
 Cap and Paramo Cap."
 
 comments: true
----
+
 #+END_HTML
 
 In the warmer months of the year I wear my Paramo Cap. However,

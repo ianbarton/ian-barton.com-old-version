@@ -2,13 +2,13 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
----
+
 title:
 summary:
 date:
 tags:
 category: blog
----
+
 #+END_HTML
 
 * Day Three - Allenheads to Newcastle.

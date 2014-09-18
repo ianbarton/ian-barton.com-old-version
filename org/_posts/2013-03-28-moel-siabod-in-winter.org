@@ -1,12 +1,12 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
----
+
 title: A Winter's Day on Moel Siabod.
 date: 2013-03-28
 tags: [mountaineering, trips]
 category: blog
----
+
 #+END_HTML
 
 I had wanted to do an overnight trip to North Wales for some time. I
