@@ -4,7 +4,7 @@
 
 #+BEGIN_HTML
 
-date: 2011-01-09
+Date: 2011-01-09
 Title: Lowe Alpine Cap vs Trekmates Ice GTX Cap
 layout: post
 tags: [gear]

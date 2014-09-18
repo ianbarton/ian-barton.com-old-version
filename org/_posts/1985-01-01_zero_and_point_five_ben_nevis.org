@@ -4,7 +4,7 @@
 #+TITLE: Linux.
 #+BEGIN_HTML
 
-date: 1985-01-01
+Date: 1985-01-01
 layout: mountaineering
 Title: Zero and Point Five Gullies Ben Nevis.
 category: blog

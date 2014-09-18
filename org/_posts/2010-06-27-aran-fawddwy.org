@@ -4,7 +4,7 @@
 #+TITLE: Linux.
 #+BEGIN_HTML
 
-date: 2010-06-27
+Date: 2010-06-27
 layout:  post
 Title: Aran Fawddwy.
 summary: "A circular walk over Aran Fawddwy (June 2010)"

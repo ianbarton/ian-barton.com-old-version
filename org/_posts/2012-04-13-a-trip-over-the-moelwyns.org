@@ -3,7 +3,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
 
-date: 2012-04-13
+Date: 2012-04-13
 Title: A Trip Over the Moelwyns
 layout: post
 summary: "A Short Backpack Over the Moelwyns."

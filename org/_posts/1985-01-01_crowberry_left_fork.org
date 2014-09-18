@@ -5,7 +5,7 @@
 #+TITLE: Crowberry Left Fork.
 #+BEGIN_HTML
 
-date: 1985-01-01
+Date: 1985-01-01
 layout: post
 Title: Left Fork of Crowberry Gully.
 comments: true

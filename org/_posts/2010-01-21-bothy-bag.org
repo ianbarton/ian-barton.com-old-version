@@ -7,7 +7,7 @@
 
 #+BEGIN_HTML
 
-date: 2010-01-21
+Date: 2010-01-21
 layout: post
 Title: Bothy Bags.
 category: blog

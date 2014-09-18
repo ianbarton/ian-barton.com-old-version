@@ -4,7 +4,7 @@
 #+TITLE: Traverse of the Carneddau.
 #+BEGIN_HTML
 
-date: 2014-05-15
+Date: 2014-05-15
 layout: post
 Title: Traverse of the Carneddau from Cwm Eigiau.
 comments: true

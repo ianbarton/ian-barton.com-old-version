@@ -4,7 +4,7 @@
 
 #+BEGIN_HTML
 
-date: 2010-06-08
+Date: 2010-06-08
 Title: Bryn Tyrch Hotel, Capel Curig.
 layout: post
 excerpt: "The Bryn Tyrch in Capel Curig, a family friendly hotel with

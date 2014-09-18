@@ -5,7 +5,7 @@
 #+TITLE: Circuit of Llyn Brenig.
 #+BEGIN_HTML
 
-date: 2010-08-01
+Date: 2010-08-01
 layout: post
 Title: Circuit of Llyn Brenig.
 category: blog

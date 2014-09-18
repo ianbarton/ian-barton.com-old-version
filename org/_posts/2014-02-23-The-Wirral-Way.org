@@ -5,7 +5,7 @@
 
 Title: Cycling the Wirral Way.
 status: draft
-date: 2014-02-21
+Date: 2014-02-21
 tags: [cycling]
 category: blog
 

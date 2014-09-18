@@ -5,7 +5,7 @@
 #+TITLE: Various Mountaineering Scribblings.
 #+BEGIN_HTML
 
-date: 1985-01-01
+Date: 1985-01-01
 layout: mountaineering
 Title: Route Major, Mont Blanc.
 comments: true

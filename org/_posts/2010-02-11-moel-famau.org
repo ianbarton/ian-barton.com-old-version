@@ -4,7 +4,7 @@
 
 #+BEGIN_HTML
 
-date: 2010-02-11
+Date: 2010-02-11
 layout: post
 Title: Moel Famau
 tags: [mountaineering, trips]

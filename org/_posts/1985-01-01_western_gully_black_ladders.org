@@ -5,7 +5,7 @@
 #+TITLE: Western Gully Black Ladders.
 #+BEGIN_HTML
 
-date: 1985-01-01
+Date: 1985-01-01
 layout: mountaineering
 Title: Western Gully, Black Ladders.
 category: blog

@@ -7,7 +7,7 @@
 #+BEGIN_HTML
 
 
-date: 2010-05-22
+Date: 2010-05-22
 layout: post
 Title: Mammut Champ Trousers.
 comments: true

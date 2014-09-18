@@ -4,7 +4,7 @@
 #+TITLE: Photos from My Traverse of the Glyders.
 #+BEGIN_HTML
 
-date: 2010-06-02
+Date: 2010-06-02
 layout:  post
 Title: Glyders Backpack Photos.
 summary: Photos from Traverse of the Glyders (June 2010).

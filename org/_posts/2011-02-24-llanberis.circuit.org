@@ -2,7 +2,7 @@
 #+STARTUP: hidestars
 #+BEGIN_HTML
 
-date: 2011-02-24
+Date: 2011-02-24
 Title: A Circular Ride Around Llanberis.
 layout: post
 summary: "A Circular Ride Around Llanberis."

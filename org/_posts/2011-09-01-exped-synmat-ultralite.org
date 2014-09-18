@@ -2,7 +2,7 @@
 #+STARTUP: hidestars
 #+BEGIN_HTML
 
-date: 2011-09-01
+Date: 2011-09-01
 Title: Exped Synmat Ultralite vs Thermarest Neoair.
 layout: post
 tags: [gear]

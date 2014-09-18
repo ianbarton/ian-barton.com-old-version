@@ -5,7 +5,7 @@
 
 Title: An Arans Traverse and Summit Camp on Glasgwm.
 layout: post
-date: 2013-06-03
+Date: 2013-06-03
 tags:  [mountaineering, backpacking, trips]
 category: blog
 

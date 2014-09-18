@@ -5,7 +5,7 @@
 #+TITLE: First Pinnacle Rib.
 #+BEGIN_HTML
 
-date: 2007-07-31
+Date: 2007-07-31
 layout: post
 Title: First Pinnacle Rib Tryfan.
 summary: After the wettest June and July that anyone can remember the sun finally came out in the last few days of July.

@@ -4,7 +4,7 @@
 
 #+BEGIN_HTML
 
-date: 2010-09-03
+Date: 2010-09-03
 Title: Casio Protrek Triple Sensor Watch
 layout: post
 summary: "Review of the Casio Protrek triple sensor watch."
