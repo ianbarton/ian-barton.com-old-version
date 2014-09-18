@@ -12,7 +12,7 @@ tags: [gear]
 Summary: "A review of the Ortlieb map case. Made from flexible and very
 strong material"
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

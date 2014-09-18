@@ -7,7 +7,7 @@
 Date: 2011-04-29
 Layout:  mountaineering
 Title: Carneddau - a Two Day Trip.
-comments: true
+Comments: true
 tags: [mountaineering]
 category: blog
 

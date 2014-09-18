@@ -7,7 +7,7 @@
 Date: 2010-06-02
 Layout:  mountaineering
 Title: Photos from Traverse of the Glyders (June 2010).
-comments: false
+Comments: false
 Summary: Tryfan and Glyders photos from my June 2010 trip.
 category: blog
 tags: [mountaineering, trips]

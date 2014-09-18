@@ -8,7 +8,7 @@
 Date: 2012-05-15
 Layout: post
 Title: Traverse of the Carneddau.
-comments: true
+Comments: true
 category: blog
 tags: [mountaineering, backpacking]
 

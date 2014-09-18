@@ -8,7 +8,7 @@ Date: 2010-06-02
 Layout:  post
 Title: Glyders Backpack Photos.
 Summary: Photos from Traverse of the Glyders (June 2010).
-comments: false
+Comments: false
 tags: [mountaineering, trips, backpacking]
 category: blog
 

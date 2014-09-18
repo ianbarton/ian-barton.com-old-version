@@ -8,7 +8,7 @@
 Date: 2010-04-16
 Layout:  post
 Title: A Night on Moel Siabod (April 2010).
-comments: true
+Comments: true
 category: blog
 tags: [mountaineering, trips]
 

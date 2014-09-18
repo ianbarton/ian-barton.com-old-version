@@ -10,7 +10,7 @@ Layout: post
 excerpt: "Cycling along the Manifold Valley trail."
 tags: [cycling]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

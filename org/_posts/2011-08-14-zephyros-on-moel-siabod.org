@@ -9,7 +9,7 @@ Layout: post
 Summary: "First outing for the new tent on a windy wild camp on Moel Siabod."
 tags: [mountaineering, trips]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

@@ -9,7 +9,7 @@ tags: [gear]
 category: blog
 Summary: "Comparison of the Exped Synmat Ultralite and the Thermarest Neoair"
 
-comments: true
+Comments: true
 
 #+END_HTML
 

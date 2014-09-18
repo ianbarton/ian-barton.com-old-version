@@ -10,7 +10,7 @@ Layout: post
 Summary: "A new pair of shoes for general wear and mountain walking."
 tags: [gear]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

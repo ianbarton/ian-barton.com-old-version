@@ -12,7 +12,7 @@ category: blog
 Summary: "Comparison of the Lowe Alpine Mountain Cap, Trekmates Ice
 Cap and Paramo Cap."
 
-comments: true
+Comments: true
 
 #+END_HTML
 

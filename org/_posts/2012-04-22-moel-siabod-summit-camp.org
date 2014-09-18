@@ -9,7 +9,7 @@ Layout: post
 Summary: "Quick overnight trip. Snatched in a brief window of good weather."
 tags: [mountaineering, trips]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

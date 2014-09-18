@@ -11,7 +11,7 @@ excerpt: "The Bryn Tyrch in Capel Curig, a family friendly hotel with
 a high standard of accommodation and good food."
 tags: [mountaineering]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

@@ -10,7 +10,7 @@ Layout: post
 Summary: "Review of the Casio Protrek triple sensor watch."
 tags: [gear]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 I needed to buy a new watch and I wanted to get one that had altimeter

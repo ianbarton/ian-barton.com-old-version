@@ -10,7 +10,7 @@ Layout: post
 Summary: "A review of Showell Styles Backpacking in Wales."
 tags: [mountaineering]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

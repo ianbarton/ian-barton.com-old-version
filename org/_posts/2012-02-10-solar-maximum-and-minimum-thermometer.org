@@ -10,7 +10,7 @@ Layout: post
 Summary: "A cheap Solar powered maximum and minimum thermometer."
 tags: [gear]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

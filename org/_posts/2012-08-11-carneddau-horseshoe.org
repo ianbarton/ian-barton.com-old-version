@@ -8,7 +8,7 @@
 Date: 2012-08-11
 Summary: A two day backpack around the Carneddau from Cwm Eigiau.
 Title: Carneddau Horseshoe from Cwm Eigiau
-comments: true
+Comments: true
 template: map
 tags: [mountaineering, backpacking]
 gpx: 2012-08-09_carnedds.gpx

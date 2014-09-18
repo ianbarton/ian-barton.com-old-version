@@ -10,7 +10,7 @@ Layout: post
 Summary: "A new pair of walking boots."
 tags: [gear]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

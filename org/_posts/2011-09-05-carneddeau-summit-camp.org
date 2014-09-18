@@ -10,7 +10,7 @@ Layout: post
 Summary: "Camping near the summit of Carnedd Llewelyn."
 tags: [mountaineering, backpacking]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

@@ -9,6 +9,6 @@ Layout:  mountaineering
 Title: The Stiperstones.
 category: blog
 tags: [mountaineering]
-comments: true
+Comments: true
 
 #+END_HTML

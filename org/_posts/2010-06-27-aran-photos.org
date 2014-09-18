@@ -8,7 +8,7 @@ Date: 2010-06-27
 Layout:  post
 Title: Photos from My Aran Fawddwy Walk. (June 2010).
 Summary: Photos from my Arans circular walk.
-comments: false
+Comments: false
 category: blog
 tags: [mountaineering,  trips]
 

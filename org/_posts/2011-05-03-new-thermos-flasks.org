@@ -10,7 +10,7 @@ Layout: post
 excerpt: "The Thermos Ultimate really does keep your drink hot all day."
 tags: [gear]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

@@ -10,7 +10,7 @@
 Date: 2010-05-22
 Layout: post
 Title: Mammut Champ Trousers.
-comments: true
+Comments: true
 tags: [gear]
 category: blog
 excerpt: "For a few years I have worn Craghopper Kiwi trousers almost all the

@@ -7,7 +7,7 @@
 Date: 2014-05-15
 Layout: post
 Title: Traverse of the Carneddau from Cwm Eigiau.
-comments: true
+Comments: true
 category: blog
 tags: [mountaineering, backpacking]
 

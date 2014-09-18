@@ -9,7 +9,7 @@ Layout: post
 Summary: "A Short Backpack Over the Moelwyns."
 tags: [mountaineering]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

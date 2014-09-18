@@ -10,7 +10,7 @@ Layout: post
 Summary: "Review of the Alpkit Gamma."
 tags: [gear]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

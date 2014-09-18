@@ -7,7 +7,7 @@
 Date: 2009-10-30
 Layout: post
 Title: Skiddaw.
-comments: true
+Comments: true
 category: blog
 tags: [mountaineering,trips]
 

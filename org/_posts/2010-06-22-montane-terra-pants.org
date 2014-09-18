@@ -11,7 +11,7 @@ tags: [gear]
 category: blog
 Summary: "Montane Terras are lightweight walking-climbing trousers, with several neat features."
 
-comments: true
+Comments: true
 
 #+END_HTML
 I wanted to get some trousers which were cool enough for cycling and

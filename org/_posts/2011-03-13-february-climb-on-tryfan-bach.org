@@ -10,7 +10,7 @@ Layout: post
 tags: [mountaineering, trips]
 Summary: "Climbing with the children on Tryfan Bach."
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

@@ -11,7 +11,7 @@ Summary: "Lightweight silk hammock made from parachute silk from
 Backpackinglight."
 tags: [gear]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 

@@ -8,7 +8,7 @@ Layout: post
 Summary: "A Circular Ride Around Llanberis."
 tags: [cycling]
 category: blog
-comments: true
+Comments: true
 
 #+END_HTML
 
