@@ -6,7 +6,7 @@
 
 Date: 2011-08-07
 Title: Inov8 Roclite 295 Trail Shoes.
-layout: post
+Layout: post
 Summary: "A new pair of shoes for general wear and mountain walking."
 tags: [gear]
 category: blog

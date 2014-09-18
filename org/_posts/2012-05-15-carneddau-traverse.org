@@ -6,7 +6,7 @@
 #+BEGIN_HTML
 
 Date: 2012-05-15
-layout: post
+Layout: post
 Title: Traverse of the Carneddau.
 comments: true
 category: blog

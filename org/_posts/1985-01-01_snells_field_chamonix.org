@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 
 Date: 1985-01-01
-layout: mountaineering
+Layout: mountaineering
 Title: Snells Field Chamonix.
 category: blog
 tags: [mountaineering, alps]

@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 
 Date: 2011-04-29
-layout:  mountaineering
+Layout:  mountaineering
 Title: Photos from My Carneddau Traverse (April 2011).
 Summary: Photos from my two day backpack in April 2011.
 comments: true

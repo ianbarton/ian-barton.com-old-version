@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 
 Date: 2011-10-29
-layout:  post
+Layout:  post
 Title: Glyders Wild Camp (Photos).
 Summary: Photos from my traverse of Tryfan and overnight camp.
 comments: false

@@ -5,7 +5,7 @@
 
 Title: An Evening Walk Over Crimpiau.
 Date: 2014-07-14
-layout: post
+Layout: post
 comments: true
 tags: [mountaineering]
 category: blog

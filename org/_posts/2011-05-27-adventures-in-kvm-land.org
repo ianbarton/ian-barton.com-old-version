@@ -6,7 +6,7 @@
 
 Date: 2011-05-27
 Title: Adventures in KVM Land
-layout: post
+Layout: post
 tags: [linux]
 Summary: "Moving my virtual machines from Xen on Debian to KVM on Ubuntu."
 category: blog

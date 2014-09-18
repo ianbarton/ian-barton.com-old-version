@@ -6,7 +6,7 @@
 
 Date: 2010-09-02
 Title: Hammock.
-layout: post
+Layout: post
 Summary: "Lightweight silk hammock made from parachute silk from
 Backpackinglight."
 tags: [gear]

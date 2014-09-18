@@ -8,7 +8,7 @@
 
 
 Date: 2010-05-22
-layout: post
+Layout: post
 Title: Mammut Champ Trousers.
 comments: true
 tags: [gear]

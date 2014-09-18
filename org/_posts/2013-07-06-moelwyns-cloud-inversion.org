@@ -3,7 +3,7 @@
 #+BEGIN_HTML
 
 Title: Moelwyns Cloud Inversion
-layout: post
+Layout: post
 tags: [mountaineering, backpacking]
 comments: true
 category: blog

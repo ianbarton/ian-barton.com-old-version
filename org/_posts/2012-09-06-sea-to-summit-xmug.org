@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 
 Date: 2012-09-06
-layout: post
+Layout: post
 Title: Sea to Summit X-Mug
 comments: true
 category: blog

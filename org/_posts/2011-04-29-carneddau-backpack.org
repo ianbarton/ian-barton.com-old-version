@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 
 Date: 2011-04-29
-layout:  mountaineering
+Layout:  mountaineering
 Title: Carneddau - a Two Day Trip.
 comments: true
 tags: [mountaineering]

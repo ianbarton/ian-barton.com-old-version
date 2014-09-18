@@ -6,7 +6,7 @@
 #+BEGIN_HTML
 
 Date: 2012-07-21
-layout: post
+Layout: post
 template: map
 gpx: 2012-07-19_Arans.gpx
 Title: Splashing About in the Arans.

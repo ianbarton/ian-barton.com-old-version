@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 
 Date: 2010-05-28
-layout: post
+Layout: post
 category: blog
 Title: Disqus Commenting System.
 excerpt: "Trying out a new commenting system."

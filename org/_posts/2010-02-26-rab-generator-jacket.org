@@ -7,7 +7,7 @@
 #+BEGIN_HTML
 
 Date: 2010-02-26
-layout: post
+Layout: post
 comments: true
 tags: [gear]
 category: blog

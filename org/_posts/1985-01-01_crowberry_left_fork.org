@@ -6,7 +6,7 @@
 #+BEGIN_HTML
 
 Date: 1985-01-01
-layout: post
+Layout: post
 Title: Left Fork of Crowberry Gully.
 comments: true
 category: blog

@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 
 Date: 1985-01-01
-layout: mountaineering
+Layout: mountaineering
 Title: Zero and Point Five Gullies Ben Nevis.
 category: blog
 tags: [mountaineering, WinterClimbing]

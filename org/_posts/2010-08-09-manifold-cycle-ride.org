@@ -6,7 +6,7 @@
 
 Date: 2010-08-09
 Title: Manifold Valley Cycle Ride.
-layout: post
+Layout: post
 excerpt: "Cycling along the Manifold Valley trail."
 tags: [cycling]
 category: blog

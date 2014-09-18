@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 
 Title: A Two Day Trip Over Arenig Fawr and Moel Llyfnant.
-layout: post
+Layout: post
 comments: true
 Date: 2014-06-28
 tags: [mountaineering, backpacking]

@@ -8,7 +8,7 @@
 #+BEGIN_HTML
 
 Date: 2010-01-21
-layout: post
+Layout: post
 Title: Bothy Bags.
 category: blog
 tags: [gear]
