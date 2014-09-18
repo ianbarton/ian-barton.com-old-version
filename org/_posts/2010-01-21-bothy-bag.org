@@ -11,7 +11,7 @@ Date: 2010-01-21
 Layout: post
 Title: Bothy Bags.
 category: blog
-tags: [gear]
+Tags: [gear]
 excerpt: "I have only recently discovered bothy bags. For many years I have been
 carrying round my Wild Country Goretex bivvy bag in the winter
 time. I have used it many times for planned bivvies and a few times for

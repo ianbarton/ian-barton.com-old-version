@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 Title: Cwm Eigiau Backpack.
 Date: 2014-09-11
-tags: [backpacking]
+Tags: [backpacking]
 category: blog
 
 #+END_HTML

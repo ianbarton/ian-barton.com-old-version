@@ -8,7 +8,7 @@ Date: 2012-02-10
 Title: Solar Maximum and Minimum Thermometer
 Layout: post
 Summary: "A cheap Solar powered maximum and minimum thermometer."
-tags: [gear]
+Tags: [gear]
 category: blog
 Comments: true
 

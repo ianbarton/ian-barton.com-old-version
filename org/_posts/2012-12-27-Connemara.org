@@ -6,7 +6,7 @@
 Title: Connemara Loop (Ballyconneely and Roundstone Loop).
 Summary: A 47km circular ride in Connemara (Eire).
 Date: 2012-08-28
-tags: cycling
+Tags: cycling
 status: draft
 
 #+END_HTML

@@ -7,7 +7,7 @@
 Date: 2010-02-11
 Layout: post
 Title: Moel Famau
-tags: [mountaineering, trips]
+Tags: [mountaineering, trips]
 category: blog
 Summary: "I had passed the Clwydian range hundreds of times on the way to
 Snowdonia, but I had never climbed any of its hills. Amongst other

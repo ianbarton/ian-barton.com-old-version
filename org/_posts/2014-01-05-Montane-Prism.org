@@ -5,7 +5,7 @@
 
 Title: Montane Prism Jacket, Trousers and Gilet.
 Date: 2014-01-05
-tags: [mountaineering, gear, review]
+Tags: [mountaineering, gear, review]
 category: blog
 
 

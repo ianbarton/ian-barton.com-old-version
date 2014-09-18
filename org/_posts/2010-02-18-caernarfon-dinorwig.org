@@ -8,7 +8,7 @@
 Date: 2010-02-18
 Layout: post
 Title: Coastal Cycle Ride from Caernarfon.
-tags: [cycling]
+Tags: [cycling]
 category: blog
 
 #+END_HTML

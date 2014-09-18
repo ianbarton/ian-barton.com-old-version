@@ -10,7 +10,7 @@ Layout:  post
 Title: A Night on Moel Siabod (April 2010).
 Comments: true
 category: blog
-tags: [mountaineering, trips]
+Tags: [mountaineering, trips]
 
 #+END_HTML
 

@@ -8,7 +8,7 @@ Date: 1985-01-01
 Layout: mountaineering
 Title: Snells Field Chamonix.
 category: blog
-tags: [mountaineering, alps]
+Tags: [mountaineering, alps]
 
 #+END_HTML
 For many years impecunious British Alpinists camped on this field just

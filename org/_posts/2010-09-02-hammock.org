@@ -9,7 +9,7 @@ Title: Hammock.
 Layout: post
 Summary: "Lightweight silk hammock made from parachute silk from
 Backpackinglight."
-tags: [gear]
+Tags: [gear]
 category: blog
 Comments: true
 

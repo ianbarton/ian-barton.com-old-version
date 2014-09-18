@@ -10,7 +10,7 @@ Layout: post
 Title: Traverse of the Carneddau.
 Comments: true
 category: blog
-tags: [mountaineering, backpacking]
+Tags: [mountaineering, backpacking]
 
 #+END_HTML
 

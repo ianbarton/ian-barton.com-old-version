@@ -9,7 +9,7 @@ Layout: post
 Title: Traverse of the Carneddau from Cwm Eigiau.
 Comments: true
 category: blog
-tags: [mountaineering, backpacking]
+Tags: [mountaineering, backpacking]
 
 #+END_HTML
 

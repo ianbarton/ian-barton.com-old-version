@@ -4,7 +4,7 @@
 
 Title: A Winter's Day on Moel Siabod.
 Date: 2013-03-28
-tags: [mountaineering, trips]
+Tags: [mountaineering, trips]
 category: blog
 
 #+END_HTML

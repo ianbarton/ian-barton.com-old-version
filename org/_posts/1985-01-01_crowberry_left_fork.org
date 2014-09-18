@@ -10,7 +10,7 @@ Layout: post
 Title: Left Fork of Crowberry Gully.
 Comments: true
 category: blog
-tags: [mountaineering, WinterClimbing]
+Tags: [mountaineering, WinterClimbing]
 
 #+END_HTML
 It was the end of February and the weather had been superb for weeks

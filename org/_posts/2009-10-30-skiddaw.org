@@ -9,7 +9,7 @@ Layout: post
 Title: Skiddaw.
 Comments: true
 category: blog
-tags: [mountaineering,trips]
+Tags: [mountaineering,trips]
 
 #+END_HTML
 

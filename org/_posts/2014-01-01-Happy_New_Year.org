@@ -6,7 +6,7 @@
 Title: Happy New Year!
 Layout: post
 Date: 2014-01-01
-tags: [blog]
+Tags: [blog]
 category: blog
 
 #+END_HTML

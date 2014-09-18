@@ -12,7 +12,7 @@ gpx: 2012-07-19_Arans.gpx
 Title: Splashing About in the Arans.
 Comments: true
 category: blog
-tags: [mountaineering, backpacking]
+Tags: [mountaineering, backpacking]
 
 #+END_HTML
 

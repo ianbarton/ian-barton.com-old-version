@@ -7,7 +7,7 @@ Title: A Summit Camp on Glasgwm.
 Layout: post
 Comments: true
 Date: 2014-07-05
-tags: [mountaineering, backpacking]
+Tags: [mountaineering, backpacking]
 category: blog
 
 #+END_HTML

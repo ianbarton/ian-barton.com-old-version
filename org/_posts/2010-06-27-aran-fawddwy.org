@@ -10,7 +10,7 @@ Title: Aran Fawddwy.
 Summary: "A circular walk over Aran Fawddwy (June 2010)"
 Comments: true
 category: blog
-tags: [mountaineering, trips]
+Tags: [mountaineering, trips]
 
 #+END_HTML
 

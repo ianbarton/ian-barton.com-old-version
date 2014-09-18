@@ -8,7 +8,7 @@ Date: 2011-05-03
 Title: New Thermos Flasks
 Layout: post
 excerpt: "The Thermos Ultimate really does keep your drink hot all day."
-tags: [gear]
+Tags: [gear]
 category: blog
 Comments: true
 

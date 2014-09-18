@@ -10,7 +10,7 @@ Layout: mountaineering
 Title: Route Major, Mont Blanc.
 Comments: true
 category: blog
-tags: [mountaineering, alps]
+Tags: [mountaineering, alps]
 
 #+END_HTML
 The Summer of 1986 was a good one in the Alps, with a long

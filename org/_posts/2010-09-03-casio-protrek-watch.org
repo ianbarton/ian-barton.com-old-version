@@ -8,7 +8,7 @@ Date: 2010-09-03
 Title: Casio Protrek Triple Sensor Watch
 Layout: post
 Summary: "Review of the Casio Protrek triple sensor watch."
-tags: [gear]
+Tags: [gear]
 category: blog
 Comments: true
 
