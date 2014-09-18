@@ -3,7 +3,7 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
 
-title: Cross Fell
+Title: Cross Fell
 date: 2013-05-05
 tags: [mountaineering, trips]
 category: blog

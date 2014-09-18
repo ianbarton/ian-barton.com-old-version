@@ -3,7 +3,7 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
 
-title: A Summit Camp on Glasgwm.
+Title: A Summit Camp on Glasgwm.
 layout: post
 comments: true
 date: 2014-07-05

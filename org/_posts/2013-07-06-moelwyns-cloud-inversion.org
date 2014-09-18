@@ -2,7 +2,7 @@
 #+STARTUP: hidestars
 #+BEGIN_HTML
 
-title: Moelwyns Cloud Inversion
+Title: Moelwyns Cloud Inversion
 layout: post
 tags: [mountaineering, backpacking]
 comments: true

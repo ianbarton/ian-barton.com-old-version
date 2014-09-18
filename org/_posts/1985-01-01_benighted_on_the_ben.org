@@ -7,7 +7,7 @@
 
 date: 1985-01-01
 layout: post
-title: Benighted on the Ben.
+Title: Benighted on the Ben.
 comments: true
 category: blog
 tags: [mountaineering, WinterClimbing]

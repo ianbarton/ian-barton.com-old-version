@@ -7,7 +7,7 @@
 
 date: 1985-01-01
 layout: post
-title: Left Fork of Crowberry Gully.
+Title: Left Fork of Crowberry Gully.
 comments: true
 category: blog
 tags: [mountaineering, WinterClimbing]

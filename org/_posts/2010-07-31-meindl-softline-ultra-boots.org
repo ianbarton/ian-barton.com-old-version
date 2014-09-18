@@ -5,7 +5,7 @@
 #+BEGIN_HTML
 
 date: 2010-07-31
-title: Meindl Softline Ultra Boots
+Title: Meindl Softline Ultra Boots
 layout: post
 summary: "A new pair of walking boots."
 tags: [gear]

@@ -2,7 +2,7 @@
 #+STARTUP: hidestars
 #+BEGIN_HTML
 
-title: A Winter's Day on Moel Siabod.
+Title: A Winter's Day on Moel Siabod.
 date: 2013-03-28
 tags: [mountaineering, trips]
 category: blog

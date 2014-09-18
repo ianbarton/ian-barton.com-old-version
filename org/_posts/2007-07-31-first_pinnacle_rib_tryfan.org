@@ -7,7 +7,7 @@
 
 date: 2007-07-31
 layout: post
-title: First Pinnacle Rib Tryfan.
+Title: First Pinnacle Rib Tryfan.
 summary: After the wettest June and July that anyone can remember the sun finally came out in the last few days of July.
 comments: true
 category: blog

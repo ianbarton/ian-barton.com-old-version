@@ -6,7 +6,7 @@
 
 date: 2009-03-13
 layout:  post
-title: A Walk in the Berwyns.
+Title: A Walk in the Berwyns.
 comments: true
 category: blog
 tags: [mountaineering, trips]

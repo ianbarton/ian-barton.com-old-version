@@ -7,7 +7,7 @@
 date: 2009-08-24
 layout: post
 summary: The Oban to Fort William Cycle trail seems to be one of the best kept secrets in Scotland.
-title: Kentallen to Glencoe.
+Title: Kentallen to Glencoe.
 category: blog
 tags: [cycling]
 

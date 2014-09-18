@@ -7,7 +7,7 @@
 
 date: 1985-01-01
 layout: mountaineering
-title: Route Major, Mont Blanc.
+Title: Route Major, Mont Blanc.
 comments: true
 category: blog
 tags: [mountaineering, alps]

@@ -6,7 +6,7 @@
 #+BEGIN_HTML
 
 date: 2011-03-04
-title: Ortlieb Map Case.
+Title: Ortlieb Map Case.
 layout: post
 tags: [gear]
 summary: "A review of the Ortlieb map case. Made from flexible and very

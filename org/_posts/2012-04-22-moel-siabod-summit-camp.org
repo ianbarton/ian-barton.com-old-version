@@ -4,7 +4,7 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 date: 2012-04-22
-title: Moel Siabod - Summit Camp
+Title: Moel Siabod - Summit Camp
 layout: post
 summary: "Quick overnight trip. Snatched in a brief window of good weather."
 tags: [mountaineering, trips]
