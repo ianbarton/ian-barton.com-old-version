@@ -1,8 +1,8 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
-#+BEGIN_HTML
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
+#+BEGIN_HTML
 Date: 2012-04-22
 Title: Moel Siabod - Summit Camp
 Layout: post
@@ -10,7 +10,6 @@ Summary: "Quick overnight trip. Snatched in a brief window of good weather."
 Tags: [mountaineering, trips]
 Category: blog
 Comments: true
-
 #+END_HTML
 
 I had planned to go for a walk in North Wales, but the [[http://www.mwis.org.uk][MWIS]] forecast
