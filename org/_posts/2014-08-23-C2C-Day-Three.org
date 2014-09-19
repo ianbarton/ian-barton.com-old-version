@@ -2,10 +2,10 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-Title:
-Summary:
-Date:
-Tags:
+Title: Coast to Coast Day Three.
+Date: 2014-08-13
+Tags: [cycling]
+Status: draft
 Category: blog
 
 #+END_HTML

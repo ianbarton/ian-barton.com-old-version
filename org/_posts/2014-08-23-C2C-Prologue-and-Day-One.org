@@ -2,9 +2,9 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-Title: Coast To Coast Cycle Ride - Prologue and Day One.
-Summary:
-Date:
+Title: Coast To Coast Cycle Ride - Prologue Day One.
+Date: 2014-08-12
+Status: draft
 Tags: [cycling]
 Category: blog
 
