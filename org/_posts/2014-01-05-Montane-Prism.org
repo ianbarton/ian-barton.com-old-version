@@ -2,7 +2,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-
 Title: Montane Prism Jacket, Trousers and Gilet.
 Date: 2014-01-05
 Tags: [mountaineering, gear, review]

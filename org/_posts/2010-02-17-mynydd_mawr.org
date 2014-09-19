@@ -4,7 +4,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Mynydd Mawr.
 #+BEGIN_HTML
-
 Date: 2010-02-17
 Layout: post
 Title: Mynydd Mawr.

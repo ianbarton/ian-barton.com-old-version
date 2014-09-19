@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2012-03-05
 Title: Carneddau Overnighter
 Layout: post

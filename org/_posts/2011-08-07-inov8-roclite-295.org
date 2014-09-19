@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2011-08-07
 Title: Inov8 Roclite 295 Trail Shoes.
 Layout: post

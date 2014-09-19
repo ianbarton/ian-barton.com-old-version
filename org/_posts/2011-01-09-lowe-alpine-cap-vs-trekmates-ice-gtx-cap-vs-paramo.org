@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2011-01-09
 Title: Lowe Alpine Cap vs Trekmates Ice GTX Cap
 Layout: post

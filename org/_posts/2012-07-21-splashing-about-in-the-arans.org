@@ -4,7 +4,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Splashing About in the Arans.
 #+BEGIN_HTML
-
 Date: 2012-07-21
 Layout: post
 template: map

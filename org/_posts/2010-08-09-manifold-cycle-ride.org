@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2010-08-09
 Title: Manifold Valley Cycle Ride.
 Layout: post

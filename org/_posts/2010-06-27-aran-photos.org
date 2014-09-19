@@ -3,7 +3,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Photos from My Aran Fawddwy Walk.
 #+BEGIN_HTML
-
 Date: 2010-06-27
 Layout:  post
 Title: Photos from My Aran Fawddwy Walk. (June 2010).
@@ -30,7 +29,6 @@ the caption.
 
 
 #+BEGIN_HTML
-
 <div class="thumbnail">
 <a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-arans/DSCF2192.JPG"
     title="Aran Fawddwy from the col below Glasgwm."> <img src="/images/2010-06-arans/DSCF2192.JPG" width="200"
@@ -44,7 +42,6 @@ the caption.
 
 
 #+BEGIN_HTML
-
 <div class="thumbnail">
 <a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-arans/DSCF2200.JPG"
     title="Approaching the summit plateau of Aran Fawddwy."> <img src="/images/2010-06-arans/DSCF2200.JPG" width="200"
@@ -58,7 +55,6 @@ the caption.
 
 
 #+BEGIN_HTML
-
 <div class="thumbnail">
 <a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-arans/DSCF2203.JPG"
     title="Cadair Idris from slopes of Aran Fawddwy."> <img src="/images/2010-06-arans/DSCF2203.JPG" width="200"

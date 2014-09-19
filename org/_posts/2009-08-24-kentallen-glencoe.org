@@ -3,7 +3,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-
 Date: 2009-08-24
 Layout: post
 Summary: The Oban to Fort William Cycle trail seems to be one of the best kept secrets in Scotland.

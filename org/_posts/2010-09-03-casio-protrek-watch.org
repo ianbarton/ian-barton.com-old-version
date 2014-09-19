@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2010-09-03
 Title: Casio Protrek Triple Sensor Watch
 Layout: post
@@ -20,7 +19,6 @@ Protrek and a Suunto Core. There is a good comparison on Youtube
 between the Suunto and a Casio Pathfinder [[http://www.youtube.com/watch?v%3DHLMO-9DCM8k][here]] .
 
 #+BEGIN_HTML
-
 <div class="photofloatr">
   <p><a class="fancybox-thumb" rel="fancybox-thumb" href="/images/casio_protrek.jpg"  title="Casio Protrek."> <img src="/images/casio_protrek.jpg" width="200"
      alt="Casio Protrek."></a></p>

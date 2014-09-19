@@ -4,7 +4,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Benighted on the Ben.
 #+BEGIN_HTML
-
 Date: 1985-01-01
 Layout: post
 Title: Benighted on the Ben.

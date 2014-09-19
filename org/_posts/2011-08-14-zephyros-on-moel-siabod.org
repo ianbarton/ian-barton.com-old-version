@@ -2,7 +2,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-
 Date: 2011-08-14
 Title: Wild Country Zephyros 2 on Moel Siabod
 Layout: post

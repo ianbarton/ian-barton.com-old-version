@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2012-02-10
 Title: Solar Maximum and Minimum Thermometer
 Layout: post

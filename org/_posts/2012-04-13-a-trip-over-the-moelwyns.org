@@ -2,7 +2,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-
 Date: 2012-04-13
 Title: A Trip Over the Moelwyns
 Layout: post

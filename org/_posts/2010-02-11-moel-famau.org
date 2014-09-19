@@ -3,7 +3,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:t
 
 #+BEGIN_HTML
-
 Date: 2010-02-11
 Layout: post
 Title: Moel Famau

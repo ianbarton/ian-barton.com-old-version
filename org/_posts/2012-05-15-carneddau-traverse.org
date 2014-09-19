@@ -4,7 +4,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Traverse of the Carneddau.
 #+BEGIN_HTML
-
 Date: 2012-05-15
 Layout: post
 Title: Traverse of the Carneddau.

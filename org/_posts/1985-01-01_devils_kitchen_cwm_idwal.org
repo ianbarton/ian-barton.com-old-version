@@ -3,7 +3,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Linux.
 #+BEGIN_HTML
-
 Date: 1985-01-01
 Layout: mountaineering
 Title: The Devil's Kitchen Cwm Idwal.

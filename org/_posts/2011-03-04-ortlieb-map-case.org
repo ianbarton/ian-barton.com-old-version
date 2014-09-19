@@ -4,7 +4,6 @@
 
 
 #+BEGIN_HTML
-
 Date: 2011-03-04
 Title: Ortlieb Map Case.
 Layout: post

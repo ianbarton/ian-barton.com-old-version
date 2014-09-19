@@ -3,7 +3,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Photos from My Traverse of the Glyders.
 #+BEGIN_HTML
-
 Date: 2010-06-02
 Layout:  post
 Title: Glyders Backpack Photos.
@@ -18,7 +17,6 @@ To read about the walk click [[file:traverse-of-the-glyders-from-capel-curig-to-
 the caption.
 
 #+BEGIN_HTML
-
 <div class="thumbnail">
 <a class="fancybox-thumb" rel="fancybox-thumb" href="/images/2010-06-glyders/DSCF2166.JPG"
     title="Path behind Joe Brown's shop."> <img src="/images/2010-06-glyders/DSCF2166.JPG" width="200"

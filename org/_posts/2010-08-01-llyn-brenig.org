@@ -4,7 +4,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Circuit of Llyn Brenig.
 #+BEGIN_HTML
-
 Date: 2010-08-01
 Layout: post
 Title: Circuit of Llyn Brenig.

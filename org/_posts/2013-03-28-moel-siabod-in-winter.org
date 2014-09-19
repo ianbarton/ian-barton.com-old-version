@@ -1,7 +1,6 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
-
 Title: A Winter's Day on Moel Siabod.
 Date: 2013-03-28
 Tags: [mountaineering, trips]

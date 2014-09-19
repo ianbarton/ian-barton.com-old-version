@@ -4,7 +4,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2010-04-16
 Layout:  post
 Title: A Night on Moel Siabod (April 2010).

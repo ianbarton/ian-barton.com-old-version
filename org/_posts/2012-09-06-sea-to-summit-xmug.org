@@ -3,7 +3,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:1 timestamps:t
 #+BEGIN_HTML
-
 Date: 2012-09-06
 Layout: post
 Title: Sea to Summit X-Mug

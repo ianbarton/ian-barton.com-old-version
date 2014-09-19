@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2011-01-16
 Title: Backpacking in Wales by Showell Styles
 Layout: post

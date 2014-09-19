@@ -1,7 +1,6 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
-
 Date: 2011-02-24
 Title: A Circular Ride Around Llanberis.
 Layout: post

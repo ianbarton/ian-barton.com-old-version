@@ -5,8 +5,6 @@
 #+TITLE: Mammut Champ Trousers.
 
 #+BEGIN_HTML
-
-
 Date: 2010-05-22
 Layout: post
 Title: Mammut Champ Trousers.

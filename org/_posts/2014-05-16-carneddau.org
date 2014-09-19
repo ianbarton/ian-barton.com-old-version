@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 #+TITLE: Traverse of the Carneddau.
 #+BEGIN_HTML
-
 Date: 2014-05-15
 Layout: post
 Title: Traverse of the Carneddau from Cwm Eigiau.

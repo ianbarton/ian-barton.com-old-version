@@ -4,7 +4,6 @@
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil d:nil
 
 #+BEGIN_HTML
-
 Date: 2012-08-11
 Summary: A two day backpack around the Carneddau from Cwm Eigiau.
 Title: Carneddau Horseshoe from Cwm Eigiau

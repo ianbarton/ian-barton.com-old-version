@@ -1,7 +1,6 @@
 #+STARTUP: showall indent
 #+STARTUP: hidestars
 #+BEGIN_HTML
-
 Date: 2011-09-01
 Title: Exped Synmat Ultralite vs Thermarest Neoair.
 Layout: post

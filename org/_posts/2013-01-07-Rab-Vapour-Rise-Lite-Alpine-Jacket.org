@@ -2,7 +2,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-
 Title: Rab Vapour Rise Lite Jacket.
 Summary:
 Date: 2013-01-07

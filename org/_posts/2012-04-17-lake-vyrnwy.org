@@ -3,7 +3,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-
 Date: 2012-04-17
 Layout: post
 Title: Cycling Round Lake Vyrnwy.

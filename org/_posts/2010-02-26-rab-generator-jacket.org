@@ -5,7 +5,6 @@
 #+TITLE: Review Rab Generator Smock.
 
 #+BEGIN_HTML
-
 Date: 2010-02-26
 Layout: post
 Comments: true

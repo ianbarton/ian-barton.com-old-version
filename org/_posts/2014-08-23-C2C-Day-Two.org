@@ -2,8 +2,7 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-
-Title:
+Title: Coast To Coast Cycle Ride Day Two.
 Summary:
 Date:
 Tags:

@@ -3,7 +3,6 @@
 #+OPTIONS: H:3 num:nil tags:nil toc:nil timestamps:nil
 
 #+BEGIN_HTML
-
 Date: 2010-06-02
 Title: Traverse of the Glyders from Capel Curig to Nant Peris.
 Layout: post

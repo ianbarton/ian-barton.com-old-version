@@ -2,7 +2,6 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-
 Title: A Two Day Trip Over Arenig Fawr and Moel Llyfnant.
 Layout: post
 Comments: true
