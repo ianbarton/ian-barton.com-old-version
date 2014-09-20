@@ -7,10 +7,9 @@ Title: Cwm Eigiau Backpack.
 Date: 2014-09-11
 Tags: [backpacking]
 Category: blog
-
+Summary: A two day trip from Cwm Eigiau over Pen Llithrig yr Wrach, Pen yr Helgi Du and Carnedd Llewelyn. Returning via Gledrffordd. Featuring a sunrise time lapse using my new GoPro.
 #+END_HTML
 
-[[post:/posts/2011/Sep/05/carneddeau-summit-camp/index.html][[Contributing]({filename}./2011-03-04-ortlieb-map-case.yml/)
 
 ** Day One Llyn Eigiau to Carnedd Llewelyn .
 
@@ -21,6 +20,14 @@ the whole walk in a very long ten hour day. his time I was planning to
 climb Pen Llithrigg yr Wrach and traverse the ridge over Pen yr Helgi
 Du and Craig yr Ysfa to a camp site a couple of hundred feet below the
 summit of Carnedd Llewelyn.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="A hazy Carnedd Llewelyn  from Pen Llithrig yr Wrach." href="/images/2014-09-carned/IMG_8813.JPG"><img
+ width="200" alt="A hazy Carnedd Llewelyn  from Pen Llithrig yr Wrach." title="A hazy Carnedd Llewelyn  from Pen Llithrig yr Wrach." src="/images/2014-09-carned/thumb.IMG_8813.JPG" /></a>
+
+</div>
+#+END_HTML
 
 I didn't leave home until mid-morning. When I arrived at the start of
 the road up into Cwm Eigiau there were signs at the bottom of the road
@@ -35,6 +42,14 @@ like the stove. Feeling confident that I hadn't forgotten anything I
 set off along the track towards the reservoir. After about half a mile
 I realized that I hadn't turned the GPS on! I seldom use the GPS for
 navigation, but like to keep a record of my track.
+
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Mist over Tryfan and the Glyders." href="/images/2014-09-carned/IMG_8817.JPG"><img
+ width="200" alt="Mist over Tryfan and the Glyders." title="Mist over Tryfan and the Glyders." src="/images/2014-09-carned/thumb.IMG_8817.JPG" /></a>
+
+</div>
+#+END_HTML
 
 I filled my 2 litre and 1 litre Platypus water bottles from the
 reservoir and also the Travel Tap. I wasn't sure if this would be
@@ -64,6 +79,13 @@ appeared up the slope from Pen yr Helgi Du. While chatting to him we
 heard a Chough calling. I said that had seen several Grouse lower
 down. Apparently Grouse numbers have dropped considerably since the
 1970's when the moors were managed.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Craig yr Ysfa and Pen yr Helgi Du at sunset." href="/images/2014-09-carned/IMG_8818.JPG"><img
+ width="200" alt="Craig yr Ysfa and Pen yr Helgi Du at sunset." title="Craig yr Ysfa and Pen yr Helgi Du at sunset." src="/images/2014-09-carned/thumb.IMG_8818.JPG" /></a>
+
+</div>
+#+END_HTML
 
 I dropped down to the col between Pen Llithrig yr Wrach and Pen yr
 Helgi Du. The slope up to the summit of Pen yr Helgi Du didn't seem
@@ -84,7 +106,7 @@ easy apart from the short crux section. If you can jam, climbing the
 crack to the top of a short wall is easy. There is then a very exposed
 step right onto a small ledge. Faling off here would involve a long
 fall into the gulley below. However, you can drop a long sling over a
-pinaccle, which protects the step round and the ground above is
+pinnacle, which protects the step round and the ground above is
 easier. The final section of easy climbing over the pinaccles is a
 delightfully exposed scramble. Maybe next time I'll climb up from
 Ogwen, dump my sack on the top, descend to the bottom, the climb back
@@ -92,7 +114,15 @@ up to my sack and camp on Carnedd Llewelyn.
 
 It was now around 5:30, so I decided to camp on the
 flat grassy shelf on the SE ridge of Carnedd Llewelyn that I had used
-a couple of times in the past. The site is quite sheltered and there
+a couple of times in the past:
+
+
+#+BEGIN_HTML
+[2011 photos]({filename}./2011-09-05-carneddeau-summit-camp.md)
+#+END_HTML
+
+
+ The site is quite sheltered and there
 are several piles of rock nearby, which are useful tables. It's quite
 near to the main path up Carnedd Llewelyn, but far enough away that
 you are not likely to be noticed by people passing by. It was now
@@ -119,6 +149,14 @@ have a rock a few inches under the ground proved difficult. When I had
 found a good spot I set the GoPro up facing over Cwm Eigiau and then
 retired to bed.
 
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Carnedd Llewelyn campsite at sunset." href="/images/2014-09-carned/IMG_8836.JPG"><img
+ width="200" alt="Carnedd Llewelyn campsite at sunset." title="Carnedd Llewelyn campsite at sunset." src="/images/2014-09-carned/thumb.IMG_8836.JPG" /></a>
+
+</div>
+#+END_HTML
+
 The GoPro is in a weather proof case, so if it rained it didn't
 matter. Keeping it inside the tent isn't a good idea, as it's warmer
 inside the tent than outside, or at least it should be! Taking the
@@ -139,6 +177,12 @@ previous day the atmosphere was crystal clear and the summits were
 clear of mist. However, by about 7:00am mist had drifted over from the
 west and all the views were obscured.
 
+#+BEGIN_HTML
+<iframe width="420" height="315"
+src="//www.youtube.com/embed/Gsb9mcleTiQ" frameborder="0"
+allowfullscreen></iframe>
+#+END_HTML
+
 I packed away and began the trudge up towards the summit of Carnedd
 Llewelyn. I could see patches of blue above me, but all the views were
 obscured. From the summit, I set off along the ridge heading towards
@@ -149,6 +193,14 @@ Foel Grach and then descending the ridge that leads from the summit down to Gled
 but the mist was coming and going over the summit. I didn't want to
 walk all the way up to the summit only to find the view obscured by the mist.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Tent at dawn. Mist rolling in." href="/images/2014-09-carned/IMG_8850.JPG"><img
+ width="200" alt="Tent at dawn. Mist rolling in." title="Tent at dawn. Mist rolling in." src="/images/2014-09-carned/thumb.IMG_8850.JPG" /></a>
+
+</div>
+#+END_HTML
+
 The descent was straightforward and this time I didn't make the
 mistake of climbing onto the top of Craig Eigiau, but contoured along
 below the ridge. As I joined the Landrover track I met what appeared
@@ -156,4 +208,5 @@ to be a school party who were being shown how to find where they were
 on the map by their teacher.  Further along the track I passed a man
 and what appeared to be his daughter heading up the track. When I
 reached the car park there were only two or three other cars parked
-there. Coming up midweek ?????.
+there. Being able to walk midweek is definitely and advantage if you
+want the hills to yourself.
