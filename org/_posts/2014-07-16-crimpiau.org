@@ -38,7 +38,7 @@ them with me!
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Llyn Crafnant from Crimpiau." href="/images/2014-07-crimpiau/IMG_8610.JPG"><img
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Llyn Crafnant from Crimpiau." href="/images/IMG_8610.JPG"><img
  width="200" alt="Llyn Crafnant from Crimpiau." title="Llyn Crafnant from Crimpiau." src="/images/2014-07-crimpiau/thumb.IMG_8610.JPG" /></a>
 
 </div>
