@@ -2,78 +2,37 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-Title: Coast To Coast Cycle Ride - Prologue Day One.
+Title: C2C Day One - Whitehaven to Penrith.
 Date: 2014-08-12
-Status: draft
 Tags: [cycling]
 Category: blog
 
 #+END_HTML
 
-There are a number of Coast to Coast cycle rides in the UK. This
-series of posts is about the ride that starts at either Workington or
-Whitehaven and finishes at Tynemouth or Sunderland.
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Path up to col above Llyn Crafnant." href="/images/2014-08-C2C/IMG_20140812_104902.jpg"><img
+ width="200" alt="Path up to col above Llyn Crafnant." title="Path up to col above Llyn Crafnant." src="/images/2014-08-C2C/IMG_20140812_104902.jpg" /></a>
 
-There were five of us planing to do the ride, my son with two of his
-friends and one of my brothers in law. My brother in law could only
-join us for the last two days. Also I wanted to let my son ride in a
-group with his friends, without having his ancient Dad tagging
-along. This meant that  was effectively riding solo. However, since I
-do almost all my cycling alone this suited me.
+</div>
+#+END_HTML
 
-I had done the Way of the Roses last year on my hybrid bike. I had
-carried a fair bit of gear in panniers. For the C2C I decided to use
-my road bike and carry a minimal amount of gear in a rucksack. Most
-cyclists don't like carrying a rucksack, but since I do a lot of
-walking and climbing, I find I prefer to carry things in a rucksack
-than in panniers. Since I was using my road bike, I made a couple of
-modifications to the "Official Route". On the descent from Whinatter I
-followed the road, rather than the track through the forest. Leaving
-Keswick I cycled along the ???? past Castlerigg Stone circles before
-rejoining the C2C at Threlkeld. On day three I avoided cycling along
-the Waskerley Way, taking the B road that runs parallel to
-it. However, my son who was also on his road bike cycled along the
-Waskerley Way and said it was fine.
-
-Depending on the route you take the C2C is around 140 miles long with
-approximately 16,600ft (5,320 metres) of ascent. Most people do the
-route over several days. We had decided to do it in three days. Day
-one was Whitehaven to Keswick. We chose Keswick as my son and his
-friends were staying with one of his friend's grandmother's
-house. This turned out to be a good choice as the ride wasn't too
-hard, so was a nice introduction to the route.
-
-Day two was Keswick to Allenheads. I chose the destination on the
-basis that it Allenheads was supposed to be the end of the big
-hills. This turned out to be quite a short day and it turned out that
-there were two more big hills beyond Allenheads!
-
-Day three was Allenheads to Tynemouth/Sunderland. My son and his
-friends had chosen to finish at Sunderland where one of his friends
-parents was going to pick them up an drive them home. My brother in
-law and I planned to finish at Tynemouth. However, I had to get back
-to Whitehaven and then drive four hours to get home, as we were going
-on holiday the next day. My brother in law had done the route
-previously and knew that we couldn't take cycles on the metro, so
-would have to cycle the ten miles back to Newcastle station. I wasn't
-that bothered about going all the way to the coast, so we finished at
-Newcastle station.
-
-See my rant about rail transport arrangements for the C2C.
-
-We drove up the day before our first stage. My son and his friends
-stayed at the ??? hotel n Whitehaven, whilst I stayed at ???? about
-three miles outside Whitehaven.
-
-* Day One.
 I left [[http://www.chestnuts-whitehaven.com][Chestnuts]] around 8:30am and cycled down into Whitehaven. I
 cycled down to the harbour, but didn't bother going all the way along
-to the C2C sign. The initial section of Whitehaven is fairly grim. The
+to the C2C sign. The initial section out of Whitehaven is fairly grim. The
 cycling is easy, but the route goes through several housing estates
 and the path is littered with large collection of dog turds and broken
 glass. Luckily this section isn't too long and I was soon following
-the old railway line. The off road sections are almost all on tarmac,
-with a short section of rather bumpy track just before Rowrah.
+the old railway line. The off road sections are almost all on tarmac
+so fine on a road bike. There was a short section of rather bumpy
+track just before Rowrah which would be unpleasant on a road bike if
+it was very wet.
+
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
+
 
 The weather, which had been fine for weeks looked decidedly dodgy. The
 day before the tail end of a hurricane had passed through. The fells in
@@ -91,38 +50,53 @@ narrow road with plenty of ups and downs. At the village of Low Lorton
 there is a very steep section. Thankfully it's short and it deposits
 you at the bottom of the Whinlatter Pass.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Saddleback Cafe Keswick." href="/images/2014-08-C2C/IMG_20140812_130719.jpg"><img
+ width="200" alt="Saddleback Cafe Keswick." title="Saddleback Cafe Keswick." src="/images/2014-08-C2C/IMG_20140812_130719.jpg" /></a>
+
+</div>
+#+END_HTML
+
 The climb up Whinlatter isn't to bad and there is a Visitor Centre at
-the top, which I didn't bother visiting. I stopped to chew through an
-oat bar and have a drink. I realized how cold and windy it was, as in
-about five minutes I went from an overheated sweaty lump to a
-shivering lump! I can't really see the point of following the forestry
-track, which looks steep and loose. The road is fairly quiet. It is
-very steep in places, so you need to keep a check on your speed and
-make sure that you can make it round the next bend, without colliding
-with an oncoming car. At the bottom I crossed a small suspension
-bridge over the Derwent. After a short section along a railway track I
-emerged next to the A66. There is a good cycle track alongside the
-road. It was on this track that I experienced the only puncture of the
-trip. There was an explosive bang and the rear tyre went flat
-instantly. I couldn't find anything that might have caused this to
-happen and there was nothing stuck in the tyre. I had soon fitted a
-new tube and continued the short distance into Keswick.
+the top, which I didn't bother visiting. I stopped i one of the car
+parks to chew through an oat bar and have a drink. I realized how cold
+and windy it was, as in about five minutes I went from an overheated
+sweaty lump to a shivering lump! I can't really see the point of
+following the forestry track, which looks steep and loose. The road is
+fairly quiet. It is very steep in places, so you need to keep a check
+on your speed and make sure that you can make it round the next bend,
+without colliding with an oncoming car. At the bottom I crossed a
+small suspension bridge over the Derwent. A short section along
+a railway track emerged next to the A66. There is a good cycle track
+alongside the road. It was on this track that I experienced the only
+puncture of the trip. There was an explosive bang and the rear tyre
+went flat instantly. I couldn't find anything that might have caused
+this to happen and there was nothing stuck in the tyre. I had soon
+fitted a new tube and continued the short distance into Keswick.
 
 Keswick reminded me why I don't visit the Lakes anymore. It took about
 five minutes before there was a break in the traffic, so I could cross
-the road. he town itself appeared absolutely ram packed full of people
+the road. The town itself was absolutely ram packed full of people
 and almost every shop was some sort of outdoors emporium, with almost
 no real shops.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="A proper doorstep sandwich." href="/images/2014-08-C2C/IMG_20140812_124053.jpg"><img
+ width="200" alt="A proper doorstep sandwich." title="A proper doorstep sandwich." src="/images/2014-08-C2C/IMG_20140812_124053.jpg" /></a>
 
-I still had one spare tube, but I bought another at [[http://www.keswickbikes.co.uk][Keswick
-Bikes]]. While I was there I bought a Cateye rear light, as my son had
-commandeered mine for his bike. I wasn't expecting to be riding in the
-dark, but having some sort of highly visible light in case of heavy
-rain, or poor visibility is always a good idea. I settled into the
-Saddleback cafe, which is next to Keswick Bikes. I had a "proper"
-cheese and pickle doorstep wedge sandwich. While I was eating it, the
-heavens opened and rain poured down. Fortunately, by the time I had
-finished lunch the rain had blown over.
+</div>
+#+END_HTML
+
+I still had one spare tube, but I bought another at
+[[http://www.keswickbikes.co.uk][KeswickBikes]]. While I was there I bought a Cateye rear light, as my
+son had commandeered mine for his bike. I wasn't expecting to be
+riding in the dark, but having some sort of highly visible light in
+case of heavy rain, or poor visibility is always a good idea. I
+settled into the Saddleback cafe, which is next to Keswick Bikes. I
+had a "proper" cheese and pickle doorstep wedge sandwich. While I was
+eating it, the heavens opened and rain poured down. Fortunately, by
+the time I had finished lunch the rain had blown over.
 
 I made my way slowly through the centre of Keswick, which given the
 amount of traffic was probably the most dangerous part of the
@@ -133,6 +107,7 @@ made it to the stone circle, where I stopped for a rest. A few years
 ago we had visited them with the children on a ride that went out of
 Keswick along the old railway track and returned past the stone
 circle.
+
 
 I made a mistake shortly after the stone circle and turned left too
 soon. This brought me out on the A66, with no option of avoiding
@@ -149,57 +124,27 @@ meander through Greystoke (home of Tarzan), it was finally time to
 drop down into Penrith.
 
 I made straight for Morrisons, where I had a large Bakewell tart and a
-pot of tea. I had a text from my son, which is a lot fitter than me
+pot of tea. I received a text from my son, who is a lot fitter than me
 and had arrived some time before. I was staying in the Travelodge on
 the A66, where my wife was going to join me.  I was a bit worried how
 I was going to get there, as I really didn't fancy cycling down the
 A66. Luckily, there is a cycle path that leads alongside the A66
 directly to the Travelodge.
 
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140812_132829.jpg"><img
+ width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/IMG_20140812_132829.jpg" /></a>
+
+</div>
+#+END_HTML
+
 The Travelodge had recently been refurbished and had decent size
 rooms, pleasantly decorated. Travelodges can be cheap to stay in, but
-recently seem to have been in a race to the bottom to cut facilities
+recently seem to have been involved in a race to the bottom to cut facilities
 and maintenance to the minimum to save costs. However, I would be
 happy to stay in the Keswick one again! We had tea in the Little Chef
 next door - I thought these were extinct.
 
 I was happy with my performance on day one. I hadn't found the ride
 hard and wasn't particularly tired.
-
-* Ride Statistics.
-Times are taken from my GPS logs. The exclude major stops at
-cafes. However, they do include minor stops such as 30min or so  to
-fix a puncture outside Keswick. Altitudes and distances are taken
-directly from the GPS log.
-
-The initial section of day two doesn't include the steep climb from
-the centre of Penrith up to Beacon Edge because I forgot to start the
-GPS and I wasn't about to drop back down the hill and cycle up it again!
-
-In retrospect if I did the ride again, I would go further on the
-second day, or do the whole thing in two days. My brother in law had
-previously done the ride in two days, going from Whitehaven to
-Allenheads in one day.
-
-** Day One.
-|-------------------------------------------------+-------------------+------------------+------------|
-| Whitehaven to Penrith                           | Distance miles/km | Ascent ft/metres | Total Time |
-|-------------------------------------------------+-------------------+------------------+------------|
-| 3 hrs 10 min (includes fix puncture) to Keswick | 54.6 (87.4)       | 5961 (1834)      |       5:40 |
-| 2 hrs 30 min to Penrith                         |                   |                  |            |
-|-------------------------------------------------+-------------------+------------------+------------|
-
-** Day Two.
-|---------------------------------------------+-------------------+------------------+------|
-| Penrith to Allenheads                       | Distance miles/km | Ascent ft/metres | Time |
-|---------------------------------------------+-------------------+------------------+------|
-| Penrith to Hartside Cross (cafe) 1hr 53 min | 33.6 (53.8)       | 5177 (1593)      | 3:57 |
-| Hartside to Allenheads 2hr 4min             |                   |                  |      |
-|---------------------------------------------+-------------------+------------------+------|
-
-** Day Three.
-|-------------------------+-------------------+------------------+------|
-| Allenheads to Newcastle | Distance miles/km | Ascent ft/metres | Time |
-|-------------------------+-------------------+------------------+------|
-| 4hrs 33mins             | 44.3 (70.9)       | 3569 (1098)      | 4:33 |
-|-------------------------+-------------------+------------------+------|

@@ -2,21 +2,32 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-Title: Coast to Coast Day Three.
-Date: 2014-08-13
+Title: C2C Three - Allenheads to Newcastle..
+Date: 2014-08-14
 Tags: [cycling]
-Status: draft
 Category: blog
 
 #+END_HTML
 
-* Day Three - Allenheads to Newcastle.
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Path up to col above Llyn Crafnant." href="/images/2014-08-C2C/IMG_20140814_11312.jpg"><img
+ width="200" alt="Path up to col above Llyn Crafnant." title="Path up to col above Llyn Crafnant." src="/images/2014-08-C2C/IMG_20140814_11312.jpg" /></a>
+
+</div>
+#+END_HTML
+
 When I got up in the morning, I felt slightly sick and couldn't eat
-much of the excellent breakfast. I recovered after a couple of hours,
-but was a bit worried about how the day might go.  I wanted to get to
-Newcastle as early as possible, so I would be able to  get back to
-Whitehaven in time to drive home. I was also worried about not being
-able to get my bike on the train.
+much of the excellent breakfast. Luckily I recovered after a couple of
+hours on the bike, but was a bit worried about how the day might go.
+I wanted to get to Newcastle as early as possible, so I would be able
+to get back to Whitehaven in time to drive home. I was also worried
+about not being able to get my bike on the train.
+
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
 
 Almost as soon as I left the village there was a steep hill. This lead
 through a series of tight bends and was hemmed in by forestry. Just
@@ -74,6 +85,6 @@ earlier junction, but there were no signs before junction 16
 indicating that it was closed! This added an unnecessary extra 30
 miles to my journey.
 
-I spite of the drenching and extra unnecessary 30 miles, I had enjoyed
-the last day. I would like to do the route again, but next time I'll
-tr and do in two days.
+I spite of the drenching and extra unnecessary 30 miles driving home,
+I had enjoyed the last day. I would like to do the route again, but
+next time I'll try and do in two days.

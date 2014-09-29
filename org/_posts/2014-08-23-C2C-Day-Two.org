@@ -2,22 +2,32 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-Title: Coast To Coast Cycle Ride Day Two.
+Title: C2C Day Two - Penrith to Allenheads.
 Date: 2014-08-13
 Tags: [cycling]
-Status: draft
 Category: blog
 
 #+END_HTML
 
-* Penrith to Allenheads.
+#+BEGIN_HTML
+<!-- PELICAN_BEGIN_SUMMARY -->
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Le Grand Depart." href="/images/2014-08-C2C/IMG_20140813_090832.jpg"><img
+ width="200" alt="Le Grand Depart." title="Le Grand Depart." src="/images/2014-08-C2C/IMG_20140813_090832.jpg" /></a>
+
+</div>
+#+END_HTML
+
 We had originally planned this section to complete the major climbs of
 the middle section in one day. It turned out to be a very short day,
-about three and a half hours. In retrospect it would have been better
+about three and a half hours (excluding tops). In retrospect it would have been better
 to continue beyond Allenheads, but as we had pre-booked accomodation
 this wasn't possible. With a bit more planning we could have probably
 completed the route in two days, although for me, this would have been
 pushing it a bit.
+#+BEGIN_HTML
+<!-- PELICAN_END_SUMMARY -->
+#+END_HTML
 
 We had arranged to meet my son and his friends at the place they were
 staying in Penrith about 8:30am. We had planned to have breakfast at
@@ -33,9 +43,15 @@ myself followed at a more sedate pace. Once again the weather looked
 decidedly dodgy, with cloud obscuring the moors in front of us. We
 passed through Langwathby . There followed several sections of up and
 down, but nothing too steep. We could see cars climbing the A686, high
-up on the moors, in
-the distance. The tops were covered in cloud, so we couldn't see that
-cafe.
+up on the moors, in the distance. The tops were covered in cloud, so
+we couldn't see that cafe.
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_105959.jpg"><img
+ width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/IMG_20140813_105959.jpg" /></a>
+
+</div>
+#+END_HTML
 
 From the description I had expected the hill up to Hartside to be
 challenging. However, it turned out to be much easier than many of the
@@ -48,17 +64,24 @@ tea with an apricot slice were very welcome.
 
 The descent from the cafe was very pleasant. Although it's on an A
 road, there was very little traffic. Not having seen any traffic for
-the last three miles, as soon as I wanted to turn right at Leadgate a veritable
-convoy suddenly appeared behind me. The ride down into Garigill was
-pleasant. However, the intial section was a shocker. After overcoming
-this initial very steep part, the hill goes on, and on, and on. The
-subsequent sections aren't too steep and there are fine views all
-around. We stopped for a drink and some food at the top of the hill
-before beginning the descent towards Nenthead. Just before arriving at
-Nenthead there is a very steep descent. This culminates in a couple of
-very sharp bends and the road is very potholed. There are several
-signs warning you to slow down. Take note! Going too fast will result
-in a painful crash.
+the last three miles, as soon as I wanted to turn right at Leadgate a
+veritable convoy suddenly appeared behind me. The ride down into
+Garigill was pleasant. However, the initial section out of there was a
+shocker. After overcoming the very steep start, the hill goes
+on, and on, and on. However, the subsequent sections aren't too steep and there
+are fine views all around. We stopped for a drink and some food at the
+top of the hill before beginning the descent towards Nenthead. Just
+before arriving at Nenthead there is a very steep descent. This
+culminates in a couple of very sharp bends and the road is very
+potholed. There are several signs warning you to slow down. Take note!
+Going too fast will result in a painful crash.
+#+BEGIN_HTML
+<div class="photofloatl">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_130528.jpg"><img
+ width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/IMG_20140813_130528.jpg" /></a>
+
+</div>
+#+END_HTML
 
 My wife was waiting at Nenthead and we stopped for a chat and some
 more to drink.  After an initial steep climb out of the village we
@@ -66,6 +89,14 @@ turned off along the B road to climb up to the top of Black Hill, the
 highest point of the C2C. There follows a short descent before another
 small hill. After that it's a great downhill ride all the way to
 Allenheads.
+
+#+BEGIN_HTML
+<div class="photofloatr">
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_130640.jpg"><img
+ width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/IMG_20140813_130640.jpg" /></a>
+
+</div>
+#+END_HTML
 
 The village of Allenheads is quite stretched out and the pub and our
 accommodation were at the far end. My son and his friends stayed in

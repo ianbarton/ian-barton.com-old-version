@@ -2,19 +2,21 @@
 #+STARTUP: hidestars
 #+OPTIONS: H:2 num:nil tags:nil toc:nil timestamps:nil
 #+BEGIN_HTML
-Title: Coast To Coast Prologue.
+Title: C2C Prologue.
 Date: 2014-08-12
 Tags: [cycling]
-Status: draft
 Category: blog
 
 #+END_HTML
 
 There are a number of Coast to Coast cycle rides in the UK. This
 series of posts is about the ride that starts at either Workington or
-Whitehaven and finishes at Tynemouth or Sunderland.
+Whitehaven and finishes at Tynemouth or Sunderland. Depending on the
+route you choose the ride is around 140 miles long with approximately
+15,000 ft (altitude calculated from my GPS tracks) of ascent. We had
+decided to do the ride over three days.
 
-There were five of us planing to do the ride, my son with two of his
+There were five of us planning to do the ride: my son with two of his
 friends and one of my brothers in law. My brother in law could only
 join us for the last two days. Also I wanted to let my son ride in a
 group with his friends, without having his ancient Dad tagging
@@ -32,16 +34,16 @@ Whinatter I followed the road, rather than the track through the
 forest. Leaving Keswick I cycled past Castlerigg Stone circles before
 rejoining the C2C at Threlkeld, thus avoiding the railway track. On
 day three I avoided cycling along the Waskerley Way, taking the B road
-that runs parallel to it. However, my son who was also on his road
-bike cycled along the Waskerley Way and said it was fine.
+that runs parallel to it. However, my son, who was also on his road
+bike cycled, along the Waskerley Way and said it was fine.
 
 Depending on the route you take the C2C is around 140 miles long with
 approximately 16,600ft (5,320 metres) of ascent. Most people do the
 route over several days. We had decided to do it in three days. Day
-one was Whitehaven to Keswick. We chose Keswick as the destination because my son and his
-friends were staying at one of his friend's grandmother's
-house. This turned out to be a good choice as the ride wasn't too
-hard, so was a nice introduction to the route.
+one was Whitehaven to Keswick. We chose Keswick as the destination
+because my son and his friends were staying at one of his friend's
+grandmother's house. This turned out to be a good choice as the ride
+wasn't too hard, so was a nice introduction to the route.
 
 Day two was Keswick to Allenheads. I chose the destination on the
 basis that it Allenheads was supposed to be the end of the big hills,
@@ -66,14 +68,14 @@ See my rant about rail transport arrangements for the C2C.
 
 ** Day 0 (Pre-ride).
 We drove up the day before our first stage. My son and his friends
-stayed at the ??? hotel in Whitehaven, whilst I stayed at [[http://www.chestnuts-whitehaven.com][Chestnuts]]
-about three miles outside Whitehaven. If you like animals I can
-thoroughly recommend Chestnuts. The owners are very helpful and
+stayed at the The Waverley Hotel hotel in Whitehaven, whilst I stayed
+at [[http://www.chestnuts-whitehaven.com][Chestnuts]] about three miles outside Whitehaven. If you like animals
+I can thoroughly recommend Chestnuts. The owners are very helpful and
 accommodating. The B&B is comfortable and the breakfasts good and they
 will serve you an early breakfast if you want an early start. The
 owners run a small animal sanctuary, in addition to having several
-pets of their own. There are dogs, cats, chinchillas, a parrot
-and some owls.
+pets of their own. There are dogs, cats, chinchillas, a parrot and
+some owls.
 
 ** Day 1 - Keswick.
 I stayed in the Travelodge on the A66, just outside Keswick. This can
@@ -84,3 +86,69 @@ opening at 7:00am, as it claims. There is a notice stuck to the door
 saying it opens at 8:00am. However, Morrisons serve good and cheap breakfasts.
 
 ** Day 2 - Allenheads.
+I stayed at [[http://www.allenheadsc2c.com][Newhouses]] which is a very comfortable B&B just on the edge
+of the village, up a steep stone track. This was very comfortable with
+a residents lounge and an excellent breakfast. My son and his friends
+stayed at the ???, which they said was fine.
+
+* Useful Books and Web Sites.
+I found the [[http://www.amazon.co.uk/C2C-Cycle-Route-Cicerone-Guides-ebook/dp/B00A2MKYO8/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1411372919&sr=1-1&keywords=c2c+cicerone][Cicerone]] guide a great source of information before and
+during the ride. I decided to buy the Kindle version. For me the only
+disadvantage of the Kindle version was that the maps aren't zoomable,
+so are basically unreadable on a small screen. However since I had a
+paper map this didn't matter to me.
+
+The [[http://www.c2c-guide.co.uk/][C2C]] web site is the official resource for the ride and contains
+lots of information.
+
+* Map.
+Although the route is very well signposted, carrying a map is highly
+recommended. I used the [[http://www.amazon.co.uk/gp/product/1901389650/ref=pd_lpo_sbs_dp_ss_1?pf_rd_p=479289247&pf_rd_s=lpo-top-stripe&pf_rd_t=201&pf_rd_i=1852846496&pf_rd_m=A3P5ROKL5A1OLE&pf_rd_r=1YC5Z8C9KDRGP64NK2R6][Sustrans]] official map. The map shows both on
+road and off road alternatives. It was well worth buying. However,
+there are a couple of minor niggles:
+
+- There are no grid lines, which makes it hard to cross reference your
+  position using a GPS or OS map.
+- In order to fit all the ride onto one map, it only shows a narrow
+  strip. Thus it's hard to see places of interest, or route
+  alternatives without referring to another map.
+
+Despite these minor niggles, I would recommend that you buy the map.
+
+* Ride Statistics.
+Times are taken from my GPS logs. The exclude major stops at
+cafes. However, they do include minor stops such as 30min or so  to
+fix a puncture outside Keswick. Altitudes and distances are taken
+directly from the GPS log.
+
+The initial section of day two doesn't include the steep climb from
+the centre of Penrith up to Beacon Edge because I forgot to start the
+GPS and I wasn't about to drop back down the hill and cycle up it again!
+
+In retrospect if I did the ride again, I would go further on the
+second day, or do the whole thing in two days. My brother in law had
+previously done the ride in two days, going from Whitehaven to
+Allenheads in one day.
+
+** Day One.
+|-------------------------------------------------+-------------------+------------------+------------|
+| Whitehaven to Penrith                           | Distance miles/km | Ascent ft/metres | Total Time |
+|-------------------------------------------------+-------------------+------------------+------------|
+| 3 hrs 10 min (includes fix puncture) to Keswick | 54.6 (87.4)       | 5961 (1834)      |       5:40 |
+| 2 hrs 30 min to Penrith                         |                   |                  |            |
+|-------------------------------------------------+-------------------+------------------+------------|
+
+** Day Two.
+|---------------------------------------------+-------------------+------------------+------|
+| Penrith to Allenheads                       | Distance miles/km | Ascent ft/metres | Time |
+|---------------------------------------------+-------------------+------------------+------|
+| Penrith to Hartside Cross (cafe) 1hr 53 min | 33.6 (53.8)       | 5177 (1593)      | 3:57 |
+| Hartside to Allenheads 2hr 4min             |                   |                  |      |
+|---------------------------------------------+-------------------+------------------+------|
+
+** Day Three.
+|-------------------------+-------------------+------------------+------|
+| Allenheads to Newcastle | Distance miles/km | Ascent ft/metres | Time |
+|-------------------------+-------------------+------------------+------|
+| 4hrs 33mins             | 44.3 (70.9)       | 3569 (1098)      | 4:33 |
+|-------------------------+-------------------+------------------+------|
