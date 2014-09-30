@@ -47,8 +47,8 @@ up on the moors, in the distance. The tops were covered in cloud, so
 we couldn't see that cafe.
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_105959.jpg"><img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG_20140813_105959.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Looking back from Hartside cafe." href="/images/2014-08-C2C/IMG_20140813_105959.jpg"><img
+ width="200" alt="Looking back from Hartside cafe." title="Looking back from Hartside cafe." src="/images/2014-08-C2C/thumb.IMG_20140813_105959.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -77,8 +77,8 @@ potholed. There are several signs warning you to slow down. Take note!
 Going too fast will result in a painful crash.
 #+BEGIN_HTML
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_130528.jpg"><img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG_20140813_130528.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Crossing into Northumberland." href="/images/2014-08-C2C/IMG_20140813_130528.jpg"><img
+ width="200" alt="Crossing into Northumberland." title="Crossing into Northumberland." src="/images/2014-08-C2C/thumb.IMG_20140813_130528.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -92,8 +92,8 @@ Allenheads.
 
 #+BEGIN_HTML
 <div class="photofloatr">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_130640.jpg"><img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG_20140813_130640.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="View from above Nenthead." href="/images/2014-08-C2C/IMG_20140813_130640.jpg"><img
+ width="200" alt="View from above Nenthead." title="View from above Nenthead." src="/images/2014-08-C2C/thumb.IMG_20140813_130640.jpg" /></a>
 
 </div>
 #+END_HTML

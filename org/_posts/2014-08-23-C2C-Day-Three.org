@@ -12,8 +12,8 @@ Category: blog
 #+BEGIN_HTML
 <!-- PELICAN_BEGIN_SUMMARY -->
 <div class="photofloatl">
-<a class="fancybox-thumb" rel="fancybox-thumb"  title="Path up to col above Llyn Crafnant." href="/images/2014-08-C2C/IMG_20140814_11312.jpg"><img
- width="200" alt="Path up to col above Llyn Crafnant." title="Path up to col above Llyn Crafnant." src="/images/2014-08-C2C/thumb.IMG_20140814_11312.jpg" /></a>
+<a class="fancybox-thumb" rel="fancybox-thumb"  title="Sculpture on the outskirts of Consett." href="/images/2014-08-C2C/IMG_20140814_11312.jpg"><img
+ width="200" alt="Sculpture on the outskirts of Consett." title="Sculpture on the outskirts of Consett." src="/images/2014-08-C2C/thumb.IMG_20140814_11312.jpg" /></a>
 
 </div>
 #+END_HTML
