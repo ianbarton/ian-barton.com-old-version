@@ -152,3 +152,51 @@ Allenheads in one day.
 |-------------------------+-------------------+------------------+------|
 | 4hrs 33mins             | 44.3 (70.9)       | 3569 (1098)      | 4:33 |
 |-------------------------+-------------------+------------------+------|
+
+** Train Rant!
+I had hope to do the ride without needing to use the car. Getting from
+Crewe to Whitehaven with a bike didn't seem too problematic, although
+bikes have to be pre-booked and the number of spaces aren't known
+until you try to make your booking. However, getting back from
+Tynemouth to Whitehaven was a different matter. I discovered from my
+brother in law, who had done the ride before, that you can't take
+cycles on the metro from Tynemouth back into the centre of Newcastle.
+
+Once back in Newcastle, you have to catch a train to Carlisle, then
+another one to Whitehaven. At present both services are run by
+Northern Rail. Their web site promises:
+
+#+begin_quote
+Northern is strongly committed to promoting cycling as a sustainable
+and healthy means of transport that complements our train service. Our
+vision is to 'connect people to opportunities by the most sustainable
+means' and cycling has an important role to play. We want to do more
+to make this an attractive option so we are working with local
+authorities and the cycling community to see where we can make our
+stations more cycle-friendly.
+
+Bikes are carried free of charge at any time and you don't need to make reservations.
+
+The cycle space on trains is clearly marked, both internally and
+externally. Space is allocated on a first come, first served basis.
+
+We can only carry a maximum of two bikes per train but conductors have
+responsibility for the safety of their train and have the right to
+refuse entry if the train is busy.
+#+end_quote
+
+Note that bikes can't be pre-booked and there are only two spaces per
+train. So after a three day ride, you don't know if you can actually
+get your bike on a train. The C2C is one of the most popular long
+distance cycle routes in England, with hundreds of people completing
+it each year. The provision of two bike spaces per train is derisory!
+
+In practice the train from Newcastle to Carlisle had more spaces
+(probably around 6). However, the Carlisle to Whitehaven service did
+only have two spaces. Luckily the conductor was happy to let extra
+bikes onto the train. We could just as easily have been unlucky and
+had to wait for possibly days for a space. It's not as though
+installing extra spaces is expensive, or complicated. Also it has
+minimal impact on the total number of passengers that can be carried.
+So Northern Rail how about living up to your grand "Mission Statement"
+and actually provide a proper cycle carriage service.
