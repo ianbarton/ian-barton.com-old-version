@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 Title: C2C Prologue.
 Date: 2014-08-12
-Tags: [cycling]
+Tags: [cycling, c2c]
 Category: blog
 
 #+END_HTML

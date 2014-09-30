@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 Title: C2C Three - Allenheads to Newcastle..
 Date: 2014-08-14
-Tags: [cycling]
+Tags: [cycling, c2c]
 Category: blog
 
 #+END_HTML
@@ -13,7 +13,7 @@ Category: blog
 <!-- PELICAN_BEGIN_SUMMARY -->
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Path up to col above Llyn Crafnant." href="/images/2014-08-C2C/IMG_20140814_11312.jpg"><img
- width="200" alt="Path up to col above Llyn Crafnant." title="Path up to col above Llyn Crafnant." src="/images/2014-08-C2C/IMG_20140814_11312.jpg" /></a>
+ width="200" alt="Path up to col above Llyn Crafnant." title="Path up to col above Llyn Crafnant." src="/images/2014-08-C2C/thumb.IMG_20140814_11312.jpg" /></a>
 
 </div>
 #+END_HTML

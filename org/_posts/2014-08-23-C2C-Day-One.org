@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 Title: C2C Day One - Whitehaven to Penrith.
 Date: 2014-08-12
-Tags: [cycling]
+Tags: [cycling, c2c]
 Category: blog
 
 #+END_HTML
@@ -13,7 +13,7 @@ Category: blog
 <!-- PELICAN_BEGIN_SUMMARY -->
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Path up to col above Llyn Crafnant." href="/images/2014-08-C2C/IMG_20140812_104902.jpg"><img
- width="200" alt="Path up to col above Llyn Crafnant." title="Path up to col above Llyn Crafnant." src="/images/2014-08-C2C/IMG_20140812_104902.jpg" /></a>
+ width="200" alt="Path up to col above Llyn Crafnant." title="Path up to col above Llyn Crafnant." src="/images/2014-08-C2C/thumb.IMG_20140812_104902.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -53,7 +53,7 @@ you at the bottom of the Whinlatter Pass.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Saddleback Cafe Keswick." href="/images/2014-08-C2C/IMG_20140812_130719.jpg"><img
- width="200" alt="Saddleback Cafe Keswick." title="Saddleback Cafe Keswick." src="/images/2014-08-C2C/IMG_20140812_130719.jpg" /></a>
+ width="200" alt="Saddleback Cafe Keswick." title="Saddleback Cafe Keswick." src="/images/2014-08-C2C/thumb.IMG_20140812_130719.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -83,7 +83,7 @@ no real shops.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="A proper doorstep sandwich." href="/images/2014-08-C2C/IMG_20140812_124053.jpg"><img
- width="200" alt="A proper doorstep sandwich." title="A proper doorstep sandwich." src="/images/2014-08-C2C/IMG_20140812_124053.jpg" /></a>
+ width="200" alt="A proper doorstep sandwich." title="A proper doorstep sandwich." src="/images/2014-08-C2C/thumb.IMG_20140812_124053.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -134,7 +134,7 @@ directly to the Travelodge.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140812_132829.jpg"><img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/IMG_20140812_132829.jpg" /></a>
+ width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG_20140812_132829.jpg" /></a>
 
 </div>
 #+END_HTML

@@ -4,7 +4,7 @@
 #+BEGIN_HTML
 Title: C2C Day Two - Penrith to Allenheads.
 Date: 2014-08-13
-Tags: [cycling]
+Tags: [cycling, c2c]
 Category: blog
 
 #+END_HTML
@@ -13,7 +13,7 @@ Category: blog
 <!-- PELICAN_BEGIN_SUMMARY -->
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Le Grand Depart." href="/images/2014-08-C2C/IMG_20140813_090832.jpg"><img
- width="200" alt="Le Grand Depart." title="Le Grand Depart." src="/images/2014-08-C2C/IMG_20140813_090832.jpg" /></a>
+ width="200" alt="Le Grand Depart." title="Le Grand Depart." src="/images/2014-08-C2C/thumb.IMG_20140813_090832.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -48,7 +48,7 @@ we couldn't see that cafe.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_105959.jpg"><img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/IMG_20140813_105959.jpg" /></a>
+ width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG_20140813_105959.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -78,7 +78,7 @@ Going too fast will result in a painful crash.
 #+BEGIN_HTML
 <div class="photofloatl">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_130528.jpg"><img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/IMG_20140813_130528.jpg" /></a>
+ width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG_20140813_130528.jpg" /></a>
 
 </div>
 #+END_HTML
@@ -93,7 +93,7 @@ Allenheads.
 #+BEGIN_HTML
 <div class="photofloatr">
 <a class="fancybox-thumb" rel="fancybox-thumb"  title="Castlerigg stone circle." href="/images/2014-08-C2C/IMG_20140813_130640.jpg"><img
- width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/IMG_20140813_130640.jpg" /></a>
+ width="200" alt="Castlerigg stone circle" title="Castlerigg stone circle" src="/images/2014-08-C2C/thumb.IMG_20140813_130640.jpg" /></a>
 
 </div>
 #+END_HTML
