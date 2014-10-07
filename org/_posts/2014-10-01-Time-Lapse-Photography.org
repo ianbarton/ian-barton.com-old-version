@@ -1,0 +1,241 @@
+#+STARTUP: showall indent
+#+STARTUP: hidestars
+#+OPTIONS: H:4 num:nil tags:nil toc:nil timestamps:nil
+#+BEGIN_HTML
+Title: Time Lapse Photography.
+Date: 2014-10-01
+Tags: [photography]
+Category: blog
+#+END_HTML
+
+A couple of years ago my son wanted to do a photography project for
+school. We had recently bought a Canon EOS 550D DSLR, which he was
+keen to use. While wasting time browsing various photography sites, I
+found several references to using the Canon for making time lapse
+films. The basic concept is that you take a sequence of still photos
+over several hours and then combine them together into a video
+format. Thus you can condense many hours of still photography into a
+short video, which shows a speeded up version of the scene you
+photographed.
+
+* Equipment.
+Certain types of photography are well suited to making time
+lapses. Astro-photography and landscapes are a couple of obvious
+candidates. Apart from a suitable camera, you need a few additional
+bits of equipment:
+
+- A decent tripod. The camera must not move between shots and will
+  need to be in the same spot for as long as the time lapse
+  lasts. This can vary from a couple of hours to a whole 24hrs, or more.
+- An intervalometer (see below). Not essential, but makes life much easier.
+- A lot of patience. You can be standing around for hours in the cold
+  and initially you will probably experience many frustrating
+  failures.
+
+
+** Battery Life.
+If you are going for a long sequence consider getting an extended
+battery pack. If the temperature is low your battery life will be
+considerably reduced. You might want to try warming your battery pack,
+but this can also cause condensation on the lens!
+
+** Intervalometers.
+You can trigger the shutter of  a Canon either from a PC via its usb
+port, or by using something like a RaspberryPi.  See:
+
+However, for outside work this is very inconvenient and prone to
+failure. It's far better to use an intervalometer. The basic functions
+are:
+- Delay: the amount of time between pressing "Start" and when the
+  first picture is taken.
+- Interval: the time between which photos are taken. If you set this to
+  one minute a photo will be taken every minute.
+- Long: The amount of time the shutter is left open.
+- Number: the number of photos you want the intervalometer to take.
+
+There are a lot of these around. Here is an example on [[http://www.amazon.co.uk/Ramozz-intervalometer-remote-shutter-Camera/dp/B00C1C0WQC/ref=sr_1_1?s=electronics&ie=UTF8&qid=1412174972&sr=1-1&keywords=intervalometer][Amazon]]. They
+all seems to be made in the same Chinese factory. Try Googling
+"Hongdak MC-36B". The cost is £10 upwards depending on who you buy it
+from. If you are serious about time lapse photos buying one of these
+will save you endless hours of frustration. Note different models
+support different cameras. Make sure you buy the right one for your
+camera! There is a good review of the Hongdak [[http://www.linearconcepts.com/photography/reviews/photo1][here]].
+
+** Alternatives to Using a DSLR.
+
+Note that neither the Pi, nor the GoPro are suitable to taking photos
+of stars, although the rumoured GpPro4 is meant to fix that problem.
+
+*** Raspberry Pi.
+Definitely a geek solution. Relatively cheap when bought with a
+camera.
+
+- There are a couple of dedicated cases suitable for outdoor use, but
+  a real geek will use a Tupperware box.
+- You can use a rechargeable battery  and its low power consumption
+  means it will continue working for a long period.
+- Camera is surprisingly good, but definitely not up to DSLR standards.
+
+Disadvantages:
+- If you are working outside there is no easy method of getting a
+  preview of what the camera can see. It's possible to bodge this by
+  making the Pi into a WiFi hotspot and using your phone to view the
+  photos it has taken. However, not very practical, except for the
+  real hard core geek.
+
+*** GoPro.
+Why use a GoPro?
+- It's very light. Important if you are carrying it up a big mountain.
+- It comes in a waterproof case, so you can safely leave it outside
+  without worrying about it getting soaked.
+- There are innumerable fixings and brackets available. You can easily
+  attach it to something like a walking pole as a tripod.
+- If you get fed up of time lapses you can use it to film your wing
+  suit [[https://www.youtube.com/watch?v=WRqnTODwvEA][jump]].
+- It has reasonably comprehensive time lapse facilities built in.
+- Controllable from your smart phone or via a WiFi dongle.
+
+Some disadvantages:
+- Short battery life. Around 2hrs in optimal conditions, although you
+  can get extended battery packs.
+- Not suitable for photographing stars, although general low light
+  performance is good.
+- Limited exposure control and a fixed wide angle lens.
+
+
+* Night Time Photography (Stars and Star Trails).
+The factors to consider are the ISO setting and length of exposure. If
+you set the ISO too high, the camera sensor will produce a lot of
+noise and degrade the image. If you set the exposure to be too long,
+the stars will move while the photograph is being exposed, leading to
+blurred images.
+
+Make sure you turn auto-focus off. The infinity setting on your lens
+is probably not going to give you a sharp image. Make sure you focus
+manually. I tend to use an aperture of around F5.6, but this will
+depend on your lens. Generally using your lens's widest aperture won't
+give you the best results.
+
+Set your white balance to around 3500K. This helps to reduce redness
+from any sodium lighting that is around and will give you a blue
+sky. If you leave your shutter open to log, you will get star trails,
+as the stars move across the sky during the exposure because of the
+earth's rotation. To avoid star trails limit your exposure to
+1000/focal length.
+
+If you want to capture star trails, take multiple exposures over a few
+hours. You can the "stack" the multiple images to produce
+trails. There are several applications for Linux:
+
+- [[http://www.markus-enzweiler.de/software/software.html][StarStaX]] by Markus Enzweiler
+- A [[http://linuxdarkroom.tassy.net/star-trail-image-stacking/][scripted]] method for using GIMP.
+
+If you are in the northern hemisphere you will get the best trail
+effect by pointing your camera towards the north. The pole start
+appears fixed in position, so if your camera is pointing towards it
+the stars will form trails centred around the pole star.
+
+You may also want to take a dark frame. Simply put a lens cap on and
+take a photograph using the same settings you use for taking the star
+trails. You can use the dark frame later on as a method of removing
+background noise from your photographs.
+
+* Landscapes.
+I live in the countryside and am a keen mountaineer, so have lots of
+opportunities for landscape photography. One of the key requirements
+is to identify suitable spots to take time lapses in
+advance. Sunrise/sunsets are a good place to start. However, you need
+to know where the sun will be when it sets/rises and be in the right
+location to record the event. Usually a clear view of the horizon, or
+some definitive feature e.g. a mountain.
+
+Often success/failure will depend on the weather. The best
+landscape conditions are often in the clear atmospheres of autumn, winter
+and spring, when haze is minimal. Some clouds in the sky add interest,
+as they will move during the period of your filming. Be prepared for
+frequent disappointments. Often cloud will be too extensive, or the
+mist will descend at an inconvenient moment.
+
+It's particularly important to let your equipment equilibrate to the
+ambient temperature. If you don't do this you will almost certainly
+get condensation on the lens, which will ruin all your efforts. Allow
+around 30 mins for the temperature of the camera to
+equilibrate. Sometimes there is so much humidity that you will get
+condensation anyway. This can often happen when it's cold.
+
+
+* Software.
+So you have had a successful filming expedition and now have hundreds
+of JPG's you want to convert into a Hollywood Epic. There are many
+tools available, but I use ffmpeg and mencoder.
+
+ffmpeg is correctly known as the Swiss army knife of video
+manipulation. It is in perpetual beta, the command line options get
+changed on the developer's whim and it can probably even make the
+tea. There are a whole raft of video conversion options. I freely
+admit that I don't understand most of them, but I'll try and explain
+why I chose the ones I use.
+
+First you need to check that your JPG's are numbered sequentially. If
+they aren't I'll leave you to write a script that renames them. In the
+case of the GoPro file names look like: G0040383. Now ffmpeg has a
+very useful option: start_number that will start at the file you name
+and process all the files in the directory with sequential
+numbers. However, if there is a gap in the numbers it will grind to a
+halt. Even better ffmpeg understands shell globs, so:
+
+#+begin_src sh
+ffmpeg -f image2 -start_number 91495 -i G00%d.JPG
+#+end_src
+
+will process all the files in the directory that start with "G00"
+beginning with "G0091495".
+
+Almost all of my ffmpeg options are taken from [[http://blog.waan.name/creating-timelapse-videos-on-linux/][waan's]] site.
+
+So my full command line looks like:
+
+#+begin_src sh
+ffmpeg -f image2 -start_number 91495 -i G00%d.JPG  -r 25 -s 1280x960 -vcodec libx264 -b:v 30000k timelapse_25fps.mp4
+
+#+end_src
+
+This creates a video of 25 frames per second using an h264 codec. If
+your time lapse seems to be going too quickly, you can adjust the
+speed using mencoder:
+
+#+begin_src sh
+mencoder -speed 0.25 -ofps 25 -ovc copy timelapse_25fps.mp4 -o quarter_speed.mp4
+#+end_src
+
+The above command will slow things down to a quarter of the original speed.
+
+So now you have the perfect time lapse video and you want to spice it
+up by adding an audio track. I am assuming that you already have a
+suitable mp3 to hand. There will almost inevitably be a mismatch in
+the duration of the mp3 file and the video. If the mp3 is too long you
+can trim it to the length of the video when you multiplex the file:
+
+#+begin_src sh
+ffmpeg -i timelapse.mp4 -i music.mp3 -map 0:0 -map 1:0 -codec copy  -shortest output_video.mp4
+#+end_src
+
+If the mp3 file is too short you can create a loop that is longer than
+the video (thanks to StackExchange for this):
+
+#+begin_src sh
+sox -e ima-adpcm short_audio.mp3 looped_audio.mp3 repeat 1000 # adjust count as necessary
+#+end_src
+
+Now use the shortest option with ffmpeg to multiplex the tracks, as
+per the instructions above.
+
+* Some of My Time Lapse Videos.
+I have uploaded several time lapses to YouTube. These are all quite
+short and only intended to show you the sort of effects you can achieve:
+
+- [[https://www.youtube.com/watch?v=Gsb9mcleTiQ][Cwm Eigiau]] sunrise from the slopes of Carnedd Llewelyn.
+- [[https://www.youtube.com/watch?v=zcIY-HQZZuc][Sunset]] taken with the Canon DSLR.
+- [[https://www.youtube.com/watch?v=bEg3jMXT7wM][Sunset]] taken using a GoPro.
+- [[https://www.youtube.com/watch?v=iUoGD5vXpXY][Stars]] time lapse taken using the Canon DSLR.
+- [[https://www.youtube.com/watch?v=mleropQkFTk][Dawn to dusk]] time lapse taken using a Raspberry Pi.
