@@ -28,4 +28,4 @@
 /pelican/blog/pages/cycling/*.yml
 /pelican/blog/pages/mountaineering/*.yml
 /pelican/blog/output
-/pelican/blog/content/images/2014-09-carned/
+#/pelican/blog/content/images/2014-09-carned/
